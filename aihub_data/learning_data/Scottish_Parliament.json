@@ -1,0 +1,10186 @@
+{
+	"title": {
+		"text": "스코틀랜드 의회",
+		"NE": "OGG_POLITICS"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 13,
+		"num_word": 165
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "스코틀랜드 의회",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 0,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 16,
+					"weight": 0.9
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "의회",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.555042,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.752524,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "의회",
+					"head": -1,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.599943,
+					"mid": 2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "스코틀랜드 의회",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "스코틀랜드 의회(Scottish Parliament)는 스코틀랜드의 수도인 에든버러의 홀리루드(Holyrood)에 설치된 스코틀랜드의 내정권을 위임받은 단원제 입법부이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 22,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 38,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "(",
+					"type": "SS",
+					"position": 44,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": "Scottish",
+					"type": "SL",
+					"position": 45,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "Parliament",
+					"type": "SL",
+					"position": 54,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": ")",
+					"type": "SS",
+					"position": 64,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "는",
+					"type": "JX",
+					"position": 65,
+					"weight": 0.00823314
+				},
+				{
+					"id": 7,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 69,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 84,
+					"weight": 0.0987295
+				},
+				{
+					"id": 9,
+					"lemma": "수도",
+					"type": "NNG",
+					"position": 88,
+					"weight": 0.870876
+				},
+				{
+					"id": 10,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 94,
+					"weight": 0.0177525
+				},
+				{
+					"id": 11,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 94,
+					"weight": 0.220712
+				},
+				{
+					"id": 12,
+					"lemma": "에든버러",
+					"type": "NNP",
+					"position": 98,
+					"weight": 0.35
+				},
+				{
+					"id": 13,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 110,
+					"weight": 0.0987295
+				},
+				{
+					"id": 14,
+					"lemma": "홀리루드",
+					"type": "NNP",
+					"position": 114,
+					"weight": 0.6
+				},
+				{
+					"id": 15,
+					"lemma": "(",
+					"type": "SS",
+					"position": 126,
+					"weight": 1
+				},
+				{
+					"id": 16,
+					"lemma": "Holyrood",
+					"type": "SL",
+					"position": 127,
+					"weight": 1
+				},
+				{
+					"id": 17,
+					"lemma": ")",
+					"type": "SS",
+					"position": 135,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 136,
+					"weight": 0.048593
+				},
+				{
+					"id": 19,
+					"lemma": "설치",
+					"type": "NNG",
+					"position": 140,
+					"weight": 0.153832
+				},
+				{
+					"id": 20,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 146,
+					"weight": 0.000224177
+				},
+				{
+					"id": 21,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 146,
+					"weight": 0.392321
+				},
+				{
+					"id": 22,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 150,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 165,
+					"weight": 0.0987295
+				},
+				{
+					"id": 24,
+					"lemma": "내정",
+					"type": "NNG",
+					"position": 169,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "권",
+					"type": "XSN",
+					"position": 175,
+					"weight": 0.0140728
+				},
+				{
+					"id": 26,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 178,
+					"weight": 0.0819193
+				},
+				{
+					"id": 27,
+					"lemma": "위임",
+					"type": "NNG",
+					"position": 182,
+					"weight": 0.9
+				},
+				{
+					"id": 28,
+					"lemma": "받",
+					"type": "VV",
+					"position": 188,
+					"weight": 0.0147799
+				},
+				{
+					"id": 29,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 191,
+					"weight": 0.109632
+				},
+				{
+					"id": 30,
+					"lemma": "단원",
+					"type": "NNG",
+					"position": 195,
+					"weight": 0.63195
+				},
+				{
+					"id": 31,
+					"lemma": "제",
+					"type": "XSN",
+					"position": 201,
+					"weight": 0.00596315
+				},
+				{
+					"id": 32,
+					"lemma": "입법",
+					"type": "NNG",
+					"position": 205,
+					"weight": 0.9
+				},
+				{
+					"id": 33,
+					"lemma": "부",
+					"type": "NNG",
+					"position": 211,
+					"weight": 0.0693022
+				},
+				{
+					"id": 34,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 214,
+					"weight": 0.0177525
+				},
+				{
+					"id": 35,
+					"lemma": "다",
+					"type": "EF",
+					"position": 217,
+					"weight": 0.353579
+				},
+				{
+					"id": 36,
+					"lemma": ".",
+					"type": "SF",
+					"position": 220,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "의회(Scottish",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "Parliament)는",
+					"type": "",
+					"begin": 4,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "스코틀랜드의",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "수도인",
+					"type": "",
+					"begin": 9,
+					"end": 11
+				},
+				{
+					"id": 5,
+					"text": "에든버러의",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 6,
+					"text": "홀리루드(Holyrood)에",
+					"type": "",
+					"begin": 14,
+					"end": 18
+				},
+				{
+					"id": 7,
+					"text": "설치된",
+					"type": "",
+					"begin": 19,
+					"end": 21
+				},
+				{
+					"id": 8,
+					"text": "스코틀랜드의",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 9,
+					"text": "내정권을",
+					"type": "",
+					"begin": 24,
+					"end": 26
+				},
+				{
+					"id": 10,
+					"text": "위임받은",
+					"type": "",
+					"begin": 27,
+					"end": 29
+				},
+				{
+					"id": 11,
+					"text": "단원제",
+					"type": "",
+					"begin": 30,
+					"end": 31
+				},
+				{
+					"id": 12,
+					"text": "입법부이다.",
+					"type": "",
+					"begin": 32,
+					"end": 36
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "스코틀랜드 의회",
+					"type": "OGG_POLITICS",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.288627,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "Scottish Parliament",
+					"type": "OGG_POLITICS",
+					"begin": 3,
+					"end": 4,
+					"weight": 0.0674923,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 7,
+					"end": 7,
+					"weight": 0.80358,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "에든버러",
+					"type": "LCP_CITY",
+					"begin": 12,
+					"end": 12,
+					"weight": 0.145193,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "홀리루드",
+					"type": "LC_OTHERS",
+					"begin": 14,
+					"end": 14,
+					"weight": 0.110333,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "스코틀랜드",
+					"type": "LC_OTHERS",
+					"begin": 22,
+					"end": 22,
+					"weight": 0.633596,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "입법부",
+					"type": "OGG_POLITICS",
+					"begin": 32,
+					"end": 33,
+					"weight": 0.534544,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.768876,
+					"mid": 4
+				},
+				{
+					"id": 1,
+					"text": "의회(Scottish",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.77499,
+					"mid": 6
+				},
+				{
+					"id": 2,
+					"text": "Parliament)는",
+					"head": 12,
+					"label": "NP_SBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.574361,
+					"mid": 8
+				},
+				{
+					"id": 3,
+					"text": "스코틀랜드의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.711861,
+					"mid": 10
+				},
+				{
+					"id": 4,
+					"text": "수도인",
+					"head": 5,
+					"label": "VNP_MOD",
+					"mod": [
+						3
+					],
+					"weight": 0.386393,
+					"mid": 11
+				},
+				{
+					"id": 5,
+					"text": "에든버러의",
+					"head": 6,
+					"label": "NP_MOD",
+					"mod": [
+						4
+					],
+					"weight": 0.455766,
+					"mid": 13
+				},
+				{
+					"id": 6,
+					"text": "홀리루드(Holyrood)에",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [
+						5
+					],
+					"weight": 0.513575,
+					"mid": 15
+				},
+				{
+					"id": 7,
+					"text": "설치된",
+					"head": 9,
+					"label": "VP_MOD",
+					"mod": [
+						6
+					],
+					"weight": 0.338812,
+					"mid": 15
+				},
+				{
+					"id": 8,
+					"text": "스코틀랜드의",
+					"head": 9,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.562551,
+					"mid": 18
+				},
+				{
+					"id": 9,
+					"text": "내정권을",
+					"head": 10,
+					"label": "NP_OBJ",
+					"mod": [
+						7,
+						8
+					],
+					"weight": 0.734663,
+					"mid": 20
+				},
+				{
+					"id": 10,
+					"text": "위임받은",
+					"head": 12,
+					"label": "VP_MOD",
+					"mod": [
+						9
+					],
+					"weight": 0.839512,
+					"mid": 20
+				},
+				{
+					"id": 11,
+					"text": "단원제",
+					"head": 12,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.758903,
+					"mid": 8
+				},
+				{
+					"id": 12,
+					"text": "입법부이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						10,
+						11,
+						2
+					],
+					"weight": 0.00156188,
+					"mid": 8
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "스코틀랜드 의회(Scottish Parliament)는",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VNP_MOD",
+					"text": "스코틀랜드의 수도인",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "P#1@MODㄴ 에든버러의 홀리루드(Holyrood)에",
+					"begin": 3,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#2@AJT에 설치된",
+					"begin": 3,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_OBJ",
+					"text": "P#3@MODㄴ 스코틀랜드의 내정권을",
+					"begin": 3,
+					"end": 9,
+					"key_begin": 8,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "VP_MOD",
+					"text": "P#4@OBJ을 위임받은",
+					"begin": 3,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#0@SBJ는 P#5@MOD은 단원제 입법부이다.",
+					"begin": 0,
+					"end": 12,
+					"key_begin": 11,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						5
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "단원제 입법부",
+							"label": "NP",
+							"begin": 30,
+							"end": 33,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 34,
+							"end": 36,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "설치",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.362141,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 6,
+							"text": "홀리루드(Holyrood)에",
+							"weight": 0.412156
+						},
+						{
+							"type": "ARG1",
+							"word_id": 9,
+							"text": "내정권을",
+							"weight": 0.312126
+						}
+					]
+				},
+				{
+					"verb": "위임",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.346324,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 2,
+							"text": "Parliament)는",
+							"weight": 0.31367
+						},
+						{
+							"type": "ARG1",
+							"word_id": 9,
+							"text": "내정권을",
+							"weight": 0.485651
+						},
+						{
+							"type": "ARG0",
+							"word_id": 12,
+							"text": "입법부이다.",
+							"weight": 0.239652
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 2,
+			"text": "비공식적으로 홀리루드라고 불리기도 하며 민주적으로 선출된 129명의 스코틀랜드 의회 의원들로 구성된다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "비공식",
+					"type": "NNG",
+					"position": 221,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 230,
+					"weight": 0.0168756
+				},
+				{
+					"id": 2,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 233,
+					"weight": 0.121717
+				},
+				{
+					"id": 3,
+					"lemma": "홀리루드",
+					"type": "NNP",
+					"position": 240,
+					"weight": 0.6
+				},
+				{
+					"id": 4,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 252,
+					"weight": 0.00359898
+				},
+				{
+					"id": 5,
+					"lemma": "라고",
+					"type": "EC",
+					"position": 252,
+					"weight": 0.204147
+				},
+				{
+					"id": 6,
+					"lemma": "불리",
+					"type": "VV",
+					"position": 259,
+					"weight": 0.223484
+				},
+				{
+					"id": 7,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 265,
+					"weight": 0.0380514
+				},
+				{
+					"id": 8,
+					"lemma": "도",
+					"type": "JX",
+					"position": 268,
+					"weight": 0.147715
+				},
+				{
+					"id": 9,
+					"lemma": "하",
+					"type": "VX",
+					"position": 272,
+					"weight": 0.00978548
+				},
+				{
+					"id": 10,
+					"lemma": "며",
+					"type": "EC",
+					"position": 275,
+					"weight": 0.264453
+				},
+				{
+					"id": 11,
+					"lemma": "민주",
+					"type": "NNG",
+					"position": 279,
+					"weight": 0.150278
+				},
+				{
+					"id": 12,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 285,
+					"weight": 0.0168756
+				},
+				{
+					"id": 13,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 288,
+					"weight": 0.121717
+				},
+				{
+					"id": 14,
+					"lemma": "선출",
+					"type": "NNG",
+					"position": 295,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 301,
+					"weight": 0.000224177
+				},
+				{
+					"id": 16,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 301,
+					"weight": 0.392321
+				},
+				{
+					"id": 17,
+					"lemma": "129",
+					"type": "SN",
+					"position": 305,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "명",
+					"type": "NNB",
+					"position": 308,
+					"weight": 0.399746
+				},
+				{
+					"id": 19,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 311,
+					"weight": 0.0520933
+				},
+				{
+					"id": 20,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 315,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 331,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "의원",
+					"type": "NNG",
+					"position": 338,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 344,
+					"weight": 0.0299841
+				},
+				{
+					"id": 24,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 347,
+					"weight": 0.121577
+				},
+				{
+					"id": 25,
+					"lemma": "구성",
+					"type": "NNG",
+					"position": 351,
+					"weight": 0.207604
+				},
+				{
+					"id": 26,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 357,
+					"weight": 0.000224177
+				},
+				{
+					"id": 27,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 357,
+					"weight": 0.0449045
+				},
+				{
+					"id": 28,
+					"lemma": ".",
+					"type": "SF",
+					"position": 363,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "비공식적으로",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "홀리루드라고",
+					"type": "",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "불리기도",
+					"type": "",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 3,
+					"text": "하며",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 4,
+					"text": "민주적으로",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 5,
+					"text": "선출된",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 6,
+					"text": "129명의",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 7,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 20,
+					"end": 20
+				},
+				{
+					"id": 8,
+					"text": "의회",
+					"type": "",
+					"begin": 21,
+					"end": 21
+				},
+				{
+					"id": 9,
+					"text": "의원들로",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				},
+				{
+					"id": 10,
+					"text": "구성된다.",
+					"type": "",
+					"begin": 25,
+					"end": 28
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "홀리루드",
+					"type": "TM_SPORTS",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.0952195,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "129명",
+					"type": "QT_MAN_COUNT",
+					"begin": 17,
+					"end": 18,
+					"weight": 0.682005,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 20,
+					"end": 20,
+					"weight": 0.649886,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "의원",
+					"type": "CV_POSITION",
+					"begin": 22,
+					"end": 22,
+					"weight": 0.589804,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "비공식적으로",
+					"head": 1,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.446535,
+					"mid": 24
+				},
+				{
+					"id": 1,
+					"text": "홀리루드라고",
+					"head": 2,
+					"label": "VNP_CMP",
+					"mod": [
+						0
+					],
+					"weight": 0.627824,
+					"mid": 25
+				},
+				{
+					"id": 2,
+					"text": "불리기도",
+					"head": 3,
+					"label": "VP",
+					"mod": [
+						1
+					],
+					"weight": 0.733922,
+					"mid": 26
+				},
+				{
+					"id": 3,
+					"text": "하며",
+					"head": 10,
+					"label": "VP",
+					"mod": [
+						2
+					],
+					"weight": 0.781867,
+					"mid": 26
+				},
+				{
+					"id": 4,
+					"text": "민주적으로",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.749328,
+					"mid": 28
+				},
+				{
+					"id": 5,
+					"text": "선출된",
+					"head": 6,
+					"label": "VP_MOD",
+					"mod": [
+						4
+					],
+					"weight": 0.0308849,
+					"mid": 28
+				},
+				{
+					"id": 6,
+					"text": "129명의",
+					"head": 9,
+					"label": "NP_MOD",
+					"mod": [
+						5
+					],
+					"weight": 0.709284,
+					"mid": 31
+				},
+				{
+					"id": 7,
+					"text": "스코틀랜드",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.602141,
+					"mid": 33
+				},
+				{
+					"id": 8,
+					"text": "의회",
+					"head": 9,
+					"label": "NP",
+					"mod": [
+						7
+					],
+					"weight": 0.695126,
+					"mid": 31
+				},
+				{
+					"id": 9,
+					"text": "의원들로",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [
+						6,
+						8
+					],
+					"weight": 0.871391,
+					"mid": 35
+				},
+				{
+					"id": 10,
+					"text": "구성된다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						3,
+						9
+					],
+					"weight": 0.000841335,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "비공식적으로",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VNP_CMP",
+					"text": "P#0@AJT으로 홀리루드라고",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP",
+					"text": "P#1@CMP라고 불리기도 하며",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 6,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "민주적으로",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "VP_MOD",
+					"text": "P#3@AJT으로 선출된",
+					"begin": 4,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "P#4@MODㄴ 129명의 스코틀랜드 의회 의원들로",
+					"begin": 4,
+					"end": 9,
+					"key_begin": 6,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "VP",
+					"text": "P#2@VP며 P#5@AJT로 구성된다.",
+					"begin": 0,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": -1,
+					"sub_phrase": [
+						2,
+						5
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "불리",
+					"sense": 2,
+					"word_id": 2,
+					"weight": 0.255596,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 1,
+							"text": "홀리루드라고",
+							"weight": 0.255596
+						}
+					]
+				},
+				{
+					"verb": "선출",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.152293,
+					"argument": [
+						{
+							"type": "ARGM-MNR",
+							"word_id": 4,
+							"text": "민주적으로",
+							"weight": 0.152293
+						}
+					]
+				},
+				{
+					"verb": "구성",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.324818,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 9,
+							"text": "의원들로",
+							"weight": 0.324818
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 2,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 10,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "의원 임기는 4년이며 소선거구 비례대표 병용으로 선출된다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "의원",
+					"type": "NNG",
+					"position": 364,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "임기",
+					"type": "NNG",
+					"position": 371,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "는",
+					"type": "JX",
+					"position": 377,
+					"weight": 0.0287565
+				},
+				{
+					"id": 3,
+					"lemma": "4",
+					"type": "SN",
+					"position": 381,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 382,
+					"weight": 0.414343
+				},
+				{
+					"id": 5,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 385,
+					"weight": 0.0607843
+				},
+				{
+					"id": 6,
+					"lemma": "며",
+					"type": "EC",
+					"position": 388,
+					"weight": 0.250555
+				},
+				{
+					"id": 7,
+					"lemma": "소",
+					"type": "XPN",
+					"position": 392,
+					"weight": 0.0001
+				},
+				{
+					"id": 8,
+					"lemma": "선거",
+					"type": "NNG",
+					"position": 395,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "구",
+					"type": "NNG",
+					"position": 401,
+					"weight": 0.0475389
+				},
+				{
+					"id": 10,
+					"lemma": "비례",
+					"type": "NNG",
+					"position": 405,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "대표",
+					"type": "NNG",
+					"position": 411,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "병용",
+					"type": "NNG",
+					"position": 418,
+					"weight": 0.5
+				},
+				{
+					"id": 13,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 424,
+					"weight": 0.153406
+				},
+				{
+					"id": 14,
+					"lemma": "선출",
+					"type": "NNG",
+					"position": 431,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 437,
+					"weight": 0.000224177
+				},
+				{
+					"id": 16,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 437,
+					"weight": 0.0449045
+				},
+				{
+					"id": 17,
+					"lemma": ".",
+					"type": "SF",
+					"position": 443,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "의원",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "임기는",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "4년이며",
+					"type": "",
+					"begin": 3,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "소선거구",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 4,
+					"text": "비례대표",
+					"type": "",
+					"begin": 10,
+					"end": 11
+				},
+				{
+					"id": 5,
+					"text": "병용으로",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 6,
+					"text": "선출된다.",
+					"type": "",
+					"begin": 14,
+					"end": 17
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "의원",
+					"type": "CV_POSITION",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.425176,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "4년",
+					"type": "DT_DURATION",
+					"begin": 3,
+					"end": 4,
+					"weight": 0.736094,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "비례대표",
+					"type": "CV_POSITION",
+					"begin": 10,
+					"end": 11,
+					"weight": 0.59354,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "의원",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.876099,
+					"mid": 37
+				},
+				{
+					"id": 1,
+					"text": "임기는",
+					"head": 2,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.597454,
+					"mid": 39
+				},
+				{
+					"id": 2,
+					"text": "4년이며",
+					"head": 6,
+					"label": "VNP",
+					"mod": [
+						1
+					],
+					"weight": 0.774408,
+					"mid": 39
+				},
+				{
+					"id": 3,
+					"text": "소선거구",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.691562,
+					"mid": 41
+				},
+				{
+					"id": 4,
+					"text": "비례대표",
+					"head": 5,
+					"label": "NP",
+					"mod": [
+						3
+					],
+					"weight": 0.746037,
+					"mid": 43
+				},
+				{
+					"id": 5,
+					"text": "병용으로",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [
+						4
+					],
+					"weight": 0.857467,
+					"mid": 44
+				},
+				{
+					"id": 6,
+					"text": "선출된다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						2,
+						5
+					],
+					"weight": 0.160589,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "의원 임기는",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "S",
+					"text": "P#0@SBJ는 4년이며",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "4년",
+							"label": "NP",
+							"begin": 3,
+							"end": 4,
+							"ne_type": "DT_DURATION"
+						},
+						{
+							"text": "이며",
+							"label": "VP",
+							"begin": 5,
+							"end": 6,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "소선거구 비례대표 병용으로",
+					"begin": 3,
+					"end": 5,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "S#1@S며 P#2@AJT으로 선출된다.",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "선출",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.192919,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 5,
+							"text": "병용으로",
+							"weight": 0.192919
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "a",
+					"head_wid": 0,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 6,
+					"ant_sid": 3,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 4,
+			"text": "73명은 지리적으로 구분된 선거구에서 소선거구제로 선출하며, 나머지 56명은 8개 지구에서 각 7명씩 비례대표제로 선출한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "73",
+					"type": "SN",
+					"position": 444,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "명",
+					"type": "NNB",
+					"position": 446,
+					"weight": 0.399746
+				},
+				{
+					"id": 2,
+					"lemma": "은",
+					"type": "JX",
+					"position": 449,
+					"weight": 0.0688243
+				},
+				{
+					"id": 3,
+					"lemma": "지리",
+					"type": "NNG",
+					"position": 453,
+					"weight": 0.308503
+				},
+				{
+					"id": 4,
+					"lemma": "적",
+					"type": "NNG",
+					"position": 459,
+					"weight": 0.0169769
+				},
+				{
+					"id": 5,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 462,
+					"weight": 0.153406
+				},
+				{
+					"id": 6,
+					"lemma": "구분",
+					"type": "NNG",
+					"position": 469,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 475,
+					"weight": 0.000224177
+				},
+				{
+					"id": 8,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 475,
+					"weight": 0.392321
+				},
+				{
+					"id": 9,
+					"lemma": "선거",
+					"type": "NNG",
+					"position": 479,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "구",
+					"type": "NNG",
+					"position": 485,
+					"weight": 0.0475389
+				},
+				{
+					"id": 11,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 488,
+					"weight": 0.153407
+				},
+				{
+					"id": 12,
+					"lemma": "소",
+					"type": "XPN",
+					"position": 495,
+					"weight": 0.0001
+				},
+				{
+					"id": 13,
+					"lemma": "선거",
+					"type": "NNG",
+					"position": 498,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "구",
+					"type": "NNG",
+					"position": 504,
+					"weight": 0.0475389
+				},
+				{
+					"id": 15,
+					"lemma": "제",
+					"type": "XSN",
+					"position": 507,
+					"weight": 0.00596315
+				},
+				{
+					"id": 16,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 510,
+					"weight": 0.121577
+				},
+				{
+					"id": 17,
+					"lemma": "선출",
+					"type": "NNG",
+					"position": 514,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 520,
+					"weight": 0.0001
+				},
+				{
+					"id": 19,
+					"lemma": "며",
+					"type": "EC",
+					"position": 523,
+					"weight": 0.371165
+				},
+				{
+					"id": 20,
+					"lemma": ",",
+					"type": "SP",
+					"position": 526,
+					"weight": 1
+				},
+				{
+					"id": 21,
+					"lemma": "나머지",
+					"type": "NNG",
+					"position": 528,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "56",
+					"type": "SN",
+					"position": 538,
+					"weight": 1
+				},
+				{
+					"id": 23,
+					"lemma": "명",
+					"type": "NNB",
+					"position": 540,
+					"weight": 0.399746
+				},
+				{
+					"id": 24,
+					"lemma": "은",
+					"type": "JX",
+					"position": 543,
+					"weight": 0.0688243
+				},
+				{
+					"id": 25,
+					"lemma": "8",
+					"type": "SN",
+					"position": 547,
+					"weight": 1
+				},
+				{
+					"id": 26,
+					"lemma": "개",
+					"type": "NNB",
+					"position": 548,
+					"weight": 0.363274
+				},
+				{
+					"id": 27,
+					"lemma": "지구",
+					"type": "NNG",
+					"position": 552,
+					"weight": 0.9
+				},
+				{
+					"id": 28,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 558,
+					"weight": 0.153407
+				},
+				{
+					"id": 29,
+					"lemma": "각",
+					"type": "MM",
+					"position": 565,
+					"weight": 0.0169519
+				},
+				{
+					"id": 30,
+					"lemma": "7",
+					"type": "SN",
+					"position": 569,
+					"weight": 1
+				},
+				{
+					"id": 31,
+					"lemma": "명",
+					"type": "NNB",
+					"position": 570,
+					"weight": 0.399746
+				},
+				{
+					"id": 32,
+					"lemma": "씩",
+					"type": "XSN",
+					"position": 573,
+					"weight": 0.0223618
+				},
+				{
+					"id": 33,
+					"lemma": "비례",
+					"type": "NNG",
+					"position": 577,
+					"weight": 0.9
+				},
+				{
+					"id": 34,
+					"lemma": "대표",
+					"type": "NNG",
+					"position": 583,
+					"weight": 0.9
+				},
+				{
+					"id": 35,
+					"lemma": "제",
+					"type": "XSN",
+					"position": 589,
+					"weight": 0.00596315
+				},
+				{
+					"id": 36,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 592,
+					"weight": 0.121577
+				},
+				{
+					"id": 37,
+					"lemma": "선출",
+					"type": "NNG",
+					"position": 596,
+					"weight": 0.9
+				},
+				{
+					"id": 38,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 602,
+					"weight": 0.0001
+				},
+				{
+					"id": 39,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 602,
+					"weight": 0.0449045
+				},
+				{
+					"id": 40,
+					"lemma": ".",
+					"type": "SF",
+					"position": 608,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "73명은",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "지리적으로",
+					"type": "",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "구분된",
+					"type": "",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 3,
+					"text": "선거구에서",
+					"type": "",
+					"begin": 9,
+					"end": 11
+				},
+				{
+					"id": 4,
+					"text": "소선거구제로",
+					"type": "",
+					"begin": 12,
+					"end": 16
+				},
+				{
+					"id": 5,
+					"text": "선출하며,",
+					"type": "",
+					"begin": 17,
+					"end": 20
+				},
+				{
+					"id": 6,
+					"text": "나머지",
+					"type": "",
+					"begin": 21,
+					"end": 21
+				},
+				{
+					"id": 7,
+					"text": "56명은",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				},
+				{
+					"id": 8,
+					"text": "8개",
+					"type": "",
+					"begin": 25,
+					"end": 26
+				},
+				{
+					"id": 9,
+					"text": "지구에서",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 10,
+					"text": "각",
+					"type": "",
+					"begin": 29,
+					"end": 29
+				},
+				{
+					"id": 11,
+					"text": "7명씩",
+					"type": "",
+					"begin": 30,
+					"end": 32
+				},
+				{
+					"id": 12,
+					"text": "비례대표제로",
+					"type": "",
+					"begin": 33,
+					"end": 36
+				},
+				{
+					"id": 13,
+					"text": "선출한다.",
+					"type": "",
+					"begin": 37,
+					"end": 40
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "73명",
+					"type": "QT_MAN_COUNT",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.498283,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "소선거구제",
+					"type": "CV_POLICY",
+					"begin": 12,
+					"end": 15,
+					"weight": 0.826953,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "56명",
+					"type": "QT_MAN_COUNT",
+					"begin": 22,
+					"end": 23,
+					"weight": 0.6896,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "8개",
+					"type": "QT_COUNT",
+					"begin": 25,
+					"end": 26,
+					"weight": 0.785608,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "지구",
+					"type": "LC_SPACE",
+					"begin": 27,
+					"end": 27,
+					"weight": 0.292172,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "7명",
+					"type": "QT_MAN_COUNT",
+					"begin": 30,
+					"end": 31,
+					"weight": 0.87144,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "비례대표제",
+					"type": "CV_POLICY",
+					"begin": 33,
+					"end": 35,
+					"weight": 0.799686,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "73명은",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.578713,
+					"mid": 46
+				},
+				{
+					"id": 1,
+					"text": "지리적으로",
+					"head": 2,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.79238,
+					"mid": 48
+				},
+				{
+					"id": 2,
+					"text": "구분된",
+					"head": 3,
+					"label": "VP_MOD",
+					"mod": [
+						1
+					],
+					"weight": 0.742145,
+					"mid": 48
+				},
+				{
+					"id": 3,
+					"text": "선거구에서",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.791362,
+					"mid": 46
+				},
+				{
+					"id": 4,
+					"text": "소선거구제로",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.711889,
+					"mid": 46
+				},
+				{
+					"id": 5,
+					"text": "선출하며,",
+					"head": 13,
+					"label": "VP",
+					"mod": [
+						0,
+						3,
+						4
+					],
+					"weight": 0.563135,
+					"mid": 46
+				},
+				{
+					"id": 6,
+					"text": "나머지",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.701794,
+					"mid": 53
+				},
+				{
+					"id": 7,
+					"text": "56명은",
+					"head": 13,
+					"label": "NP_SBJ",
+					"mod": [
+						6
+					],
+					"weight": 0.642849,
+					"mid": 54
+				},
+				{
+					"id": 8,
+					"text": "8개",
+					"head": 9,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.620678,
+					"mid": 56
+				},
+				{
+					"id": 9,
+					"text": "지구에서",
+					"head": 13,
+					"label": "NP_AJT",
+					"mod": [
+						8
+					],
+					"weight": 0.899693,
+					"mid": 57
+				},
+				{
+					"id": 10,
+					"text": "각",
+					"head": 11,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.784985,
+					"mid": 59
+				},
+				{
+					"id": 11,
+					"text": "7명씩",
+					"head": 13,
+					"label": "NP_AJT",
+					"mod": [
+						10
+					],
+					"weight": 0.16346,
+					"mid": 60
+				},
+				{
+					"id": 12,
+					"text": "비례대표제로",
+					"head": 13,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.846954,
+					"mid": 61
+				},
+				{
+					"id": 13,
+					"text": "선출한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						5,
+						7,
+						9,
+						11,
+						12
+					],
+					"weight": 0.00258598,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "73명은",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "지리적으로",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@AJT으로 구분된",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "P#2@MODㄴ 선거구에서",
+					"begin": 1,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 5,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "소선거구제로",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "P#0@SBJ은 P#3@AJT에서 P#4@AJT로 선출하며,",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 10,
+					"sub_phrase": [
+						0,
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_SBJ",
+					"text": "나머지 56명은",
+					"begin": 6,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_AJT",
+					"text": "8개 지구에서",
+					"begin": 8,
+					"end": 9,
+					"key_begin": 8,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "NP_AJT",
+					"text": "각 7명씩",
+					"begin": 10,
+					"end": 11,
+					"key_begin": 10,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "NP_AJT",
+					"text": "비례대표제로",
+					"begin": 12,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "S",
+					"text": "S#5@S며, P#6@SBJ은 P#7@AJT에서 P#8@AJT씩 P#9@AJT로 선출한다.",
+					"begin": 0,
+					"end": 13,
+					"key_begin": 13,
+					"head_phrase": -1,
+					"sub_phrase": [
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "구분",
+					"sense": 1,
+					"word_id": 2,
+					"weight": 0.19153,
+					"argument": [
+						{
+							"type": "ARGM-MNR",
+							"word_id": 1,
+							"text": "지리적으로",
+							"weight": 0.103569
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "선거구에서",
+							"weight": 0.279491
+						}
+					]
+				},
+				{
+					"verb": "선출",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.12958,
+					"argument": [
+						{
+							"type": "ARGM-CND",
+							"word_id": 3,
+							"text": "선거구에서",
+							"weight": 0.0975244
+						},
+						{
+							"type": "ARG2",
+							"word_id": 4,
+							"text": "소선거구제로",
+							"weight": 0.161635
+						}
+					]
+				},
+				{
+					"verb": "선출",
+					"sense": 1,
+					"word_id": 13,
+					"weight": 0.196788,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 7,
+							"text": "56명은",
+							"weight": 0.191428
+						},
+						{
+							"type": "ARGM-LOC",
+							"word_id": 9,
+							"text": "지구에서",
+							"weight": 0.171598
+						},
+						{
+							"type": "ARGM-EXT",
+							"word_id": 11,
+							"text": "7명씩",
+							"weight": 0.261613
+						},
+						{
+							"type": "ARG2",
+							"word_id": 12,
+							"text": "비례대표제로",
+							"weight": 0.162511
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 5,
+			"text": "최근 총선거는 2011년 5월 6일에 실시되었으며, 스코틀랜드 국민당이 집권했다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "최근",
+					"type": "NNG",
+					"position": 609,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "총",
+					"type": "XPN",
+					"position": 616,
+					"weight": 0.00018715
+				},
+				{
+					"id": 2,
+					"lemma": "선거",
+					"type": "NNG",
+					"position": 619,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "는",
+					"type": "JX",
+					"position": 625,
+					"weight": 0.0287565
+				},
+				{
+					"id": 4,
+					"lemma": "2011",
+					"type": "SN",
+					"position": 629,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 633,
+					"weight": 0.414343
+				},
+				{
+					"id": 6,
+					"lemma": "5",
+					"type": "SN",
+					"position": 637,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "월",
+					"type": "NNB",
+					"position": 638,
+					"weight": 0.408539
+				},
+				{
+					"id": 8,
+					"lemma": "6",
+					"type": "SN",
+					"position": 642,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "일",
+					"type": "NNB",
+					"position": 643,
+					"weight": 0.126777
+				},
+				{
+					"id": 10,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 646,
+					"weight": 0.135559
+				},
+				{
+					"id": 11,
+					"lemma": "실시",
+					"type": "NNG",
+					"position": 650,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 656,
+					"weight": 0.000224177
+				},
+				{
+					"id": 13,
+					"lemma": "었",
+					"type": "EP",
+					"position": 659,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 662,
+					"weight": 0.197482
+				},
+				{
+					"id": 15,
+					"lemma": ",",
+					"type": "SP",
+					"position": 668,
+					"weight": 1
+				},
+				{
+					"id": 16,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 670,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "국민",
+					"type": "NNG",
+					"position": 686,
+					"weight": 0.278417
+				},
+				{
+					"id": 18,
+					"lemma": "당",
+					"type": "NNG",
+					"position": 692,
+					"weight": 0.107866
+				},
+				{
+					"id": 19,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 695,
+					"weight": 0.0360723
+				},
+				{
+					"id": 20,
+					"lemma": "집권",
+					"type": "NNG",
+					"position": 699,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 705,
+					"weight": 0.0001
+				},
+				{
+					"id": 22,
+					"lemma": "었",
+					"type": "EP",
+					"position": 705,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "다",
+					"type": "EF",
+					"position": 708,
+					"weight": 0.640954
+				},
+				{
+					"id": 24,
+					"lemma": ".",
+					"type": "SF",
+					"position": 711,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "최근",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "총선거는",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "2011년",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "5월",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "6일에",
+					"type": "",
+					"begin": 8,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "실시되었으며,",
+					"type": "",
+					"begin": 11,
+					"end": 15
+				},
+				{
+					"id": 6,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 16,
+					"end": 16
+				},
+				{
+					"id": 7,
+					"text": "국민당이",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 8,
+					"text": "집권했다.",
+					"type": "",
+					"begin": 20,
+					"end": 24
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "2011년 5월 6일",
+					"type": "DT_OTHERS",
+					"begin": 4,
+					"end": 9,
+					"weight": 0.914467,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 16,
+					"end": 16,
+					"weight": 0.740155,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "국민당",
+					"type": "OGG_POLITICS",
+					"begin": 17,
+					"end": 18,
+					"weight": 0.297963,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "최근",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.769084,
+					"mid": 63
+				},
+				{
+					"id": 1,
+					"text": "총선거는",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.725736,
+					"mid": 63
+				},
+				{
+					"id": 2,
+					"text": "2011년",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.606561,
+					"mid": 66
+				},
+				{
+					"id": 3,
+					"text": "5월",
+					"head": 4,
+					"label": "NP",
+					"mod": [
+						2
+					],
+					"weight": 0.700265,
+					"mid": 68
+				},
+				{
+					"id": 4,
+					"text": "6일에",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						3
+					],
+					"weight": 0.859224,
+					"mid": 63
+				},
+				{
+					"id": 5,
+					"text": "실시되었으며,",
+					"head": 8,
+					"label": "VP",
+					"mod": [
+						0,
+						1,
+						4
+					],
+					"weight": 0.782439,
+					"mid": 63
+				},
+				{
+					"id": 6,
+					"text": "스코틀랜드",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.723978,
+					"mid": 71
+				},
+				{
+					"id": 7,
+					"text": "국민당이",
+					"head": 8,
+					"label": "NP_SBJ",
+					"mod": [
+						6
+					],
+					"weight": 0.76702,
+					"mid": 72
+				},
+				{
+					"id": 8,
+					"text": "집권했다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						5,
+						7
+					],
+					"weight": 0.0689406,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "최근",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "총선거는",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "2011년 5월 6일에",
+					"begin": 2,
+					"end": 4,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@AJT최근 P#1@SBJ는 P#2@AJT에 실시되었으며,",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 5,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_SBJ",
+					"text": "스코틀랜드 국민당이",
+					"begin": 6,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "S#3@S으며, P#4@SBJ이 집권했다.",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "실시",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.458784,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "최근",
+							"weight": 0.470146
+						},
+						{
+							"type": "ARG1",
+							"word_id": 1,
+							"text": "총선거는",
+							"weight": 0.391954
+						},
+						{
+							"type": "ARGM-TMP",
+							"word_id": 4,
+							"text": "6일에",
+							"weight": 0.514253
+						}
+					]
+				},
+				{
+					"verb": "집권",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.188886,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 7,
+							"text": "국민당이",
+							"weight": 0.188886
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 6,
+			"text": "본래의 스코틀랜드 의회(Parliament of Scotland)는 독립국이었던 스코틀랜드 왕국의 입법부로서 13세기 초반부터 1707년에 연합법으로 잉글랜드 왕국과 합병하여 그레이트브리튼 왕국을 형성할 때까지 존재하였다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "본래",
+					"type": "NNG",
+					"position": 712,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 718,
+					"weight": 0.0694213
+				},
+				{
+					"id": 2,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 722,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 738,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "(",
+					"type": "SS",
+					"position": 744,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "Parliament",
+					"type": "SL",
+					"position": 745,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "of",
+					"type": "SL",
+					"position": 756,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "Scotland",
+					"type": "SL",
+					"position": 759,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": ")",
+					"type": "SS",
+					"position": 767,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "는",
+					"type": "JX",
+					"position": 768,
+					"weight": 0.00823314
+				},
+				{
+					"id": 10,
+					"lemma": "독립",
+					"type": "NNG",
+					"position": 772,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "국",
+					"type": "XSN",
+					"position": 778,
+					"weight": 0.0205107
+				},
+				{
+					"id": 12,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 781,
+					"weight": 0.0165001
+				},
+				{
+					"id": 13,
+					"lemma": "었",
+					"type": "EP",
+					"position": 784,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "던",
+					"type": "ETM",
+					"position": 787,
+					"weight": 0.107547
+				},
+				{
+					"id": 15,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 791,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "왕국",
+					"type": "NNG",
+					"position": 807,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 813,
+					"weight": 0.0694213
+				},
+				{
+					"id": 18,
+					"lemma": "입법",
+					"type": "NNG",
+					"position": 817,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "부",
+					"type": "NNG",
+					"position": 823,
+					"weight": 0.0693022
+				},
+				{
+					"id": 20,
+					"lemma": "로서",
+					"type": "JKB",
+					"position": 826,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "13",
+					"type": "SN",
+					"position": 833,
+					"weight": 1
+				},
+				{
+					"id": 22,
+					"lemma": "세기",
+					"type": "NNG",
+					"position": 835,
+					"weight": 0.100259
+				},
+				{
+					"id": 23,
+					"lemma": "초반",
+					"type": "NNG",
+					"position": 842,
+					"weight": 0.9
+				},
+				{
+					"id": 24,
+					"lemma": "부터",
+					"type": "JX",
+					"position": 848,
+					"weight": 0.0688504
+				},
+				{
+					"id": 25,
+					"lemma": "1707",
+					"type": "SN",
+					"position": 855,
+					"weight": 1
+				},
+				{
+					"id": 26,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 859,
+					"weight": 0.414343
+				},
+				{
+					"id": 27,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 862,
+					"weight": 0.135559
+				},
+				{
+					"id": 28,
+					"lemma": "연합법",
+					"type": "NNP",
+					"position": 866,
+					"weight": 0.6
+				},
+				{
+					"id": 29,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 875,
+					"weight": 0.0823853
+				},
+				{
+					"id": 30,
+					"lemma": "잉글랜드",
+					"type": "NNP",
+					"position": 882,
+					"weight": 0.9
+				},
+				{
+					"id": 31,
+					"lemma": "왕국",
+					"type": "NNG",
+					"position": 895,
+					"weight": 0.9
+				},
+				{
+					"id": 32,
+					"lemma": "과",
+					"type": "JC",
+					"position": 901,
+					"weight": 0.017569
+				},
+				{
+					"id": 33,
+					"lemma": "합병",
+					"type": "NNG",
+					"position": 905,
+					"weight": 0.9
+				},
+				{
+					"id": 34,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 911,
+					"weight": 0.0001
+				},
+				{
+					"id": 35,
+					"lemma": "여",
+					"type": "EC",
+					"position": 914,
+					"weight": 0.00339881
+				},
+				{
+					"id": 36,
+					"lemma": "그레이트브리튼",
+					"type": "NNP",
+					"position": 918,
+					"weight": 0.45
+				},
+				{
+					"id": 37,
+					"lemma": "왕국",
+					"type": "NNG",
+					"position": 940,
+					"weight": 0.9
+				},
+				{
+					"id": 38,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 946,
+					"weight": 0.129611
+				},
+				{
+					"id": 39,
+					"lemma": "형성",
+					"type": "NNG",
+					"position": 950,
+					"weight": 0.9
+				},
+				{
+					"id": 40,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 956,
+					"weight": 0.0001
+				},
+				{
+					"id": 41,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 956,
+					"weight": 0.387847
+				},
+				{
+					"id": 42,
+					"lemma": "때",
+					"type": "NNG",
+					"position": 960,
+					"weight": 0.656522
+				},
+				{
+					"id": 43,
+					"lemma": "까지",
+					"type": "JX",
+					"position": 963,
+					"weight": 0.0687424
+				},
+				{
+					"id": 44,
+					"lemma": "존재",
+					"type": "NNG",
+					"position": 970,
+					"weight": 0.9
+				},
+				{
+					"id": 45,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 976,
+					"weight": 0.0001
+				},
+				{
+					"id": 46,
+					"lemma": "었",
+					"type": "EP",
+					"position": 979,
+					"weight": 0.9
+				},
+				{
+					"id": 47,
+					"lemma": "다",
+					"type": "EF",
+					"position": 982,
+					"weight": 0.640954
+				},
+				{
+					"id": 48,
+					"lemma": ".",
+					"type": "SF",
+					"position": 985,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "본래의",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "의회(Parliament",
+					"type": "",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "of",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "Scotland)는",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "독립국이었던",
+					"type": "",
+					"begin": 10,
+					"end": 14
+				},
+				{
+					"id": 6,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 15,
+					"end": 15
+				},
+				{
+					"id": 7,
+					"text": "왕국의",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 8,
+					"text": "입법부로서",
+					"type": "",
+					"begin": 18,
+					"end": 20
+				},
+				{
+					"id": 9,
+					"text": "13세기",
+					"type": "",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 10,
+					"text": "초반부터",
+					"type": "",
+					"begin": 23,
+					"end": 24
+				},
+				{
+					"id": 11,
+					"text": "1707년에",
+					"type": "",
+					"begin": 25,
+					"end": 27
+				},
+				{
+					"id": 12,
+					"text": "연합법으로",
+					"type": "",
+					"begin": 28,
+					"end": 29
+				},
+				{
+					"id": 13,
+					"text": "잉글랜드",
+					"type": "",
+					"begin": 30,
+					"end": 30
+				},
+				{
+					"id": 14,
+					"text": "왕국과",
+					"type": "",
+					"begin": 31,
+					"end": 32
+				},
+				{
+					"id": 15,
+					"text": "합병하여",
+					"type": "",
+					"begin": 33,
+					"end": 35
+				},
+				{
+					"id": 16,
+					"text": "그레이트브리튼",
+					"type": "",
+					"begin": 36,
+					"end": 36
+				},
+				{
+					"id": 17,
+					"text": "왕국을",
+					"type": "",
+					"begin": 37,
+					"end": 38
+				},
+				{
+					"id": 18,
+					"text": "형성할",
+					"type": "",
+					"begin": 39,
+					"end": 41
+				},
+				{
+					"id": 19,
+					"text": "때까지",
+					"type": "",
+					"begin": 42,
+					"end": 43
+				},
+				{
+					"id": 20,
+					"text": "존재하였다.",
+					"type": "",
+					"begin": 44,
+					"end": 48
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.539592,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "스코틀랜드 왕국",
+					"type": "LCP_COUNTRY",
+					"begin": 15,
+					"end": 16,
+					"weight": 0.370086,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "입법부",
+					"type": "OGG_POLITICS",
+					"begin": 18,
+					"end": 19,
+					"weight": 0.423467,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "13세기",
+					"type": "DT_OTHERS",
+					"begin": 21,
+					"end": 22,
+					"weight": 0.79253,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "1707년",
+					"type": "DT_YEAR",
+					"begin": 25,
+					"end": 26,
+					"weight": 0.685534,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "연합법",
+					"type": "CV_LAW",
+					"begin": 28,
+					"end": 28,
+					"weight": 0.282624,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "잉글랜드 왕국",
+					"type": "LCP_COUNTRY",
+					"begin": 30,
+					"end": 31,
+					"weight": 0.668687,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "그레이트브리튼 왕국",
+					"type": "LCP_COUNTRY",
+					"begin": 36,
+					"end": 37,
+					"weight": 0.428346,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "본래의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.588029,
+					"mid": 74
+				},
+				{
+					"id": 1,
+					"text": "스코틀랜드",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.641202,
+					"mid": 76
+				},
+				{
+					"id": 2,
+					"text": "의회(Parliament",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.583075,
+					"mid": 78
+				},
+				{
+					"id": 3,
+					"text": "of",
+					"head": 4,
+					"label": "NP",
+					"mod": [
+						2
+					],
+					"weight": 0.69563,
+					"mid": 74
+				},
+				{
+					"id": 4,
+					"text": "Scotland)는",
+					"head": 15,
+					"label": "NP_SBJ",
+					"mod": [
+						0,
+						3
+					],
+					"weight": 0.646513,
+					"mid": 81
+				},
+				{
+					"id": 5,
+					"text": "독립국이었던",
+					"head": 7,
+					"label": "VNP_MOD",
+					"mod": [],
+					"weight": 0.0935286,
+					"mid": 83
+				},
+				{
+					"id": 6,
+					"text": "스코틀랜드",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.703446,
+					"mid": 83
+				},
+				{
+					"id": 7,
+					"text": "왕국의",
+					"head": 8,
+					"label": "NP_MOD",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.808817,
+					"mid": 86
+				},
+				{
+					"id": 8,
+					"text": "입법부로서",
+					"head": 15,
+					"label": "NP_AJT",
+					"mod": [
+						7
+					],
+					"weight": 0.630025,
+					"mid": 81
+				},
+				{
+					"id": 9,
+					"text": "13세기",
+					"head": 10,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.736585,
+					"mid": 89
+				},
+				{
+					"id": 10,
+					"text": "초반부터",
+					"head": 11,
+					"label": "NP_AJT",
+					"mod": [
+						9
+					],
+					"weight": 0.0884005,
+					"mid": 91
+				},
+				{
+					"id": 11,
+					"text": "1707년에",
+					"head": 15,
+					"label": "NP_AJT",
+					"mod": [
+						10
+					],
+					"weight": 0.810214,
+					"mid": 81
+				},
+				{
+					"id": 12,
+					"text": "연합법으로",
+					"head": 15,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.836651,
+					"mid": 81
+				},
+				{
+					"id": 13,
+					"text": "잉글랜드",
+					"head": 14,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.808608,
+					"mid": 95
+				},
+				{
+					"id": 14,
+					"text": "왕국과",
+					"head": 15,
+					"label": "NP_AJT",
+					"mod": [
+						13
+					],
+					"weight": 0.726017,
+					"mid": 81
+				},
+				{
+					"id": 15,
+					"text": "합병하여",
+					"head": 20,
+					"label": "VP",
+					"mod": [
+						4,
+						8,
+						11,
+						12,
+						14
+					],
+					"weight": 0.740575,
+					"mid": 81
+				},
+				{
+					"id": 16,
+					"text": "그레이트브리튼",
+					"head": 17,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.813838,
+					"mid": 98
+				},
+				{
+					"id": 17,
+					"text": "왕국을",
+					"head": 18,
+					"label": "NP_OBJ",
+					"mod": [
+						16
+					],
+					"weight": 0.71634,
+					"mid": 100
+				},
+				{
+					"id": 18,
+					"text": "형성할",
+					"head": 19,
+					"label": "VP_MOD",
+					"mod": [
+						17
+					],
+					"weight": 0.778724,
+					"mid": 100
+				},
+				{
+					"id": 19,
+					"text": "때까지",
+					"head": 20,
+					"label": "NP_AJT",
+					"mod": [
+						18
+					],
+					"weight": 0.734901,
+					"mid": 102
+				},
+				{
+					"id": 20,
+					"text": "존재하였다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						15,
+						19
+					],
+					"weight": 0.0000172664,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "본래의 스코틀랜드 의회(Parliament of Scotland)는",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 0,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "독립국이었던 스코틀랜드 왕국의 입법부로서",
+					"begin": 5,
+					"end": 8,
+					"key_begin": 5,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "13세기 초반부터",
+					"begin": 9,
+					"end": 10,
+					"key_begin": 9,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "P#2@AJT부터 1707년에",
+					"begin": 9,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 6,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "연합법으로",
+					"begin": 12,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "잉글랜드 왕국과",
+					"begin": 13,
+					"end": 14,
+					"key_begin": 13,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#0@SBJ는 P#1@AJT로서 P#3@AJT에 P#4@AJT으로 P#5@AJT과 합병하여",
+					"begin": 0,
+					"end": 15,
+					"key_begin": 15,
+					"head_phrase": 10,
+					"sub_phrase": [
+						0,
+						1,
+						3,
+						4,
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_OBJ",
+					"text": "그레이트브리튼 왕국을",
+					"begin": 16,
+					"end": 17,
+					"key_begin": 16,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "VP_MOD",
+					"text": "P#7@OBJ을 형성할",
+					"begin": 16,
+					"end": 18,
+					"key_begin": 18,
+					"head_phrase": 9,
+					"sub_phrase": [
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "NP_AJT",
+					"text": "P#8@MODㄹ 때까지",
+					"begin": 16,
+					"end": 19,
+					"key_begin": 19,
+					"head_phrase": 10,
+					"sub_phrase": [
+						8
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "S",
+					"text": "S#6@S여 P#9@AJT까지 존재하였다.",
+					"begin": 0,
+					"end": 20,
+					"key_begin": 20,
+					"head_phrase": -1,
+					"sub_phrase": [
+						6,
+						9
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "합병",
+					"sense": 1,
+					"word_id": 15,
+					"weight": 0.251977,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 11,
+							"text": "1707년에",
+							"weight": 0.335369
+						},
+						{
+							"type": "ARG2",
+							"word_id": 14,
+							"text": "왕국과",
+							"weight": 0.168584
+						}
+					]
+				},
+				{
+					"verb": "형성",
+					"sense": 1,
+					"word_id": 18,
+					"weight": 0.257504,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 17,
+							"text": "왕국을",
+							"weight": 0.257504
+						}
+					]
+				},
+				{
+					"verb": "존재",
+					"sense": 1,
+					"word_id": 20,
+					"weight": 0.193724,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 19,
+							"text": "때까지",
+							"weight": 0.193724
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 18,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 20,
+					"ant_sid": 3,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 7,
+			"text": "잉글랜드와 스코틀랜드의 합병으로 스코틀랜드 의회도 잉글랜드 의회와 합병하여 런던의 웨스트민스터에 소재하는 그레이트브리튼 의회(Parliament of Great Britain)가 되었다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "잉글랜드",
+					"type": "NNP",
+					"position": 986,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "와",
+					"type": "JKB",
+					"position": 998,
+					"weight": 0.0304966
+				},
+				{
+					"id": 2,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1002,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1017,
+					"weight": 0.0987295
+				},
+				{
+					"id": 4,
+					"lemma": "합병",
+					"type": "NNG",
+					"position": 1021,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 1027,
+					"weight": 0.153406
+				},
+				{
+					"id": 6,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1034,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1050,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "도",
+					"type": "JX",
+					"position": 1056,
+					"weight": 0.0676272
+				},
+				{
+					"id": 9,
+					"lemma": "잉글랜드",
+					"type": "NNP",
+					"position": 1060,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1073,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "와",
+					"type": "JKB",
+					"position": 1079,
+					"weight": 0.0567862
+				},
+				{
+					"id": 12,
+					"lemma": "합병",
+					"type": "NNG",
+					"position": 1083,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1089,
+					"weight": 0.0001
+				},
+				{
+					"id": 14,
+					"lemma": "어",
+					"type": "EC",
+					"position": 1092,
+					"weight": 0.361326
+				},
+				{
+					"id": 15,
+					"lemma": "런던",
+					"type": "NNP",
+					"position": 1096,
+					"weight": 0.021933
+				},
+				{
+					"id": 16,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1102,
+					"weight": 0.0987295
+				},
+				{
+					"id": 17,
+					"lemma": "웨스트민스터",
+					"type": "NNP",
+					"position": 1106,
+					"weight": 0.75
+				},
+				{
+					"id": 18,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1124,
+					"weight": 0.0823628
+				},
+				{
+					"id": 19,
+					"lemma": "소재",
+					"type": "NNG",
+					"position": 1128,
+					"weight": 0.207611
+				},
+				{
+					"id": 20,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1134,
+					"weight": 0.0001
+				},
+				{
+					"id": 21,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 1137,
+					"weight": 0.238503
+				},
+				{
+					"id": 22,
+					"lemma": "그레이트브리튼",
+					"type": "NNP",
+					"position": 1141,
+					"weight": 0.45
+				},
+				{
+					"id": 23,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1163,
+					"weight": 0.9
+				},
+				{
+					"id": 24,
+					"lemma": "(",
+					"type": "SS",
+					"position": 1169,
+					"weight": 1
+				},
+				{
+					"id": 25,
+					"lemma": "Parliament",
+					"type": "SL",
+					"position": 1170,
+					"weight": 1
+				},
+				{
+					"id": 26,
+					"lemma": "of",
+					"type": "SL",
+					"position": 1181,
+					"weight": 1
+				},
+				{
+					"id": 27,
+					"lemma": "Great",
+					"type": "SL",
+					"position": 1184,
+					"weight": 1
+				},
+				{
+					"id": 28,
+					"lemma": "Britain",
+					"type": "SL",
+					"position": 1190,
+					"weight": 1
+				},
+				{
+					"id": 29,
+					"lemma": ")",
+					"type": "SS",
+					"position": 1197,
+					"weight": 1
+				},
+				{
+					"id": 30,
+					"lemma": "가",
+					"type": "JKC",
+					"position": 1198,
+					"weight": 0.000106626
+				},
+				{
+					"id": 31,
+					"lemma": "되",
+					"type": "VV",
+					"position": 1202,
+					"weight": 0.542406
+				},
+				{
+					"id": 32,
+					"lemma": "었",
+					"type": "EP",
+					"position": 1205,
+					"weight": 0.9
+				},
+				{
+					"id": 33,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1208,
+					"weight": 0.640954
+				},
+				{
+					"id": 34,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1211,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "잉글랜드와",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "스코틀랜드의",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "합병으로",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "의회도",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "잉글랜드",
+					"type": "",
+					"begin": 9,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "의회와",
+					"type": "",
+					"begin": 10,
+					"end": 11
+				},
+				{
+					"id": 7,
+					"text": "합병하여",
+					"type": "",
+					"begin": 12,
+					"end": 14
+				},
+				{
+					"id": 8,
+					"text": "런던의",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 9,
+					"text": "웨스트민스터에",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 10,
+					"text": "소재하는",
+					"type": "",
+					"begin": 19,
+					"end": 21
+				},
+				{
+					"id": 11,
+					"text": "그레이트브리튼",
+					"type": "",
+					"begin": 22,
+					"end": 22
+				},
+				{
+					"id": 12,
+					"text": "의회(Parliament",
+					"type": "",
+					"begin": 23,
+					"end": 25
+				},
+				{
+					"id": 13,
+					"text": "of",
+					"type": "",
+					"begin": 26,
+					"end": 26
+				},
+				{
+					"id": 14,
+					"text": "Great",
+					"type": "",
+					"begin": 27,
+					"end": 27
+				},
+				{
+					"id": 15,
+					"text": "Britain)가",
+					"type": "",
+					"begin": 28,
+					"end": 30
+				},
+				{
+					"id": 16,
+					"text": "되었다.",
+					"type": "",
+					"begin": 31,
+					"end": 34
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "잉글랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.614905,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.730157,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 6,
+					"end": 6,
+					"weight": 0.497513,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "잉글랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 9,
+					"end": 9,
+					"weight": 0.530231,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "의회",
+					"type": "OGG_POLITICS",
+					"begin": 10,
+					"end": 10,
+					"weight": 0.206526,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "런던",
+					"type": "LCP_CAPITALCITY",
+					"begin": 15,
+					"end": 15,
+					"weight": 0.555424,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "웨스트민스터",
+					"type": "LCP_CITY",
+					"begin": 17,
+					"end": 17,
+					"weight": 0.346731,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "그레이트브리튼 의회",
+					"type": "OGG_ECONOMY",
+					"begin": 22,
+					"end": 23,
+					"weight": 0.224273,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "잉글랜드와",
+					"head": 1,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.556635,
+					"mid": 104
+				},
+				{
+					"id": 1,
+					"text": "스코틀랜드의",
+					"head": 2,
+					"label": "NP_MOD",
+					"mod": [
+						0
+					],
+					"weight": 0.792803,
+					"mid": 106
+				},
+				{
+					"id": 2,
+					"text": "합병으로",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [
+						1
+					],
+					"weight": 0.870217,
+					"mid": 108
+				},
+				{
+					"id": 3,
+					"text": "스코틀랜드",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.707044,
+					"mid": 110
+				},
+				{
+					"id": 4,
+					"text": "의회도",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.634876,
+					"mid": 108
+				},
+				{
+					"id": 5,
+					"text": "잉글랜드",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.806647,
+					"mid": 113
+				},
+				{
+					"id": 6,
+					"text": "의회와",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [
+						5
+					],
+					"weight": 0.768324,
+					"mid": 108
+				},
+				{
+					"id": 7,
+					"text": "합병하여",
+					"head": 16,
+					"label": "VP",
+					"mod": [
+						2,
+						4,
+						6
+					],
+					"weight": 0.826836,
+					"mid": 108
+				},
+				{
+					"id": 8,
+					"text": "런던의",
+					"head": 9,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.658898,
+					"mid": 116
+				},
+				{
+					"id": 9,
+					"text": "웨스트민스터에",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [
+						8
+					],
+					"weight": 0.838104,
+					"mid": 118
+				},
+				{
+					"id": 10,
+					"text": "소재하는",
+					"head": 15,
+					"label": "VP_MOD",
+					"mod": [
+						9
+					],
+					"weight": 0.41026,
+					"mid": 118
+				},
+				{
+					"id": 11,
+					"text": "그레이트브리튼",
+					"head": 12,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.794611,
+					"mid": 121
+				},
+				{
+					"id": 12,
+					"text": "의회(Parliament",
+					"head": 13,
+					"label": "NP",
+					"mod": [
+						11
+					],
+					"weight": 0.358242,
+					"mid": 123
+				},
+				{
+					"id": 13,
+					"text": "of",
+					"head": 14,
+					"label": "NP",
+					"mod": [
+						12
+					],
+					"weight": 0.0172473,
+					"mid": 125
+				},
+				{
+					"id": 14,
+					"text": "Great",
+					"head": 15,
+					"label": "NP",
+					"mod": [
+						13
+					],
+					"weight": 0.784359,
+					"mid": 127
+				},
+				{
+					"id": 15,
+					"text": "Britain)가",
+					"head": 16,
+					"label": "NP_CMP",
+					"mod": [
+						10,
+						14
+					],
+					"weight": 0.714851,
+					"mid": 128
+				},
+				{
+					"id": 16,
+					"text": "되었다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						7,
+						15
+					],
+					"weight": 0.0000404924,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "잉글랜드와 스코틀랜드의 합병으로",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "스코틀랜드 의회도",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "잉글랜드 의회와",
+					"begin": 5,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@AJT으로 P#1@SBJ도 P#2@AJT와 합병하여",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 7,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "런던의 웨스트민스터에",
+					"begin": 8,
+					"end": 9,
+					"key_begin": 8,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "VP_MOD",
+					"text": "P#4@AJT에 소재하는",
+					"begin": 8,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_CMP",
+					"text": "P#5@MOD는 그레이트브리튼 의회(Parliament of Great Britain)가",
+					"begin": 8,
+					"end": 15,
+					"key_begin": 11,
+					"head_phrase": 7,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "S",
+					"text": "S#3@S어 P#6@CMP가 되었다.",
+					"begin": 0,
+					"end": 16,
+					"key_begin": 16,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3,
+						6
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "합병",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.137253,
+					"argument": [
+						{
+							"type": "ARGM-CAU",
+							"word_id": 2,
+							"text": "합병으로",
+							"weight": 0.11628
+						},
+						{
+							"type": "ARG0",
+							"word_id": 4,
+							"text": "의회도",
+							"weight": 0.135774
+						},
+						{
+							"type": "ARG1",
+							"word_id": 6,
+							"text": "의회와",
+							"weight": 0.159706
+						}
+					]
+				},
+				{
+					"verb": "소재",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.219715,
+					"argument": [
+						{
+							"type": "ARGM-CAU",
+							"word_id": 7,
+							"text": "합병하여",
+							"weight": 0.17048
+						},
+						{
+							"type": "ARG2",
+							"word_id": 9,
+							"text": "웨스트민스터에",
+							"weight": 0.268951
+						}
+					]
+				},
+				{
+					"verb": "되",
+					"sense": 1,
+					"word_id": 16,
+					"weight": 0.408273,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "의회도",
+							"weight": 0.372107
+						},
+						{
+							"type": "ARGM-CAU",
+							"word_id": 7,
+							"text": "합병하여",
+							"weight": 0.348647
+						},
+						{
+							"type": "ARG2",
+							"word_id": 15,
+							"text": "Britain)가",
+							"weight": 0.504064
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 16,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 8,
+			"text": "스코틀랜드 의회 설치 동의에 관한 1997년의 주민투표 결과에 따른 1998년 스코틀랜드법에 의거하여 법률제정권의 위임을 받은 현재의 스코틀랜드 의회가 설립되었다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1212,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1228,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "설치",
+					"type": "NNG",
+					"position": 1235,
+					"weight": 0.136672
+				},
+				{
+					"id": 3,
+					"lemma": "동의",
+					"type": "NNG",
+					"position": 1242,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1248,
+					"weight": 0.153364
+				},
+				{
+					"id": 5,
+					"lemma": "관",
+					"type": "NNG",
+					"position": 1252,
+					"weight": 0.130437
+				},
+				{
+					"id": 6,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1255,
+					"weight": 0.0001
+				},
+				{
+					"id": 7,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1255,
+					"weight": 0.392321
+				},
+				{
+					"id": 8,
+					"lemma": "1997",
+					"type": "SN",
+					"position": 1259,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 1263,
+					"weight": 0.414343
+				},
+				{
+					"id": 10,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1266,
+					"weight": 0.0520933
+				},
+				{
+					"id": 11,
+					"lemma": "주민",
+					"type": "NNG",
+					"position": 1270,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "투표",
+					"type": "NNG",
+					"position": 1276,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "결과",
+					"type": "NNG",
+					"position": 1283,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1289,
+					"weight": 0.153364
+				},
+				{
+					"id": 15,
+					"lemma": "따르",
+					"type": "VV",
+					"position": 1293,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1296,
+					"weight": 0.304215
+				},
+				{
+					"id": 17,
+					"lemma": "1998",
+					"type": "SN",
+					"position": 1300,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 1304,
+					"weight": 0.414343
+				},
+				{
+					"id": 19,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1308,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "법",
+					"type": "NNG",
+					"position": 1323,
+					"weight": 0.17813
+				},
+				{
+					"id": 21,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1326,
+					"weight": 0.153364
+				},
+				{
+					"id": 22,
+					"lemma": "의거",
+					"type": "NNG",
+					"position": 1330,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1336,
+					"weight": 0.0001
+				},
+				{
+					"id": 24,
+					"lemma": "어",
+					"type": "EC",
+					"position": 1339,
+					"weight": 0.361326
+				},
+				{
+					"id": 25,
+					"lemma": "법률",
+					"type": "NNG",
+					"position": 1343,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "제정",
+					"type": "NNG",
+					"position": 1349,
+					"weight": 0.184625
+				},
+				{
+					"id": 27,
+					"lemma": "권",
+					"type": "XSN",
+					"position": 1355,
+					"weight": 0.0140728
+				},
+				{
+					"id": 28,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1358,
+					"weight": 0.120732
+				},
+				{
+					"id": 29,
+					"lemma": "위임",
+					"type": "NNG",
+					"position": 1362,
+					"weight": 0.9
+				},
+				{
+					"id": 30,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1368,
+					"weight": 0.129611
+				},
+				{
+					"id": 31,
+					"lemma": "받",
+					"type": "VV",
+					"position": 1372,
+					"weight": 0.765648
+				},
+				{
+					"id": 32,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 1375,
+					"weight": 0.109632
+				},
+				{
+					"id": 33,
+					"lemma": "현재",
+					"type": "NNG",
+					"position": 1379,
+					"weight": 0.264911
+				},
+				{
+					"id": 34,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1385,
+					"weight": 0.0694213
+				},
+				{
+					"id": 35,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1389,
+					"weight": 0.9
+				},
+				{
+					"id": 36,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1405,
+					"weight": 0.9
+				},
+				{
+					"id": 37,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 1411,
+					"weight": 0.066324
+				},
+				{
+					"id": 38,
+					"lemma": "설립",
+					"type": "NNG",
+					"position": 1415,
+					"weight": 0.9
+				},
+				{
+					"id": 39,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 1421,
+					"weight": 0.000224177
+				},
+				{
+					"id": 40,
+					"lemma": "었",
+					"type": "EP",
+					"position": 1424,
+					"weight": 0.9
+				},
+				{
+					"id": 41,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1427,
+					"weight": 0.640954
+				},
+				{
+					"id": 42,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1430,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "의회",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "설치",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 3,
+					"text": "동의에",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 4,
+					"text": "관한",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "1997년의",
+					"type": "",
+					"begin": 8,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "주민투표",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 7,
+					"text": "결과에",
+					"type": "",
+					"begin": 13,
+					"end": 14
+				},
+				{
+					"id": 8,
+					"text": "따른",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 9,
+					"text": "1998년",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 10,
+					"text": "스코틀랜드법에",
+					"type": "",
+					"begin": 19,
+					"end": 21
+				},
+				{
+					"id": 11,
+					"text": "의거하여",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				},
+				{
+					"id": 12,
+					"text": "법률제정권의",
+					"type": "",
+					"begin": 25,
+					"end": 28
+				},
+				{
+					"id": 13,
+					"text": "위임을",
+					"type": "",
+					"begin": 29,
+					"end": 30
+				},
+				{
+					"id": 14,
+					"text": "받은",
+					"type": "",
+					"begin": 31,
+					"end": 32
+				},
+				{
+					"id": 15,
+					"text": "현재의",
+					"type": "",
+					"begin": 33,
+					"end": 34
+				},
+				{
+					"id": 16,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 35,
+					"end": 35
+				},
+				{
+					"id": 17,
+					"text": "의회가",
+					"type": "",
+					"begin": 36,
+					"end": 37
+				},
+				{
+					"id": 18,
+					"text": "설립되었다.",
+					"type": "",
+					"begin": 38,
+					"end": 42
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "스코틀랜드 의회",
+					"type": "OGG_POLITICS",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.345815,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "1997년",
+					"type": "DT_YEAR",
+					"begin": 8,
+					"end": 9,
+					"weight": 0.807632,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "주민투표",
+					"type": "EV_OTHERS",
+					"begin": 11,
+					"end": 12,
+					"weight": 0.365299,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "1998년",
+					"type": "DT_YEAR",
+					"begin": 17,
+					"end": 18,
+					"weight": 0.857532,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 19,
+					"end": 19,
+					"weight": 0.482654,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 35,
+					"end": 35,
+					"weight": 0.548802,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.534946,
+					"mid": 130
+				},
+				{
+					"id": 1,
+					"text": "의회",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.227374,
+					"mid": 132
+				},
+				{
+					"id": 2,
+					"text": "설치",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.67604,
+					"mid": 134
+				},
+				{
+					"id": 3,
+					"text": "동의에",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.823904,
+					"mid": 136
+				},
+				{
+					"id": 4,
+					"text": "관한",
+					"head": 7,
+					"label": "VP_MOD",
+					"mod": [
+						3
+					],
+					"weight": 0.564115,
+					"mid": 136
+				},
+				{
+					"id": 5,
+					"text": "1997년의",
+					"head": 7,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.35001,
+					"mid": 139
+				},
+				{
+					"id": 6,
+					"text": "주민투표",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.700861,
+					"mid": 139
+				},
+				{
+					"id": 7,
+					"text": "결과에",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						4,
+						5,
+						6
+					],
+					"weight": 0.470861,
+					"mid": 142
+				},
+				{
+					"id": 8,
+					"text": "따른",
+					"head": 9,
+					"label": "VP_MOD",
+					"mod": [
+						7
+					],
+					"weight": 0.353932,
+					"mid": 142
+				},
+				{
+					"id": 9,
+					"text": "1998년",
+					"head": 11,
+					"label": "NP_AJT",
+					"mod": [
+						8
+					],
+					"weight": 0.445554,
+					"mid": 145
+				},
+				{
+					"id": 10,
+					"text": "스코틀랜드법에",
+					"head": 11,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.590197,
+					"mid": 145
+				},
+				{
+					"id": 11,
+					"text": "의거하여",
+					"head": 14,
+					"label": "VP",
+					"mod": [
+						9,
+						10
+					],
+					"weight": 0.196926,
+					"mid": 147
+				},
+				{
+					"id": 12,
+					"text": "법률제정권의",
+					"head": 13,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.646019,
+					"mid": 149
+				},
+				{
+					"id": 13,
+					"text": "위임을",
+					"head": 14,
+					"label": "NP_OBJ",
+					"mod": [
+						12
+					],
+					"weight": 0.720411,
+					"mid": 147
+				},
+				{
+					"id": 14,
+					"text": "받은",
+					"head": 17,
+					"label": "VP_MOD",
+					"mod": [
+						11,
+						13
+					],
+					"weight": 0.619173,
+					"mid": 147
+				},
+				{
+					"id": 15,
+					"text": "현재의",
+					"head": 17,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.531798,
+					"mid": 153
+				},
+				{
+					"id": 16,
+					"text": "스코틀랜드",
+					"head": 17,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.797472,
+					"mid": 153
+				},
+				{
+					"id": 17,
+					"text": "의회가",
+					"head": 18,
+					"label": "NP_SBJ",
+					"mod": [
+						14,
+						15,
+						16
+					],
+					"weight": 0.802447,
+					"mid": 155
+				},
+				{
+					"id": 18,
+					"text": "설립되었다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						17
+					],
+					"weight": 0.00000650356,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "스코틀랜드 의회 설치 동의에",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP_MOD",
+					"text": "P#0@AJT에 관한",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 2,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "P#1@MODㄴ 1997년의 주민투표 결과에",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#2@AJT에 따른",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "P#3@MODㄴ 1998년",
+					"begin": 0,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 6,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "스코틀랜드법에",
+					"begin": 10,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "VP",
+					"text": "P#4@AJT년 P#5@AJT에 의거하여",
+					"begin": 0,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 8,
+					"sub_phrase": [
+						4,
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_OBJ",
+					"text": "법률제정권의 위임을",
+					"begin": 12,
+					"end": 13,
+					"key_begin": 12,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "VP_MOD",
+					"text": "P#6@VP어 P#7@OBJ을 받은",
+					"begin": 0,
+					"end": 14,
+					"key_begin": 14,
+					"head_phrase": 9,
+					"sub_phrase": [
+						6,
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "NP_SBJ",
+					"text": "P#8@MOD은 현재의 스코틀랜드 의회가",
+					"begin": 0,
+					"end": 17,
+					"key_begin": 15,
+					"head_phrase": 10,
+					"sub_phrase": [
+						8
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "S",
+					"text": "P#9@SBJ가 설립되었다.",
+					"begin": 0,
+					"end": 18,
+					"key_begin": 18,
+					"head_phrase": -1,
+					"sub_phrase": [
+						9
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "관",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.318903,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 3,
+							"text": "동의에",
+							"weight": 0.350441
+						},
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "결과에",
+							"weight": 0.287364
+						}
+					]
+				},
+				{
+					"verb": "따르",
+					"sense": 2,
+					"word_id": 8,
+					"weight": 0.455351,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "결과에",
+							"weight": 1
+						}
+					]
+				},
+				{
+					"verb": "의거",
+					"sense": 1,
+					"word_id": 11,
+					"weight": 0.419427,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 10,
+							"text": "스코틀랜드법에",
+							"weight": 0.419427
+						}
+					]
+				},
+				{
+					"verb": "받",
+					"sense": 1,
+					"word_id": 14,
+					"weight": 0.47634,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 13,
+							"text": "위임을",
+							"weight": 0.469984
+						},
+						{
+							"type": "ARG0",
+							"word_id": 17,
+							"text": "의회가",
+							"weight": 0.482697
+						}
+					]
+				},
+				{
+					"verb": "설립",
+					"sense": 1,
+					"word_id": 18,
+					"weight": 0.275207,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 17,
+							"text": "의회가",
+							"weight": 0.275207
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 11,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 9,
+			"text": "이 법률은 스코틀랜드 의회의 입법권한의 범위를 규정하고 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이",
+					"type": "MM",
+					"position": 1431,
+					"weight": 0.0020222
+				},
+				{
+					"id": 1,
+					"lemma": "법률",
+					"type": "NNG",
+					"position": 1435,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "은",
+					"type": "JX",
+					"position": 1441,
+					"weight": 0.0449928
+				},
+				{
+					"id": 3,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1445,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1461,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1467,
+					"weight": 0.0694213
+				},
+				{
+					"id": 6,
+					"lemma": "입법",
+					"type": "NNG",
+					"position": 1471,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "권한",
+					"type": "NNG",
+					"position": 1477,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1483,
+					"weight": 0.0694213
+				},
+				{
+					"id": 9,
+					"lemma": "범위",
+					"type": "NNG",
+					"position": 1487,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 1493,
+					"weight": 0.137686
+				},
+				{
+					"id": 11,
+					"lemma": "규정",
+					"type": "NNG",
+					"position": 1497,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1503,
+					"weight": 0.0001
+				},
+				{
+					"id": 13,
+					"lemma": "고",
+					"type": "EC",
+					"position": 1506,
+					"weight": 0.359917
+				},
+				{
+					"id": 14,
+					"lemma": "있",
+					"type": "VX",
+					"position": 1510,
+					"weight": 0.125953
+				},
+				{
+					"id": 15,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1513,
+					"weight": 0.180366
+				},
+				{
+					"id": 16,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1516,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "법률은",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "의회의",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "입법권한의",
+					"type": "",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "범위를",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "규정하고",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "있다.",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.655051,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이",
+					"head": 1,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.689857,
+					"mid": 157
+				},
+				{
+					"id": 1,
+					"text": "법률은",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.806977,
+					"mid": 159
+				},
+				{
+					"id": 2,
+					"text": "스코틀랜드",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.816659,
+					"mid": 161
+				},
+				{
+					"id": 3,
+					"text": "의회의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [
+						2
+					],
+					"weight": 0.304041,
+					"mid": 163
+				},
+				{
+					"id": 4,
+					"text": "입법권한의",
+					"head": 5,
+					"label": "NP_MOD",
+					"mod": [
+						3
+					],
+					"weight": 0.712106,
+					"mid": 165
+				},
+				{
+					"id": 5,
+					"text": "범위를",
+					"head": 6,
+					"label": "NP_OBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.705795,
+					"mid": 159
+				},
+				{
+					"id": 6,
+					"text": "규정하고",
+					"head": 7,
+					"label": "VP",
+					"mod": [
+						1,
+						5
+					],
+					"weight": 0.739792,
+					"mid": 159
+				},
+				{
+					"id": 7,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						6
+					],
+					"weight": 0.040551,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "이 법률은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_OBJ",
+					"text": "스코틀랜드 의회의 입법권한의 범위를",
+					"begin": 2,
+					"end": 5,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@OBJ를 규정하고 있다.",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "규정",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.548222,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 1,
+							"text": "법률은",
+							"weight": 0.292958
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "범위를",
+							"weight": 0.816333
+						},
+						{
+							"type": "AUX",
+							"word_id": 7,
+							"text": "있다.",
+							"weight": 0.535376
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 10,
+			"text": "이 법률로 명시된 분야의 권한은 영국 의회에 유보되며 그 밖의 모든 분야는 자동적으로 스코틀랜드 의회의 책임범위가 된다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이",
+					"type": "MM",
+					"position": 1517,
+					"weight": 0.0020222
+				},
+				{
+					"id": 1,
+					"lemma": "법률",
+					"type": "NNG",
+					"position": 1521,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 1527,
+					"weight": 0.153229
+				},
+				{
+					"id": 3,
+					"lemma": "명시",
+					"type": "NNG",
+					"position": 1531,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 1537,
+					"weight": 0.000224177
+				},
+				{
+					"id": 5,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1537,
+					"weight": 0.392321
+				},
+				{
+					"id": 6,
+					"lemma": "분야",
+					"type": "NNG",
+					"position": 1541,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1547,
+					"weight": 0.0694213
+				},
+				{
+					"id": 8,
+					"lemma": "권한",
+					"type": "NNG",
+					"position": 1551,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "은",
+					"type": "JX",
+					"position": 1557,
+					"weight": 0.0449928
+				},
+				{
+					"id": 10,
+					"lemma": "영국",
+					"type": "NNP",
+					"position": 1561,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1568,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1574,
+					"weight": 0.153364
+				},
+				{
+					"id": 13,
+					"lemma": "유보",
+					"type": "NNG",
+					"position": 1578,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 1584,
+					"weight": 0.000224177
+				},
+				{
+					"id": 15,
+					"lemma": "며",
+					"type": "EC",
+					"position": 1587,
+					"weight": 0.371165
+				},
+				{
+					"id": 16,
+					"lemma": "그",
+					"type": "MM",
+					"position": 1591,
+					"weight": 0.0123347
+				},
+				{
+					"id": 17,
+					"lemma": "밖",
+					"type": "NNG",
+					"position": 1595,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1598,
+					"weight": 0.0694213
+				},
+				{
+					"id": 19,
+					"lemma": "모든",
+					"type": "MM",
+					"position": 1602,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "분야",
+					"type": "NNG",
+					"position": 1609,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "는",
+					"type": "JX",
+					"position": 1615,
+					"weight": 0.0287565
+				},
+				{
+					"id": 22,
+					"lemma": "자동",
+					"type": "NNG",
+					"position": 1619,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "적",
+					"type": "NNG",
+					"position": 1625,
+					"weight": 0.0169769
+				},
+				{
+					"id": 24,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 1628,
+					"weight": 0.153406
+				},
+				{
+					"id": 25,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1635,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1651,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1657,
+					"weight": 0.0694213
+				},
+				{
+					"id": 28,
+					"lemma": "책임",
+					"type": "NNG",
+					"position": 1661,
+					"weight": 0.9
+				},
+				{
+					"id": 29,
+					"lemma": "범위",
+					"type": "NNG",
+					"position": 1667,
+					"weight": 0.9
+				},
+				{
+					"id": 30,
+					"lemma": "가",
+					"type": "JKC",
+					"position": 1673,
+					"weight": 0.000442184
+				},
+				{
+					"id": 31,
+					"lemma": "되",
+					"type": "VV",
+					"position": 1677,
+					"weight": 0.542406
+				},
+				{
+					"id": 32,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 1677,
+					"weight": 0.0793196
+				},
+				{
+					"id": 33,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1683,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "법률로",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "명시된",
+					"type": "",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "분야의",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "권한은",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "영국",
+					"type": "",
+					"begin": 10,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "의회에",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 7,
+					"text": "유보되며",
+					"type": "",
+					"begin": 13,
+					"end": 15
+				},
+				{
+					"id": 8,
+					"text": "그",
+					"type": "",
+					"begin": 16,
+					"end": 16
+				},
+				{
+					"id": 9,
+					"text": "밖의",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 10,
+					"text": "모든",
+					"type": "",
+					"begin": 19,
+					"end": 19
+				},
+				{
+					"id": 11,
+					"text": "분야는",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 12,
+					"text": "자동적으로",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				},
+				{
+					"id": 13,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 25,
+					"end": 25
+				},
+				{
+					"id": 14,
+					"text": "의회의",
+					"type": "",
+					"begin": 26,
+					"end": 27
+				},
+				{
+					"id": 15,
+					"text": "책임범위가",
+					"type": "",
+					"begin": 28,
+					"end": 30
+				},
+				{
+					"id": 16,
+					"text": "된다.",
+					"type": "",
+					"begin": 31,
+					"end": 33
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "영국",
+					"type": "LCP_COUNTRY",
+					"begin": 10,
+					"end": 10,
+					"weight": 0.402555,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 25,
+					"end": 25,
+					"weight": 0.58513,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이",
+					"head": 1,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.550944,
+					"mid": 168
+				},
+				{
+					"id": 1,
+					"text": "법률로",
+					"head": 2,
+					"label": "NP_AJT",
+					"mod": [
+						0
+					],
+					"weight": 0.562903,
+					"mid": 170
+				},
+				{
+					"id": 2,
+					"text": "명시된",
+					"head": 4,
+					"label": "VP_MOD",
+					"mod": [
+						1
+					],
+					"weight": 0.786717,
+					"mid": 170
+				},
+				{
+					"id": 3,
+					"text": "분야의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.740294,
+					"mid": 173
+				},
+				{
+					"id": 4,
+					"text": "권한은",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						2,
+						3
+					],
+					"weight": 0.692598,
+					"mid": 175
+				},
+				{
+					"id": 5,
+					"text": "영국",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.76345,
+					"mid": 177
+				},
+				{
+					"id": 6,
+					"text": "의회에",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [
+						5
+					],
+					"weight": 0.783647,
+					"mid": 175
+				},
+				{
+					"id": 7,
+					"text": "유보되며",
+					"head": 16,
+					"label": "VP",
+					"mod": [
+						4,
+						6
+					],
+					"weight": 0.799094,
+					"mid": 175
+				},
+				{
+					"id": 8,
+					"text": "그",
+					"head": 9,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.834286,
+					"mid": 180
+				},
+				{
+					"id": 9,
+					"text": "밖의",
+					"head": 11,
+					"label": "NP_MOD",
+					"mod": [
+						8
+					],
+					"weight": 0.733161,
+					"mid": 182
+				},
+				{
+					"id": 10,
+					"text": "모든",
+					"head": 11,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.682759,
+					"mid": 182
+				},
+				{
+					"id": 11,
+					"text": "분야는",
+					"head": 16,
+					"label": "NP_SBJ",
+					"mod": [
+						9,
+						10
+					],
+					"weight": 0.617624,
+					"mid": 184
+				},
+				{
+					"id": 12,
+					"text": "자동적으로",
+					"head": 16,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.792543,
+					"mid": 185
+				},
+				{
+					"id": 13,
+					"text": "스코틀랜드",
+					"head": 14,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.776971,
+					"mid": 187
+				},
+				{
+					"id": 14,
+					"text": "의회의",
+					"head": 15,
+					"label": "NP_MOD",
+					"mod": [
+						13
+					],
+					"weight": 0.656783,
+					"mid": 189
+				},
+				{
+					"id": 15,
+					"text": "책임범위가",
+					"head": 16,
+					"label": "NP_CMP",
+					"mod": [
+						14
+					],
+					"weight": 0.739185,
+					"mid": 190
+				},
+				{
+					"id": 16,
+					"text": "된다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						7,
+						11,
+						12,
+						15
+					],
+					"weight": 0.00347568,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "이 법률로",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP_MOD",
+					"text": "P#0@AJT로 명시된",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "P#1@MODㄴ 분야의 권한은",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "영국 의회에",
+					"begin": 5,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#2@SBJ은 P#3@AJT에 유보되며",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 8,
+					"sub_phrase": [
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_SBJ",
+					"text": "그 밖의 모든 분야는",
+					"begin": 8,
+					"end": 11,
+					"key_begin": 8,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "자동적으로",
+					"begin": 12,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_CMP",
+					"text": "스코틀랜드 의회의 책임범위가",
+					"begin": 13,
+					"end": 15,
+					"key_begin": 13,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "S",
+					"text": "S#4@S며 P#5@SBJ는 P#6@AJT으로 P#7@CMP가 된다.",
+					"begin": 0,
+					"end": 16,
+					"key_begin": 16,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4,
+						5,
+						6,
+						7
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "명시",
+					"sense": 1,
+					"word_id": 2,
+					"weight": 0.213368,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 1,
+							"text": "법률로",
+							"weight": 0.11658
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "권한은",
+							"weight": 0.310156
+						}
+					]
+				},
+				{
+					"verb": "유보",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.206426,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "권한은",
+							"weight": 0.259454
+						},
+						{
+							"type": "ARG2",
+							"word_id": 6,
+							"text": "의회에",
+							"weight": 0.153399
+						}
+					]
+				},
+				{
+					"verb": "되",
+					"sense": 1,
+					"word_id": 16,
+					"weight": 0.507744,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 11,
+							"text": "분야는",
+							"weight": 0.600648
+						},
+						{
+							"type": "ARGM-MNR",
+							"word_id": 12,
+							"text": "자동적으로",
+							"weight": 0.177501
+						},
+						{
+							"type": "ARG2",
+							"word_id": 15,
+							"text": "책임범위가",
+							"weight": 0.745083
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 11,
+			"text": "영국 의회는 스코틀랜드 의회에 대한 위임사항을 수정할 권한을 지니며 스코틀랜드 의회가 법률을 제정할 수 있는 분야를 확대 및 축소할 수 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "영국",
+					"type": "NNP",
+					"position": 1684,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1691,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "는",
+					"type": "JX",
+					"position": 1697,
+					"weight": 0.0287565
+				},
+				{
+					"id": 3,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1701,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1717,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1723,
+					"weight": 0.153364
+				},
+				{
+					"id": 6,
+					"lemma": "대",
+					"type": "NNG",
+					"position": 1727,
+					"weight": 0.0312871
+				},
+				{
+					"id": 7,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1730,
+					"weight": 0.0001
+				},
+				{
+					"id": 8,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1730,
+					"weight": 0.392321
+				},
+				{
+					"id": 9,
+					"lemma": "위임",
+					"type": "NNG",
+					"position": 1734,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "사항",
+					"type": "NNG",
+					"position": 1740,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1746,
+					"weight": 0.129611
+				},
+				{
+					"id": 12,
+					"lemma": "수정",
+					"type": "NNG",
+					"position": 1750,
+					"weight": 0.098027
+				},
+				{
+					"id": 13,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1756,
+					"weight": 0.0001
+				},
+				{
+					"id": 14,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 1756,
+					"weight": 0.387847
+				},
+				{
+					"id": 15,
+					"lemma": "권한",
+					"type": "NNG",
+					"position": 1760,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1766,
+					"weight": 0.129611
+				},
+				{
+					"id": 17,
+					"lemma": "지니",
+					"type": "VV",
+					"position": 1770,
+					"weight": 0.776742
+				},
+				{
+					"id": 18,
+					"lemma": "며",
+					"type": "EC",
+					"position": 1776,
+					"weight": 0.429701
+				},
+				{
+					"id": 19,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1780,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1796,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 1802,
+					"weight": 0.066324
+				},
+				{
+					"id": 22,
+					"lemma": "법률",
+					"type": "NNG",
+					"position": 1806,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1812,
+					"weight": 0.129611
+				},
+				{
+					"id": 24,
+					"lemma": "제정",
+					"type": "NNG",
+					"position": 1816,
+					"weight": 0.101285
+				},
+				{
+					"id": 25,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1822,
+					"weight": 0.0001
+				},
+				{
+					"id": 26,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 1822,
+					"weight": 0.387847
+				},
+				{
+					"id": 27,
+					"lemma": "수",
+					"type": "NNB",
+					"position": 1826,
+					"weight": 0.215617
+				},
+				{
+					"id": 28,
+					"lemma": "있",
+					"type": "VA",
+					"position": 1830,
+					"weight": 0.0518488
+				},
+				{
+					"id": 29,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 1833,
+					"weight": 0.26168
+				},
+				{
+					"id": 30,
+					"lemma": "분야",
+					"type": "NNG",
+					"position": 1837,
+					"weight": 0.9
+				},
+				{
+					"id": 31,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 1843,
+					"weight": 0.137686
+				},
+				{
+					"id": 32,
+					"lemma": "확대",
+					"type": "NNG",
+					"position": 1847,
+					"weight": 0.9
+				},
+				{
+					"id": 33,
+					"lemma": "및",
+					"type": "MAJ",
+					"position": 1854,
+					"weight": 0.00215414
+				},
+				{
+					"id": 34,
+					"lemma": "축소",
+					"type": "NNG",
+					"position": 1858,
+					"weight": 0.9
+				},
+				{
+					"id": 35,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1864,
+					"weight": 0.0001
+				},
+				{
+					"id": 36,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 1864,
+					"weight": 0.387847
+				},
+				{
+					"id": 37,
+					"lemma": "수",
+					"type": "NNB",
+					"position": 1868,
+					"weight": 0.215617
+				},
+				{
+					"id": 38,
+					"lemma": "있",
+					"type": "VA",
+					"position": 1872,
+					"weight": 0.0518488
+				},
+				{
+					"id": 39,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1875,
+					"weight": 0.132573
+				},
+				{
+					"id": 40,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1878,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "영국",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "의회는",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "의회에",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "대한",
+					"type": "",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "위임사항을",
+					"type": "",
+					"begin": 9,
+					"end": 11
+				},
+				{
+					"id": 6,
+					"text": "수정할",
+					"type": "",
+					"begin": 12,
+					"end": 14
+				},
+				{
+					"id": 7,
+					"text": "권한을",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "지니며",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 9,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 19,
+					"end": 19
+				},
+				{
+					"id": 10,
+					"text": "의회가",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 11,
+					"text": "법률을",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 12,
+					"text": "제정할",
+					"type": "",
+					"begin": 24,
+					"end": 26
+				},
+				{
+					"id": 13,
+					"text": "수",
+					"type": "",
+					"begin": 27,
+					"end": 27
+				},
+				{
+					"id": 14,
+					"text": "있는",
+					"type": "",
+					"begin": 28,
+					"end": 29
+				},
+				{
+					"id": 15,
+					"text": "분야를",
+					"type": "",
+					"begin": 30,
+					"end": 31
+				},
+				{
+					"id": 16,
+					"text": "확대",
+					"type": "",
+					"begin": 32,
+					"end": 32
+				},
+				{
+					"id": 17,
+					"text": "및",
+					"type": "",
+					"begin": 33,
+					"end": 33
+				},
+				{
+					"id": 18,
+					"text": "축소할",
+					"type": "",
+					"begin": 34,
+					"end": 36
+				},
+				{
+					"id": 19,
+					"text": "수",
+					"type": "",
+					"begin": 37,
+					"end": 37
+				},
+				{
+					"id": 20,
+					"text": "있다.",
+					"type": "",
+					"begin": 38,
+					"end": 40
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "영국",
+					"type": "LCP_COUNTRY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.286851,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "의회",
+					"type": "OGG_POLITICS",
+					"begin": 1,
+					"end": 1,
+					"weight": 0.281525,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.669275,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 19,
+					"end": 19,
+					"weight": 0.452112,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "영국",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.698929,
+					"mid": 192
+				},
+				{
+					"id": 1,
+					"text": "의회는",
+					"head": 8,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.260281,
+					"mid": 194
+				},
+				{
+					"id": 2,
+					"text": "스코틀랜드",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.820656,
+					"mid": 196
+				},
+				{
+					"id": 3,
+					"text": "의회에",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.776226,
+					"mid": 198
+				},
+				{
+					"id": 4,
+					"text": "대한",
+					"head": 5,
+					"label": "VP_MOD",
+					"mod": [
+						3
+					],
+					"weight": 0.7198,
+					"mid": 198
+				},
+				{
+					"id": 5,
+					"text": "위임사항을",
+					"head": 6,
+					"label": "NP_OBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.270268,
+					"mid": 201
+				},
+				{
+					"id": 6,
+					"text": "수정할",
+					"head": 7,
+					"label": "VP_MOD",
+					"mod": [
+						5
+					],
+					"weight": 0.731709,
+					"mid": 201
+				},
+				{
+					"id": 7,
+					"text": "권한을",
+					"head": 8,
+					"label": "NP_OBJ",
+					"mod": [
+						6
+					],
+					"weight": 0.833358,
+					"mid": 194
+				},
+				{
+					"id": 8,
+					"text": "지니며",
+					"head": 12,
+					"label": "VP",
+					"mod": [
+						1,
+						7
+					],
+					"weight": 0.329486,
+					"mid": 204
+				},
+				{
+					"id": 9,
+					"text": "스코틀랜드",
+					"head": 10,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.753353,
+					"mid": 206
+				},
+				{
+					"id": 10,
+					"text": "의회가",
+					"head": 12,
+					"label": "NP_SBJ",
+					"mod": [
+						9
+					],
+					"weight": 0.634253,
+					"mid": 204
+				},
+				{
+					"id": 11,
+					"text": "법률을",
+					"head": 12,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.73637,
+					"mid": 204
+				},
+				{
+					"id": 12,
+					"text": "제정할",
+					"head": 13,
+					"label": "VP_MOD",
+					"mod": [
+						8,
+						10,
+						11
+					],
+					"weight": 0.759693,
+					"mid": 204
+				},
+				{
+					"id": 13,
+					"text": "수",
+					"head": 14,
+					"label": "NP_SBJ",
+					"mod": [
+						12
+					],
+					"weight": 0.742618,
+					"mid": 211
+				},
+				{
+					"id": 14,
+					"text": "있는",
+					"head": 15,
+					"label": "VP_MOD",
+					"mod": [
+						13
+					],
+					"weight": 0.679777,
+					"mid": 211
+				},
+				{
+					"id": 15,
+					"text": "분야를",
+					"head": 18,
+					"label": "NP_OBJ",
+					"mod": [
+						14
+					],
+					"weight": 0.826062,
+					"mid": 214
+				},
+				{
+					"id": 16,
+					"text": "확대",
+					"head": 18,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.0408871,
+					"mid": 214
+				},
+				{
+					"id": 17,
+					"text": "및",
+					"head": 18,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.773847,
+					"mid": 214
+				},
+				{
+					"id": 18,
+					"text": "축소할",
+					"head": 19,
+					"label": "VP_MOD",
+					"mod": [
+						15,
+						16,
+						17
+					],
+					"weight": 0.816797,
+					"mid": 214
+				},
+				{
+					"id": 19,
+					"text": "수",
+					"head": 20,
+					"label": "NP_SBJ",
+					"mod": [
+						18
+					],
+					"weight": 0.758226,
+					"mid": 218
+				},
+				{
+					"id": 20,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						19
+					],
+					"weight": 0.00000626742,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "영국 의회는",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "스코틀랜드 의회에",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@AJT에 대한",
+					"begin": 2,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_OBJ",
+					"text": "P#2@MODㄴ 위임사항을",
+					"begin": 2,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "VP_MOD",
+					"text": "P#3@OBJ을 수정할",
+					"begin": 2,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_OBJ",
+					"text": "P#4@MODㄹ 권한을",
+					"begin": 2,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#0@SBJ는 P#5@OBJ을 지니며",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 9,
+					"sub_phrase": [
+						0,
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_SBJ",
+					"text": "스코틀랜드 의회가",
+					"begin": 9,
+					"end": 10,
+					"key_begin": 9,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "NP_OBJ",
+					"text": "법률을",
+					"begin": 11,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "S_MOD",
+					"text": "S#6@S며 P#7@SBJ가 P#8@OBJ을 제정할",
+					"begin": 0,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": 10,
+					"sub_phrase": [
+						6,
+						7,
+						8
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "NP_SBJ",
+					"text": "S#9@MODㄹ 수",
+					"begin": 0,
+					"end": 13,
+					"key_begin": 13,
+					"head_phrase": 11,
+					"sub_phrase": [
+						9
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 11,
+					"label": "S_MOD",
+					"text": "P#10@SBJ수 있는",
+					"begin": 0,
+					"end": 14,
+					"key_begin": 14,
+					"head_phrase": 12,
+					"sub_phrase": [
+						10
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 12,
+					"label": "NP_OBJ",
+					"text": "S#11@MOD는 분야를",
+					"begin": 0,
+					"end": 15,
+					"key_begin": 15,
+					"head_phrase": 15,
+					"sub_phrase": [
+						11
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 13,
+					"label": "NP_CNJ",
+					"text": "확대",
+					"begin": 16,
+					"end": 16,
+					"key_begin": 16,
+					"head_phrase": 15,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 14,
+					"label": "AP",
+					"text": "및",
+					"begin": 17,
+					"end": 17,
+					"key_begin": 17,
+					"head_phrase": 15,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 15,
+					"label": "VP_MOD",
+					"text": "P#12@OBJ를 P#13@CNJ확대 P#14@AP및 축소할",
+					"begin": 0,
+					"end": 18,
+					"key_begin": 18,
+					"head_phrase": 16,
+					"sub_phrase": [
+						12,
+						13,
+						14
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 16,
+					"label": "NP_SBJ",
+					"text": "P#15@MODㄹ 수",
+					"begin": 0,
+					"end": 19,
+					"key_begin": 19,
+					"head_phrase": 17,
+					"sub_phrase": [
+						15
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 17,
+					"label": "S",
+					"text": "P#16@SBJ수 있다.",
+					"begin": 0,
+					"end": 20,
+					"key_begin": 20,
+					"head_phrase": -1,
+					"sub_phrase": [
+						16
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "대",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.452669,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 3,
+							"text": "의회에",
+							"weight": 0.369114
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "위임사항을",
+							"weight": 0.536223
+						}
+					]
+				},
+				{
+					"verb": "수정",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.331813,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "위임사항을",
+							"weight": 0.331813
+						}
+					]
+				},
+				{
+					"verb": "지니",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.466426,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 1,
+							"text": "의회는",
+							"weight": 0.512915
+						},
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "권한을",
+							"weight": 0.419937
+						}
+					]
+				},
+				{
+					"verb": "제정",
+					"sense": 1,
+					"word_id": 12,
+					"weight": 0.478508,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 10,
+							"text": "의회가",
+							"weight": 0.358203
+						},
+						{
+							"type": "ARG1",
+							"word_id": 11,
+							"text": "법률을",
+							"weight": 0.28315
+						},
+						{
+							"type": "AUX",
+							"word_id": 14,
+							"text": "있는",
+							"weight": 0.794172
+						}
+					]
+				},
+				{
+					"verb": "축소",
+					"sense": 1,
+					"word_id": 18,
+					"weight": 0.456809,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 15,
+							"text": "분야를",
+							"weight": 0.257887
+						},
+						{
+							"type": "AUX",
+							"word_id": 20,
+							"text": "있다.",
+							"weight": 0.65573
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 6,
+					"ant_sid": 11,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 18,
+					"ant_sid": 11,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 12,
+			"text": "스코틀랜드 의회가 개원은 1999년 5월 12일이었다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "스코틀랜드",
+					"type": "NNP",
+					"position": 1879,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "의회",
+					"type": "NNG",
+					"position": 1895,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 1901,
+					"weight": 0.066324
+				},
+				{
+					"id": 3,
+					"lemma": "개원",
+					"type": "NNG",
+					"position": 1905,
+					"weight": 0.207306
+				},
+				{
+					"id": 4,
+					"lemma": "은",
+					"type": "JX",
+					"position": 1911,
+					"weight": 0.0449928
+				},
+				{
+					"id": 5,
+					"lemma": "1999",
+					"type": "SN",
+					"position": 1915,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 1919,
+					"weight": 0.414343
+				},
+				{
+					"id": 7,
+					"lemma": "5",
+					"type": "SN",
+					"position": 1923,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "월",
+					"type": "NNB",
+					"position": 1924,
+					"weight": 0.408539
+				},
+				{
+					"id": 9,
+					"lemma": "12",
+					"type": "SN",
+					"position": 1928,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": "일",
+					"type": "NNB",
+					"position": 1930,
+					"weight": 0.126777
+				},
+				{
+					"id": 11,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 1933,
+					"weight": 0.0607843
+				},
+				{
+					"id": 12,
+					"lemma": "었",
+					"type": "EP",
+					"position": 1936,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1939,
+					"weight": 0.640954
+				},
+				{
+					"id": 14,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1942,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "의회가",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "개원은",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "1999년",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "5월",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "12일이었다.",
+					"type": "",
+					"begin": 9,
+					"end": 14
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"type": "LCP_COUNTRY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.47179,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "1999년 5월 12일",
+					"type": "DT_OTHERS",
+					"begin": 5,
+					"end": 10,
+					"weight": 0.854685,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "스코틀랜드",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.818713,
+					"mid": 220
+				},
+				{
+					"id": 1,
+					"text": "의회가",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.663319,
+					"mid": 222
+				},
+				{
+					"id": 2,
+					"text": "개원은",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.715324,
+					"mid": 222
+				},
+				{
+					"id": 3,
+					"text": "1999년",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.704904,
+					"mid": 225
+				},
+				{
+					"id": 4,
+					"text": "5월",
+					"head": 5,
+					"label": "NP",
+					"mod": [
+						3
+					],
+					"weight": 0.731406,
+					"mid": 222
+				},
+				{
+					"id": 5,
+					"text": "12일이었다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						1,
+						2,
+						4
+					],
+					"weight": 0.169275,
+					"mid": 222
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "스코틀랜드 의회가",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "개원은",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@SBJ가 P#1@SBJ은 1999년 5월 12일이었다.",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 3,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "1999년 5월 12일",
+							"label": "NP",
+							"begin": 5,
+							"end": 10,
+							"ne_type": "DT_OTHERS"
+						},
+						{
+							"text": "이었다.",
+							"label": "VP",
+							"begin": 11,
+							"end": 14,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "스코틀랜드 의회",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "스코틀랜드 의회",
+					"ne_id": -1
+				},
+				{
+					"id": 2,
+					"text": "스코틀랜드 의회Scottish Parliament",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "스코틀랜드 의회Scottish Parliament",
+					"ne_id": 0
+				},
+				{
+					"id": 3,
+					"text": "스코틀랜드의 수도인 에든버러의 홀리루드Holyrood에 설치된 스코틀랜드의 내정권을 위임받은 단원제 입법부이다",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 12,
+					"start_eid_short": 11,
+					"end_eid_short": 12,
+					"text_short": "단원제 입법부이다",
+					"ne_id": 6
+				},
+				{
+					"id": 12,
+					"text": "홀리루드이라고",
+					"sent_id": 2,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "홀리루드이라고",
+					"ne_id": 0
+				},
+				{
+					"id": 16,
+					"text": "스코틀랜드 의회",
+					"sent_id": 2,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "스코틀랜드 의회",
+					"ne_id": -1
+				},
+				{
+					"id": 52,
+					"text": "스코틀랜드 의회",
+					"sent_id": 7,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "스코틀랜드 의회",
+					"ne_id": -1
+				},
+				{
+					"id": 62,
+					"text": "스코틀랜드 의회",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "스코틀랜드 의회",
+					"ne_id": 0
+				},
+				{
+					"id": 67,
+					"text": "법률제정권의 위임을 받은 현재의 스코틀랜드 의회",
+					"sent_id": 8,
+					"start_eid": 12,
+					"end_eid": 17,
+					"start_eid_short": 15,
+					"end_eid_short": 17,
+					"text_short": "현재의 스코틀랜드 의회",
+					"ne_id": -1
+				},
+				{
+					"id": 73,
+					"text": "스코틀랜드 의회",
+					"sent_id": 9,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "스코틀랜드 의회",
+					"ne_id": -1
+				},
+				{
+					"id": 86,
+					"text": "스코틀랜드 의회",
+					"sent_id": 10,
+					"start_eid": 13,
+					"end_eid": 14,
+					"start_eid_short": 13,
+					"end_eid_short": 14,
+					"text_short": "스코틀랜드 의회",
+					"ne_id": -1
+				},
+				{
+					"id": 92,
+					"text": "스코틀랜드 의회",
+					"sent_id": 11,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "스코틀랜드 의회",
+					"ne_id": -1
+				},
+				{
+					"id": 95,
+					"text": "스코틀랜드 의회",
+					"sent_id": 11,
+					"start_eid": 9,
+					"end_eid": 10,
+					"start_eid_short": 9,
+					"end_eid_short": 10,
+					"text_short": "스코틀랜드 의회",
+					"ne_id": -1
+				},
+				{
+					"id": 98,
+					"text": "스코틀랜드 의회",
+					"sent_id": 12,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "스코틀랜드 의회",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "스코틀랜드의 수도인 에든버러",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "에든버러",
+					"ne_id": 3
+				},
+				{
+					"id": 5,
+					"text": "스코틀랜드의 수도이ㄴ",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "스코틀랜드의 수도이ㄴ",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 10,
+					"text": "단원제",
+					"sent_id": 1,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "단원제",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 39,
+					"text": "본래의 스코틀랜드 의회Parliament of Scotland",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 4,
+					"start_eid_short": 0,
+					"end_eid_short": 4,
+					"text_short": "본래의 스코틀랜드 의회Parliament of Scotland",
+					"ne_id": -1
+				},
+				{
+					"id": 41,
+					"text": "독립국이었던 스코틀랜드 왕국의 입법부",
+					"sent_id": 6,
+					"start_eid": 5,
+					"end_eid": 8,
+					"start_eid_short": 6,
+					"end_eid_short": 8,
+					"text_short": "스코틀랜드 왕국의 입법부",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 11,
+					"text": "비공식적",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "비공식적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "QT_MAN_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 15,
+					"text": "129명",
+					"sent_id": 2,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "129명",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "민주적",
+					"sent_id": 2,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "민주적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "CV_POSITION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "민주적으로 선출된 129명의 스코틀랜드 의회 의원들",
+					"sent_id": 2,
+					"start_eid": 4,
+					"end_eid": 9,
+					"start_eid_short": 6,
+					"end_eid_short": 9,
+					"text_short": "129명의 스코틀랜드 의회 의원들",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 18,
+					"text": "의원 임기",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "의원 임기",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "CV_POSITION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 19,
+					"text": "의원",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "의원",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "DT_DURATION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 20,
+					"text": "4년이며",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "4년이며",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "CV_POSITION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "비례대표",
+					"sent_id": 3,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "비례대표",
+					"ne_id": 2
+				},
+				{
+					"id": 33,
+					"text": "비례대표제",
+					"sent_id": 4,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "비례대표제",
+					"ne_id": 6
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 22,
+					"text": "소선거구",
+					"sent_id": 3,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "소선거구",
+					"ne_id": -1
+				},
+				{
+					"id": 27,
+					"text": "소선거구제",
+					"sent_id": 4,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "소선거구제",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "소선거구 비례대표 병용",
+					"sent_id": 3,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 3,
+					"end_eid_short": 5,
+					"text_short": "소선거구 비례대표 병용",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "QT_MAN_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 24,
+					"text": "73명",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "73명",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 25,
+					"text": "지리적으로 구분된 선거구",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "선거구",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 26,
+					"text": "지리적",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "지리적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "QT_MAN_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 28,
+					"text": "나머지 56명",
+					"sent_id": 4,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "나머지 56명",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 29,
+					"text": "나머지",
+					"sent_id": 4,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "나머지",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "LC_SPACE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 30,
+					"text": "8개 지구",
+					"sent_id": 4,
+					"start_eid": 8,
+					"end_eid": 9,
+					"start_eid_short": 8,
+					"end_eid_short": 9,
+					"text_short": "8개 지구",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "QT_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 31,
+					"text": "8개",
+					"sent_id": 4,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "8개",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "QT_MAN_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 32,
+					"text": "각 7명씩",
+					"sent_id": 4,
+					"start_eid": 10,
+					"end_eid": 11,
+					"start_eid_short": 10,
+					"end_eid_short": 11,
+					"text_short": "각 7명씩",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "최근",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "최근",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "총선거",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "총선거",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "2011년 5월 6일",
+					"sent_id": 5,
+					"start_eid": 2,
+					"end_eid": 4,
+					"start_eid_short": 2,
+					"end_eid_short": 4,
+					"text_short": "2011년 5월 6일",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "OGG_POLITICS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 37,
+					"text": "스코틀랜드 국민당",
+					"sent_id": 5,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "스코틀랜드 국민당",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 42,
+					"text": "독립국이었던 스코틀랜드 왕국",
+					"sent_id": 6,
+					"start_eid": 5,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "스코틀랜드 왕국",
+					"ne_id": 1
+				},
+				{
+					"id": 47,
+					"text": "잉글랜드 왕국",
+					"sent_id": 6,
+					"start_eid": 13,
+					"end_eid": 14,
+					"start_eid_short": 13,
+					"end_eid_short": 14,
+					"text_short": "잉글랜드 왕국",
+					"ne_id": 6
+				},
+				{
+					"id": 48,
+					"text": "그레이트브리튼 왕국",
+					"sent_id": 6,
+					"start_eid": 16,
+					"end_eid": 17,
+					"start_eid_short": 16,
+					"end_eid_short": 17,
+					"text_short": "그레이트브리튼 왕국",
+					"ne_id": 7
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 43,
+					"text": "13세기 초반",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 10,
+					"start_eid_short": 9,
+					"end_eid_short": 10,
+					"text_short": "13세기 초반",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 28,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 44,
+					"text": "13세기",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "13세기",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 29,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 45,
+					"text": "1707년",
+					"sent_id": 6,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "1707년",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 30,
+			"type": "CV_LAW",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 46,
+					"text": "연합법",
+					"sent_id": 6,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "연합법",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 31,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 1,
+					"text": "스코틀랜드",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "스코틀랜드",
+					"ne_id": 0
+				},
+				{
+					"id": 6,
+					"text": "스코틀랜드",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "스코틀랜드",
+					"ne_id": 2
+				},
+				{
+					"id": 9,
+					"text": "스코틀랜드",
+					"sent_id": 1,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "스코틀랜드",
+					"ne_id": 5
+				},
+				{
+					"id": 17,
+					"text": "스코틀랜드",
+					"sent_id": 2,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "스코틀랜드",
+					"ne_id": 2
+				},
+				{
+					"id": 38,
+					"text": "스코틀랜드",
+					"sent_id": 5,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "스코틀랜드",
+					"ne_id": 1
+				},
+				{
+					"id": 40,
+					"text": "스코틀랜드",
+					"sent_id": 6,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "스코틀랜드",
+					"ne_id": 0
+				},
+				{
+					"id": 51,
+					"text": "스코틀랜드",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "스코틀랜드",
+					"ne_id": 1
+				},
+				{
+					"id": 53,
+					"text": "스코틀랜드",
+					"sent_id": 7,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "스코틀랜드",
+					"ne_id": 2
+				},
+				{
+					"id": 71,
+					"text": "스코틀랜드",
+					"sent_id": 8,
+					"start_eid": 16,
+					"end_eid": 16,
+					"start_eid_short": 16,
+					"end_eid_short": 16,
+					"text_short": "스코틀랜드",
+					"ne_id": 5
+				},
+				{
+					"id": 74,
+					"text": "스코틀랜드",
+					"sent_id": 9,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "스코틀랜드",
+					"ne_id": 0
+				},
+				{
+					"id": 87,
+					"text": "스코틀랜드",
+					"sent_id": 10,
+					"start_eid": 13,
+					"end_eid": 13,
+					"start_eid_short": 13,
+					"end_eid_short": 13,
+					"text_short": "스코틀랜드",
+					"ne_id": 1
+				},
+				{
+					"id": 93,
+					"text": "스코틀랜드",
+					"sent_id": 11,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "스코틀랜드",
+					"ne_id": 2
+				},
+				{
+					"id": 96,
+					"text": "스코틀랜드",
+					"sent_id": 11,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "스코틀랜드",
+					"ne_id": 3
+				},
+				{
+					"id": 99,
+					"text": "스코틀랜드",
+					"sent_id": 12,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "스코틀랜드",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 32,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 50,
+					"text": "잉글랜드",
+					"sent_id": 7,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "잉글랜드",
+					"ne_id": 0
+				},
+				{
+					"id": 55,
+					"text": "잉글랜드",
+					"sent_id": 7,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "잉글랜드",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 33,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 49,
+					"text": "잉글랜드와 스코틀랜드의 합병",
+					"sent_id": 7,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "스코틀랜드의 합병",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 34,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 57,
+					"text": "런던의 웨스트민스터",
+					"sent_id": 7,
+					"start_eid": 8,
+					"end_eid": 9,
+					"start_eid_short": 8,
+					"end_eid_short": 9,
+					"text_short": "런던의 웨스트민스터",
+					"ne_id": 6
+				}
+			]
+		},
+		{
+			"id": 35,
+			"type": "LCP_CAPITALCITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 58,
+					"text": "런던",
+					"sent_id": 7,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "런던",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 36,
+			"type": "OGG_ECONOMY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 56,
+					"text": "런던의 웨스트민스터에 소재하는 그레이트브리튼 의회Parliament of Great Britain",
+					"sent_id": 7,
+					"start_eid": 8,
+					"end_eid": 15,
+					"start_eid_short": 11,
+					"end_eid_short": 15,
+					"text_short": "그레이트브리튼 의회Parliament of Great Britain",
+					"ne_id": 7
+				}
+			]
+		},
+		{
+			"id": 37,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 64,
+					"text": "1997년",
+					"sent_id": 8,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "1997년",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 38,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 60,
+					"text": "스코틀랜드 의회 설치 동의에 관한 1997년의 주민투표 결과",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 7,
+					"start_eid_short": 5,
+					"end_eid_short": 7,
+					"text_short": "1997년의 주민투표 결과",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 39,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 63,
+					"text": "설치",
+					"sent_id": 8,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "설치",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 40,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 61,
+					"text": "스코틀랜드 의회 설치 동의",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 3,
+					"start_eid_short": 0,
+					"end_eid_short": 3,
+					"text_short": "스코틀랜드 의회 설치 동의",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 41,
+			"type": "EV_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 65,
+					"text": "주민투표",
+					"sent_id": 8,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "주민투표",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 42,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 59,
+					"text": "스코틀랜드 의회 설치 동의에 관한 1997년의 주민투표 결과에 따른 1998년 스코틀랜드법",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 10,
+					"start_eid_short": 9,
+					"end_eid_short": 10,
+					"text_short": "1998년 스코틀랜드법",
+					"ne_id": 4
+				},
+				{
+					"id": 72,
+					"text": "이 법률",
+					"sent_id": 9,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "이 법률",
+					"ne_id": -1
+				},
+				{
+					"id": 78,
+					"text": "이 법률",
+					"sent_id": 10,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "이 법률",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 43,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 68,
+					"text": "법률제정권의 위임",
+					"sent_id": 8,
+					"start_eid": 12,
+					"end_eid": 13,
+					"start_eid_short": 12,
+					"end_eid_short": 13,
+					"text_short": "법률제정권의 위임",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 44,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 69,
+					"text": "법률제정권",
+					"sent_id": 8,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "법률제정권",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 45,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 70,
+					"text": "현재",
+					"sent_id": 8,
+					"start_eid": 15,
+					"end_eid": 15,
+					"start_eid_short": 15,
+					"end_eid_short": 15,
+					"text_short": "현재",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 46,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 97,
+					"text": "법률",
+					"sent_id": 11,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "법률",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 47,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 75,
+					"text": "의회의 입법권한",
+					"sent_id": 9,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "의회의 입법권한",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 48,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 76,
+					"text": "입법권한의 범위",
+					"sent_id": 9,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "입법권한의 범위",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 49,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 77,
+					"text": "이 법률로 명시된 분야의 권한",
+					"sent_id": 10,
+					"start_eid": 0,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "분야의 권한",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 50,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 79,
+					"text": "분야",
+					"sent_id": 10,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "분야",
+					"ne_id": -1
+				},
+				{
+					"id": 82,
+					"text": "그 밖의 모든 분야",
+					"sent_id": 10,
+					"start_eid": 8,
+					"end_eid": 11,
+					"start_eid_short": 8,
+					"end_eid_short": 11,
+					"text_short": "그 밖의 모든 분야",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 51,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 81,
+					"text": "영국",
+					"sent_id": 10,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "영국",
+					"ne_id": 0
+				},
+				{
+					"id": 89,
+					"text": "영국",
+					"sent_id": 11,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "영국",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 52,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 83,
+					"text": "그 밖",
+					"sent_id": 10,
+					"start_eid": 8,
+					"end_eid": 9,
+					"start_eid_short": 8,
+					"end_eid_short": 9,
+					"text_short": "그 밖",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 53,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 84,
+					"text": "자동적",
+					"sent_id": 10,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "자동적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 54,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 85,
+					"text": "스코틀랜드 의회의 책임범위",
+					"sent_id": 10,
+					"start_eid": 13,
+					"end_eid": 15,
+					"start_eid_short": 13,
+					"end_eid_short": 15,
+					"text_short": "스코틀랜드 의회의 책임범위",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 55,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 94,
+					"text": "스코틀랜드 의회가 법률을 제정할 수 있는 분야",
+					"sent_id": 11,
+					"start_eid": 9,
+					"end_eid": 15,
+					"start_eid_short": 15,
+					"end_eid_short": 15,
+					"text_short": "분야",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 56,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 90,
+					"text": "스코틀랜드 의회에 대한 위임사항을 수정할 권한",
+					"sent_id": 11,
+					"start_eid": 2,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "권한",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 57,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 91,
+					"text": "스코틀랜드 의회에 대한 위임사항",
+					"sent_id": 11,
+					"start_eid": 2,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "위임사항",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 58,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 100,
+					"text": "개원",
+					"sent_id": 12,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "개원",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 59,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 101,
+					"text": "1999년 5월 12일이었다",
+					"sent_id": 12,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 3,
+					"end_eid_short": 5,
+					"text_short": "1999년 5월 12일이었다",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 60,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "홀리루드Holyrood",
+					"sent_id": 1,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "홀리루드Holyrood",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 61,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 8,
+					"text": "스코틀랜드의 내정권",
+					"sent_id": 1,
+					"start_eid": 8,
+					"end_eid": 9,
+					"start_eid_short": 8,
+					"end_eid_short": 9,
+					"text_short": "스코틀랜드의 내정권",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 62,
+			"type": "OGG_POLITICS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 54,
+					"text": "잉글랜드 의회",
+					"sent_id": 7,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "잉글랜드 의회",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 63,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 66,
+					"text": "1998년",
+					"sent_id": 8,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "1998년",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 64,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 80,
+					"text": "영국 의회",
+					"sent_id": 10,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "영국 의회",
+					"ne_id": -1
+				},
+				{
+					"id": 88,
+					"text": "영국 의회",
+					"sent_id": 11,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "영국 의회",
+					"ne_id": 1
+				}
+			]
+		}
+	]
+}

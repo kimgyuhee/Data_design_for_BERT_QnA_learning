@@ -1,0 +1,7426 @@
+{
+	"title": {
+		"text": "아마존 우림",
+		"NE": "LCG_RIVER"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 12,
+		"num_word": 120
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "아마존 우림",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "아마존",
+					"type": "NNG",
+					"position": 0,
+					"weight": 0.20893
+				},
+				{
+					"id": 1,
+					"lemma": "우림",
+					"type": "NNG",
+					"position": 10,
+					"weight": 0.174571
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "아마존",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "우림",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "아마존 우림",
+					"type": "TM_CLIMATE",
+					"begin": 0,
+					"end": 1,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "아마존",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.760869,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "우림",
+					"head": -1,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.629246,
+					"mid": 2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "아마존 우림",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "아마존 우림은 남아메리카의 아마존강에 있는 열대우림이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "아마존",
+					"type": "NNG",
+					"position": 16,
+					"weight": 0.20893
+				},
+				{
+					"id": 1,
+					"lemma": "우림",
+					"type": "NNG",
+					"position": 26,
+					"weight": 0.174571
+				},
+				{
+					"id": 2,
+					"lemma": "은",
+					"type": "JX",
+					"position": 32,
+					"weight": 0.0449928
+				},
+				{
+					"id": 3,
+					"lemma": "남아메리카",
+					"type": "NNP",
+					"position": 36,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 51,
+					"weight": 0.0987295
+				},
+				{
+					"id": 5,
+					"lemma": "아마존",
+					"type": "NNP",
+					"position": 55,
+					"weight": 0.0106303
+				},
+				{
+					"id": 6,
+					"lemma": "강",
+					"type": "NNG",
+					"position": 64,
+					"weight": 0.238675
+				},
+				{
+					"id": 7,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 67,
+					"weight": 0.153364
+				},
+				{
+					"id": 8,
+					"lemma": "있",
+					"type": "VA",
+					"position": 71,
+					"weight": 0.037292
+				},
+				{
+					"id": 9,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 74,
+					"weight": 0.26168
+				},
+				{
+					"id": 10,
+					"lemma": "열대",
+					"type": "NNG",
+					"position": 78,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "우림",
+					"type": "NNG",
+					"position": 84,
+					"weight": 0.174571
+				},
+				{
+					"id": 12,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 90,
+					"weight": 0.0177525
+				},
+				{
+					"id": 13,
+					"lemma": "다",
+					"type": "EF",
+					"position": 93,
+					"weight": 0.353579
+				},
+				{
+					"id": 14,
+					"lemma": ".",
+					"type": "SF",
+					"position": 96,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "아마존",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "우림은",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "남아메리카의",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "아마존강에",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "있는",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "열대우림이다.",
+					"type": "",
+					"begin": 10,
+					"end": 14
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "아마존",
+					"type": "LCG_RIVER",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.184067,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "우림",
+					"type": "TM_DIRECTION",
+					"begin": 1,
+					"end": 1,
+					"weight": 0.19538,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "남아메리카",
+					"type": "LCG_CONTINENT",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.753621,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "아마존강",
+					"type": "LCG_RIVER",
+					"begin": 5,
+					"end": 6,
+					"weight": 0.886214,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "열대우림",
+					"type": "TM_CLIMATE",
+					"begin": 10,
+					"end": 11,
+					"weight": 0.315469,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "아마존",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.79736,
+					"mid": 4
+				},
+				{
+					"id": 1,
+					"text": "우림은",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.157786,
+					"mid": 6
+				},
+				{
+					"id": 2,
+					"text": "남아메리카의",
+					"head": 3,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.682156,
+					"mid": 8
+				},
+				{
+					"id": 3,
+					"text": "아마존강에",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.753648,
+					"mid": 10
+				},
+				{
+					"id": 4,
+					"text": "있는",
+					"head": 5,
+					"label": "VP_MOD",
+					"mod": [
+						3
+					],
+					"weight": 0.742156,
+					"mid": 10
+				},
+				{
+					"id": 5,
+					"text": "열대우림이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						4,
+						1
+					],
+					"weight": 0.0400741,
+					"mid": 6
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "아마존 우림은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "남아메리카의 아마존강에",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@AJT에 있는",
+					"begin": 2,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@SBJ은 P#2@MOD는 열대우림이다.",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						2
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "열대우림",
+							"label": "NP",
+							"begin": 10,
+							"end": 11,
+							"ne_type": "TM_CLIMATE"
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 12,
+							"end": 14,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.378683,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 3,
+							"text": "아마존강에",
+							"weight": 0.508865
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "열대우림이다.",
+							"weight": 0.248501
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 2,
+			"text": "이 곳은 아마조니아(Amazonia)로도 알려져 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이",
+					"type": "MM",
+					"position": 97,
+					"weight": 0.0020222
+				},
+				{
+					"id": 1,
+					"lemma": "곳",
+					"type": "NNG",
+					"position": 101,
+					"weight": 0.737411
+				},
+				{
+					"id": 2,
+					"lemma": "은",
+					"type": "JX",
+					"position": 104,
+					"weight": 0.0449928
+				},
+				{
+					"id": 3,
+					"lemma": "아마조니아",
+					"type": "NNP",
+					"position": 108,
+					"weight": 0.6
+				},
+				{
+					"id": 4,
+					"lemma": "(",
+					"type": "SS",
+					"position": 123,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "Amazonia",
+					"type": "SL",
+					"position": 124,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": ")",
+					"type": "SS",
+					"position": 132,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 133,
+					"weight": 0.0485504
+				},
+				{
+					"id": 8,
+					"lemma": "도",
+					"type": "JX",
+					"position": 136,
+					"weight": 0.0912297
+				},
+				{
+					"id": 9,
+					"lemma": "알려지",
+					"type": "VV",
+					"position": 140,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "어",
+					"type": "EC",
+					"position": 146,
+					"weight": 0.41831
+				},
+				{
+					"id": 11,
+					"lemma": "있",
+					"type": "VX",
+					"position": 150,
+					"weight": 0.125953
+				},
+				{
+					"id": 12,
+					"lemma": "다",
+					"type": "EF",
+					"position": 153,
+					"weight": 0.180366
+				},
+				{
+					"id": 13,
+					"lemma": ".",
+					"type": "SF",
+					"position": 156,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "곳은",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "아마조니아(Amazonia)로도",
+					"type": "",
+					"begin": 3,
+					"end": 8
+				},
+				{
+					"id": 3,
+					"text": "알려져",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 4,
+					"text": "있다.",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "아마조니아",
+					"type": "LCP_CITY",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.36681,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "Amazonia",
+					"type": "LCP_CITY",
+					"begin": 5,
+					"end": 5,
+					"weight": 0.108487,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이",
+					"head": 1,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.74666,
+					"mid": 13
+				},
+				{
+					"id": 1,
+					"text": "곳은",
+					"head": 3,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.743873,
+					"mid": 15
+				},
+				{
+					"id": 2,
+					"text": "아마조니아(Amazonia)로도",
+					"head": 3,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.67295,
+					"mid": 15
+				},
+				{
+					"id": 3,
+					"text": "알려져",
+					"head": 4,
+					"label": "VP",
+					"mod": [
+						1,
+						2
+					],
+					"weight": 0.747336,
+					"mid": 15
+				},
+				{
+					"id": 4,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						3
+					],
+					"weight": 0.22364,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "이 곳은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "아마조니아(Amazonia)로도",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@AJT도 알려져 있다.",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "알려지",
+					"sense": 1,
+					"word_id": 3,
+					"weight": 0.448044,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 2,
+							"text": "아마조니아(Amazonia)로도",
+							"weight": 0.200244
+						},
+						{
+							"type": "AUX",
+							"word_id": 4,
+							"text": "있다.",
+							"weight": 0.695843
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 3,
+			"text": "지구 산소의 20% 이상을 아마존 우림이 생성한다고 한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "지구",
+					"type": "NNG",
+					"position": 157,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "산소",
+					"type": "NNG",
+					"position": 164,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 170,
+					"weight": 0.0694213
+				},
+				{
+					"id": 3,
+					"lemma": "20",
+					"type": "SN",
+					"position": 174,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "%",
+					"type": "SW",
+					"position": 176,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "이상",
+					"type": "NNG",
+					"position": 178,
+					"weight": 0.263293
+				},
+				{
+					"id": 6,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 184,
+					"weight": 0.129611
+				},
+				{
+					"id": 7,
+					"lemma": "아마존",
+					"type": "MAG",
+					"position": 188,
+					"weight": 0
+				},
+				{
+					"id": 8,
+					"lemma": "우림",
+					"type": "NNG",
+					"position": 198,
+					"weight": 0.246969
+				},
+				{
+					"id": 9,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 204,
+					"weight": 0.0360723
+				},
+				{
+					"id": 10,
+					"lemma": "생성",
+					"type": "NNG",
+					"position": 208,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 214,
+					"weight": 0.0001
+				},
+				{
+					"id": 12,
+					"lemma": "ㄴ다고",
+					"type": "EC",
+					"position": 214,
+					"weight": 0.365618
+				},
+				{
+					"id": 13,
+					"lemma": "하",
+					"type": "VV",
+					"position": 224,
+					"weight": 0.140183
+				},
+				{
+					"id": 14,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 224,
+					"weight": 0.0793196
+				},
+				{
+					"id": 15,
+					"lemma": ".",
+					"type": "SF",
+					"position": 230,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "지구",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "산소의",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "20%",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "이상을",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "아마존",
+					"type": "",
+					"begin": 7,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "우림이",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "생성한다고",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				},
+				{
+					"id": 7,
+					"text": "한다.",
+					"type": "",
+					"begin": 13,
+					"end": 15
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "지구",
+					"type": "LC_SPACE",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.389051,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "산소",
+					"type": "MT_ELEMENT",
+					"begin": 1,
+					"end": 1,
+					"weight": 1,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "20% 이상",
+					"type": "QT_PERCENTAGE",
+					"begin": 3,
+					"end": 5,
+					"weight": 0.769632,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "지구",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.689419,
+					"mid": 18
+				},
+				{
+					"id": 1,
+					"text": "산소의",
+					"head": 3,
+					"label": "NP_MOD",
+					"mod": [
+						0
+					],
+					"weight": 0.712704,
+					"mid": 20
+				},
+				{
+					"id": 2,
+					"text": "20%",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.838044,
+					"mid": 20
+				},
+				{
+					"id": 3,
+					"text": "이상을",
+					"head": 6,
+					"label": "NP_OBJ",
+					"mod": [
+						1,
+						2
+					],
+					"weight": 0.762048,
+					"mid": 23
+				},
+				{
+					"id": 4,
+					"text": "아마존",
+					"head": 6,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.732156,
+					"mid": 23
+				},
+				{
+					"id": 5,
+					"text": "우림이",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.815041,
+					"mid": 23
+				},
+				{
+					"id": 6,
+					"text": "생성한다고",
+					"head": 7,
+					"label": "VP_CMP",
+					"mod": [
+						3,
+						4,
+						5
+					],
+					"weight": 0.618212,
+					"mid": 23
+				},
+				{
+					"id": 7,
+					"text": "한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						6
+					],
+					"weight": 0.0890314,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_OBJ",
+					"text": "지구 산소의 20% 이상을",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "AP",
+					"text": "아마존",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "우림이",
+					"begin": 5,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S_CMP",
+					"text": "P#0@OBJ을 P#1@AP아마존 P#2@SBJ이 생성한다고",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "S#3@CMPㄴ다고 한다.",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "생성",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.180472,
+					"argument": [
+						{
+							"type": "ARGM-EXT",
+							"word_id": 3,
+							"text": "이상을",
+							"weight": 0.160014
+						},
+						{
+							"type": "ARGM-EXT",
+							"word_id": 4,
+							"text": "아마존",
+							"weight": 0.133015
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "우림이",
+							"weight": 0.248388
+						}
+					]
+				},
+				{
+					"verb": "하",
+					"sense": 3,
+					"word_id": 7,
+					"weight": 0.295165,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 6,
+							"text": "생성한다고",
+							"weight": 0.295165
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 4,
+			"text": "그래서 지구의 허파라고도 불린다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "그래서",
+					"type": "MAJ",
+					"position": 231,
+					"weight": 0.0458883
+				},
+				{
+					"id": 1,
+					"lemma": "지구",
+					"type": "NNG",
+					"position": 241,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 247,
+					"weight": 0.0694213
+				},
+				{
+					"id": 3,
+					"lemma": "허파",
+					"type": "NNG",
+					"position": 251,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 254,
+					"weight": 0.0177525
+				},
+				{
+					"id": 5,
+					"lemma": "라고",
+					"type": "EC",
+					"position": 257,
+					"weight": 0.204147
+				},
+				{
+					"id": 6,
+					"lemma": "도",
+					"type": "JX",
+					"position": 263,
+					"weight": 0.0271372
+				},
+				{
+					"id": 7,
+					"lemma": "불리",
+					"type": "VV",
+					"position": 267,
+					"weight": 0.145182
+				},
+				{
+					"id": 8,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 270,
+					"weight": 0.0793196
+				},
+				{
+					"id": 9,
+					"lemma": ".",
+					"type": "SF",
+					"position": 276,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "그래서",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "지구의",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "허파라고도",
+					"type": "",
+					"begin": 3,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "불린다.",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "지구",
+					"type": "LC_SPACE",
+					"begin": 1,
+					"end": 1,
+					"weight": 0.267229,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "허파",
+					"type": "TM_CELL_TISSUE",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.129473,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "그래서",
+					"head": 2,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.424894,
+					"mid": 27
+				},
+				{
+					"id": 1,
+					"text": "지구의",
+					"head": 2,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.739762,
+					"mid": 27
+				},
+				{
+					"id": 2,
+					"text": "허파라고도",
+					"head": 3,
+					"label": "VNP_CMP",
+					"mod": [
+						0,
+						1
+					],
+					"weight": 0.631876,
+					"mid": 27
+				},
+				{
+					"id": 3,
+					"text": "불린다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						2
+					],
+					"weight": 0.153567,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "VNP_CMP",
+					"text": "그래서 지구의 허파라고도",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP",
+					"text": "P#0@CMP도 불린다.",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "불리",
+					"sense": 2,
+					"word_id": 3,
+					"weight": 0.495808,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 2,
+							"text": "허파라고도",
+							"weight": 0.495808
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 2,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 3,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 5,
+			"text": "지구상 동식물 중 10% 이상이 아마존 우림에 서식하며 재규어, 아나콘다, 악어, 피라냐 등이 서식한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "지구",
+					"type": "NNG",
+					"position": 277,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "상",
+					"type": "XSN",
+					"position": 283,
+					"weight": 0.0188915
+				},
+				{
+					"id": 2,
+					"lemma": "동",
+					"type": "NNG",
+					"position": 287,
+					"weight": 0.103382
+				},
+				{
+					"id": 3,
+					"lemma": "식물",
+					"type": "NNG",
+					"position": 290,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "중",
+					"type": "NNB",
+					"position": 297,
+					"weight": 0.013531
+				},
+				{
+					"id": 5,
+					"lemma": "10",
+					"type": "SN",
+					"position": 301,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "%",
+					"type": "SW",
+					"position": 303,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "이상",
+					"type": "NNG",
+					"position": 305,
+					"weight": 0.263293
+				},
+				{
+					"id": 8,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 311,
+					"weight": 0.0360723
+				},
+				{
+					"id": 9,
+					"lemma": "아마존",
+					"type": "NNP",
+					"position": 315,
+					"weight": 0.0103455
+				},
+				{
+					"id": 10,
+					"lemma": "우림",
+					"type": "NNG",
+					"position": 325,
+					"weight": 0.266325
+				},
+				{
+					"id": 11,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 331,
+					"weight": 0.153364
+				},
+				{
+					"id": 12,
+					"lemma": "서식",
+					"type": "NNG",
+					"position": 335,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 341,
+					"weight": 0.0001
+				},
+				{
+					"id": 14,
+					"lemma": "며",
+					"type": "EC",
+					"position": 344,
+					"weight": 0.371165
+				},
+				{
+					"id": 15,
+					"lemma": "재규어",
+					"type": "NNG",
+					"position": 348,
+					"weight": 0.210647
+				},
+				{
+					"id": 16,
+					"lemma": ",",
+					"type": "SP",
+					"position": 357,
+					"weight": 1
+				},
+				{
+					"id": 17,
+					"lemma": "아나콘다",
+					"type": "NNG",
+					"position": 359,
+					"weight": 0.05
+				},
+				{
+					"id": 18,
+					"lemma": ",",
+					"type": "SP",
+					"position": 371,
+					"weight": 1
+				},
+				{
+					"id": 19,
+					"lemma": "악어",
+					"type": "NNG",
+					"position": 373,
+					"weight": 0.500782
+				},
+				{
+					"id": 20,
+					"lemma": ",",
+					"type": "SP",
+					"position": 379,
+					"weight": 1
+				},
+				{
+					"id": 21,
+					"lemma": "피라냐",
+					"type": "NNP",
+					"position": 381,
+					"weight": 0.6
+				},
+				{
+					"id": 22,
+					"lemma": "등",
+					"type": "NNB",
+					"position": 391,
+					"weight": 0.0459798
+				},
+				{
+					"id": 23,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 394,
+					"weight": 0.0376169
+				},
+				{
+					"id": 24,
+					"lemma": "서식",
+					"type": "NNG",
+					"position": 398,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 404,
+					"weight": 0.0001
+				},
+				{
+					"id": 26,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 404,
+					"weight": 0.0449045
+				},
+				{
+					"id": 27,
+					"lemma": ".",
+					"type": "SF",
+					"position": 410,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "지구상",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "동식물",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "중",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "10%",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "이상이",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "아마존",
+					"type": "",
+					"begin": 9,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "우림에",
+					"type": "",
+					"begin": 10,
+					"end": 11
+				},
+				{
+					"id": 7,
+					"text": "서식하며",
+					"type": "",
+					"begin": 12,
+					"end": 14
+				},
+				{
+					"id": 8,
+					"text": "재규어,",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 9,
+					"text": "아나콘다,",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 10,
+					"text": "악어,",
+					"type": "",
+					"begin": 19,
+					"end": 20
+				},
+				{
+					"id": 11,
+					"text": "피라냐",
+					"type": "",
+					"begin": 21,
+					"end": 21
+				},
+				{
+					"id": 12,
+					"text": "등이",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 13,
+					"text": "서식한다.",
+					"type": "",
+					"begin": 24,
+					"end": 27
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "지구",
+					"type": "LC_SPACE",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.407812,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "동식물",
+					"type": "AM_TYPE",
+					"begin": 2,
+					"end": 3,
+					"weight": 1,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "10% 이상",
+					"type": "QT_PERCENTAGE",
+					"begin": 5,
+					"end": 7,
+					"weight": 0.729161,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "아마존",
+					"type": "OGG_ECONOMY",
+					"begin": 9,
+					"end": 9,
+					"weight": 0.182259,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "재규어",
+					"type": "OGG_ECONOMY",
+					"begin": 15,
+					"end": 15,
+					"weight": 0.340439,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "아나콘다",
+					"type": "AM_REPTILIA",
+					"begin": 17,
+					"end": 17,
+					"weight": 0.292753,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "악어",
+					"type": "AM_REPTILIA",
+					"begin": 19,
+					"end": 19,
+					"weight": 0.642126,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "피라냐",
+					"type": "AM_FISH",
+					"begin": 21,
+					"end": 21,
+					"weight": 0.238959,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "지구상",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.439025,
+					"mid": 30
+				},
+				{
+					"id": 1,
+					"text": "동식물",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.748529,
+					"mid": 32
+				},
+				{
+					"id": 2,
+					"text": "중",
+					"head": 4,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.374685,
+					"mid": 34
+				},
+				{
+					"id": 3,
+					"text": "10%",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.750305,
+					"mid": 34
+				},
+				{
+					"id": 4,
+					"text": "이상이",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						2,
+						3
+					],
+					"weight": 0.752627,
+					"mid": 30
+				},
+				{
+					"id": 5,
+					"text": "아마존",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.765503,
+					"mid": 38
+				},
+				{
+					"id": 6,
+					"text": "우림에",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [
+						5
+					],
+					"weight": 0.814065,
+					"mid": 30
+				},
+				{
+					"id": 7,
+					"text": "서식하며",
+					"head": 13,
+					"label": "VP",
+					"mod": [
+						0,
+						4,
+						6
+					],
+					"weight": 0.777643,
+					"mid": 30
+				},
+				{
+					"id": 8,
+					"text": "재규어,",
+					"head": 11,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.794526,
+					"mid": 41
+				},
+				{
+					"id": 9,
+					"text": "아나콘다,",
+					"head": 11,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.83841,
+					"mid": 41
+				},
+				{
+					"id": 10,
+					"text": "악어,",
+					"head": 11,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.744593,
+					"mid": 41
+				},
+				{
+					"id": 11,
+					"text": "피라냐",
+					"head": 12,
+					"label": "NP",
+					"mod": [
+						8,
+						9,
+						10
+					],
+					"weight": 0.742949,
+					"mid": 45
+				},
+				{
+					"id": 12,
+					"text": "등이",
+					"head": 13,
+					"label": "NP_SBJ",
+					"mod": [
+						11
+					],
+					"weight": 0.813723,
+					"mid": 46
+				},
+				{
+					"id": 13,
+					"text": "서식한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						7,
+						12
+					],
+					"weight": 0.0090873,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "지구상",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "동식물 중 10% 이상이",
+					"begin": 1,
+					"end": 4,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "아마존 우림에",
+					"begin": 5,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@AJT상 P#1@SBJ이 P#2@AJT에 서식하며",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 5,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_SBJ",
+					"text": "재규어, 아나콘다, 악어, 피라냐 등이",
+					"begin": 8,
+					"end": 12,
+					"key_begin": 8,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "재규어",
+							"label": "NP_SBJ",
+							"begin": 15,
+							"end": 15,
+							"ne_type": "OGG_ECONOMY"
+						},
+						{
+							"text": "아나콘다",
+							"label": "NP_SBJ",
+							"begin": 17,
+							"end": 17,
+							"ne_type": "AM_REPTILIA"
+						},
+						{
+							"text": "악어",
+							"label": "NP_SBJ",
+							"begin": 19,
+							"end": 19,
+							"ne_type": "AM_REPTILIA"
+						},
+						{
+							"text": "피라냐",
+							"label": "NP_SBJ",
+							"begin": 21,
+							"end": 21,
+							"ne_type": "AM_FISH"
+						}
+					]
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "S#3@S며 P#4@SBJ이 서식한다.",
+					"begin": 0,
+					"end": 13,
+					"key_begin": 13,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "서식",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.351021,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 4,
+							"text": "이상이",
+							"weight": 0.376537
+						},
+						{
+							"type": "ARG1",
+							"word_id": 6,
+							"text": "우림에",
+							"weight": 0.325505
+						}
+					]
+				},
+				{
+					"verb": "서식",
+					"sense": 1,
+					"word_id": 13,
+					"weight": 0.296518,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 12,
+							"text": "등이",
+							"weight": 0.296518
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 6,
+			"text": "또 긴팔원숭이, 오랑우탄 등 희귀 동물들도 많이 산다고 한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "또",
+					"type": "MAG",
+					"position": 411,
+					"weight": 0.0653014
+				},
+				{
+					"id": 1,
+					"lemma": "긴팔",
+					"type": "NNG",
+					"position": 415,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "원숭이",
+					"type": "NNG",
+					"position": 421,
+					"weight": 0.184452
+				},
+				{
+					"id": 3,
+					"lemma": ",",
+					"type": "SP",
+					"position": 430,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "오랑우탄",
+					"type": "NNG",
+					"position": 432,
+					"weight": 0.85
+				},
+				{
+					"id": 5,
+					"lemma": "등",
+					"type": "NNB",
+					"position": 445,
+					"weight": 0.0146757
+				},
+				{
+					"id": 6,
+					"lemma": "희귀",
+					"type": "NNG",
+					"position": 449,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "동물",
+					"type": "NNG",
+					"position": 456,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 462,
+					"weight": 0.0299841
+				},
+				{
+					"id": 9,
+					"lemma": "도",
+					"type": "JX",
+					"position": 465,
+					"weight": 0.150897
+				},
+				{
+					"id": 10,
+					"lemma": "많이",
+					"type": "MAG",
+					"position": 469,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "살",
+					"type": "VV",
+					"position": 476,
+					"weight": 0.313475
+				},
+				{
+					"id": 12,
+					"lemma": "ㄴ다고",
+					"type": "EC",
+					"position": 476,
+					"weight": 0.423279
+				},
+				{
+					"id": 13,
+					"lemma": "하",
+					"type": "VV",
+					"position": 486,
+					"weight": 0.140183
+				},
+				{
+					"id": 14,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 486,
+					"weight": 0.0793196
+				},
+				{
+					"id": 15,
+					"lemma": ".",
+					"type": "SF",
+					"position": 492,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "또",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "긴팔원숭이,",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "오랑우탄",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "등",
+					"type": "",
+					"begin": 5,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "희귀",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 5,
+					"text": "동물들도",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "많이",
+					"type": "",
+					"begin": 10,
+					"end": 10
+				},
+				{
+					"id": 7,
+					"text": "산다고",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 8,
+					"text": "한다.",
+					"type": "",
+					"begin": 13,
+					"end": 15
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "긴팔원숭이",
+					"type": "AM_MAMMALIA",
+					"begin": 1,
+					"end": 2,
+					"weight": 0.417563,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "오랑우탄",
+					"type": "AM_MAMMALIA",
+					"begin": 4,
+					"end": 4,
+					"weight": 0.477532,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "또",
+					"head": 8,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.765859,
+					"mid": 47
+				},
+				{
+					"id": 1,
+					"text": "긴팔원숭이,",
+					"head": 2,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.510089,
+					"mid": 49
+				},
+				{
+					"id": 2,
+					"text": "오랑우탄",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.819021,
+					"mid": 51
+				},
+				{
+					"id": 3,
+					"text": "등",
+					"head": 5,
+					"label": "NP",
+					"mod": [
+						2
+					],
+					"weight": 0.694782,
+					"mid": 53
+				},
+				{
+					"id": 4,
+					"text": "희귀",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.777195,
+					"mid": 53
+				},
+				{
+					"id": 5,
+					"text": "동물들도",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						3,
+						4
+					],
+					"weight": 0.470548,
+					"mid": 56
+				},
+				{
+					"id": 6,
+					"text": "많이",
+					"head": 7,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.708697,
+					"mid": 56
+				},
+				{
+					"id": 7,
+					"text": "산다고",
+					"head": 8,
+					"label": "VP_CMP",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.602449,
+					"mid": 56
+				},
+				{
+					"id": 8,
+					"text": "한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						0,
+						7
+					],
+					"weight": 0.0287691,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "AP",
+					"text": "또",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "긴팔원숭이, 오랑우탄 등 희귀 동물들도",
+					"begin": 1,
+					"end": 5,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "AP",
+					"text": "많이",
+					"begin": 6,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S_CMP",
+					"text": "P#1@SBJ도 P#2@AP많이 산다고",
+					"begin": 1,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 4,
+					"sub_phrase": [
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@AP또 S#3@CMPㄴ다고 한다.",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "살",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.357349,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 5,
+							"text": "동물들도",
+							"weight": 0.313793
+						},
+						{
+							"type": "ARGM-EXT",
+							"word_id": 6,
+							"text": "많이",
+							"weight": 0.400905
+						}
+					]
+				},
+				{
+					"verb": "하",
+					"sense": 2,
+					"word_id": 8,
+					"weight": 0.502919,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "산다고",
+							"weight": 0.502919
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 7,
+			"text": "이러한 열대림의 파괴는 자연재해로 인한 손실도 있지만 인위적 파괴에 의한 열대림파괴가 대부분이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이러하",
+					"type": "VA",
+					"position": 493,
+					"weight": 0.0465593
+				},
+				{
+					"id": 1,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 499,
+					"weight": 0.430446
+				},
+				{
+					"id": 2,
+					"lemma": "열대",
+					"type": "NNG",
+					"position": 503,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "림",
+					"type": "XSN",
+					"position": 509,
+					"weight": 0.015139
+				},
+				{
+					"id": 4,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 512,
+					"weight": 0.120732
+				},
+				{
+					"id": 5,
+					"lemma": "파괴",
+					"type": "NNG",
+					"position": 516,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "는",
+					"type": "JX",
+					"position": 522,
+					"weight": 0.0287565
+				},
+				{
+					"id": 7,
+					"lemma": "자연",
+					"type": "NNG",
+					"position": 526,
+					"weight": 0.313425
+				},
+				{
+					"id": 8,
+					"lemma": "재해",
+					"type": "NNG",
+					"position": 532,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 538,
+					"weight": 0.153229
+				},
+				{
+					"id": 10,
+					"lemma": "인",
+					"type": "NNG",
+					"position": 542,
+					"weight": 0.0846637
+				},
+				{
+					"id": 11,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 545,
+					"weight": 0.0001
+				},
+				{
+					"id": 12,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 545,
+					"weight": 0.392321
+				},
+				{
+					"id": 13,
+					"lemma": "손실",
+					"type": "NNG",
+					"position": 549,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "도",
+					"type": "JX",
+					"position": 555,
+					"weight": 0.0676272
+				},
+				{
+					"id": 15,
+					"lemma": "있",
+					"type": "VA",
+					"position": 559,
+					"weight": 0.0558599
+				},
+				{
+					"id": 16,
+					"lemma": "지만",
+					"type": "EC",
+					"position": 562,
+					"weight": 0.315566
+				},
+				{
+					"id": 17,
+					"lemma": "인위",
+					"type": "NNG",
+					"position": 569,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 575,
+					"weight": 0.0168756
+				},
+				{
+					"id": 19,
+					"lemma": "파괴",
+					"type": "NNG",
+					"position": 579,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 585,
+					"weight": 0.153364
+				},
+				{
+					"id": 21,
+					"lemma": "의하",
+					"type": "VV",
+					"position": 589,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 592,
+					"weight": 0.304215
+				},
+				{
+					"id": 23,
+					"lemma": "열대",
+					"type": "NNG",
+					"position": 596,
+					"weight": 0.9
+				},
+				{
+					"id": 24,
+					"lemma": "림",
+					"type": "XSN",
+					"position": 602,
+					"weight": 0.015139
+				},
+				{
+					"id": 25,
+					"lemma": "파괴",
+					"type": "NNG",
+					"position": 605,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 611,
+					"weight": 0.066324
+				},
+				{
+					"id": 27,
+					"lemma": "대",
+					"type": "XPN",
+					"position": 615,
+					"weight": 0.0001
+				},
+				{
+					"id": 28,
+					"lemma": "부분",
+					"type": "NNG",
+					"position": 618,
+					"weight": 0.9
+				},
+				{
+					"id": 29,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 624,
+					"weight": 0.0177525
+				},
+				{
+					"id": 30,
+					"lemma": "다",
+					"type": "EF",
+					"position": 627,
+					"weight": 0.353579
+				},
+				{
+					"id": 31,
+					"lemma": ".",
+					"type": "SF",
+					"position": 630,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이러한",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "열대림의",
+					"type": "",
+					"begin": 2,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"text": "파괴는",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "자연재해로",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 4,
+					"text": "인한",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				},
+				{
+					"id": 5,
+					"text": "손실도",
+					"type": "",
+					"begin": 13,
+					"end": 14
+				},
+				{
+					"id": 6,
+					"text": "있지만",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 7,
+					"text": "인위적",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 8,
+					"text": "파괴에",
+					"type": "",
+					"begin": 19,
+					"end": 20
+				},
+				{
+					"id": 9,
+					"text": "의한",
+					"type": "",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 10,
+					"text": "열대림파괴가",
+					"type": "",
+					"begin": 23,
+					"end": 26
+				},
+				{
+					"id": 11,
+					"text": "대부분이다.",
+					"type": "",
+					"begin": 27,
+					"end": 31
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "열대",
+					"type": "TM_CLIMATE",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.432653,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "열대",
+					"type": "TM_CLIMATE",
+					"begin": 23,
+					"end": 23,
+					"weight": 0.292931,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이러한",
+					"head": 2,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.72337,
+					"mid": 58
+				},
+				{
+					"id": 1,
+					"text": "열대림의",
+					"head": 2,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.616513,
+					"mid": 61
+				},
+				{
+					"id": 2,
+					"text": "파괴는",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [
+						0,
+						1
+					],
+					"weight": 0.581553,
+					"mid": 63
+				},
+				{
+					"id": 3,
+					"text": "자연재해로",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.474226,
+					"mid": 65
+				},
+				{
+					"id": 4,
+					"text": "인한",
+					"head": 5,
+					"label": "VP_MOD",
+					"mod": [
+						3
+					],
+					"weight": 0.790752,
+					"mid": 65
+				},
+				{
+					"id": 5,
+					"text": "손실도",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.703375,
+					"mid": 63
+				},
+				{
+					"id": 6,
+					"text": "있지만",
+					"head": 11,
+					"label": "VP",
+					"mod": [
+						2,
+						5
+					],
+					"weight": 0.843415,
+					"mid": 68
+				},
+				{
+					"id": 7,
+					"text": "인위적",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.778931,
+					"mid": 70
+				},
+				{
+					"id": 8,
+					"text": "파괴에",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [
+						7
+					],
+					"weight": 0.77117,
+					"mid": 72
+				},
+				{
+					"id": 9,
+					"text": "의한",
+					"head": 10,
+					"label": "VP_MOD",
+					"mod": [
+						8
+					],
+					"weight": 0.633329,
+					"mid": 72
+				},
+				{
+					"id": 10,
+					"text": "열대림파괴가",
+					"head": 11,
+					"label": "NP_SBJ",
+					"mod": [
+						9
+					],
+					"weight": 0.704621,
+					"mid": 68
+				},
+				{
+					"id": 11,
+					"text": "대부분이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						6,
+						10
+					],
+					"weight": 0.0135881,
+					"mid": 68
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "이러한 열대림의 파괴는",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "자연재해로",
+					"begin": 3,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@AJT로 인한",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "P#2@MODㄴ 손실도",
+					"begin": 3,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@SBJ는 P#3@SBJ도 있지만",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 8,
+					"sub_phrase": [
+						0,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "인위적 파괴에",
+					"begin": 7,
+					"end": 8,
+					"key_begin": 7,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "VP_MOD",
+					"text": "P#5@AJT에 의한",
+					"begin": 7,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 7,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_SBJ",
+					"text": "P#6@MODㄴ 열대림파괴가",
+					"begin": 7,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 8,
+					"sub_phrase": [
+						6
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "S",
+					"text": "S#4@S지만 P#7@SBJ가 대부분이다.",
+					"begin": 0,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4,
+						7
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "대부분",
+							"label": "NP",
+							"begin": 27,
+							"end": 28,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 29,
+							"end": 31,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "이러하",
+					"sense": 1,
+					"word_id": 0,
+					"weight": 0.448506,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 1,
+							"text": "열대림의",
+							"weight": 0.273673
+						},
+						{
+							"type": "ARG1",
+							"word_id": 2,
+							"text": "파괴는",
+							"weight": 0.623338
+						}
+					]
+				},
+				{
+					"verb": "인",
+					"sense": 2,
+					"word_id": 4,
+					"weight": 0.240467,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "자연재해로",
+							"weight": 0.21142
+						},
+						{
+							"type": "ARG2",
+							"word_id": 5,
+							"text": "손실도",
+							"weight": 0.269515
+						}
+					]
+				},
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.263961,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 2,
+							"text": "파괴는",
+							"weight": 0.17418
+						},
+						{
+							"type": "ARG2",
+							"word_id": 5,
+							"text": "손실도",
+							"weight": 0.353741
+						}
+					]
+				},
+				{
+					"verb": "의하",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0.453278,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 8,
+							"text": "파괴에",
+							"weight": 0.406983
+						},
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "열대림파괴가",
+							"weight": 0.499573
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 8,
+			"text": "개발을 위한 또는 목재로의 활용을 위해 삼림을 벌목하고 원시적인 경작형태인 화전과 플랜테이션으로 파괴되고 있으며, 한번 파괴된 열대 우림은 쉽게 생태계의 복구를 이루기 어렵다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "개발",
+					"type": "NNG",
+					"position": 631,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 637,
+					"weight": 0.129611
+				},
+				{
+					"id": 2,
+					"lemma": "위하",
+					"type": "VV",
+					"position": 641,
+					"weight": 0.778555
+				},
+				{
+					"id": 3,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 644,
+					"weight": 0.304215
+				},
+				{
+					"id": 4,
+					"lemma": "또는",
+					"type": "MAJ",
+					"position": 648,
+					"weight": 0.0001
+				},
+				{
+					"id": 5,
+					"lemma": "목재",
+					"type": "NNG",
+					"position": 655,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 661,
+					"weight": 0.153229
+				},
+				{
+					"id": 7,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 664,
+					"weight": 0.00917577
+				},
+				{
+					"id": 8,
+					"lemma": "활용",
+					"type": "NNG",
+					"position": 668,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 674,
+					"weight": 0.129611
+				},
+				{
+					"id": 10,
+					"lemma": "위하",
+					"type": "VV",
+					"position": 678,
+					"weight": 0.778555
+				},
+				{
+					"id": 11,
+					"lemma": "어",
+					"type": "EC",
+					"position": 681,
+					"weight": 0.41831
+				},
+				{
+					"id": 12,
+					"lemma": "삼림",
+					"type": "NNG",
+					"position": 685,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 691,
+					"weight": 0.129611
+				},
+				{
+					"id": 14,
+					"lemma": "벌목",
+					"type": "NNG",
+					"position": 695,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 701,
+					"weight": 0.0001
+				},
+				{
+					"id": 16,
+					"lemma": "고",
+					"type": "EC",
+					"position": 704,
+					"weight": 0.359917
+				},
+				{
+					"id": 17,
+					"lemma": "원시",
+					"type": "NNG",
+					"position": 708,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 714,
+					"weight": 0.0168756
+				},
+				{
+					"id": 19,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 717,
+					"weight": 0.0165001
+				},
+				{
+					"id": 20,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 717,
+					"weight": 0.220712
+				},
+				{
+					"id": 21,
+					"lemma": "경작",
+					"type": "NNG",
+					"position": 721,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "형태",
+					"type": "NNG",
+					"position": 727,
+					"weight": 0.184483
+				},
+				{
+					"id": 23,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 733,
+					"weight": 0.0177525
+				},
+				{
+					"id": 24,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 733,
+					"weight": 0.220712
+				},
+				{
+					"id": 25,
+					"lemma": "화전",
+					"type": "NNG",
+					"position": 737,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "과",
+					"type": "JC",
+					"position": 743,
+					"weight": 0.017569
+				},
+				{
+					"id": 27,
+					"lemma": "플랜테이션",
+					"type": "NNG",
+					"position": 747,
+					"weight": 0.15
+				},
+				{
+					"id": 28,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 762,
+					"weight": 0.153406
+				},
+				{
+					"id": 29,
+					"lemma": "파괴",
+					"type": "NNG",
+					"position": 769,
+					"weight": 0.9
+				},
+				{
+					"id": 30,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 775,
+					"weight": 0.000224177
+				},
+				{
+					"id": 31,
+					"lemma": "고",
+					"type": "EC",
+					"position": 778,
+					"weight": 0.359917
+				},
+				{
+					"id": 32,
+					"lemma": "있",
+					"type": "VX",
+					"position": 782,
+					"weight": 0.125953
+				},
+				{
+					"id": 33,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 785,
+					"weight": 0.265281
+				},
+				{
+					"id": 34,
+					"lemma": ",",
+					"type": "SP",
+					"position": 791,
+					"weight": 1
+				},
+				{
+					"id": 35,
+					"lemma": "한",
+					"type": "MM",
+					"position": 793,
+					"weight": 0.0376017
+				},
+				{
+					"id": 36,
+					"lemma": "번",
+					"type": "NNB",
+					"position": 796,
+					"weight": 0.179863
+				},
+				{
+					"id": 37,
+					"lemma": "파괴",
+					"type": "NNG",
+					"position": 800,
+					"weight": 0.9
+				},
+				{
+					"id": 38,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 806,
+					"weight": 0.000224177
+				},
+				{
+					"id": 39,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 806,
+					"weight": 0.392321
+				},
+				{
+					"id": 40,
+					"lemma": "열대",
+					"type": "NNG",
+					"position": 810,
+					"weight": 0.9
+				},
+				{
+					"id": 41,
+					"lemma": "우림",
+					"type": "NNG",
+					"position": 817,
+					"weight": 0.174571
+				},
+				{
+					"id": 42,
+					"lemma": "은",
+					"type": "JX",
+					"position": 823,
+					"weight": 0.0449928
+				},
+				{
+					"id": 43,
+					"lemma": "쉽",
+					"type": "VA",
+					"position": 827,
+					"weight": 0.9
+				},
+				{
+					"id": 44,
+					"lemma": "게",
+					"type": "EC",
+					"position": 830,
+					"weight": 0.31879
+				},
+				{
+					"id": 45,
+					"lemma": "생태",
+					"type": "NNG",
+					"position": 834,
+					"weight": 0.218191
+				},
+				{
+					"id": 46,
+					"lemma": "계",
+					"type": "XSN",
+					"position": 840,
+					"weight": 0.027803
+				},
+				{
+					"id": 47,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 843,
+					"weight": 0.120732
+				},
+				{
+					"id": 48,
+					"lemma": "복구",
+					"type": "NNG",
+					"position": 847,
+					"weight": 0.846304
+				},
+				{
+					"id": 49,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 853,
+					"weight": 0.137686
+				},
+				{
+					"id": 50,
+					"lemma": "이루",
+					"type": "VV",
+					"position": 857,
+					"weight": 0.760047
+				},
+				{
+					"id": 51,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 863,
+					"weight": 0.0380514
+				},
+				{
+					"id": 52,
+					"lemma": "어렵",
+					"type": "VA",
+					"position": 867,
+					"weight": 0.0417172
+				},
+				{
+					"id": 53,
+					"lemma": "다",
+					"type": "EF",
+					"position": 873,
+					"weight": 0.132573
+				},
+				{
+					"id": 54,
+					"lemma": ".",
+					"type": "SF",
+					"position": 876,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "개발을",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "위한",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "또는",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "목재로의",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "활용을",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "위해",
+					"type": "",
+					"begin": 10,
+					"end": 11
+				},
+				{
+					"id": 6,
+					"text": "삼림을",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "벌목하고",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "원시적인",
+					"type": "",
+					"begin": 17,
+					"end": 20
+				},
+				{
+					"id": 9,
+					"text": "경작형태인",
+					"type": "",
+					"begin": 21,
+					"end": 24
+				},
+				{
+					"id": 10,
+					"text": "화전과",
+					"type": "",
+					"begin": 25,
+					"end": 26
+				},
+				{
+					"id": 11,
+					"text": "플랜테이션으로",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 12,
+					"text": "파괴되고",
+					"type": "",
+					"begin": 29,
+					"end": 31
+				},
+				{
+					"id": 13,
+					"text": "있으며,",
+					"type": "",
+					"begin": 32,
+					"end": 34
+				},
+				{
+					"id": 14,
+					"text": "한번",
+					"type": "",
+					"begin": 35,
+					"end": 36
+				},
+				{
+					"id": 15,
+					"text": "파괴된",
+					"type": "",
+					"begin": 37,
+					"end": 39
+				},
+				{
+					"id": 16,
+					"text": "열대",
+					"type": "",
+					"begin": 40,
+					"end": 40
+				},
+				{
+					"id": 17,
+					"text": "우림은",
+					"type": "",
+					"begin": 41,
+					"end": 42
+				},
+				{
+					"id": 18,
+					"text": "쉽게",
+					"type": "",
+					"begin": 43,
+					"end": 44
+				},
+				{
+					"id": 19,
+					"text": "생태계의",
+					"type": "",
+					"begin": 45,
+					"end": 47
+				},
+				{
+					"id": 20,
+					"text": "복구를",
+					"type": "",
+					"begin": 48,
+					"end": 49
+				},
+				{
+					"id": 21,
+					"text": "이루기",
+					"type": "",
+					"begin": 50,
+					"end": 51
+				},
+				{
+					"id": 22,
+					"text": "어렵다.",
+					"type": "",
+					"begin": 52,
+					"end": 54
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "한번",
+					"type": "QT_COUNT",
+					"begin": 35,
+					"end": 36,
+					"weight": 0.798366,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "열대",
+					"type": "TM_CLIMATE",
+					"begin": 40,
+					"end": 40,
+					"weight": 0.401281,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "개발을",
+					"head": 1,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.574548,
+					"mid": 76
+				},
+				{
+					"id": 1,
+					"text": "위한",
+					"head": 3,
+					"label": "VP_MOD",
+					"mod": [
+						0
+					],
+					"weight": 0.775865,
+					"mid": 76
+				},
+				{
+					"id": 2,
+					"text": "또는",
+					"head": 3,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.398647,
+					"mid": 79
+				},
+				{
+					"id": 3,
+					"text": "목재로의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [
+						1,
+						2
+					],
+					"weight": 0.736989,
+					"mid": 81
+				},
+				{
+					"id": 4,
+					"text": "활용을",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.703897,
+					"mid": 83
+				},
+				{
+					"id": 5,
+					"text": "위해",
+					"head": 7,
+					"label": "VP",
+					"mod": [
+						4
+					],
+					"weight": 0.773115,
+					"mid": 84
+				},
+				{
+					"id": 6,
+					"text": "삼림을",
+					"head": 7,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.756711,
+					"mid": 84
+				},
+				{
+					"id": 7,
+					"text": "벌목하고",
+					"head": 12,
+					"label": "VP",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.750944,
+					"mid": 86
+				},
+				{
+					"id": 8,
+					"text": "원시적인",
+					"head": 9,
+					"label": "VNP_MOD",
+					"mod": [],
+					"weight": 0.289379,
+					"mid": 88
+				},
+				{
+					"id": 9,
+					"text": "경작형태인",
+					"head": 11,
+					"label": "VNP_MOD",
+					"mod": [
+						8
+					],
+					"weight": 0.726865,
+					"mid": 89
+				},
+				{
+					"id": 10,
+					"text": "화전과",
+					"head": 11,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.716917,
+					"mid": 89
+				},
+				{
+					"id": 11,
+					"text": "플랜테이션으로",
+					"head": 12,
+					"label": "NP_AJT",
+					"mod": [
+						9,
+						10
+					],
+					"weight": 0.743979,
+					"mid": 86
+				},
+				{
+					"id": 12,
+					"text": "파괴되고",
+					"head": 13,
+					"label": "VP",
+					"mod": [
+						7,
+						11
+					],
+					"weight": 0.835505,
+					"mid": 92
+				},
+				{
+					"id": 13,
+					"text": "있으며,",
+					"head": 21,
+					"label": "VP",
+					"mod": [
+						12
+					],
+					"weight": 0.698273,
+					"mid": 93
+				},
+				{
+					"id": 14,
+					"text": "한번",
+					"head": 15,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.640362,
+					"mid": 95
+				},
+				{
+					"id": 15,
+					"text": "파괴된",
+					"head": 17,
+					"label": "VP_MOD",
+					"mod": [
+						14
+					],
+					"weight": 0.777744,
+					"mid": 95
+				},
+				{
+					"id": 16,
+					"text": "열대",
+					"head": 17,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.748602,
+					"mid": 98
+				},
+				{
+					"id": 17,
+					"text": "우림은",
+					"head": 21,
+					"label": "NP_SBJ",
+					"mod": [
+						15,
+						16
+					],
+					"weight": 0.712884,
+					"mid": 93
+				},
+				{
+					"id": 18,
+					"text": "쉽게",
+					"head": 21,
+					"label": "VP_AJT",
+					"mod": [],
+					"weight": 0.544515,
+					"mid": 93
+				},
+				{
+					"id": 19,
+					"text": "생태계의",
+					"head": 20,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.641021,
+					"mid": 102
+				},
+				{
+					"id": 20,
+					"text": "복구를",
+					"head": 21,
+					"label": "NP_OBJ",
+					"mod": [
+						19
+					],
+					"weight": 0.783578,
+					"mid": 93
+				},
+				{
+					"id": 21,
+					"text": "이루기",
+					"head": 22,
+					"label": "VP_SBJ",
+					"mod": [
+						13,
+						17,
+						18,
+						20
+					],
+					"weight": 0.582915,
+					"mid": 93
+				},
+				{
+					"id": 22,
+					"text": "어렵다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						21
+					],
+					"weight": 0.0000868761,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_OBJ",
+					"text": "개발을",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP_MOD",
+					"text": "P#0@OBJ을 위한",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "P#1@MODㄴ 또는 목재로의 활용을",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP",
+					"text": "P#2@OBJ을 위해",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 5,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_OBJ",
+					"text": "삼림을",
+					"begin": 6,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "VP",
+					"text": "P#3@VP어 P#4@OBJ을 벌목하고",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 8,
+					"sub_phrase": [
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "VNP_MOD",
+					"text": "원시적인 경작형태인",
+					"begin": 8,
+					"end": 9,
+					"key_begin": 8,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_AJT",
+					"text": "P#6@MODㄴ 화전과 플랜테이션으로",
+					"begin": 8,
+					"end": 11,
+					"key_begin": 10,
+					"head_phrase": 8,
+					"sub_phrase": [
+						6
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "VP",
+					"text": "P#5@VP고 P#7@AJT으로 파괴되고 있으며,",
+					"begin": 0,
+					"end": 13,
+					"key_begin": 12,
+					"head_phrase": 14,
+					"sub_phrase": [
+						5,
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "NP_AJT",
+					"text": "한번",
+					"begin": 14,
+					"end": 14,
+					"key_begin": 14,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "VP_MOD",
+					"text": "P#9@AJT번 파괴된",
+					"begin": 14,
+					"end": 15,
+					"key_begin": 15,
+					"head_phrase": 11,
+					"sub_phrase": [
+						9
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 11,
+					"label": "NP_SBJ",
+					"text": "P#10@MODㄴ 열대 우림은",
+					"begin": 14,
+					"end": 17,
+					"key_begin": 16,
+					"head_phrase": 14,
+					"sub_phrase": [
+						10
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 12,
+					"label": "VP_AJT",
+					"text": "쉽게",
+					"begin": 18,
+					"end": 18,
+					"key_begin": 18,
+					"head_phrase": 14,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 13,
+					"label": "NP_OBJ",
+					"text": "생태계의 복구를",
+					"begin": 19,
+					"end": 20,
+					"key_begin": 19,
+					"head_phrase": 14,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 14,
+					"label": "S_SBJ",
+					"text": "P#8@VP으며, P#11@SBJ은 P#12@AJT게 P#13@OBJ를 이루기",
+					"begin": 0,
+					"end": 21,
+					"key_begin": 21,
+					"head_phrase": 15,
+					"sub_phrase": [
+						8,
+						11,
+						12,
+						13
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 15,
+					"label": "S",
+					"text": "S#14@SBJ기 어렵다.",
+					"begin": 0,
+					"end": 22,
+					"key_begin": 22,
+					"head_phrase": -1,
+					"sub_phrase": [
+						14
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "위하",
+					"sense": 1,
+					"word_id": 1,
+					"weight": 0.400453,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 0,
+							"text": "개발을",
+							"weight": 0.427969
+						},
+						{
+							"type": "ARG0",
+							"word_id": 3,
+							"text": "목재로의",
+							"weight": 0.311254
+						},
+						{
+							"type": "ARG0",
+							"word_id": 4,
+							"text": "활용을",
+							"weight": 0.462137
+						}
+					]
+				},
+				{
+					"verb": "위하",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.296949,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "활용을",
+							"weight": 0.296949
+						}
+					]
+				},
+				{
+					"verb": "벌목",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.378669,
+					"argument": [
+						{
+							"type": "ARGM-PRP",
+							"word_id": 5,
+							"text": "위해",
+							"weight": 0.292255
+						},
+						{
+							"type": "ARG1",
+							"word_id": 6,
+							"text": "삼림을",
+							"weight": 0.465082
+						}
+					]
+				},
+				{
+					"verb": "파괴",
+					"sense": 1,
+					"word_id": 12,
+					"weight": 0.355745,
+					"argument": [
+						{
+							"type": "ARGM-CAU",
+							"word_id": 11,
+							"text": "플랜테이션으로",
+							"weight": 0.0837412
+						},
+						{
+							"type": "AUX",
+							"word_id": 13,
+							"text": "있으며,",
+							"weight": 0.627749
+						}
+					]
+				},
+				{
+					"verb": "파괴",
+					"sense": 1,
+					"word_id": 15,
+					"weight": 0.267416,
+					"argument": [
+						{
+							"type": "ARGM-EXT",
+							"word_id": 14,
+							"text": "한번",
+							"weight": 0.136709
+						},
+						{
+							"type": "ARG1",
+							"word_id": 17,
+							"text": "우림은",
+							"weight": 0.398122
+						}
+					]
+				},
+				{
+					"verb": "이루",
+					"sense": 1,
+					"word_id": 21,
+					"weight": 0.397988,
+					"argument": [
+						{
+							"type": "ARGM-MNR",
+							"word_id": 18,
+							"text": "쉽게",
+							"weight": 0.376741
+						},
+						{
+							"type": "ARG1",
+							"word_id": 20,
+							"text": "복구를",
+							"weight": 0.419234
+						}
+					]
+				},
+				{
+					"verb": "어렵",
+					"sense": 1,
+					"word_id": 22,
+					"weight": 0.469744,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 21,
+							"text": "이루기",
+							"weight": 0.469744
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 7,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 12,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 9,
+			"text": "열대림 감소의 원인에는 인구증가와 경제발전의 요청, 가령 농업개발이나 공업화, 외화획득 등이 있고 전통적 요소, 가령 이동경작이나 가축방목, 연료채취 등도 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "열대",
+					"type": "NNG",
+					"position": 877,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "림",
+					"type": "XSN",
+					"position": 883,
+					"weight": 0.015139
+				},
+				{
+					"id": 2,
+					"lemma": "감소",
+					"type": "NNG",
+					"position": 887,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 893,
+					"weight": 0.0694213
+				},
+				{
+					"id": 4,
+					"lemma": "원인",
+					"type": "NNG",
+					"position": 897,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 903,
+					"weight": 0.153364
+				},
+				{
+					"id": 6,
+					"lemma": "는",
+					"type": "JX",
+					"position": 906,
+					"weight": 0.0387928
+				},
+				{
+					"id": 7,
+					"lemma": "인구",
+					"type": "NNG",
+					"position": 910,
+					"weight": 0.323577
+				},
+				{
+					"id": 8,
+					"lemma": "증가",
+					"type": "NNG",
+					"position": 916,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "와",
+					"type": "JC",
+					"position": 922,
+					"weight": 0.0169714
+				},
+				{
+					"id": 10,
+					"lemma": "경제",
+					"type": "NNG",
+					"position": 926,
+					"weight": 0.803
+				},
+				{
+					"id": 11,
+					"lemma": "발전",
+					"type": "NNG",
+					"position": 932,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 938,
+					"weight": 0.0694213
+				},
+				{
+					"id": 13,
+					"lemma": "요청",
+					"type": "NNG",
+					"position": 942,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": ",",
+					"type": "SP",
+					"position": 948,
+					"weight": 1
+				},
+				{
+					"id": 15,
+					"lemma": "가령",
+					"type": "MAG",
+					"position": 950,
+					"weight": 0.0576586
+				},
+				{
+					"id": 16,
+					"lemma": "농업",
+					"type": "NNG",
+					"position": 957,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "개발",
+					"type": "NNG",
+					"position": 963,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "이나",
+					"type": "JC",
+					"position": 969,
+					"weight": 0.0238189
+				},
+				{
+					"id": 19,
+					"lemma": "공업",
+					"type": "NNG",
+					"position": 976,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "화",
+					"type": "XSN",
+					"position": 982,
+					"weight": 0.0240371
+				},
+				{
+					"id": 21,
+					"lemma": ",",
+					"type": "SP",
+					"position": 985,
+					"weight": 1
+				},
+				{
+					"id": 22,
+					"lemma": "외화",
+					"type": "NNG",
+					"position": 987,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "획득",
+					"type": "NNG",
+					"position": 993,
+					"weight": 0.9
+				},
+				{
+					"id": 24,
+					"lemma": "등",
+					"type": "NNB",
+					"position": 1000,
+					"weight": 0.0146757
+				},
+				{
+					"id": 25,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 1003,
+					"weight": 0.0376169
+				},
+				{
+					"id": 26,
+					"lemma": "있",
+					"type": "VA",
+					"position": 1007,
+					"weight": 0.12767
+				},
+				{
+					"id": 27,
+					"lemma": "고",
+					"type": "EC",
+					"position": 1010,
+					"weight": 0.310376
+				},
+				{
+					"id": 28,
+					"lemma": "전통",
+					"type": "NNG",
+					"position": 1014,
+					"weight": 0.9
+				},
+				{
+					"id": 29,
+					"lemma": "적",
+					"type": "NNG",
+					"position": 1020,
+					"weight": 0.0169769
+				},
+				{
+					"id": 30,
+					"lemma": "요소",
+					"type": "NNG",
+					"position": 1024,
+					"weight": 0.9
+				},
+				{
+					"id": 31,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1030,
+					"weight": 1
+				},
+				{
+					"id": 32,
+					"lemma": "가령",
+					"type": "MAG",
+					"position": 1032,
+					"weight": 0.0576586
+				},
+				{
+					"id": 33,
+					"lemma": "이동경작",
+					"type": "NNP",
+					"position": 1039,
+					"weight": 0.6
+				},
+				{
+					"id": 34,
+					"lemma": "이나",
+					"type": "JC",
+					"position": 1051,
+					"weight": 0.014671
+				},
+				{
+					"id": 35,
+					"lemma": "가축",
+					"type": "NNG",
+					"position": 1058,
+					"weight": 0.9
+				},
+				{
+					"id": 36,
+					"lemma": "방목",
+					"type": "NNG",
+					"position": 1064,
+					"weight": 0.9
+				},
+				{
+					"id": 37,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1070,
+					"weight": 1
+				},
+				{
+					"id": 38,
+					"lemma": "연료",
+					"type": "NNG",
+					"position": 1072,
+					"weight": 0.9
+				},
+				{
+					"id": 39,
+					"lemma": "채취",
+					"type": "NNG",
+					"position": 1078,
+					"weight": 0.9
+				},
+				{
+					"id": 40,
+					"lemma": "등",
+					"type": "NNB",
+					"position": 1085,
+					"weight": 0.0146757
+				},
+				{
+					"id": 41,
+					"lemma": "도",
+					"type": "JX",
+					"position": 1088,
+					"weight": 0.103448
+				},
+				{
+					"id": 42,
+					"lemma": "있",
+					"type": "VA",
+					"position": 1092,
+					"weight": 0.0558599
+				},
+				{
+					"id": 43,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1095,
+					"weight": 0.132573
+				},
+				{
+					"id": 44,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1098,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "열대림",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "감소의",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "원인에는",
+					"type": "",
+					"begin": 4,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "인구증가와",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 4,
+					"text": "경제발전의",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				},
+				{
+					"id": 5,
+					"text": "요청,",
+					"type": "",
+					"begin": 13,
+					"end": 14
+				},
+				{
+					"id": 6,
+					"text": "가령",
+					"type": "",
+					"begin": 15,
+					"end": 15
+				},
+				{
+					"id": 7,
+					"text": "농업개발이나",
+					"type": "",
+					"begin": 16,
+					"end": 18
+				},
+				{
+					"id": 8,
+					"text": "공업화,",
+					"type": "",
+					"begin": 19,
+					"end": 21
+				},
+				{
+					"id": 9,
+					"text": "외화획득",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 10,
+					"text": "등이",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 11,
+					"text": "있고",
+					"type": "",
+					"begin": 26,
+					"end": 27
+				},
+				{
+					"id": 12,
+					"text": "전통적",
+					"type": "",
+					"begin": 28,
+					"end": 29
+				},
+				{
+					"id": 13,
+					"text": "요소,",
+					"type": "",
+					"begin": 30,
+					"end": 31
+				},
+				{
+					"id": 14,
+					"text": "가령",
+					"type": "",
+					"begin": 32,
+					"end": 32
+				},
+				{
+					"id": 15,
+					"text": "이동경작이나",
+					"type": "",
+					"begin": 33,
+					"end": 34
+				},
+				{
+					"id": 16,
+					"text": "가축방목,",
+					"type": "",
+					"begin": 35,
+					"end": 37
+				},
+				{
+					"id": 17,
+					"text": "연료채취",
+					"type": "",
+					"begin": 38,
+					"end": 39
+				},
+				{
+					"id": 18,
+					"text": "등도",
+					"type": "",
+					"begin": 40,
+					"end": 41
+				},
+				{
+					"id": 19,
+					"text": "있다.",
+					"type": "",
+					"begin": 42,
+					"end": 44
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "열대",
+					"type": "TM_CLIMATE",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.368616,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "열대림",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.799891,
+					"mid": 105
+				},
+				{
+					"id": 1,
+					"text": "감소의",
+					"head": 2,
+					"label": "NP_MOD",
+					"mod": [
+						0
+					],
+					"weight": 0.743793,
+					"mid": 107
+				},
+				{
+					"id": 2,
+					"text": "원인에는",
+					"head": 11,
+					"label": "NP_AJT",
+					"mod": [
+						1
+					],
+					"weight": 0.606979,
+					"mid": 109
+				},
+				{
+					"id": 3,
+					"text": "인구증가와",
+					"head": 4,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.612812,
+					"mid": 111
+				},
+				{
+					"id": 4,
+					"text": "경제발전의",
+					"head": 5,
+					"label": "NP_MOD",
+					"mod": [
+						3
+					],
+					"weight": 0.642358,
+					"mid": 113
+				},
+				{
+					"id": 5,
+					"text": "요청,",
+					"head": 11,
+					"label": "NP_SBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.0474362,
+					"mid": 109
+				},
+				{
+					"id": 6,
+					"text": "가령",
+					"head": 11,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.677989,
+					"mid": 109
+				},
+				{
+					"id": 7,
+					"text": "농업개발이나",
+					"head": 9,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.738083,
+					"mid": 117
+				},
+				{
+					"id": 8,
+					"text": "공업화,",
+					"head": 9,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.765653,
+					"mid": 117
+				},
+				{
+					"id": 9,
+					"text": "외화획득",
+					"head": 10,
+					"label": "NP",
+					"mod": [
+						7,
+						8
+					],
+					"weight": 0.680272,
+					"mid": 120
+				},
+				{
+					"id": 10,
+					"text": "등이",
+					"head": 11,
+					"label": "NP_SBJ",
+					"mod": [
+						9
+					],
+					"weight": 0.800775,
+					"mid": 109
+				},
+				{
+					"id": 11,
+					"text": "있고",
+					"head": 19,
+					"label": "VP",
+					"mod": [
+						2,
+						5,
+						6,
+						10
+					],
+					"weight": 0.900899,
+					"mid": 109
+				},
+				{
+					"id": 12,
+					"text": "전통적",
+					"head": 13,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.389998,
+					"mid": 123
+				},
+				{
+					"id": 13,
+					"text": "요소,",
+					"head": 17,
+					"label": "NP_CNJ",
+					"mod": [
+						12
+					],
+					"weight": 0.685724,
+					"mid": 125
+				},
+				{
+					"id": 14,
+					"text": "가령",
+					"head": 17,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.134771,
+					"mid": 125
+				},
+				{
+					"id": 15,
+					"text": "이동경작이나",
+					"head": 17,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.606997,
+					"mid": 125
+				},
+				{
+					"id": 16,
+					"text": "가축방목,",
+					"head": 17,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.599061,
+					"mid": 125
+				},
+				{
+					"id": 17,
+					"text": "연료채취",
+					"head": 18,
+					"label": "NP",
+					"mod": [
+						13,
+						14,
+						15,
+						16
+					],
+					"weight": 0.721369,
+					"mid": 130
+				},
+				{
+					"id": 18,
+					"text": "등도",
+					"head": 19,
+					"label": "NP_SBJ",
+					"mod": [
+						17
+					],
+					"weight": 0.765154,
+					"mid": 131
+				},
+				{
+					"id": 19,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						11,
+						18
+					],
+					"weight": 0.00000680484,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "열대림 감소의 원인에는",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "인구증가와 경제발전의 요청,",
+					"begin": 3,
+					"end": 5,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "AP",
+					"text": "가령",
+					"begin": 6,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "농업개발이나 공업화, 외화획득 등이",
+					"begin": 7,
+					"end": 10,
+					"key_begin": 7,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "농업개발",
+							"label": "NP_SBJ",
+							"begin": 16,
+							"end": 17,
+							"ne_type": ""
+						},
+						{
+							"text": "공업화",
+							"label": "NP_SBJ",
+							"begin": 19,
+							"end": 20,
+							"ne_type": ""
+						},
+						{
+							"text": "외화획득",
+							"label": "NP_SBJ",
+							"begin": 22,
+							"end": 23,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@AJT는 P#1@SBJ요청, P#2@AP가령 P#3@SBJ이 있고",
+					"begin": 0,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 6,
+					"sub_phrase": [
+						0,
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_SBJ",
+					"text": "전통적 요소, 가령 이동경작이나 가축방목, 연료채취 등도",
+					"begin": 12,
+					"end": 18,
+					"key_begin": 12,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "전통적 요소",
+							"label": "NP_SBJ",
+							"begin": 28,
+							"end": 30,
+							"ne_type": ""
+						},
+						{
+							"text": "이동경작",
+							"label": "NP_SBJ",
+							"begin": 33,
+							"end": 33,
+							"ne_type": ""
+						},
+						{
+							"text": "가축방목",
+							"label": "NP_SBJ",
+							"begin": 35,
+							"end": 36,
+							"ne_type": ""
+						},
+						{
+							"text": "연료채취",
+							"label": "NP_SBJ",
+							"begin": 38,
+							"end": 39,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "S#4@S고 P#5@SBJ도 있다.",
+					"begin": 0,
+					"end": 19,
+					"key_begin": 19,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4,
+						5
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 11,
+					"weight": 0.49215,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "등이",
+							"weight": 0.49215
+						}
+					]
+				},
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 19,
+					"weight": 0.385655,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 18,
+							"text": "등도",
+							"weight": 0.385655
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 10,
+			"text": "최근에 이르러 열대림은 연간 17만 km²씩 파괴되어 가고 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "최근",
+					"type": "NNG",
+					"position": 1099,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1105,
+					"weight": 0.153364
+				},
+				{
+					"id": 2,
+					"lemma": "이르",
+					"type": "VV",
+					"position": 1109,
+					"weight": 0.434887
+				},
+				{
+					"id": 3,
+					"lemma": "어",
+					"type": "EC",
+					"position": 1115,
+					"weight": 0.41831
+				},
+				{
+					"id": 4,
+					"lemma": "열대",
+					"type": "NNG",
+					"position": 1119,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "림",
+					"type": "XSN",
+					"position": 1125,
+					"weight": 0.015139
+				},
+				{
+					"id": 6,
+					"lemma": "은",
+					"type": "JX",
+					"position": 1128,
+					"weight": 0.100393
+				},
+				{
+					"id": 7,
+					"lemma": "연간",
+					"type": "NNG",
+					"position": 1132,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "17",
+					"type": "SN",
+					"position": 1139,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "만",
+					"type": "NR",
+					"position": 1141,
+					"weight": 0.0178717
+				},
+				{
+					"id": 10,
+					"lemma": "km",
+					"type": "SL",
+					"position": 1145,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": "²",
+					"type": "SW",
+					"position": 1147,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "씩",
+					"type": "XSN",
+					"position": 1149,
+					"weight": 0.0115142
+				},
+				{
+					"id": 13,
+					"lemma": "파괴",
+					"type": "NNG",
+					"position": 1153,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 1159,
+					"weight": 0.000224177
+				},
+				{
+					"id": 15,
+					"lemma": "어",
+					"type": "EC",
+					"position": 1162,
+					"weight": 0.361326
+				},
+				{
+					"id": 16,
+					"lemma": "가",
+					"type": "VX",
+					"position": 1166,
+					"weight": 0.00757084
+				},
+				{
+					"id": 17,
+					"lemma": "고",
+					"type": "EC",
+					"position": 1169,
+					"weight": 0.25644
+				},
+				{
+					"id": 18,
+					"lemma": "있",
+					"type": "VX",
+					"position": 1173,
+					"weight": 0.125953
+				},
+				{
+					"id": 19,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1176,
+					"weight": 0.180366
+				},
+				{
+					"id": 20,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1179,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "최근에",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "이르러",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "열대림은",
+					"type": "",
+					"begin": 4,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "연간",
+					"type": "",
+					"begin": 7,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "17만",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "km²씩",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "파괴되어",
+					"type": "",
+					"begin": 13,
+					"end": 15
+				},
+				{
+					"id": 7,
+					"text": "가고",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 8,
+					"text": "있다.",
+					"type": "",
+					"begin": 18,
+					"end": 20
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "열대",
+					"type": "TM_CLIMATE",
+					"begin": 4,
+					"end": 4,
+					"weight": 0.40505,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "17만 km²",
+					"type": "QT_SIZE",
+					"begin": 8,
+					"end": 11,
+					"weight": 0.773477,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "최근에",
+					"head": 1,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.845897,
+					"mid": 133
+				},
+				{
+					"id": 1,
+					"text": "이르러",
+					"head": 6,
+					"label": "VP",
+					"mod": [
+						0
+					],
+					"weight": 0.8563,
+					"mid": 134
+				},
+				{
+					"id": 2,
+					"text": "열대림은",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.815487,
+					"mid": 134
+				},
+				{
+					"id": 3,
+					"text": "연간",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.317622,
+					"mid": 137
+				},
+				{
+					"id": 4,
+					"text": "17만",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.744075,
+					"mid": 137
+				},
+				{
+					"id": 5,
+					"text": "km²씩",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [
+						3,
+						4
+					],
+					"weight": 0.597211,
+					"mid": 134
+				},
+				{
+					"id": 6,
+					"text": "파괴되어",
+					"head": 7,
+					"label": "VP",
+					"mod": [
+						1,
+						2,
+						5
+					],
+					"weight": 0.835452,
+					"mid": 140
+				},
+				{
+					"id": 7,
+					"text": "가고",
+					"head": 8,
+					"label": "VP",
+					"mod": [
+						6
+					],
+					"weight": 0.853131,
+					"mid": 140
+				},
+				{
+					"id": 8,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						7
+					],
+					"weight": 0.0458579,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "최근에",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP",
+					"text": "P#0@AJT에 이르러",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "열대림은",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "연간 17만 km²씩",
+					"begin": 3,
+					"end": 5,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#1@VP어 P#2@SBJ은 P#3@SBJ씩 파괴되어 가고 있다.",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "이르",
+					"sense": 1,
+					"word_id": 1,
+					"weight": 0.386718,
+					"argument": [
+						{
+							"type": "ARG3",
+							"word_id": 0,
+							"text": "최근에",
+							"weight": 0.386718
+						}
+					]
+				},
+				{
+					"verb": "파괴",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.447934,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "km²씩",
+							"weight": 0.19548
+						},
+						{
+							"type": "AUX",
+							"word_id": 7,
+							"text": "가고",
+							"weight": 0.711677
+						},
+						{
+							"type": "AUX",
+							"word_id": 8,
+							"text": "있다.",
+							"weight": 0.436646
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 11,
+			"text": "이러한 아마존 우림을 보존하기 위해서는 범세계적인 노력이 필요하다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이러하",
+					"type": "VA",
+					"position": 1180,
+					"weight": 0.0465593
+				},
+				{
+					"id": 1,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1186,
+					"weight": 0.430446
+				},
+				{
+					"id": 2,
+					"lemma": "아마존",
+					"type": "NNP",
+					"position": 1190,
+					"weight": 0.0146735
+				},
+				{
+					"id": 3,
+					"lemma": "우림",
+					"type": "NNG",
+					"position": 1200,
+					"weight": 0.266325
+				},
+				{
+					"id": 4,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1206,
+					"weight": 0.129611
+				},
+				{
+					"id": 5,
+					"lemma": "보존",
+					"type": "NNG",
+					"position": 1210,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1216,
+					"weight": 0.0001
+				},
+				{
+					"id": 7,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 1219,
+					"weight": 0.0556099
+				},
+				{
+					"id": 8,
+					"lemma": "위하",
+					"type": "VV",
+					"position": 1223,
+					"weight": 0.176484
+				},
+				{
+					"id": 9,
+					"lemma": "어서",
+					"type": "EC",
+					"position": 1226,
+					"weight": 0.421998
+				},
+				{
+					"id": 10,
+					"lemma": "는",
+					"type": "JX",
+					"position": 1232,
+					"weight": 0.0115393
+				},
+				{
+					"id": 11,
+					"lemma": "범",
+					"type": "XPN",
+					"position": 1236,
+					"weight": 0.000897078
+				},
+				{
+					"id": 12,
+					"lemma": "세계",
+					"type": "NNG",
+					"position": 1239,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 1245,
+					"weight": 0.0168756
+				},
+				{
+					"id": 14,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 1248,
+					"weight": 0.0165001
+				},
+				{
+					"id": 15,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1248,
+					"weight": 0.220712
+				},
+				{
+					"id": 16,
+					"lemma": "노력",
+					"type": "NNG",
+					"position": 1252,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 1258,
+					"weight": 0.0360723
+				},
+				{
+					"id": 18,
+					"lemma": "필요",
+					"type": "NNG",
+					"position": 1262,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "하",
+					"type": "XSA",
+					"position": 1268,
+					"weight": 0.0001
+				},
+				{
+					"id": 20,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1271,
+					"weight": 0.0497538
+				},
+				{
+					"id": 21,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1274,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이러한",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "아마존",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "우림을",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "보존하기",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "위해서는",
+					"type": "",
+					"begin": 8,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "범세계적인",
+					"type": "",
+					"begin": 11,
+					"end": 15
+				},
+				{
+					"id": 6,
+					"text": "노력이",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 7,
+					"text": "필요하다.",
+					"type": "",
+					"begin": 18,
+					"end": 21
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "아마존",
+					"type": "TM_CLIMATE",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.14869,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이러한",
+					"head": 2,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.695392,
+					"mid": 141
+				},
+				{
+					"id": 1,
+					"text": "아마존",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.669205,
+					"mid": 144
+				},
+				{
+					"id": 2,
+					"text": "우림을",
+					"head": 3,
+					"label": "NP_OBJ",
+					"mod": [
+						0,
+						1
+					],
+					"weight": 0.832474,
+					"mid": 146
+				},
+				{
+					"id": 3,
+					"text": "보존하기",
+					"head": 4,
+					"label": "VP_OBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.673946,
+					"mid": 146
+				},
+				{
+					"id": 4,
+					"text": "위해서는",
+					"head": 7,
+					"label": "VP",
+					"mod": [
+						3
+					],
+					"weight": 0.78016,
+					"mid": -2
+				},
+				{
+					"id": 5,
+					"text": "범세계적인",
+					"head": 6,
+					"label": "VNP_MOD",
+					"mod": [],
+					"weight": 0.608804,
+					"mid": 148
+				},
+				{
+					"id": 6,
+					"text": "노력이",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						5
+					],
+					"weight": 0.796792,
+					"mid": 149
+				},
+				{
+					"id": 7,
+					"text": "필요하다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						4,
+						6
+					],
+					"weight": 0.0838279,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_OBJ",
+					"text": "이러한 아마존 우림을",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP_OBJ",
+					"text": "P#0@OBJ을 보존하기",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 2,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP",
+					"text": "P#1@OBJ기 위해서는",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "범세계적인 노력이",
+					"begin": 5,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#2@VP는 P#3@SBJ이 필요하다.",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": -1,
+					"sub_phrase": [
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "이러하",
+					"sense": 1,
+					"word_id": 0,
+					"weight": 0.449241,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 2,
+							"text": "우림을",
+							"weight": 0.449241
+						}
+					]
+				},
+				{
+					"verb": "보존",
+					"sense": 1,
+					"word_id": 3,
+					"weight": 0.368996,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 2,
+							"text": "우림을",
+							"weight": 0.368996
+						}
+					]
+				},
+				{
+					"verb": "위하",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.495324,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "보존하기",
+							"weight": 0.495324
+						}
+					]
+				},
+				{
+					"verb": "필요",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.43269,
+					"argument": [
+						{
+							"type": "ARGM-PRP",
+							"word_id": 4,
+							"text": "위해서는",
+							"weight": 0.496305
+						},
+						{
+							"type": "ARG1",
+							"word_id": 6,
+							"text": "노력이",
+							"weight": 0.369075
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 3,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "LCG_RIVER",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 2,
+					"text": "아마존",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "아마존",
+					"ne_id": 0
+				},
+				{
+					"id": 18,
+					"text": "아마존",
+					"sent_id": 5,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "아마존",
+					"ne_id": 3
+				},
+				{
+					"id": 69,
+					"text": "아마존",
+					"sent_id": 11,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "아마존",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "LCG_CONTINENT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "남아메리카",
+					"sent_id": 1,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "남아메리카",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "TM_CLIMATE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 30,
+					"text": "열대림",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "열대림",
+					"ne_id": 0
+				},
+				{
+					"id": 51,
+					"text": "열대림",
+					"sent_id": 9,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "열대림",
+					"ne_id": 0
+				},
+				{
+					"id": 65,
+					"text": "열대림",
+					"sent_id": 10,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "열대림",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "MT_ELEMENT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 9,
+					"text": "지구 산소",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "지구 산소",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "LC_SPACE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 10,
+					"text": "지구",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "지구",
+					"ne_id": 0
+				},
+				{
+					"id": 13,
+					"text": "지구",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "지구",
+					"ne_id": 0
+				},
+				{
+					"id": 15,
+					"text": "지구상",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "지구상",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "QT_PERCENTAGE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 8,
+					"text": "지구 산소의 20 이상",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 3,
+					"start_eid_short": 0,
+					"end_eid_short": 3,
+					"text_short": "지구 산소의 20 이상",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "TM_CELL_TISSUE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 12,
+					"text": "지구의 허파이라고",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "지구의 허파이라고",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "AM_TYPE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 16,
+					"text": "동식물",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "동식물",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "AM_FISH",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "피라냐",
+					"sent_id": 5,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "피라냐",
+					"ne_id": 7
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "OGG_ECONOMY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 20,
+					"text": "재규어",
+					"sent_id": 5,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "재규어",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "AM_REPTILIA",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "아나콘다",
+					"sent_id": 5,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "아나콘다",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "AM_REPTILIA",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 22,
+					"text": "악어",
+					"sent_id": 5,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "악어",
+					"ne_id": 6
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 19,
+					"text": "재규어 아나콘다 악어 피라냐 등",
+					"sent_id": 5,
+					"start_eid": 8,
+					"end_eid": 12,
+					"start_eid_short": 8,
+					"end_eid_short": 12,
+					"text_short": "재규어 아나콘다 악어 피라냐 등",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "AM_MAMMALIA",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 26,
+					"text": "긴팔원숭이",
+					"sent_id": 6,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "긴팔원숭이",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 24,
+					"text": "긴팔원숭이 오랑우탄 등 희귀 동물들",
+					"sent_id": 6,
+					"start_eid": 1,
+					"end_eid": 5,
+					"start_eid_short": 1,
+					"end_eid_short": 5,
+					"text_short": "긴팔원숭이 오랑우탄 등 희귀 동물들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 28,
+					"text": "희귀",
+					"sent_id": 6,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "희귀",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 29,
+					"text": "열대림의 파괴",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "열대림의 파괴",
+					"ne_id": -1
+				},
+				{
+					"id": 33,
+					"text": "인위적 파괴에 의한 열대림파괴",
+					"sent_id": 7,
+					"start_eid": 7,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "열대림파괴",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 31,
+					"text": "자연재해로 인한 손실",
+					"sent_id": 7,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "손실",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 32,
+					"text": "자연재해",
+					"sent_id": 7,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "자연재해",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "인위적",
+					"sent_id": 7,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "인위적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "개발",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "개발",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 37,
+					"text": "목재로의 활용",
+					"sent_id": 8,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "목재로의 활용",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 39,
+					"text": "삼림",
+					"sent_id": 8,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "삼림",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 40,
+					"text": "원시적인 경작형태인 화전과 플랜테이션",
+					"sent_id": 8,
+					"start_eid": 8,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "플랜테이션",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 42,
+					"text": "화전",
+					"sent_id": 8,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "화전",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "TM_CLIMATE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "아마존 우림",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "아마존 우림",
+					"ne_id": 0
+				},
+				{
+					"id": 1,
+					"text": "아마존 우림",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "아마존 우림",
+					"ne_id": 1
+				},
+				{
+					"id": 3,
+					"text": "남아메리카의 아마존강에 있는 열대우림이다",
+					"sent_id": 1,
+					"start_eid": 2,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "열대우림이다",
+					"ne_id": 4
+				},
+				{
+					"id": 6,
+					"text": "이 곳",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "이 곳",
+					"ne_id": -1
+				},
+				{
+					"id": 7,
+					"text": "아마조니아Amazonia",
+					"sent_id": 2,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "아마조니아Amazonia",
+					"ne_id": 0
+				},
+				{
+					"id": 11,
+					"text": "아마존 우림",
+					"sent_id": 3,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "아마존 우림",
+					"ne_id": -1
+				},
+				{
+					"id": 17,
+					"text": "아마존 우림",
+					"sent_id": 5,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "아마존 우림",
+					"ne_id": -1
+				},
+				{
+					"id": 68,
+					"text": "아마존 우림",
+					"sent_id": 11,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "아마존 우림",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "QT_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 45,
+					"text": "한번",
+					"sent_id": 8,
+					"start_eid": 14,
+					"end_eid": 14,
+					"start_eid_short": 14,
+					"end_eid_short": 14,
+					"text_short": "한번",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 47,
+					"text": "생태계의 복구",
+					"sent_id": 8,
+					"start_eid": 19,
+					"end_eid": 20,
+					"start_eid_short": 19,
+					"end_eid_short": 20,
+					"text_short": "생태계의 복구",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 28,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 48,
+					"text": "생태계",
+					"sent_id": 8,
+					"start_eid": 19,
+					"end_eid": 19,
+					"start_eid_short": 19,
+					"end_eid_short": 19,
+					"text_short": "생태계",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 29,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 50,
+					"text": "열대림 감소",
+					"sent_id": 9,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "열대림 감소",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 30,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 49,
+					"text": "열대림 감소의 원인",
+					"sent_id": 9,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "열대림 감소의 원인",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 31,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 52,
+					"text": "인구증가와 경제발전의 요청",
+					"sent_id": 9,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "경제발전의 요청",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 32,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 53,
+					"text": "인구증가",
+					"sent_id": 9,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "인구증가",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 33,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 57,
+					"text": "공업화",
+					"sent_id": 9,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "공업화",
+					"ne_id": -1
+				},
+				{
+					"id": 58,
+					"text": "외화획득",
+					"sent_id": 9,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "외화획득",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 34,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 56,
+					"text": "농업개발",
+					"sent_id": 9,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "농업개발",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 35,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 59,
+					"text": "전통적 요소",
+					"sent_id": 9,
+					"start_eid": 12,
+					"end_eid": 13,
+					"start_eid_short": 12,
+					"end_eid_short": 13,
+					"text_short": "전통적 요소",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 36,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 62,
+					"text": "가축방목",
+					"sent_id": 9,
+					"start_eid": 16,
+					"end_eid": 16,
+					"start_eid_short": 16,
+					"end_eid_short": 16,
+					"text_short": "가축방목",
+					"ne_id": -1
+				},
+				{
+					"id": 63,
+					"text": "연료채취",
+					"sent_id": 9,
+					"start_eid": 17,
+					"end_eid": 17,
+					"start_eid_short": 17,
+					"end_eid_short": 17,
+					"text_short": "연료채취",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 37,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 61,
+					"text": "이동경작",
+					"sent_id": 9,
+					"start_eid": 15,
+					"end_eid": 15,
+					"start_eid_short": 15,
+					"end_eid_short": 15,
+					"text_short": "이동경작",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 38,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 64,
+					"text": "최근",
+					"sent_id": 10,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "최근",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 39,
+			"type": "QT_SIZE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 66,
+					"text": "연간 17만 km²씩",
+					"sent_id": 10,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 3,
+					"end_eid_short": 5,
+					"text_short": "연간 17만 km²씩",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 40,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 67,
+					"text": "연간",
+					"sent_id": 10,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "연간",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 41,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 70,
+					"text": "범세계적인 노력",
+					"sent_id": 11,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "노력",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 42,
+			"type": "LCG_RIVER",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 5,
+					"text": "아마존강",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "아마존강",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 43,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 44,
+					"text": "한번 파괴된 열대 우림",
+					"sent_id": 8,
+					"start_eid": 14,
+					"end_eid": 17,
+					"start_eid_short": 16,
+					"end_eid_short": 17,
+					"text_short": "열대 우림",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 44,
+			"type": "TM_CLIMATE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 46,
+					"text": "열대",
+					"sent_id": 8,
+					"start_eid": 16,
+					"end_eid": 16,
+					"start_eid_short": 16,
+					"end_eid_short": 16,
+					"text_short": "열대",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 45,
+			"type": "QT_PERCENTAGE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "지구상 동식물 중 10 이상",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 4,
+					"start_eid_short": 0,
+					"end_eid_short": 4,
+					"text_short": "지구상 동식물 중 10 이상",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 46,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 25,
+					"text": "긴팔원숭이 오랑우탄 등",
+					"sent_id": 6,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 1,
+					"end_eid_short": 3,
+					"text_short": "긴팔원숭이 오랑우탄 등",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 47,
+			"type": "AM_MAMMALIA",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 27,
+					"text": "오랑우탄",
+					"sent_id": 6,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "오랑우탄",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 48,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 55,
+					"text": "농업개발이나 공업화 외화획득 등",
+					"sent_id": 9,
+					"start_eid": 7,
+					"end_eid": 10,
+					"start_eid_short": 8,
+					"end_eid_short": 10,
+					"text_short": "공업화 외화획득 등",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 49,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 60,
+					"text": "이동경작이나 가축방목 연료채취 등",
+					"sent_id": 9,
+					"start_eid": 15,
+					"end_eid": 18,
+					"start_eid_short": 16,
+					"end_eid_short": 18,
+					"text_short": "가축방목 연료채취 등",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 50,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "인위적 파괴",
+					"sent_id": 7,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "인위적 파괴",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 51,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 38,
+					"text": "목재",
+					"sent_id": 8,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "목재",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 52,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 41,
+					"text": "원시적인 경작형태이ㄴ",
+					"sent_id": 8,
+					"start_eid": 8,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "경작형태이ㄴ",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 53,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 43,
+					"text": "플랜테이션",
+					"sent_id": 8,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "플랜테이션",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 54,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 54,
+					"text": "경제발전",
+					"sent_id": 9,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "경제발전",
+					"ne_id": -1
+				}
+			]
+		}
+	]
+}

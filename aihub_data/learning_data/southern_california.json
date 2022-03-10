@@ -1,0 +1,5172 @@
+{
+	"title": {
+		"text": "남부 캘리포니아",
+		"NE": "TM_DIRECTION"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 8,
+		"num_word": 84
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "남부 캘리포니아",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "남부",
+					"type": "NNG",
+					"position": 0,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 7,
+					"weight": 0.9
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "남부",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "남부",
+					"type": "TM_DIRECTION",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.399699,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"type": "LCP_PROVINCE",
+					"begin": 1,
+					"end": 1,
+					"weight": 0.649484,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "남부",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.759249,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"head": -1,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.590479,
+					"mid": 2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "남부 캘리포니아",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "남부 캘리포니아 또는 서던 캘리포니아(Southern California, SoCal)는 미국 캘리포니아 주의 남부(南部)를 말한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "남부",
+					"type": "NNG",
+					"position": 22,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 29,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "또는",
+					"type": "MAJ",
+					"position": 45,
+					"weight": 0.000604825
+				},
+				{
+					"id": 3,
+					"lemma": "서",
+					"type": "VV",
+					"position": 52,
+					"weight": 0.0126563
+				},
+				{
+					"id": 4,
+					"lemma": "던",
+					"type": "ETM",
+					"position": 55,
+					"weight": 0.317449
+				},
+				{
+					"id": 5,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 59,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "(",
+					"type": "SS",
+					"position": 74,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "Southern",
+					"type": "SL",
+					"position": 75,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "California",
+					"type": "SL",
+					"position": 84,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": ",",
+					"type": "SP",
+					"position": 94,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": "SoCal",
+					"type": "SL",
+					"position": 96,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": ")",
+					"type": "SS",
+					"position": 101,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "는",
+					"type": "JX",
+					"position": 102,
+					"weight": 0.00823314
+				},
+				{
+					"id": 13,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 106,
+					"weight": 0.0448659
+				},
+				{
+					"id": 14,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 113,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "주의",
+					"type": "NNG",
+					"position": 129,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "남부",
+					"type": "NNG",
+					"position": 136,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "(",
+					"type": "SS",
+					"position": 142,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "南部",
+					"type": "SH",
+					"position": 143,
+					"weight": 1
+				},
+				{
+					"id": 19,
+					"lemma": ")",
+					"type": "SS",
+					"position": 149,
+					"weight": 1
+				},
+				{
+					"id": 20,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 150,
+					"weight": 0.0357023
+				},
+				{
+					"id": 21,
+					"lemma": "말",
+					"type": "NNG",
+					"position": 154,
+					"weight": 0.0814073
+				},
+				{
+					"id": 22,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 157,
+					"weight": 0.0001
+				},
+				{
+					"id": 23,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 157,
+					"weight": 0.0449045
+				},
+				{
+					"id": 24,
+					"lemma": ".",
+					"type": "SF",
+					"position": 163,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "남부",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "또는",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 3,
+					"text": "서던",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 4,
+					"text": "캘리포니아(Southern",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "California,",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "SoCal)는",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				},
+				{
+					"id": 7,
+					"text": "미국",
+					"type": "",
+					"begin": 13,
+					"end": 13
+				},
+				{
+					"id": 8,
+					"text": "캘리포니아",
+					"type": "",
+					"begin": 14,
+					"end": 14
+				},
+				{
+					"id": 9,
+					"text": "주의",
+					"type": "",
+					"begin": 15,
+					"end": 15
+				},
+				{
+					"id": 10,
+					"text": "남부(南部)를",
+					"type": "",
+					"begin": 16,
+					"end": 20
+				},
+				{
+					"id": 11,
+					"text": "말한다.",
+					"type": "",
+					"begin": 21,
+					"end": 24
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "남부",
+					"type": "TM_DIRECTION",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.420151,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"type": "LCP_PROVINCE",
+					"begin": 1,
+					"end": 1,
+					"weight": 0.587937,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "캘리포니아",
+					"type": "LCP_PROVINCE",
+					"begin": 5,
+					"end": 5,
+					"weight": 0.567224,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "Southern California",
+					"type": "LCP_PROVINCE",
+					"begin": 7,
+					"end": 8,
+					"weight": 0.124295,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 13,
+					"end": 13,
+					"weight": 0.939774,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "캘리포니아",
+					"type": "LCP_PROVINCE",
+					"begin": 14,
+					"end": 14,
+					"weight": 0.853985,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "주의",
+					"type": "LCP_CITY",
+					"begin": 15,
+					"end": 15,
+					"weight": 0.265667,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "남부",
+					"type": "TM_DIRECTION",
+					"begin": 16,
+					"end": 16,
+					"weight": 0.386543,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "남부",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.628212,
+					"mid": 4
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"head": 3,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.424905,
+					"mid": 6
+				},
+				{
+					"id": 2,
+					"text": "또는",
+					"head": 3,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.666368,
+					"mid": 6
+				},
+				{
+					"id": 3,
+					"text": "서던",
+					"head": 6,
+					"label": "VP_MOD",
+					"mod": [
+						1,
+						2
+					],
+					"weight": 0.566557,
+					"mid": 6
+				},
+				{
+					"id": 4,
+					"text": "캘리포니아(Southern",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.746968,
+					"mid": 10
+				},
+				{
+					"id": 5,
+					"text": "California,",
+					"head": 6,
+					"label": "NP",
+					"mod": [
+						4
+					],
+					"weight": 0.106333,
+					"mid": 12
+				},
+				{
+					"id": 6,
+					"text": "SoCal)는",
+					"head": 11,
+					"label": "NP_SBJ",
+					"mod": [
+						3,
+						5
+					],
+					"weight": 0.784072,
+					"mid": 13
+				},
+				{
+					"id": 7,
+					"text": "미국",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.474298,
+					"mid": 15
+				},
+				{
+					"id": 8,
+					"text": "캘리포니아",
+					"head": 9,
+					"label": "NP",
+					"mod": [
+						7
+					],
+					"weight": 0.598687,
+					"mid": 17
+				},
+				{
+					"id": 9,
+					"text": "주의",
+					"head": 10,
+					"label": "NP",
+					"mod": [
+						8
+					],
+					"weight": 0.74401,
+					"mid": 19
+				},
+				{
+					"id": 10,
+					"text": "남부(南部)를",
+					"head": 11,
+					"label": "NP_OBJ",
+					"mod": [
+						9
+					],
+					"weight": 0.677695,
+					"mid": 20
+				},
+				{
+					"id": 11,
+					"text": "말한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						6,
+						10
+					],
+					"weight": 0.000787822,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "남부 캘리포니아",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "AP",
+					"text": "또는",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S_MOD",
+					"text": "P#0@SBJ캘리포니아 P#1@AP또는 서던",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "S#2@MOD던 캘리포니아(Southern California, SoCal)는",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 4,
+					"head_phrase": 5,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_OBJ",
+					"text": "미국 캘리포니아 주의 남부(南部)를",
+					"begin": 7,
+					"end": 10,
+					"key_begin": 7,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "P#3@SBJ는 P#4@OBJ를 말한다.",
+					"begin": 0,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "서",
+					"sense": 1,
+					"word_id": 3,
+					"weight": 0.263246,
+					"argument": [
+						{
+							"type": "ARGM-DIS",
+							"word_id": 2,
+							"text": "또는",
+							"weight": 0.2351
+						},
+						{
+							"type": "ARG0",
+							"word_id": 6,
+							"text": "SoCal)는",
+							"weight": 0.291392
+						}
+					]
+				},
+				{
+					"verb": "말",
+					"sense": 1,
+					"word_id": 11,
+					"weight": 0.281804,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 6,
+							"text": "SoCal)는",
+							"weight": 0.380901
+						},
+						{
+							"type": "ARG2",
+							"word_id": 10,
+							"text": "남부(南部)를",
+							"weight": 0.182708
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 2,
+			"text": "한자로 음역해서 남가주(南加州)라고도 한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "한자",
+					"type": "NNG",
+					"position": 164,
+					"weight": 0.435867
+				},
+				{
+					"id": 1,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 170,
+					"weight": 0.153229
+				},
+				{
+					"id": 2,
+					"lemma": "음역",
+					"type": "NNG",
+					"position": 174,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 180,
+					"weight": 0.0001
+				},
+				{
+					"id": 4,
+					"lemma": "어서",
+					"type": "EC",
+					"position": 180,
+					"weight": 0.364511
+				},
+				{
+					"id": 5,
+					"lemma": "남가주",
+					"type": "NNP",
+					"position": 187,
+					"weight": 0.3
+				},
+				{
+					"id": 6,
+					"lemma": "(",
+					"type": "SS",
+					"position": 196,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "南加州",
+					"type": "SH",
+					"position": 197,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": ")",
+					"type": "SS",
+					"position": 206,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "라고",
+					"type": "JKQ",
+					"position": 207,
+					"weight": 0.00318431
+				},
+				{
+					"id": 10,
+					"lemma": "도",
+					"type": "JX",
+					"position": 213,
+					"weight": 0.0188913
+				},
+				{
+					"id": 11,
+					"lemma": "하",
+					"type": "VV",
+					"position": 217,
+					"weight": 0.0910671
+				},
+				{
+					"id": 12,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 217,
+					"weight": 0.0793196
+				},
+				{
+					"id": 13,
+					"lemma": ".",
+					"type": "SF",
+					"position": 223,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "한자로",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "음역해서",
+					"type": "",
+					"begin": 2,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"text": "남가주(南加州)라고도",
+					"type": "",
+					"begin": 5,
+					"end": 10
+				},
+				{
+					"id": 3,
+					"text": "한다.",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "남가주",
+					"type": "LCP_PROVINCE",
+					"begin": 5,
+					"end": 5,
+					"weight": 0.46516,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "南加州",
+					"type": "LCP_PROVINCE",
+					"begin": 7,
+					"end": 7,
+					"weight": 0.304683,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "한자로",
+					"head": 1,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.670671,
+					"mid": 22
+				},
+				{
+					"id": 1,
+					"text": "음역해서",
+					"head": 2,
+					"label": "VP",
+					"mod": [
+						0
+					],
+					"weight": 0.581498,
+					"mid": 23
+				},
+				{
+					"id": 2,
+					"text": "남가주(南加州)라고도",
+					"head": 3,
+					"label": "VNP_CMP",
+					"mod": [
+						1
+					],
+					"weight": 0.715667,
+					"mid": 23
+				},
+				{
+					"id": 3,
+					"text": "한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						2
+					],
+					"weight": 0.225315,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "한자로",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP",
+					"text": "P#0@AJT로 음역해서",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VNP_CMP",
+					"text": "P#1@VP어서 남가주(南加州)라고도",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP",
+					"text": "P#2@CMP도 한다.",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": -1,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "음역",
+					"sense": 1,
+					"word_id": 1,
+					"weight": 0.101464,
+					"argument": [
+						{
+							"type": "ARGM-INS",
+							"word_id": 0,
+							"text": "한자로",
+							"weight": 0.101464
+						}
+					]
+				},
+				{
+					"verb": "하",
+					"sense": 2,
+					"word_id": 3,
+					"weight": 0.23716,
+					"argument": [
+						{
+							"type": "ARGM-CAU",
+							"word_id": 1,
+							"text": "음역해서",
+							"weight": 0.168429
+						},
+						{
+							"type": "ARG2",
+							"word_id": 2,
+							"text": "남가주(南加州)라고도",
+							"weight": 1
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 1,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "o",
+					"head_wid": 1,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 2,
+					"type": "s",
+					"head_wid": 2,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "이 지역은 로스앤젤레스 대도시권, 샌디에이고 대도시권, 인랜드엠파이어가 포함되어 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이",
+					"type": "MM",
+					"position": 224,
+					"weight": 0.0020222
+				},
+				{
+					"id": 1,
+					"lemma": "지역",
+					"type": "NNG",
+					"position": 228,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "은",
+					"type": "JX",
+					"position": 234,
+					"weight": 0.0449928
+				},
+				{
+					"id": 3,
+					"lemma": "로스앤젤레스",
+					"type": "NNP",
+					"position": 238,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "대",
+					"type": "XPN",
+					"position": 257,
+					"weight": 0.000103476
+				},
+				{
+					"id": 5,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 260,
+					"weight": 0.47216
+				},
+				{
+					"id": 6,
+					"lemma": "권",
+					"type": "XSN",
+					"position": 266,
+					"weight": 0.0140728
+				},
+				{
+					"id": 7,
+					"lemma": ",",
+					"type": "SP",
+					"position": 269,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "샌디에이고",
+					"type": "NNP",
+					"position": 271,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "대",
+					"type": "XPN",
+					"position": 287,
+					"weight": 0.000103476
+				},
+				{
+					"id": 10,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 290,
+					"weight": 0.47216
+				},
+				{
+					"id": 11,
+					"lemma": "권",
+					"type": "XSN",
+					"position": 296,
+					"weight": 0.0140728
+				},
+				{
+					"id": 12,
+					"lemma": ",",
+					"type": "SP",
+					"position": 299,
+					"weight": 1
+				},
+				{
+					"id": 13,
+					"lemma": "인랜드",
+					"type": "NNP",
+					"position": 301,
+					"weight": 0.6
+				},
+				{
+					"id": 14,
+					"lemma": "엠파이어",
+					"type": "NNG",
+					"position": 310,
+					"weight": 0.4
+				},
+				{
+					"id": 15,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 322,
+					"weight": 0.066324
+				},
+				{
+					"id": 16,
+					"lemma": "포함",
+					"type": "NNG",
+					"position": 326,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 332,
+					"weight": 0.000224177
+				},
+				{
+					"id": 18,
+					"lemma": "어",
+					"type": "EC",
+					"position": 335,
+					"weight": 0.361326
+				},
+				{
+					"id": 19,
+					"lemma": "있",
+					"type": "VX",
+					"position": 339,
+					"weight": 0.125953
+				},
+				{
+					"id": 20,
+					"lemma": "다",
+					"type": "EF",
+					"position": 342,
+					"weight": 0.180366
+				},
+				{
+					"id": 21,
+					"lemma": ".",
+					"type": "SF",
+					"position": 345,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "지역은",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "로스앤젤레스",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "대도시권,",
+					"type": "",
+					"begin": 4,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "샌디에이고",
+					"type": "",
+					"begin": 8,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "대도시권,",
+					"type": "",
+					"begin": 9,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "인랜드엠파이어가",
+					"type": "",
+					"begin": 13,
+					"end": 15
+				},
+				{
+					"id": 7,
+					"text": "포함되어",
+					"type": "",
+					"begin": 16,
+					"end": 18
+				},
+				{
+					"id": 8,
+					"text": "있다.",
+					"type": "",
+					"begin": 19,
+					"end": 21
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "로스앤젤레스",
+					"type": "LCP_CITY",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.558933,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "샌디에이고",
+					"type": "LCP_CITY",
+					"begin": 8,
+					"end": 8,
+					"weight": 0.251071,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "인랜드엠파이어",
+					"type": "TM_SPORTS",
+					"begin": 13,
+					"end": 14,
+					"weight": 0.124297,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이",
+					"head": 1,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.732494,
+					"mid": 25
+				},
+				{
+					"id": 1,
+					"text": "지역은",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.781126,
+					"mid": 27
+				},
+				{
+					"id": 2,
+					"text": "로스앤젤레스",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.862886,
+					"mid": 29
+				},
+				{
+					"id": 3,
+					"text": "대도시권,",
+					"head": 6,
+					"label": "NP_CNJ",
+					"mod": [
+						2
+					],
+					"weight": 0.459632,
+					"mid": 31
+				},
+				{
+					"id": 4,
+					"text": "샌디에이고",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.913147,
+					"mid": 33
+				},
+				{
+					"id": 5,
+					"text": "대도시권,",
+					"head": 6,
+					"label": "NP_CNJ",
+					"mod": [
+						4
+					],
+					"weight": 0.224158,
+					"mid": 31
+				},
+				{
+					"id": 6,
+					"text": "인랜드엠파이어가",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						3,
+						5
+					],
+					"weight": 0.810229,
+					"mid": 27
+				},
+				{
+					"id": 7,
+					"text": "포함되어",
+					"head": 8,
+					"label": "VP",
+					"mod": [
+						1,
+						6
+					],
+					"weight": 0.820367,
+					"mid": 27
+				},
+				{
+					"id": 8,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						7
+					],
+					"weight": 0.0231704,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "이 지역은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "로스앤젤레스 대도시권, 샌디에이고 대도시권, 인랜드엠파이어가",
+					"begin": 2,
+					"end": 6,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "로스앤젤레스 대도시권",
+							"label": "NP_SBJ",
+							"begin": 3,
+							"end": 6,
+							"ne_type": ""
+						},
+						{
+							"text": "샌디에이고 대도시권",
+							"label": "NP_SBJ",
+							"begin": 8,
+							"end": 11,
+							"ne_type": ""
+						},
+						{
+							"text": "인랜드엠파이어",
+							"label": "NP_SBJ",
+							"begin": 13,
+							"end": 14,
+							"ne_type": "TM_SPORTS"
+						}
+					]
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@SBJ가 포함되어 있다.",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 7,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "포함",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.514747,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 6,
+							"text": "인랜드엠파이어가",
+							"weight": 0.344762
+						},
+						{
+							"type": "AUX",
+							"word_id": 8,
+							"text": "있다.",
+							"weight": 0.684732
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 4,
+			"text": "도시의 범위는 태평양 연안의 벤투라에서 로스앤젤레스 대도시권과 인렌드엠파이어를 거쳐 샌디에고, 그리고 멕시코 국경을 넘어 티후아나까지 확대되어 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 346,
+					"weight": 0.43633
+				},
+				{
+					"id": 1,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 352,
+					"weight": 0.0694213
+				},
+				{
+					"id": 2,
+					"lemma": "범위",
+					"type": "NNG",
+					"position": 356,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "는",
+					"type": "JX",
+					"position": 362,
+					"weight": 0.0287565
+				},
+				{
+					"id": 4,
+					"lemma": "태평양",
+					"type": "NNP",
+					"position": 366,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "연안",
+					"type": "NNG",
+					"position": 376,
+					"weight": 0.277434
+				},
+				{
+					"id": 6,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 382,
+					"weight": 0.0694213
+				},
+				{
+					"id": 7,
+					"lemma": "벤투라",
+					"type": "NNP",
+					"position": 386,
+					"weight": 0.6
+				},
+				{
+					"id": 8,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 395,
+					"weight": 0.0823859
+				},
+				{
+					"id": 9,
+					"lemma": "로스앤젤레스",
+					"type": "NNP",
+					"position": 402,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "대",
+					"type": "XPN",
+					"position": 421,
+					"weight": 0.000103476
+				},
+				{
+					"id": 11,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 424,
+					"weight": 0.47216
+				},
+				{
+					"id": 12,
+					"lemma": "권",
+					"type": "XSN",
+					"position": 430,
+					"weight": 0.0140728
+				},
+				{
+					"id": 13,
+					"lemma": "과",
+					"type": "JC",
+					"position": 433,
+					"weight": 0.0096702
+				},
+				{
+					"id": 14,
+					"lemma": "인렌드",
+					"type": "NNP",
+					"position": 437,
+					"weight": 0.6
+				},
+				{
+					"id": 15,
+					"lemma": "엠파이어",
+					"type": "NNG",
+					"position": 446,
+					"weight": 0.4
+				},
+				{
+					"id": 16,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 458,
+					"weight": 0.137686
+				},
+				{
+					"id": 17,
+					"lemma": "거치",
+					"type": "VV",
+					"position": 462,
+					"weight": 0.773981
+				},
+				{
+					"id": 18,
+					"lemma": "어",
+					"type": "EC",
+					"position": 465,
+					"weight": 0.41831
+				},
+				{
+					"id": 19,
+					"lemma": "샌디에고",
+					"type": "NNP",
+					"position": 469,
+					"weight": 0.6
+				},
+				{
+					"id": 20,
+					"lemma": ",",
+					"type": "SP",
+					"position": 481,
+					"weight": 1
+				},
+				{
+					"id": 21,
+					"lemma": "그리고",
+					"type": "MAJ",
+					"position": 483,
+					"weight": 0.00535347
+				},
+				{
+					"id": 22,
+					"lemma": "멕시코",
+					"type": "NNP",
+					"position": 493,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "국경",
+					"type": "NNG",
+					"position": 503,
+					"weight": 0.281636
+				},
+				{
+					"id": 24,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 509,
+					"weight": 0.129611
+				},
+				{
+					"id": 25,
+					"lemma": "넘",
+					"type": "VV",
+					"position": 513,
+					"weight": 0.77675
+				},
+				{
+					"id": 26,
+					"lemma": "어",
+					"type": "EC",
+					"position": 516,
+					"weight": 0.41831
+				},
+				{
+					"id": 27,
+					"lemma": "티후아나",
+					"type": "NNP",
+					"position": 520,
+					"weight": 0.6
+				},
+				{
+					"id": 28,
+					"lemma": "까지",
+					"type": "JX",
+					"position": 532,
+					"weight": 0.0795264
+				},
+				{
+					"id": 29,
+					"lemma": "확대",
+					"type": "NNG",
+					"position": 539,
+					"weight": 0.9
+				},
+				{
+					"id": 30,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 545,
+					"weight": 0.000224177
+				},
+				{
+					"id": 31,
+					"lemma": "어",
+					"type": "EC",
+					"position": 548,
+					"weight": 0.361326
+				},
+				{
+					"id": 32,
+					"lemma": "있",
+					"type": "VX",
+					"position": 552,
+					"weight": 0.125953
+				},
+				{
+					"id": 33,
+					"lemma": "다",
+					"type": "EF",
+					"position": 555,
+					"weight": 0.180366
+				},
+				{
+					"id": 34,
+					"lemma": ".",
+					"type": "SF",
+					"position": 558,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "도시의",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "범위는",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "태평양",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "연안의",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "벤투라에서",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "로스앤젤레스",
+					"type": "",
+					"begin": 9,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "대도시권과",
+					"type": "",
+					"begin": 10,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "인렌드엠파이어를",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "거쳐",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 9,
+					"text": "샌디에고,",
+					"type": "",
+					"begin": 19,
+					"end": 20
+				},
+				{
+					"id": 10,
+					"text": "그리고",
+					"type": "",
+					"begin": 21,
+					"end": 21
+				},
+				{
+					"id": 11,
+					"text": "멕시코",
+					"type": "",
+					"begin": 22,
+					"end": 22
+				},
+				{
+					"id": 12,
+					"text": "국경을",
+					"type": "",
+					"begin": 23,
+					"end": 24
+				},
+				{
+					"id": 13,
+					"text": "넘어",
+					"type": "",
+					"begin": 25,
+					"end": 26
+				},
+				{
+					"id": 14,
+					"text": "티후아나까지",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 15,
+					"text": "확대되어",
+					"type": "",
+					"begin": 29,
+					"end": 31
+				},
+				{
+					"id": 16,
+					"text": "있다.",
+					"type": "",
+					"begin": 32,
+					"end": 34
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "태평양",
+					"type": "LCG_OCEAN",
+					"begin": 4,
+					"end": 4,
+					"weight": 0.697523,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "벤투라",
+					"type": "LCP_CITY",
+					"begin": 7,
+					"end": 7,
+					"weight": 0.294293,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "로스앤젤레스",
+					"type": "LCP_CITY",
+					"begin": 9,
+					"end": 9,
+					"weight": 0.418636,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "인렌드엠파이어",
+					"type": "OGG_ART",
+					"begin": 14,
+					"end": 15,
+					"weight": 0.156938,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "샌디에고",
+					"type": "LCP_CITY",
+					"begin": 19,
+					"end": 19,
+					"weight": 0.192035,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "멕시코",
+					"type": "LCP_COUNTRY",
+					"begin": 22,
+					"end": 22,
+					"weight": 0.723364,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "티후아나",
+					"type": "LCP_CITY",
+					"begin": 27,
+					"end": 27,
+					"weight": 0.186342,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "도시의",
+					"head": 1,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.614775,
+					"mid": 37
+				},
+				{
+					"id": 1,
+					"text": "범위는",
+					"head": 8,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.585357,
+					"mid": 39
+				},
+				{
+					"id": 2,
+					"text": "태평양",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.727924,
+					"mid": 41
+				},
+				{
+					"id": 3,
+					"text": "연안의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [
+						2
+					],
+					"weight": 0.744158,
+					"mid": 43
+				},
+				{
+					"id": 4,
+					"text": "벤투라에서",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						3
+					],
+					"weight": 0.796527,
+					"mid": 39
+				},
+				{
+					"id": 5,
+					"text": "로스앤젤레스",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.660793,
+					"mid": 46
+				},
+				{
+					"id": 6,
+					"text": "대도시권과",
+					"head": 7,
+					"label": "NP_CNJ",
+					"mod": [
+						5
+					],
+					"weight": 0.579634,
+					"mid": 48
+				},
+				{
+					"id": 7,
+					"text": "인렌드엠파이어를",
+					"head": 8,
+					"label": "NP_OBJ",
+					"mod": [
+						6
+					],
+					"weight": 0.781569,
+					"mid": 39
+				},
+				{
+					"id": 8,
+					"text": "거쳐",
+					"head": 13,
+					"label": "VP",
+					"mod": [
+						1,
+						4,
+						7
+					],
+					"weight": 0.840545,
+					"mid": 50
+				},
+				{
+					"id": 9,
+					"text": "샌디에고,",
+					"head": 12,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.219676,
+					"mid": 52
+				},
+				{
+					"id": 10,
+					"text": "그리고",
+					"head": 12,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.153563,
+					"mid": 52
+				},
+				{
+					"id": 11,
+					"text": "멕시코",
+					"head": 12,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.684623,
+					"mid": 52
+				},
+				{
+					"id": 12,
+					"text": "국경을",
+					"head": 13,
+					"label": "NP_OBJ",
+					"mod": [
+						9,
+						10,
+						11
+					],
+					"weight": 0.826999,
+					"mid": 50
+				},
+				{
+					"id": 13,
+					"text": "넘어",
+					"head": 15,
+					"label": "VP",
+					"mod": [
+						8,
+						12
+					],
+					"weight": 0.881578,
+					"mid": 56
+				},
+				{
+					"id": 14,
+					"text": "티후아나까지",
+					"head": 15,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.185288,
+					"mid": 56
+				},
+				{
+					"id": 15,
+					"text": "확대되어",
+					"head": 16,
+					"label": "VP",
+					"mod": [
+						13,
+						14
+					],
+					"weight": 0.832697,
+					"mid": 56
+				},
+				{
+					"id": 16,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						15
+					],
+					"weight": 0.0000776175,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "도시의 범위는",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "태평양 연안의 벤투라에서",
+					"begin": 2,
+					"end": 4,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "로스앤젤레스 대도시권과 인렌드엠파이어를",
+					"begin": 5,
+					"end": 7,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "로스앤젤레스 대도시권",
+							"label": "NP_OBJ",
+							"begin": 9,
+							"end": 12,
+							"ne_type": ""
+						},
+						{
+							"text": "인렌드엠파이어",
+							"label": "NP_OBJ",
+							"begin": 14,
+							"end": 15,
+							"ne_type": "OGG_ART"
+						}
+					]
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@SBJ는 P#1@AJT에서 P#2@OBJ를 거쳐",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 5,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_OBJ",
+					"text": "샌디에고, 그리고 멕시코 국경을",
+					"begin": 9,
+					"end": 12,
+					"key_begin": 9,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "샌디에고",
+							"label": "NP_OBJ",
+							"begin": 19,
+							"end": 19,
+							"ne_type": "LCP_CITY"
+						},
+						{
+							"text": "멕시코 국경",
+							"label": "NP_OBJ",
+							"begin": 22,
+							"end": 23,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "S#3@S어 P#4@OBJ을 넘어",
+					"begin": 0,
+					"end": 13,
+					"key_begin": 13,
+					"head_phrase": 7,
+					"sub_phrase": [
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "티후아나까지",
+					"begin": 14,
+					"end": 14,
+					"key_begin": 14,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "S",
+					"text": "S#5@S어 P#6@AJT까지 확대되어 있다.",
+					"begin": 0,
+					"end": 16,
+					"key_begin": 15,
+					"head_phrase": -1,
+					"sub_phrase": [
+						5,
+						6
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "거치",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.388844,
+					"argument": [
+						{
+							"type": "ARGM-LOC",
+							"word_id": 4,
+							"text": "벤투라에서",
+							"weight": 0.385158
+						},
+						{
+							"type": "ARG2",
+							"word_id": 7,
+							"text": "인렌드엠파이어를",
+							"weight": 0.392531
+						}
+					]
+				},
+				{
+					"verb": "넘",
+					"sense": 1,
+					"word_id": 13,
+					"weight": 0.343342,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 12,
+							"text": "국경을",
+							"weight": 0.343342
+						}
+					]
+				},
+				{
+					"verb": "확대",
+					"sense": 1,
+					"word_id": 15,
+					"weight": 0.34037,
+					"argument": [
+						{
+							"type": "ARGM-CAU",
+							"word_id": 13,
+							"text": "넘어",
+							"weight": 0.0980467
+						},
+						{
+							"type": "ARG3",
+							"word_id": 14,
+							"text": "티후아나까지",
+							"weight": 0.21201
+						},
+						{
+							"type": "AUX",
+							"word_id": 16,
+							"text": "있다.",
+							"weight": 0.711052
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 13,
+					"ant_sid": 4,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 15,
+					"ant_sid": 4,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 5,
+			"text": "이 지역 대도시권은 샌프란시스코 베이 에어리어와 함께 캘리포니아 뿐만 아니라 미국 국내의 주요 문화와 경제의 중심이 되고 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이",
+					"type": "MM",
+					"position": 559,
+					"weight": 0.0020222
+				},
+				{
+					"id": 1,
+					"lemma": "지역",
+					"type": "NNG",
+					"position": 563,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "대",
+					"type": "XPN",
+					"position": 570,
+					"weight": 0.0001
+				},
+				{
+					"id": 3,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 573,
+					"weight": 0.47216
+				},
+				{
+					"id": 4,
+					"lemma": "권",
+					"type": "XSN",
+					"position": 579,
+					"weight": 0.0140728
+				},
+				{
+					"id": 5,
+					"lemma": "은",
+					"type": "JX",
+					"position": 582,
+					"weight": 0.100393
+				},
+				{
+					"id": 6,
+					"lemma": "샌프란시스코",
+					"type": "NNP",
+					"position": 586,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "베이",
+					"type": "NNP",
+					"position": 605,
+					"weight": 0.019695
+				},
+				{
+					"id": 8,
+					"lemma": "에어리어",
+					"type": "NNG",
+					"position": 612,
+					"weight": 0.75
+				},
+				{
+					"id": 9,
+					"lemma": "와",
+					"type": "JKB",
+					"position": 624,
+					"weight": 0.0567862
+				},
+				{
+					"id": 10,
+					"lemma": "함께",
+					"type": "MAG",
+					"position": 628,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 635,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "뿐",
+					"type": "NNB",
+					"position": 651,
+					"weight": 0.032908
+				},
+				{
+					"id": 13,
+					"lemma": "만",
+					"type": "JX",
+					"position": 654,
+					"weight": 0.0798858
+				},
+				{
+					"id": 14,
+					"lemma": "아니",
+					"type": "VCN",
+					"position": 658,
+					"weight": 0.0112415
+				},
+				{
+					"id": 15,
+					"lemma": "라",
+					"type": "EC",
+					"position": 664,
+					"weight": 0.366752
+				},
+				{
+					"id": 16,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 668,
+					"weight": 0.0219717
+				},
+				{
+					"id": 17,
+					"lemma": "국내",
+					"type": "NNG",
+					"position": 675,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 681,
+					"weight": 0.0694213
+				},
+				{
+					"id": 19,
+					"lemma": "주요",
+					"type": "NNG",
+					"position": 685,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "문화",
+					"type": "NNG",
+					"position": 692,
+					"weight": 0.184467
+				},
+				{
+					"id": 21,
+					"lemma": "와",
+					"type": "JC",
+					"position": 698,
+					"weight": 0.0169714
+				},
+				{
+					"id": 22,
+					"lemma": "경제",
+					"type": "NNG",
+					"position": 702,
+					"weight": 0.803
+				},
+				{
+					"id": 23,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 708,
+					"weight": 0.0694213
+				},
+				{
+					"id": 24,
+					"lemma": "중심",
+					"type": "NNG",
+					"position": 712,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "이",
+					"type": "JKC",
+					"position": 718,
+					"weight": 0.000287945
+				},
+				{
+					"id": 26,
+					"lemma": "되",
+					"type": "VV",
+					"position": 722,
+					"weight": 0.542406
+				},
+				{
+					"id": 27,
+					"lemma": "고",
+					"type": "EC",
+					"position": 725,
+					"weight": 0.416679
+				},
+				{
+					"id": 28,
+					"lemma": "있",
+					"type": "VX",
+					"position": 729,
+					"weight": 0.125953
+				},
+				{
+					"id": 29,
+					"lemma": "다",
+					"type": "EF",
+					"position": 732,
+					"weight": 0.180366
+				},
+				{
+					"id": 30,
+					"lemma": ".",
+					"type": "SF",
+					"position": 735,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "지역",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "대도시권은",
+					"type": "",
+					"begin": 2,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "샌프란시스코",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "베이",
+					"type": "",
+					"begin": 7,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "에어리어와",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "함께",
+					"type": "",
+					"begin": 10,
+					"end": 10
+				},
+				{
+					"id": 7,
+					"text": "캘리포니아",
+					"type": "",
+					"begin": 11,
+					"end": 11
+				},
+				{
+					"id": 8,
+					"text": "뿐만",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 9,
+					"text": "아니라",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 10,
+					"text": "미국",
+					"type": "",
+					"begin": 16,
+					"end": 16
+				},
+				{
+					"id": 11,
+					"text": "국내의",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 12,
+					"text": "주요",
+					"type": "",
+					"begin": 19,
+					"end": 19
+				},
+				{
+					"id": 13,
+					"text": "문화와",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 14,
+					"text": "경제의",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 15,
+					"text": "중심이",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 16,
+					"text": "되고",
+					"type": "",
+					"begin": 26,
+					"end": 27
+				},
+				{
+					"id": 17,
+					"text": "있다.",
+					"type": "",
+					"begin": 28,
+					"end": 30
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "샌프란시스코",
+					"type": "LCP_CITY",
+					"begin": 6,
+					"end": 6,
+					"weight": 0.349047,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"type": "LCP_PROVINCE",
+					"begin": 11,
+					"end": 11,
+					"weight": 0.591402,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 16,
+					"end": 16,
+					"weight": 0.830227,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이",
+					"head": 1,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.55544,
+					"mid": 59
+				},
+				{
+					"id": 1,
+					"text": "지역",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.704204,
+					"mid": 61
+				},
+				{
+					"id": 2,
+					"text": "대도시권은",
+					"head": 9,
+					"label": "NP_SBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.832408,
+					"mid": 63
+				},
+				{
+					"id": 3,
+					"text": "샌프란시스코",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.553611,
+					"mid": 65
+				},
+				{
+					"id": 4,
+					"text": "베이",
+					"head": 5,
+					"label": "NP",
+					"mod": [
+						3
+					],
+					"weight": 0.619069,
+					"mid": 67
+				},
+				{
+					"id": 5,
+					"text": "에어리어와",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [
+						4
+					],
+					"weight": 0.472663,
+					"mid": 69
+				},
+				{
+					"id": 6,
+					"text": "함께",
+					"head": 9,
+					"label": "AP",
+					"mod": [
+						5
+					],
+					"weight": 0.548123,
+					"mid": 63
+				},
+				{
+					"id": 7,
+					"text": "캘리포니아",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.661824,
+					"mid": 71
+				},
+				{
+					"id": 8,
+					"text": "뿐만",
+					"head": 9,
+					"label": "NP_CMP",
+					"mod": [
+						7
+					],
+					"weight": 0.679687,
+					"mid": 63
+				},
+				{
+					"id": 9,
+					"text": "아니라",
+					"head": 16,
+					"label": "VP",
+					"mod": [
+						2,
+						6,
+						8
+					],
+					"weight": 0.8325,
+					"mid": 73
+				},
+				{
+					"id": 10,
+					"text": "미국",
+					"head": 11,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.542938,
+					"mid": 75
+				},
+				{
+					"id": 11,
+					"text": "국내의",
+					"head": 14,
+					"label": "NP_MOD",
+					"mod": [
+						10
+					],
+					"weight": 0.445068,
+					"mid": 77
+				},
+				{
+					"id": 12,
+					"text": "주요",
+					"head": 13,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.236416,
+					"mid": 79
+				},
+				{
+					"id": 13,
+					"text": "문화와",
+					"head": 14,
+					"label": "NP_CNJ",
+					"mod": [
+						12
+					],
+					"weight": 0.400414,
+					"mid": 77
+				},
+				{
+					"id": 14,
+					"text": "경제의",
+					"head": 15,
+					"label": "NP_MOD",
+					"mod": [
+						11,
+						13
+					],
+					"weight": 0.75213,
+					"mid": 82
+				},
+				{
+					"id": 15,
+					"text": "중심이",
+					"head": 16,
+					"label": "NP_CMP",
+					"mod": [
+						14
+					],
+					"weight": 0.798253,
+					"mid": 73
+				},
+				{
+					"id": 16,
+					"text": "되고",
+					"head": 17,
+					"label": "VP",
+					"mod": [
+						9,
+						15
+					],
+					"weight": 0.749507,
+					"mid": 73
+				},
+				{
+					"id": 17,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						16
+					],
+					"weight": 0.0000832403,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "이 지역 대도시권은",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "샌프란시스코 베이 에어리어와",
+					"begin": 3,
+					"end": 5,
+					"key_begin": 3,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "AP",
+					"text": "P#1@AJT와 함께",
+					"begin": 3,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_CMP",
+					"text": "캘리포니아 뿐만",
+					"begin": 7,
+					"end": 8,
+					"key_begin": 7,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@SBJ은 P#2@AP함께 P#3@CMP만 아니라",
+					"begin": 0,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 6,
+					"sub_phrase": [
+						0,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_CMP",
+					"text": "미국 국내의 주요 문화와 경제의 중심이",
+					"begin": 10,
+					"end": 15,
+					"key_begin": 10,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "S#4@S라 P#5@CMP이 되고 있다.",
+					"begin": 0,
+					"end": 17,
+					"key_begin": 16,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4,
+						5
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "아니",
+					"sense": 2,
+					"word_id": 9,
+					"weight": 0.245271,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 8,
+							"text": "뿐만",
+							"weight": 0.245271
+						}
+					]
+				},
+				{
+					"verb": "되",
+					"sense": 1,
+					"word_id": 16,
+					"weight": 0.650007,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 15,
+							"text": "중심이",
+							"weight": 0.684858
+						},
+						{
+							"type": "AUX",
+							"word_id": 17,
+							"text": "있다.",
+							"weight": 0.615157
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 16,
+					"ant_sid": 5,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 6,
+			"text": "남부 캘리포니아의 서쪽에는 태평양과 채널 제도가 있으며, 남쪽에는 미국-멕시코 국경이 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "남부",
+					"type": "NNG",
+					"position": 736,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 743,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 758,
+					"weight": 0.0987295
+				},
+				{
+					"id": 3,
+					"lemma": "서쪽",
+					"type": "NNG",
+					"position": 762,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 768,
+					"weight": 0.153364
+				},
+				{
+					"id": 5,
+					"lemma": "는",
+					"type": "JX",
+					"position": 771,
+					"weight": 0.0387928
+				},
+				{
+					"id": 6,
+					"lemma": "태평양",
+					"type": "NNP",
+					"position": 775,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "과",
+					"type": "JC",
+					"position": 784,
+					"weight": 0.0108215
+				},
+				{
+					"id": 8,
+					"lemma": "채널",
+					"type": "NNG",
+					"position": 788,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "제도",
+					"type": "NNG",
+					"position": 795,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 801,
+					"weight": 0.066324
+				},
+				{
+					"id": 11,
+					"lemma": "있",
+					"type": "VA",
+					"position": 805,
+					"weight": 0.12767
+				},
+				{
+					"id": 12,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 808,
+					"weight": 0.321076
+				},
+				{
+					"id": 13,
+					"lemma": ",",
+					"type": "SP",
+					"position": 814,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": "남쪽",
+					"type": "NNG",
+					"position": 816,
+					"weight": 0.526091
+				},
+				{
+					"id": 15,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 822,
+					"weight": 0.153364
+				},
+				{
+					"id": 16,
+					"lemma": "는",
+					"type": "JX",
+					"position": 825,
+					"weight": 0.0387928
+				},
+				{
+					"id": 17,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 829,
+					"weight": 0.0448659
+				},
+				{
+					"id": 18,
+					"lemma": "-",
+					"type": "SS",
+					"position": 835,
+					"weight": 1
+				},
+				{
+					"id": 19,
+					"lemma": "멕시코",
+					"type": "NNP",
+					"position": 836,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "국경",
+					"type": "NNG",
+					"position": 846,
+					"weight": 0.281636
+				},
+				{
+					"id": 21,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 852,
+					"weight": 0.0360723
+				},
+				{
+					"id": 22,
+					"lemma": "있",
+					"type": "VA",
+					"position": 856,
+					"weight": 0.12767
+				},
+				{
+					"id": 23,
+					"lemma": "다",
+					"type": "EF",
+					"position": 859,
+					"weight": 0.132573
+				},
+				{
+					"id": 24,
+					"lemma": ".",
+					"type": "SF",
+					"position": 862,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "남부",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아의",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "서쪽에는",
+					"type": "",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "태평양과",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "채널",
+					"type": "",
+					"begin": 8,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "제도가",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "있으며,",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "남쪽에는",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "미국-멕시코",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "국경이",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 10,
+					"text": "있다.",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "남부",
+					"type": "TM_DIRECTION",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.41118,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"type": "LCP_PROVINCE",
+					"begin": 1,
+					"end": 1,
+					"weight": 0.7349,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "서쪽",
+					"type": "TM_DIRECTION",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.521332,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "태평양",
+					"type": "LCG_OCEAN",
+					"begin": 6,
+					"end": 6,
+					"weight": 0.555924,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "채널 제도",
+					"type": "LCG_ISLAND",
+					"begin": 8,
+					"end": 9,
+					"weight": 0.368971,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "남쪽",
+					"type": "TM_DIRECTION",
+					"begin": 14,
+					"end": 14,
+					"weight": 0.448951,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 17,
+					"end": 17,
+					"weight": 0.886,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "멕시코",
+					"type": "LCP_COUNTRY",
+					"begin": 19,
+					"end": 19,
+					"weight": 0.805523,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "남부",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.748088,
+					"mid": 85
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아의",
+					"head": 2,
+					"label": "NP_MOD",
+					"mod": [
+						0
+					],
+					"weight": 0.720207,
+					"mid": 87
+				},
+				{
+					"id": 2,
+					"text": "서쪽에는",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [
+						1
+					],
+					"weight": 0.61323,
+					"mid": 89
+				},
+				{
+					"id": 3,
+					"text": "태평양과",
+					"head": 5,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.72515,
+					"mid": 91
+				},
+				{
+					"id": 4,
+					"text": "채널",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.767689,
+					"mid": 91
+				},
+				{
+					"id": 5,
+					"text": "제도가",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [
+						3,
+						4
+					],
+					"weight": 0.767281,
+					"mid": 89
+				},
+				{
+					"id": 6,
+					"text": "있으며,",
+					"head": 10,
+					"label": "VP",
+					"mod": [
+						2,
+						5
+					],
+					"weight": 0.736841,
+					"mid": 89
+				},
+				{
+					"id": 7,
+					"text": "남쪽에는",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.717448,
+					"mid": 94
+				},
+				{
+					"id": 8,
+					"text": "미국-멕시코",
+					"head": 9,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.82109,
+					"mid": 96
+				},
+				{
+					"id": 9,
+					"text": "국경이",
+					"head": 10,
+					"label": "NP_SBJ",
+					"mod": [
+						8
+					],
+					"weight": 0.747717,
+					"mid": 97
+				},
+				{
+					"id": 10,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						6,
+						7,
+						9
+					],
+					"weight": 0.0359278,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "남부 캘리포니아의 서쪽에는",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "태평양과 채널 제도가",
+					"begin": 3,
+					"end": 5,
+					"key_begin": 3,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "태평양",
+							"label": "NP_SBJ",
+							"begin": 6,
+							"end": 6,
+							"ne_type": "LCG_OCEAN"
+						},
+						{
+							"text": "채널 제도",
+							"label": "NP_SBJ",
+							"begin": 8,
+							"end": 9,
+							"ne_type": "LCG_ISLAND"
+						}
+					]
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@AJT는 P#1@SBJ가 있으며,",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 5,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "남쪽에는",
+					"begin": 7,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_SBJ",
+					"text": "미국-멕시코 국경이",
+					"begin": 8,
+					"end": 9,
+					"key_begin": 8,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "S#2@S으며, P#3@AJT는 P#4@SBJ이 있다.",
+					"begin": 0,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": -1,
+					"sub_phrase": [
+						2,
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.281164,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 2,
+							"text": "서쪽에는",
+							"weight": 0.239981
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "제도가",
+							"weight": 0.322347
+						}
+					]
+				},
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.290748,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 7,
+							"text": "남쪽에는",
+							"weight": 0.227156
+						},
+						{
+							"type": "ARG1",
+							"word_id": 9,
+							"text": "국경이",
+							"weight": 0.35434
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 7,
+			"text": "동쪽은 콜로라도 사막과 콜로라도 강이, 네바다 주와의 경계에는 모하비 사막이 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "동쪽",
+					"type": "NNG",
+					"position": 863,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "은",
+					"type": "JX",
+					"position": 869,
+					"weight": 0.0449928
+				},
+				{
+					"id": 2,
+					"lemma": "콜로라도",
+					"type": "NNP",
+					"position": 873,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "사막",
+					"type": "NNG",
+					"position": 886,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "과",
+					"type": "JC",
+					"position": 892,
+					"weight": 0.017569
+				},
+				{
+					"id": 5,
+					"lemma": "콜로라도",
+					"type": "NNP",
+					"position": 896,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "강이",
+					"type": "NNG",
+					"position": 909,
+					"weight": 0.0011325
+				},
+				{
+					"id": 7,
+					"lemma": ",",
+					"type": "SP",
+					"position": 915,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "네바다",
+					"type": "NNP",
+					"position": 917,
+					"weight": 0.5
+				},
+				{
+					"id": 9,
+					"lemma": "주",
+					"type": "NNG",
+					"position": 927,
+					"weight": 0.0177845
+				},
+				{
+					"id": 10,
+					"lemma": "와",
+					"type": "JKB",
+					"position": 930,
+					"weight": 0.0567862
+				},
+				{
+					"id": 11,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 933,
+					"weight": 0.00917577
+				},
+				{
+					"id": 12,
+					"lemma": "경계",
+					"type": "NNG",
+					"position": 937,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 943,
+					"weight": 0.153364
+				},
+				{
+					"id": 14,
+					"lemma": "는",
+					"type": "JX",
+					"position": 946,
+					"weight": 0.0387928
+				},
+				{
+					"id": 15,
+					"lemma": "모하비",
+					"type": "NNP",
+					"position": 950,
+					"weight": 0.05
+				},
+				{
+					"id": 16,
+					"lemma": "사막",
+					"type": "NNG",
+					"position": 960,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 966,
+					"weight": 0.0360723
+				},
+				{
+					"id": 18,
+					"lemma": "있",
+					"type": "VA",
+					"position": 970,
+					"weight": 0.12767
+				},
+				{
+					"id": 19,
+					"lemma": "다",
+					"type": "EF",
+					"position": 973,
+					"weight": 0.132573
+				},
+				{
+					"id": 20,
+					"lemma": ".",
+					"type": "SF",
+					"position": 976,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "동쪽은",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "콜로라도",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "사막과",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "콜로라도",
+					"type": "",
+					"begin": 5,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "강이,",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "네바다",
+					"type": "",
+					"begin": 8,
+					"end": 8
+				},
+				{
+					"id": 6,
+					"text": "주와의",
+					"type": "",
+					"begin": 9,
+					"end": 11
+				},
+				{
+					"id": 7,
+					"text": "경계에는",
+					"type": "",
+					"begin": 12,
+					"end": 14
+				},
+				{
+					"id": 8,
+					"text": "모하비",
+					"type": "",
+					"begin": 15,
+					"end": 15
+				},
+				{
+					"id": 9,
+					"text": "사막이",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 10,
+					"text": "있다.",
+					"type": "",
+					"begin": 18,
+					"end": 20
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "동쪽",
+					"type": "TM_DIRECTION",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.496794,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "콜로라도 사막",
+					"type": "LC_OTHERS",
+					"begin": 2,
+					"end": 3,
+					"weight": 0.406428,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "콜로라도",
+					"type": "LCP_PROVINCE",
+					"begin": 5,
+					"end": 5,
+					"weight": 0.215792,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "강이",
+					"type": "LCP_PROVINCE",
+					"begin": 6,
+					"end": 6,
+					"weight": 0.152997,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "네바다 주",
+					"type": "LCP_PROVINCE",
+					"begin": 8,
+					"end": 9,
+					"weight": 0.580627,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "모하비 사막",
+					"type": "LC_OTHERS",
+					"begin": 15,
+					"end": 16,
+					"weight": 0.504526,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "동쪽은",
+					"head": 10,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.680736,
+					"mid": 98
+				},
+				{
+					"id": 1,
+					"text": "콜로라도",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.731082,
+					"mid": 100
+				},
+				{
+					"id": 2,
+					"text": "사막과",
+					"head": 6,
+					"label": "NP_CNJ",
+					"mod": [
+						1
+					],
+					"weight": 0.541993,
+					"mid": 102
+				},
+				{
+					"id": 3,
+					"text": "콜로라도",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.704865,
+					"mid": 104
+				},
+				{
+					"id": 4,
+					"text": "강이,",
+					"head": 6,
+					"label": "NP_CNJ",
+					"mod": [
+						3
+					],
+					"weight": 0.0614556,
+					"mid": 102
+				},
+				{
+					"id": 5,
+					"text": "네바다",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.817102,
+					"mid": 102
+				},
+				{
+					"id": 6,
+					"text": "주와의",
+					"head": 7,
+					"label": "NP_MOD",
+					"mod": [
+						2,
+						4,
+						5
+					],
+					"weight": 0.72476,
+					"mid": 108
+				},
+				{
+					"id": 7,
+					"text": "경계에는",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [
+						6
+					],
+					"weight": 0.634788,
+					"mid": 109
+				},
+				{
+					"id": 8,
+					"text": "모하비",
+					"head": 9,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.704025,
+					"mid": 111
+				},
+				{
+					"id": 9,
+					"text": "사막이",
+					"head": 10,
+					"label": "NP_SBJ",
+					"mod": [
+						8
+					],
+					"weight": 0.737775,
+					"mid": 112
+				},
+				{
+					"id": 10,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						0,
+						7,
+						9
+					],
+					"weight": 0.00180122,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "동쪽은",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "콜로라도 사막과 콜로라도 강이, 네바다 주와의 경계에는",
+					"begin": 1,
+					"end": 7,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "모하비 사막이",
+					"begin": 8,
+					"end": 9,
+					"key_begin": 8,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@AJT는 P#2@SBJ이 있다.",
+					"begin": 0,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.298515,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 0,
+							"text": "동쪽은",
+							"weight": 0.0807341
+						},
+						{
+							"type": "ARG2",
+							"word_id": 7,
+							"text": "경계에는",
+							"weight": 0.316807
+						},
+						{
+							"type": "ARG1",
+							"word_id": 9,
+							"text": "사막이",
+							"weight": 0.498003
+						}
+					]
+				}
+			],
+			"ZA": []
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "남부 캘리포니아",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "남부 캘리포니아",
+					"ne_id": 1
+				},
+				{
+					"id": 2,
+					"text": "남부 캘리포니아",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "남부 캘리포니아",
+					"ne_id": 1
+				},
+				{
+					"id": 4,
+					"text": "서던 캘리포니아Southern California SoCal",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 6,
+					"start_eid_short": 4,
+					"end_eid_short": 6,
+					"text_short": "캘리포니아Southern California SoCal",
+					"ne_id": 3
+				},
+				{
+					"id": 5,
+					"text": "미국 캘리포니아 주의 남부南部",
+					"sent_id": 1,
+					"start_eid": 7,
+					"end_eid": 10,
+					"start_eid_short": 7,
+					"end_eid_short": 10,
+					"text_short": "미국 캘리포니아 주의 남부南部",
+					"ne_id": 6
+				},
+				{
+					"id": 11,
+					"text": "남가주南加州",
+					"sent_id": 2,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "남가주南加州",
+					"ne_id": 0
+				},
+				{
+					"id": 12,
+					"text": "이 지역",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "이 지역",
+					"ne_id": -1
+				},
+				{
+					"id": 33,
+					"text": "이 지역",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "이 지역",
+					"ne_id": -1
+				},
+				{
+					"id": 45,
+					"text": "남부 캘리포니아",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "남부 캘리포니아",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "TM_DIRECTION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 1,
+					"text": "남부",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "남부",
+					"ne_id": 0
+				},
+				{
+					"id": 3,
+					"text": "남부",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "남부",
+					"ne_id": 0
+				},
+				{
+					"id": 9,
+					"text": "남부南部",
+					"sent_id": 1,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "남부南部",
+					"ne_id": 7
+				},
+				{
+					"id": 46,
+					"text": "남부",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "남부",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 8,
+					"text": "미국",
+					"sent_id": 1,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "미국",
+					"ne_id": 4
+				},
+				{
+					"id": 40,
+					"text": "미국",
+					"sent_id": 5,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "미국",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 10,
+					"text": "한자",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "한자",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "로스앤젤레스 대도시권",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "로스앤젤레스 대도시권",
+					"ne_id": -1
+				},
+				{
+					"id": 24,
+					"text": "로스앤젤레스 대도시권",
+					"sent_id": 4,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "로스앤젤레스 대도시권",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "TM_SPORTS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 16,
+					"text": "샌디에이고 대도시권",
+					"sent_id": 3,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "샌디에이고 대도시권",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 17,
+					"text": "샌디에이고",
+					"sent_id": 3,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "샌디에이고",
+					"ne_id": 1
+				},
+				{
+					"id": 28,
+					"text": "샌디에고",
+					"sent_id": 4,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "샌디에고",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 18,
+					"text": "도시의 범위",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "도시의 범위",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 19,
+					"text": "도시",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "도시",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "태평양 연안",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "태평양 연안",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "LCG_OCEAN",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 22,
+					"text": "태평양",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "태평양",
+					"ne_id": 0
+				},
+				{
+					"id": 48,
+					"text": "태평양",
+					"sent_id": 6,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "태평양",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 20,
+					"text": "태평양 연안의 벤투라",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 4,
+					"start_eid_short": 2,
+					"end_eid_short": 4,
+					"text_short": "태평양 연안의 벤투라",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "로스앤젤레스 대도시권",
+					"sent_id": 4,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "로스앤젤레스 대도시권",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "OGG_ART",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 26,
+					"text": "대도시권과 인렌드엠파이어",
+					"sent_id": 4,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "인렌드엠파이어",
+					"ne_id": 3
+				},
+				{
+					"id": 27,
+					"text": "인렌드엠파이어",
+					"sent_id": 4,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "인렌드엠파이어",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 29,
+					"text": "멕시코 국경",
+					"sent_id": 4,
+					"start_eid": 11,
+					"end_eid": 12,
+					"start_eid_short": 11,
+					"end_eid_short": 12,
+					"text_short": "멕시코 국경",
+					"ne_id": -1
+				},
+				{
+					"id": 51,
+					"text": "미국멕시코 국경",
+					"sent_id": 6,
+					"start_eid": 8,
+					"end_eid": 9,
+					"start_eid_short": 8,
+					"end_eid_short": 9,
+					"text_short": "미국멕시코 국경",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 30,
+					"text": "멕시코",
+					"sent_id": 4,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "멕시코",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 31,
+					"text": "티후아나",
+					"sent_id": 4,
+					"start_eid": 14,
+					"end_eid": 14,
+					"start_eid_short": 14,
+					"end_eid_short": 14,
+					"text_short": "티후아나",
+					"ne_id": 6
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "샌프란시스코 베이",
+					"sent_id": 5,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "샌프란시스코 베이",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "샌프란시스코",
+					"sent_id": 5,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "샌프란시스코",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "샌프란시스코 베이 에어리어",
+					"sent_id": 5,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 3,
+					"end_eid_short": 5,
+					"text_short": "샌프란시스코 베이 에어리어",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 39,
+					"text": "미국 국내",
+					"sent_id": 5,
+					"start_eid": 10,
+					"end_eid": 11,
+					"start_eid_short": 10,
+					"end_eid_short": 11,
+					"text_short": "미국 국내",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 43,
+					"text": "경제",
+					"sent_id": 5,
+					"start_eid": 14,
+					"end_eid": 14,
+					"start_eid_short": 14,
+					"end_eid_short": 14,
+					"text_short": "경제",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 41,
+					"text": "주요 문화",
+					"sent_id": 5,
+					"start_eid": 12,
+					"end_eid": 13,
+					"start_eid_short": 12,
+					"end_eid_short": 13,
+					"text_short": "주요 문화",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 42,
+					"text": "주요",
+					"sent_id": 5,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "주요",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 38,
+					"text": "미국 국내의 주요 문화와 경제의 중심",
+					"sent_id": 5,
+					"start_eid": 10,
+					"end_eid": 15,
+					"start_eid_short": 14,
+					"end_eid_short": 15,
+					"text_short": "경제의 중심",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "TM_DIRECTION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 44,
+					"text": "남부 캘리포니아의 서쪽",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "남부 캘리포니아의 서쪽",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "LCG_ISLAND",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 47,
+					"text": "태평양과 채널 제도",
+					"sent_id": 6,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "채널 제도",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "TM_DIRECTION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 50,
+					"text": "남쪽",
+					"sent_id": 6,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "남쪽",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 28,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 52,
+					"text": "미국멕시코",
+					"sent_id": 6,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "미국멕시코",
+					"ne_id": 7
+				}
+			]
+		},
+		{
+			"id": 29,
+			"type": "TM_DIRECTION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 53,
+					"text": "동쪽",
+					"sent_id": 7,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "동쪽",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 30,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 54,
+					"text": "콜로라도 사막과 콜로라도 강이",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "콜로라도 강이",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 31,
+			"type": "LC_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 55,
+					"text": "콜로라도 사막",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "콜로라도 사막",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 32,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 56,
+					"text": "콜로라도 강이",
+					"sent_id": 7,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "콜로라도 강이",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 33,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 57,
+					"text": "네바다 주와의 경계",
+					"sent_id": 7,
+					"start_eid": 5,
+					"end_eid": 7,
+					"start_eid_short": 5,
+					"end_eid_short": 7,
+					"text_short": "네바다 주와의 경계",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 34,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 6,
+					"text": "미국 캘리포니아 주의",
+					"sent_id": 1,
+					"start_eid": 7,
+					"end_eid": 9,
+					"start_eid_short": 7,
+					"end_eid_short": 9,
+					"text_short": "미국 캘리포니아 주의",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 35,
+			"type": "TM_SPORTS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "로스앤젤레스 대도시권 샌디에이고 대도시권 인랜드엠파이어",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 6,
+					"start_eid_short": 2,
+					"end_eid_short": 6,
+					"text_short": "로스앤젤레스 대도시권 샌디에이고 대도시권 인랜드엠파이어",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 36,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 15,
+					"text": "로스앤젤레스",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "로스앤젤레스",
+					"ne_id": 0
+				},
+				{
+					"id": 25,
+					"text": "로스앤젤레스",
+					"sent_id": 4,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "로스앤젤레스",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 37,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 32,
+					"text": "이 지역 대도시권",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "이 지역 대도시권",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 38,
+			"type": "LCG_ISLAND",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 49,
+					"text": "채널 제도",
+					"sent_id": 6,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "채널 제도",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 39,
+			"type": "LC_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 59,
+					"text": "모하비 사막",
+					"sent_id": 7,
+					"start_eid": 8,
+					"end_eid": 9,
+					"start_eid_short": 8,
+					"end_eid_short": 9,
+					"text_short": "모하비 사막",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 40,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 58,
+					"text": "네바다 주",
+					"sent_id": 7,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "네바다 주",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 41,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "미국 캘리포니아",
+					"sent_id": 1,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "미국 캘리포니아",
+					"ne_id": 5
+				},
+				{
+					"id": 37,
+					"text": "캘리포니아",
+					"sent_id": 5,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "캘리포니아",
+					"ne_id": 1
+				}
+			]
+		}
+	]
+}

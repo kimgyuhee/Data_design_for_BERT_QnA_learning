@@ -1,0 +1,4865 @@
+{
+	"title": {
+		"text": "잭슨빌 (플로리다 주)",
+		"NE": "PS_NAME"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 9,
+		"num_word": 77
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "잭슨빌 (플로리다 주)",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "잭슨빌",
+					"type": "NNP",
+					"position": 0,
+					"weight": 0.05
+				},
+				{
+					"id": 1,
+					"lemma": "(",
+					"type": "SS",
+					"position": 10,
+					"weight": 1
+				},
+				{
+					"id": 2,
+					"lemma": "플로리다",
+					"type": "NNP",
+					"position": 11,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "주",
+					"type": "NNG",
+					"position": 24,
+					"weight": 0.0177845
+				},
+				{
+					"id": 4,
+					"lemma": ")",
+					"type": "SS",
+					"position": 27,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "잭슨빌",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "(플로리다",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "주)",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "잭슨빌",
+					"type": "LC_OTHERS",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.193364,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "플로리다 주",
+					"type": "LCP_PROVINCE",
+					"begin": 2,
+					"end": 3,
+					"weight": 0.387151,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "잭슨빌",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.760217,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "(플로리다",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.783911,
+					"mid": 1
+				},
+				{
+					"id": 2,
+					"text": "주)",
+					"head": -1,
+					"label": "NP_PRN",
+					"mod": [
+						0,
+						1
+					],
+					"weight": 0.179589,
+					"mid": 3
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_PRN",
+					"text": "잭슨빌 (플로리다 주)",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "잭슨빌은 미국 플로리다 주에서 인구가 가장 많은 도시이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "잭슨빌",
+					"type": "NNP",
+					"position": 28,
+					"weight": 0.05
+				},
+				{
+					"id": 1,
+					"lemma": "은",
+					"type": "JX",
+					"position": 37,
+					"weight": 0.0520511
+				},
+				{
+					"id": 2,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 41,
+					"weight": 0.0448659
+				},
+				{
+					"id": 3,
+					"lemma": "플로리다",
+					"type": "NNP",
+					"position": 48,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "주",
+					"type": "NNG",
+					"position": 61,
+					"weight": 0.0177845
+				},
+				{
+					"id": 5,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 64,
+					"weight": 0.153407
+				},
+				{
+					"id": 6,
+					"lemma": "인구",
+					"type": "NNG",
+					"position": 71,
+					"weight": 0.207185
+				},
+				{
+					"id": 7,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 77,
+					"weight": 0.066324
+				},
+				{
+					"id": 8,
+					"lemma": "가장",
+					"type": "MAG",
+					"position": 81,
+					"weight": 0.114699
+				},
+				{
+					"id": 9,
+					"lemma": "많",
+					"type": "VA",
+					"position": 88,
+					"weight": 0.133275
+				},
+				{
+					"id": 10,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 91,
+					"weight": 0.155123
+				},
+				{
+					"id": 11,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 95,
+					"weight": 0.656406
+				},
+				{
+					"id": 12,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 101,
+					"weight": 0.0177525
+				},
+				{
+					"id": 13,
+					"lemma": "다",
+					"type": "EF",
+					"position": 104,
+					"weight": 0.353579
+				},
+				{
+					"id": 14,
+					"lemma": ".",
+					"type": "SF",
+					"position": 107,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "잭슨빌은",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "플로리다",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "주에서",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "인구가",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "가장",
+					"type": "",
+					"begin": 8,
+					"end": 8
+				},
+				{
+					"id": 6,
+					"text": "많은",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 7,
+					"text": "도시이다.",
+					"type": "",
+					"begin": 11,
+					"end": 14
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "잭슨빌",
+					"type": "PS_NAME",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.244933,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.934814,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "플로리다 주",
+					"type": "LCP_PROVINCE",
+					"begin": 3,
+					"end": 4,
+					"weight": 0.512933,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "잭슨빌은",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.341063,
+					"mid": 5
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.610865,
+					"mid": 7
+				},
+				{
+					"id": 2,
+					"text": "플로리다",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.704747,
+					"mid": 9
+				},
+				{
+					"id": 3,
+					"text": "주에서",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.794451,
+					"mid": 11
+				},
+				{
+					"id": 4,
+					"text": "인구가",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.717621,
+					"mid": 11
+				},
+				{
+					"id": 5,
+					"text": "가장",
+					"head": 6,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.853528,
+					"mid": 11
+				},
+				{
+					"id": 6,
+					"text": "많은",
+					"head": 7,
+					"label": "VP_MOD",
+					"mod": [
+						3,
+						4,
+						5
+					],
+					"weight": 0.763214,
+					"mid": 11
+				},
+				{
+					"id": 7,
+					"text": "도시이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						6,
+						0
+					],
+					"weight": 0.0448944,
+					"mid": 5
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "잭슨빌은",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "미국 플로리다 주에서",
+					"begin": 1,
+					"end": 3,
+					"key_begin": 1,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "인구가",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "AP",
+					"text": "가장",
+					"begin": 5,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S_MOD",
+					"text": "P#1@AJT에서 P#2@SBJ가 P#3@AP가장 많은",
+					"begin": 1,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 5,
+					"sub_phrase": [
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "P#0@SBJ은 S#4@MOD은 도시이다.",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						4
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "도시",
+							"label": "NP",
+							"begin": 11,
+							"end": 11,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 12,
+							"end": 14,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "많",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.389533,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 3,
+							"text": "주에서",
+							"weight": 0.118376
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "인구가",
+							"weight": 0.32443
+						},
+						{
+							"type": "ARGM-EXT",
+							"word_id": 5,
+							"text": "가장",
+							"weight": 0.725793
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 2,
+			"text": "미국 전체로는 열셋째로 인구가 많다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 108,
+					"weight": 0.0892934
+				},
+				{
+					"id": 1,
+					"lemma": "전체",
+					"type": "NNG",
+					"position": 115,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 121,
+					"weight": 0.153229
+				},
+				{
+					"id": 3,
+					"lemma": "는",
+					"type": "JX",
+					"position": 124,
+					"weight": 0.0387928
+				},
+				{
+					"id": 4,
+					"lemma": "열",
+					"type": "NR",
+					"position": 128,
+					"weight": 0.000924207
+				},
+				{
+					"id": 5,
+					"lemma": "셋째",
+					"type": "NR",
+					"position": 131,
+					"weight": 0.0623288
+				},
+				{
+					"id": 6,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 137,
+					"weight": 0.0190976
+				},
+				{
+					"id": 7,
+					"lemma": "인구",
+					"type": "NNG",
+					"position": 141,
+					"weight": 0.207185
+				},
+				{
+					"id": 8,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 147,
+					"weight": 0.066324
+				},
+				{
+					"id": 9,
+					"lemma": "많",
+					"type": "VA",
+					"position": 151,
+					"weight": 0.249378
+				},
+				{
+					"id": 10,
+					"lemma": "다",
+					"type": "EF",
+					"position": 154,
+					"weight": 0.132573
+				},
+				{
+					"id": 11,
+					"lemma": ".",
+					"type": "SF",
+					"position": 157,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "미국",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "전체로는",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "열셋째로",
+					"type": "",
+					"begin": 4,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "인구가",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "많다.",
+					"type": "",
+					"begin": 9,
+					"end": 11
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.82633,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "열셋째",
+					"type": "QT_COUNT",
+					"begin": 4,
+					"end": 5,
+					"weight": 0.298605,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "미국",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.607575,
+					"mid": 16
+				},
+				{
+					"id": 1,
+					"text": "전체로는",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [
+						0
+					],
+					"weight": 0.71707,
+					"mid": 17
+				},
+				{
+					"id": 2,
+					"text": "열셋째로",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.66685,
+					"mid": 18
+				},
+				{
+					"id": 3,
+					"text": "인구가",
+					"head": 4,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.769894,
+					"mid": 19
+				},
+				{
+					"id": 4,
+					"text": "많다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						1,
+						2,
+						3
+					],
+					"weight": 0.178784,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "미국 전체로는",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "열셋째로",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "인구가",
+					"begin": 3,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@AJT는 P#1@AJT로 P#2@SBJ가 많다.",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "많",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.239718,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 1,
+							"text": "전체로는",
+							"weight": 0.139407
+						},
+						{
+							"type": "ARGM-EXT",
+							"word_id": 2,
+							"text": "열셋째로",
+							"weight": 0.213717
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "인구가",
+							"weight": 0.366029
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 3,
+			"text": "듀발 군의 군청 소재지이며, 인구는 2010년 조사 기준 821,784명이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "듀발",
+					"type": "NNP",
+					"position": 158,
+					"weight": 0.1
+				},
+				{
+					"id": 1,
+					"lemma": "군",
+					"type": "NNG",
+					"position": 165,
+					"weight": 0.16921
+				},
+				{
+					"id": 2,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 168,
+					"weight": 0.0694213
+				},
+				{
+					"id": 3,
+					"lemma": "군청",
+					"type": "NNG",
+					"position": 172,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "소재",
+					"type": "NNG",
+					"position": 179,
+					"weight": 0.184453
+				},
+				{
+					"id": 5,
+					"lemma": "지",
+					"type": "XSN",
+					"position": 185,
+					"weight": 0.000168337
+				},
+				{
+					"id": 6,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 188,
+					"weight": 0.0165001
+				},
+				{
+					"id": 7,
+					"lemma": "며",
+					"type": "EC",
+					"position": 191,
+					"weight": 0.250555
+				},
+				{
+					"id": 8,
+					"lemma": ",",
+					"type": "SP",
+					"position": 194,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "인구",
+					"type": "NNG",
+					"position": 196,
+					"weight": 0.529399
+				},
+				{
+					"id": 10,
+					"lemma": "는",
+					"type": "JX",
+					"position": 202,
+					"weight": 0.0287565
+				},
+				{
+					"id": 11,
+					"lemma": "2010",
+					"type": "SN",
+					"position": 206,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 210,
+					"weight": 0.414343
+				},
+				{
+					"id": 13,
+					"lemma": "조사",
+					"type": "NNG",
+					"position": 214,
+					"weight": 0.110598
+				},
+				{
+					"id": 14,
+					"lemma": "기준",
+					"type": "NNG",
+					"position": 221,
+					"weight": 0.184142
+				},
+				{
+					"id": 15,
+					"lemma": "821,784",
+					"type": "SN",
+					"position": 228,
+					"weight": 1
+				},
+				{
+					"id": 16,
+					"lemma": "명",
+					"type": "NNB",
+					"position": 235,
+					"weight": 0.399746
+				},
+				{
+					"id": 17,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 238,
+					"weight": 0.0607843
+				},
+				{
+					"id": 18,
+					"lemma": "다",
+					"type": "EF",
+					"position": 241,
+					"weight": 0.353579
+				},
+				{
+					"id": 19,
+					"lemma": ".",
+					"type": "SF",
+					"position": 244,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "듀발",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "군의",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "군청",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "소재지이며,",
+					"type": "",
+					"begin": 4,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "인구는",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "2010년",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "조사",
+					"type": "",
+					"begin": 13,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "기준",
+					"type": "",
+					"begin": 14,
+					"end": 14
+				},
+				{
+					"id": 8,
+					"text": "821,784명이다.",
+					"type": "",
+					"begin": 15,
+					"end": 19
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "2010년",
+					"type": "DT_YEAR",
+					"begin": 11,
+					"end": 12,
+					"weight": 0.877094,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "821,784명",
+					"type": "QT_MAN_COUNT",
+					"begin": 15,
+					"end": 16,
+					"weight": 0.571866,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "듀발",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.462442,
+					"mid": 21
+				},
+				{
+					"id": 1,
+					"text": "군의",
+					"head": 3,
+					"label": "NP_MOD",
+					"mod": [
+						0
+					],
+					"weight": 0.676801,
+					"mid": 23
+				},
+				{
+					"id": 2,
+					"text": "군청",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.785183,
+					"mid": 23
+				},
+				{
+					"id": 3,
+					"text": "소재지이며,",
+					"head": 8,
+					"label": "VNP",
+					"mod": [
+						1,
+						2
+					],
+					"weight": 0.462581,
+					"mid": 25
+				},
+				{
+					"id": 4,
+					"text": "인구는",
+					"head": 8,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.815725,
+					"mid": 25
+				},
+				{
+					"id": 5,
+					"text": "2010년",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.174328,
+					"mid": 28
+				},
+				{
+					"id": 6,
+					"text": "조사",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.516343,
+					"mid": 28
+				},
+				{
+					"id": 7,
+					"text": "기준",
+					"head": 8,
+					"label": "NP",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.828553,
+					"mid": 25
+				},
+				{
+					"id": 8,
+					"text": "821,784명이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						3,
+						4,
+						7
+					],
+					"weight": 0.00554457,
+					"mid": 25
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "VNP",
+					"text": "듀발 군의 군청 소재지이며,",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "듀발 군의 군청 소재지",
+							"label": "NP",
+							"begin": 0,
+							"end": 5,
+							"ne_type": ""
+						},
+						{
+							"text": "이며,",
+							"label": "VP",
+							"begin": 6,
+							"end": 8,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "인구는",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@VNP며, P#1@SBJ는 2010년 조사 기준 821,784명이다.",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 5,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "2010년 조사 기준 821,784명",
+							"label": "NP",
+							"begin": 11,
+							"end": 16,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 17,
+							"end": 19,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 0,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 3,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 4,
+			"text": "경상남도 창원시와 자매도시를 맺고 있기도 하다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "경상남도",
+					"type": "NNP",
+					"position": 245,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "창원",
+					"type": "NNP",
+					"position": 258,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "시",
+					"type": "NNG",
+					"position": 264,
+					"weight": 0.0529188
+				},
+				{
+					"id": 3,
+					"lemma": "와",
+					"type": "JC",
+					"position": 267,
+					"weight": 0.0169714
+				},
+				{
+					"id": 4,
+					"lemma": "자매",
+					"type": "NNG",
+					"position": 271,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 277,
+					"weight": 0.184157
+				},
+				{
+					"id": 6,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 283,
+					"weight": 0.137686
+				},
+				{
+					"id": 7,
+					"lemma": "맺",
+					"type": "VV",
+					"position": 287,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "고",
+					"type": "EC",
+					"position": 290,
+					"weight": 0.416679
+				},
+				{
+					"id": 9,
+					"lemma": "있",
+					"type": "VX",
+					"position": 294,
+					"weight": 0.125953
+				},
+				{
+					"id": 10,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 297,
+					"weight": 0.0272161
+				},
+				{
+					"id": 11,
+					"lemma": "도",
+					"type": "JX",
+					"position": 300,
+					"weight": 0.147715
+				},
+				{
+					"id": 12,
+					"lemma": "하",
+					"type": "VX",
+					"position": 304,
+					"weight": 0.00978548
+				},
+				{
+					"id": 13,
+					"lemma": "다",
+					"type": "EF",
+					"position": 307,
+					"weight": 0.180366
+				},
+				{
+					"id": 14,
+					"lemma": ".",
+					"type": "SF",
+					"position": 310,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "경상남도",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "창원시와",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "자매도시를",
+					"type": "",
+					"begin": 4,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "맺고",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "있기도",
+					"type": "",
+					"begin": 9,
+					"end": 11
+				},
+				{
+					"id": 5,
+					"text": "하다.",
+					"type": "",
+					"begin": 12,
+					"end": 14
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "경상남도",
+					"type": "LCP_PROVINCE",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.577439,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "창원시",
+					"type": "LCP_CITY",
+					"begin": 1,
+					"end": 2,
+					"weight": 0.54141,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "경상남도",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.529048,
+					"mid": 32
+				},
+				{
+					"id": 1,
+					"text": "창원시와",
+					"head": 2,
+					"label": "NP_CNJ",
+					"mod": [
+						0
+					],
+					"weight": 0.24455,
+					"mid": 34
+				},
+				{
+					"id": 2,
+					"text": "자매도시를",
+					"head": 3,
+					"label": "NP_OBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.686667,
+					"mid": 36
+				},
+				{
+					"id": 3,
+					"text": "맺고",
+					"head": 4,
+					"label": "VP",
+					"mod": [
+						2
+					],
+					"weight": 0.762146,
+					"mid": 37
+				},
+				{
+					"id": 4,
+					"text": "있기도",
+					"head": 5,
+					"label": "VP",
+					"mod": [
+						3
+					],
+					"weight": 0.598011,
+					"mid": 37
+				},
+				{
+					"id": 5,
+					"text": "하다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						4
+					],
+					"weight": 0.0348403,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_OBJ",
+					"text": "경상남도 창원시와 자매도시를",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "경상남도 창원시",
+							"label": "NP_OBJ",
+							"begin": 0,
+							"end": 2,
+							"ne_type": ""
+						},
+						{
+							"text": "자매도시",
+							"label": "NP_OBJ",
+							"begin": 4,
+							"end": 5,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 1,
+					"label": "VP",
+					"text": "P#0@OBJ를 맺고 있기도 하다.",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 3,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "맺",
+					"sense": 1,
+					"word_id": 3,
+					"weight": 0.484414,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 2,
+							"text": "자매도시를",
+							"weight": 0.401538
+						},
+						{
+							"type": "AUX",
+							"word_id": 4,
+							"text": "있기도",
+							"weight": 0.658957
+						},
+						{
+							"type": "AUX",
+							"word_id": 5,
+							"text": "하다.",
+							"weight": 0.392747
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 3,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 5,
+			"text": "잭슨빌을 연고로 하는 프로스포츠 팀으로 NFL 풋볼의 잭슨빌 재규어스 가 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "잭슨빌",
+					"type": "NNP",
+					"position": 311,
+					"weight": 0.05
+				},
+				{
+					"id": 1,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 320,
+					"weight": 0.0266447
+				},
+				{
+					"id": 2,
+					"lemma": "연고",
+					"type": "NNG",
+					"position": 324,
+					"weight": 0.0994711
+				},
+				{
+					"id": 3,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 330,
+					"weight": 0.153229
+				},
+				{
+					"id": 4,
+					"lemma": "하",
+					"type": "VV",
+					"position": 334,
+					"weight": 0.275522
+				},
+				{
+					"id": 5,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 337,
+					"weight": 0.184941
+				},
+				{
+					"id": 6,
+					"lemma": "프로",
+					"type": "NNG",
+					"position": 341,
+					"weight": 0.64939
+				},
+				{
+					"id": 7,
+					"lemma": "스포츠",
+					"type": "NNG",
+					"position": 347,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "팀",
+					"type": "NNG",
+					"position": 357,
+					"weight": 0.184232
+				},
+				{
+					"id": 9,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 360,
+					"weight": 0.153406
+				},
+				{
+					"id": 10,
+					"lemma": "NFL",
+					"type": "SL",
+					"position": 367,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": "풋볼",
+					"type": "NNG",
+					"position": 371,
+					"weight": 0.8
+				},
+				{
+					"id": 12,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 377,
+					"weight": 0.0694213
+				},
+				{
+					"id": 13,
+					"lemma": "잭슨빌",
+					"type": "NNP",
+					"position": 381,
+					"weight": 0.05
+				},
+				{
+					"id": 14,
+					"lemma": "재규어스",
+					"type": "NNP",
+					"position": 391,
+					"weight": 0.6
+				},
+				{
+					"id": 15,
+					"lemma": "가",
+					"type": "VV",
+					"position": 404,
+					"weight": 0.00021602
+				},
+				{
+					"id": 16,
+					"lemma": "아",
+					"type": "EC",
+					"position": 404,
+					"weight": 0.398809
+				},
+				{
+					"id": 17,
+					"lemma": "있",
+					"type": "VA",
+					"position": 408,
+					"weight": 0.0256866
+				},
+				{
+					"id": 18,
+					"lemma": "다",
+					"type": "EF",
+					"position": 411,
+					"weight": 0.132573
+				},
+				{
+					"id": 19,
+					"lemma": ".",
+					"type": "SF",
+					"position": 414,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "잭슨빌을",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "연고로",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "하는",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "프로스포츠",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "팀으로",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "NFL",
+					"type": "",
+					"begin": 10,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "풋볼의",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 7,
+					"text": "잭슨빌",
+					"type": "",
+					"begin": 13,
+					"end": 13
+				},
+				{
+					"id": 8,
+					"text": "재규어스",
+					"type": "",
+					"begin": 14,
+					"end": 14
+				},
+				{
+					"id": 9,
+					"text": "가",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 10,
+					"text": "있다.",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "잭슨빌",
+					"type": "LCP_CITY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.208701,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "NFL 풋볼",
+					"type": "CV_SPORTS",
+					"begin": 10,
+					"end": 11,
+					"weight": 0.201129,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "잭슨빌 재규어스",
+					"type": "OGG_SPORTS",
+					"begin": 13,
+					"end": 14,
+					"weight": 0.35507,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "잭슨빌을",
+					"head": 2,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.688673,
+					"mid": 39
+				},
+				{
+					"id": 1,
+					"text": "연고로",
+					"head": 2,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.693886,
+					"mid": 39
+				},
+				{
+					"id": 2,
+					"text": "하는",
+					"head": 4,
+					"label": "VP_MOD",
+					"mod": [
+						0,
+						1
+					],
+					"weight": 0.814413,
+					"mid": 39
+				},
+				{
+					"id": 3,
+					"text": "프로스포츠",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.79257,
+					"mid": 43
+				},
+				{
+					"id": 4,
+					"text": "팀으로",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [
+						2,
+						3
+					],
+					"weight": 0.801892,
+					"mid": 45
+				},
+				{
+					"id": 5,
+					"text": "NFL",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.459802,
+					"mid": 47
+				},
+				{
+					"id": 6,
+					"text": "풋볼의",
+					"head": 8,
+					"label": "NP_MOD",
+					"mod": [
+						5
+					],
+					"weight": 0.619943,
+					"mid": 49
+				},
+				{
+					"id": 7,
+					"text": "잭슨빌",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.641135,
+					"mid": 49
+				},
+				{
+					"id": 8,
+					"text": "재규어스",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [
+						6,
+						7
+					],
+					"weight": 0.344053,
+					"mid": 45
+				},
+				{
+					"id": 9,
+					"text": "가",
+					"head": 10,
+					"label": "VP",
+					"mod": [
+						4,
+						8
+					],
+					"weight": 0.707134,
+					"mid": 45
+				},
+				{
+					"id": 10,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						9
+					],
+					"weight": 0.00861949,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_OBJ",
+					"text": "잭슨빌을",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "연고로",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#0@OBJ을 P#1@AJT로 하는",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "P#2@MOD는 프로스포츠 팀으로",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 5,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "NFL 풋볼의 잭슨빌 재규어스",
+					"begin": 5,
+					"end": 8,
+					"key_begin": 5,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "VP",
+					"text": "P#3@AJT으로 P#4@AJT재규어스 가 있다.",
+					"begin": 0,
+					"end": 10,
+					"key_begin": 9,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "하",
+					"sense": 3,
+					"word_id": 2,
+					"weight": 0.304788,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 0,
+							"text": "잭슨빌을",
+							"weight": 0.258126
+						},
+						{
+							"type": "ARG2",
+							"word_id": 1,
+							"text": "연고로",
+							"weight": 0.292601
+						},
+						{
+							"type": "ARG0",
+							"word_id": 4,
+							"text": "팀으로",
+							"weight": 0.363636
+						}
+					]
+				},
+				{
+					"verb": "가",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0,
+					"argument": []
+				},
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.11085,
+					"argument": [
+						{
+							"type": "ARGM-CND",
+							"word_id": 9,
+							"text": "가",
+							"weight": 0.11085
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 6,
+			"text": "잭슨빌의 면적은 2,264.5 km²이며, 이 중 13.34%인 302.1 km²가 물이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "잭슨빌",
+					"type": "NNP",
+					"position": 415,
+					"weight": 0.05
+				},
+				{
+					"id": 1,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 424,
+					"weight": 0.0987295
+				},
+				{
+					"id": 2,
+					"lemma": "면적",
+					"type": "NNG",
+					"position": 428,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "은",
+					"type": "JX",
+					"position": 434,
+					"weight": 0.0449928
+				},
+				{
+					"id": 4,
+					"lemma": "2,264.5",
+					"type": "SN",
+					"position": 438,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "km",
+					"type": "SL",
+					"position": 446,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "²",
+					"type": "SW",
+					"position": 448,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 450,
+					"weight": 0.00554106
+				},
+				{
+					"id": 8,
+					"lemma": "며",
+					"type": "EC",
+					"position": 453,
+					"weight": 0.250555
+				},
+				{
+					"id": 9,
+					"lemma": ",",
+					"type": "SP",
+					"position": 456,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": "이",
+					"type": "MM",
+					"position": 458,
+					"weight": 0.0017249
+				},
+				{
+					"id": 11,
+					"lemma": "중",
+					"type": "NNB",
+					"position": 462,
+					"weight": 0.154562
+				},
+				{
+					"id": 12,
+					"lemma": "13.34",
+					"type": "SN",
+					"position": 466,
+					"weight": 1
+				},
+				{
+					"id": 13,
+					"lemma": "%",
+					"type": "SW",
+					"position": 471,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 472,
+					"weight": 0.00554106
+				},
+				{
+					"id": 15,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 472,
+					"weight": 0.220712
+				},
+				{
+					"id": 16,
+					"lemma": "302.1",
+					"type": "SN",
+					"position": 476,
+					"weight": 1
+				},
+				{
+					"id": 17,
+					"lemma": "km",
+					"type": "SL",
+					"position": 482,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "²",
+					"type": "SW",
+					"position": 484,
+					"weight": 1
+				},
+				{
+					"id": 19,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 486,
+					"weight": 0.0140609
+				},
+				{
+					"id": 20,
+					"lemma": "물",
+					"type": "NNG",
+					"position": 490,
+					"weight": 0.17895
+				},
+				{
+					"id": 21,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 493,
+					"weight": 0.0177525
+				},
+				{
+					"id": 22,
+					"lemma": "다",
+					"type": "EF",
+					"position": 496,
+					"weight": 0.353579
+				},
+				{
+					"id": 23,
+					"lemma": ".",
+					"type": "SF",
+					"position": 499,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "잭슨빌의",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "면적은",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "2,264.5",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "km²이며,",
+					"type": "",
+					"begin": 5,
+					"end": 9
+				},
+				{
+					"id": 4,
+					"text": "이",
+					"type": "",
+					"begin": 10,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "중",
+					"type": "",
+					"begin": 11,
+					"end": 11
+				},
+				{
+					"id": 6,
+					"text": "13.34%인",
+					"type": "",
+					"begin": 12,
+					"end": 15
+				},
+				{
+					"id": 7,
+					"text": "302.1",
+					"type": "",
+					"begin": 16,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "km²가",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "물이다.",
+					"type": "",
+					"begin": 20,
+					"end": 23
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "잭슨빌",
+					"type": "LC_OTHERS",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.285077,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "2,264.5 km²",
+					"type": "QT_SIZE",
+					"begin": 4,
+					"end": 6,
+					"weight": 0.508205,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "13.34%",
+					"type": "QT_PERCENTAGE",
+					"begin": 12,
+					"end": 13,
+					"weight": 0.74909,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "302.1 km²",
+					"type": "QT_SIZE",
+					"begin": 16,
+					"end": 18,
+					"weight": 0.277277,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "잭슨빌의",
+					"head": 1,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.723061,
+					"mid": 53
+				},
+				{
+					"id": 1,
+					"text": "면적은",
+					"head": 3,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.63454,
+					"mid": 55
+				},
+				{
+					"id": 2,
+					"text": "2,264.5",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.586003,
+					"mid": 55
+				},
+				{
+					"id": 3,
+					"text": "km²이며,",
+					"head": 9,
+					"label": "VNP",
+					"mod": [
+						1,
+						2
+					],
+					"weight": 0.394504,
+					"mid": 57
+				},
+				{
+					"id": 4,
+					"text": "이",
+					"head": 5,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.451559,
+					"mid": 59
+				},
+				{
+					"id": 5,
+					"text": "중",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [
+						4
+					],
+					"weight": 0.561912,
+					"mid": 57
+				},
+				{
+					"id": 6,
+					"text": "13.34%인",
+					"head": 8,
+					"label": "VNP_MOD",
+					"mod": [],
+					"weight": 0.620814,
+					"mid": 62
+				},
+				{
+					"id": 7,
+					"text": "302.1",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.781276,
+					"mid": 62
+				},
+				{
+					"id": 8,
+					"text": "km²가",
+					"head": 9,
+					"label": "NP_SBJ",
+					"mod": [
+						6,
+						7
+					],
+					"weight": 0.622771,
+					"mid": 57
+				},
+				{
+					"id": 9,
+					"text": "물이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						3,
+						5,
+						8
+					],
+					"weight": 0.00743094,
+					"mid": 57
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "VNP",
+					"text": "잭슨빌의 면적은 2,264.5 km²이며,",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "잭슨빌의 면적은 2,264.5 km²",
+							"label": "NP",
+							"begin": 0,
+							"end": 6,
+							"ne_type": ""
+						},
+						{
+							"text": "이며,",
+							"label": "VP",
+							"begin": 7,
+							"end": 9,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "이 중",
+					"begin": 4,
+					"end": 5,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "13.34%인 302.1 km²가",
+					"begin": 6,
+					"end": 8,
+					"key_begin": 6,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@VNP며, P#1@AJT중 P#2@SBJ가 물이다.",
+					"begin": 0,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "물",
+							"label": "NP",
+							"begin": 20,
+							"end": 20,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 21,
+							"end": 23,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 7,
+			"text": "잭슨빌은 온난 습윤 기후에 속하며, 겨울에는 포근하면서 여름에는 더운 편이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "잭슨빌",
+					"type": "NNP",
+					"position": 500,
+					"weight": 0.05
+				},
+				{
+					"id": 1,
+					"lemma": "은",
+					"type": "JX",
+					"position": 509,
+					"weight": 0.0520511
+				},
+				{
+					"id": 2,
+					"lemma": "온난",
+					"type": "NNG",
+					"position": 513,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "습윤",
+					"type": "NNG",
+					"position": 520,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "기후",
+					"type": "NNG",
+					"position": 527,
+					"weight": 0.184163
+				},
+				{
+					"id": 5,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 533,
+					"weight": 0.153364
+				},
+				{
+					"id": 6,
+					"lemma": "속",
+					"type": "NNG",
+					"position": 537,
+					"weight": 0.205064
+				},
+				{
+					"id": 7,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 540,
+					"weight": 0.0001
+				},
+				{
+					"id": 8,
+					"lemma": "며",
+					"type": "EC",
+					"position": 543,
+					"weight": 0.371165
+				},
+				{
+					"id": 9,
+					"lemma": ",",
+					"type": "SP",
+					"position": 546,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": "겨울",
+					"type": "NNG",
+					"position": 548,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 554,
+					"weight": 0.153364
+				},
+				{
+					"id": 12,
+					"lemma": "는",
+					"type": "JX",
+					"position": 557,
+					"weight": 0.0387928
+				},
+				{
+					"id": 13,
+					"lemma": "포근하",
+					"type": "VA",
+					"position": 561,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "면서",
+					"type": "EC",
+					"position": 570,
+					"weight": 0.319492
+				},
+				{
+					"id": 15,
+					"lemma": "여름",
+					"type": "NNG",
+					"position": 577,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 583,
+					"weight": 0.153364
+				},
+				{
+					"id": 17,
+					"lemma": "는",
+					"type": "JX",
+					"position": 586,
+					"weight": 0.0387928
+				},
+				{
+					"id": 18,
+					"lemma": "덥",
+					"type": "VA",
+					"position": 590,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 590,
+					"weight": 0.430446
+				},
+				{
+					"id": 20,
+					"lemma": "편",
+					"type": "NNB",
+					"position": 597,
+					"weight": 0.183322
+				},
+				{
+					"id": 21,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 600,
+					"weight": 0.0607843
+				},
+				{
+					"id": 22,
+					"lemma": "다",
+					"type": "EF",
+					"position": 603,
+					"weight": 0.353579
+				},
+				{
+					"id": 23,
+					"lemma": ".",
+					"type": "SF",
+					"position": 606,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "잭슨빌은",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "온난",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "습윤",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "기후에",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "속하며,",
+					"type": "",
+					"begin": 6,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "겨울에는",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "포근하면서",
+					"type": "",
+					"begin": 13,
+					"end": 14
+				},
+				{
+					"id": 7,
+					"text": "여름에는",
+					"type": "",
+					"begin": 15,
+					"end": 17
+				},
+				{
+					"id": 8,
+					"text": "더운",
+					"type": "",
+					"begin": 18,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "편이다.",
+					"type": "",
+					"begin": 20,
+					"end": 23
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "잭슨빌",
+					"type": "LC_OTHERS",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.174773,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "온난 습윤 기후",
+					"type": "TM_CLIMATE",
+					"begin": 2,
+					"end": 4,
+					"weight": 0.487958,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "겨울",
+					"type": "DT_SEASON",
+					"begin": 10,
+					"end": 10,
+					"weight": 0.553679,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "여름",
+					"type": "DT_SEASON",
+					"begin": 15,
+					"end": 15,
+					"weight": 0.446688,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "잭슨빌은",
+					"head": 4,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.583661,
+					"mid": 66
+				},
+				{
+					"id": 1,
+					"text": "온난",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.0516953,
+					"mid": 68
+				},
+				{
+					"id": 2,
+					"text": "습윤",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.61811,
+					"mid": 70
+				},
+				{
+					"id": 3,
+					"text": "기후에",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.79494,
+					"mid": 66
+				},
+				{
+					"id": 4,
+					"text": "속하며,",
+					"head": 6,
+					"label": "VP",
+					"mod": [
+						0,
+						3
+					],
+					"weight": 0.432248,
+					"mid": 72
+				},
+				{
+					"id": 5,
+					"text": "겨울에는",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.567676,
+					"mid": 72
+				},
+				{
+					"id": 6,
+					"text": "포근하면서",
+					"head": 8,
+					"label": "VP",
+					"mod": [
+						4,
+						5
+					],
+					"weight": 0.573047,
+					"mid": 74
+				},
+				{
+					"id": 7,
+					"text": "여름에는",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.659997,
+					"mid": 74
+				},
+				{
+					"id": 8,
+					"text": "더운",
+					"head": 9,
+					"label": "VP_MOD",
+					"mod": [
+						6,
+						7
+					],
+					"weight": 0.755789,
+					"mid": 74
+				},
+				{
+					"id": 9,
+					"text": "편이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						8
+					],
+					"weight": 0.00080588,
+					"mid": 77
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "잭슨빌은",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "온난 습윤 기후에",
+					"begin": 1,
+					"end": 3,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@AJT에 속하며,",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "겨울에는",
+					"begin": 5,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "S#2@S며, P#3@AJT는 포근하면서",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 6,
+					"sub_phrase": [
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "여름에는",
+					"begin": 7,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S_MOD",
+					"text": "S#4@S면서 P#5@AJT는 더운",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 7,
+					"sub_phrase": [
+						4,
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "S",
+					"text": "S#6@MODㄴ 편이다.",
+					"begin": 0,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": -1,
+					"sub_phrase": [
+						6
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "편",
+							"label": "NP",
+							"begin": 20,
+							"end": 20,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 21,
+							"end": 23,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "속",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.266453,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 0,
+							"text": "잭슨빌은",
+							"weight": 0.204511
+						},
+						{
+							"type": "ARG2",
+							"word_id": 3,
+							"text": "기후에",
+							"weight": 0.328395
+						}
+					]
+				},
+				{
+					"verb": "포근하",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.366713,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 5,
+							"text": "겨울에는",
+							"weight": 0.366713
+						}
+					]
+				},
+				{
+					"verb": "덥",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.171931,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 7,
+							"text": "여름에는",
+							"weight": 0.171931
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 6,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 8,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 8,
+			"text": "최고 기온 기록은 1942년 7월 21일의 43&nbsp;°C이며, 최저 기온 기록은 1985년 1월 21일에 기록된 -14&nbsp;°C이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "최고",
+					"type": "NNG",
+					"position": 607,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "기온",
+					"type": "NNG",
+					"position": 614,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "기록",
+					"type": "NNG",
+					"position": 621,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "은",
+					"type": "JX",
+					"position": 627,
+					"weight": 0.0449928
+				},
+				{
+					"id": 4,
+					"lemma": "1942",
+					"type": "SN",
+					"position": 631,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 635,
+					"weight": 0.414343
+				},
+				{
+					"id": 6,
+					"lemma": "7",
+					"type": "SN",
+					"position": 639,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "월",
+					"type": "NNB",
+					"position": 640,
+					"weight": 0.408539
+				},
+				{
+					"id": 8,
+					"lemma": "21",
+					"type": "SN",
+					"position": 644,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "일",
+					"type": "NNB",
+					"position": 646,
+					"weight": 0.126777
+				},
+				{
+					"id": 10,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 649,
+					"weight": 0.0520933
+				},
+				{
+					"id": 11,
+					"lemma": "43",
+					"type": "SN",
+					"position": 653,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "&",
+					"type": "SW",
+					"position": 655,
+					"weight": 1
+				},
+				{
+					"id": 13,
+					"lemma": "nbsp",
+					"type": "SL",
+					"position": 656,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": ";",
+					"type": "SW",
+					"position": 660,
+					"weight": 1
+				},
+				{
+					"id": 15,
+					"lemma": "°",
+					"type": "SW",
+					"position": 661,
+					"weight": 1
+				},
+				{
+					"id": 16,
+					"lemma": "C",
+					"type": "SL",
+					"position": 663,
+					"weight": 1
+				},
+				{
+					"id": 17,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 664,
+					"weight": 0.0209823
+				},
+				{
+					"id": 18,
+					"lemma": "며",
+					"type": "EC",
+					"position": 667,
+					"weight": 0.250555
+				},
+				{
+					"id": 19,
+					"lemma": ",",
+					"type": "SP",
+					"position": 670,
+					"weight": 1
+				},
+				{
+					"id": 20,
+					"lemma": "최저",
+					"type": "NNG",
+					"position": 672,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "기온",
+					"type": "NNG",
+					"position": 679,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "기록",
+					"type": "NNG",
+					"position": 686,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "은",
+					"type": "JX",
+					"position": 692,
+					"weight": 0.0449928
+				},
+				{
+					"id": 24,
+					"lemma": "1985",
+					"type": "SN",
+					"position": 696,
+					"weight": 1
+				},
+				{
+					"id": 25,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 700,
+					"weight": 0.414343
+				},
+				{
+					"id": 26,
+					"lemma": "1",
+					"type": "SN",
+					"position": 704,
+					"weight": 1
+				},
+				{
+					"id": 27,
+					"lemma": "월",
+					"type": "NNB",
+					"position": 705,
+					"weight": 0.408539
+				},
+				{
+					"id": 28,
+					"lemma": "21",
+					"type": "SN",
+					"position": 709,
+					"weight": 1
+				},
+				{
+					"id": 29,
+					"lemma": "일",
+					"type": "NNB",
+					"position": 711,
+					"weight": 0.126777
+				},
+				{
+					"id": 30,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 714,
+					"weight": 0.135559
+				},
+				{
+					"id": 31,
+					"lemma": "기록",
+					"type": "NNG",
+					"position": 718,
+					"weight": 0.9
+				},
+				{
+					"id": 32,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 724,
+					"weight": 0.000224177
+				},
+				{
+					"id": 33,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 724,
+					"weight": 0.392321
+				},
+				{
+					"id": 34,
+					"lemma": "-",
+					"type": "SS",
+					"position": 728,
+					"weight": 1
+				},
+				{
+					"id": 35,
+					"lemma": "14",
+					"type": "SN",
+					"position": 729,
+					"weight": 1
+				},
+				{
+					"id": 36,
+					"lemma": "&",
+					"type": "SW",
+					"position": 731,
+					"weight": 1
+				},
+				{
+					"id": 37,
+					"lemma": "nbsp",
+					"type": "SL",
+					"position": 732,
+					"weight": 1
+				},
+				{
+					"id": 38,
+					"lemma": ";",
+					"type": "SW",
+					"position": 736,
+					"weight": 1
+				},
+				{
+					"id": 39,
+					"lemma": "°",
+					"type": "SW",
+					"position": 737,
+					"weight": 1
+				},
+				{
+					"id": 40,
+					"lemma": "C",
+					"type": "SL",
+					"position": 739,
+					"weight": 1
+				},
+				{
+					"id": 41,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 740,
+					"weight": 0.0209823
+				},
+				{
+					"id": 42,
+					"lemma": "다",
+					"type": "EF",
+					"position": 743,
+					"weight": 0.353579
+				},
+				{
+					"id": 43,
+					"lemma": ".",
+					"type": "SF",
+					"position": 746,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "최고",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "기온",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "기록은",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "1942년",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "7월",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "21일의",
+					"type": "",
+					"begin": 8,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "43&nbsp;°C이며,",
+					"type": "",
+					"begin": 11,
+					"end": 19
+				},
+				{
+					"id": 7,
+					"text": "최저",
+					"type": "",
+					"begin": 20,
+					"end": 20
+				},
+				{
+					"id": 8,
+					"text": "기온",
+					"type": "",
+					"begin": 21,
+					"end": 21
+				},
+				{
+					"id": 9,
+					"text": "기록은",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 10,
+					"text": "1985년",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 11,
+					"text": "1월",
+					"type": "",
+					"begin": 26,
+					"end": 27
+				},
+				{
+					"id": 12,
+					"text": "21일에",
+					"type": "",
+					"begin": 28,
+					"end": 30
+				},
+				{
+					"id": 13,
+					"text": "기록된",
+					"type": "",
+					"begin": 31,
+					"end": 33
+				},
+				{
+					"id": 14,
+					"text": "-14&nbsp;°C이다.",
+					"type": "",
+					"begin": 34,
+					"end": 43
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "1942년 7월 21일",
+					"type": "DT_OTHERS",
+					"begin": 4,
+					"end": 9,
+					"weight": 0.838383,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "43&",
+					"type": "QT_COUNT",
+					"begin": 11,
+					"end": 12,
+					"weight": 0.411758,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "1985년 1월 21일",
+					"type": "DT_OTHERS",
+					"begin": 24,
+					"end": 29,
+					"weight": 0.785938,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "최고",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.560952,
+					"mid": 79
+				},
+				{
+					"id": 1,
+					"text": "기온",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.665384,
+					"mid": 81
+				},
+				{
+					"id": 2,
+					"text": "기록은",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.303871,
+					"mid": 83
+				},
+				{
+					"id": 3,
+					"text": "1942년",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.274932,
+					"mid": 85
+				},
+				{
+					"id": 4,
+					"text": "7월",
+					"head": 5,
+					"label": "NP",
+					"mod": [
+						3
+					],
+					"weight": 0.777444,
+					"mid": 87
+				},
+				{
+					"id": 5,
+					"text": "21일의",
+					"head": 6,
+					"label": "NP_MOD",
+					"mod": [
+						4
+					],
+					"weight": 0.649389,
+					"mid": 83
+				},
+				{
+					"id": 6,
+					"text": "43&nbsp;°C이며,",
+					"head": 13,
+					"label": "VNP",
+					"mod": [
+						2,
+						5
+					],
+					"weight": 0.425958,
+					"mid": 89
+				},
+				{
+					"id": 7,
+					"text": "최저",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.440549,
+					"mid": 91
+				},
+				{
+					"id": 8,
+					"text": "기온",
+					"head": 9,
+					"label": "NP",
+					"mod": [
+						7
+					],
+					"weight": 0.673541,
+					"mid": 93
+				},
+				{
+					"id": 9,
+					"text": "기록은",
+					"head": 13,
+					"label": "NP_SBJ",
+					"mod": [
+						8
+					],
+					"weight": 0.617652,
+					"mid": 89
+				},
+				{
+					"id": 10,
+					"text": "1985년",
+					"head": 11,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.469879,
+					"mid": 96
+				},
+				{
+					"id": 11,
+					"text": "1월",
+					"head": 12,
+					"label": "NP",
+					"mod": [
+						10
+					],
+					"weight": 0.708374,
+					"mid": 98
+				},
+				{
+					"id": 12,
+					"text": "21일에",
+					"head": 13,
+					"label": "NP_AJT",
+					"mod": [
+						11
+					],
+					"weight": 0.855371,
+					"mid": 89
+				},
+				{
+					"id": 13,
+					"text": "기록된",
+					"head": 14,
+					"label": "VP_MOD",
+					"mod": [
+						6,
+						9,
+						12
+					],
+					"weight": 0.833055,
+					"mid": 89
+				},
+				{
+					"id": 14,
+					"text": "-14&nbsp;°C이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						13
+					],
+					"weight": 0.000192999,
+					"mid": 101
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "최고 기온 기록은",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "S",
+					"text": "P#0@SBJ은 1942년 7월 21일의 43&nbsp;°C이며,",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "1942년 7월 21일의 43&nbsp;°C",
+							"label": "NP",
+							"begin": 4,
+							"end": 16,
+							"ne_type": ""
+						},
+						{
+							"text": "이며,",
+							"label": "VP",
+							"begin": 17,
+							"end": 19,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "최저 기온 기록은",
+					"begin": 7,
+					"end": 9,
+					"key_begin": 7,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "1985년 1월 21일에",
+					"begin": 10,
+					"end": 12,
+					"key_begin": 10,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S_MOD",
+					"text": "S#1@S며, P#2@SBJ은 P#3@AJT에 기록된",
+					"begin": 0,
+					"end": 13,
+					"key_begin": 13,
+					"head_phrase": 5,
+					"sub_phrase": [
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "S#4@MODㄴ -14&nbsp;°C이다.",
+					"begin": 0,
+					"end": 14,
+					"key_begin": 14,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "-14&nbsp;°C",
+							"label": "NP",
+							"begin": 34,
+							"end": 40,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 41,
+							"end": 43,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "기록",
+					"sense": 1,
+					"word_id": 13,
+					"weight": 0.319692,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 12,
+							"text": "21일에",
+							"weight": 0.319692
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 13,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "LC_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "잭슨빌",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "잭슨빌",
+					"ne_id": 0
+				},
+				{
+					"id": 2,
+					"text": "잭슨빌",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "잭슨빌",
+					"ne_id": 0
+				},
+				{
+					"id": 3,
+					"text": "미국 플로리다 주에서 인구가 가장 많은 도시이다",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "도시이다",
+					"ne_id": -1
+				},
+				{
+					"id": 11,
+					"text": "듀발 군의 군청 소재지이며",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 3,
+					"start_eid_short": 0,
+					"end_eid_short": 3,
+					"text_short": "듀발 군의 군청 소재지이며",
+					"ne_id": -1
+				},
+				{
+					"id": 24,
+					"text": "잭슨빌",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "잭슨빌",
+					"ne_id": 0
+				},
+				{
+					"id": 30,
+					"text": "잭슨빌",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "잭슨빌",
+					"ne_id": 0
+				},
+				{
+					"id": 37,
+					"text": "잭슨빌",
+					"sent_id": 7,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "잭슨빌",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 1,
+					"text": "플로리다 주",
+					"sent_id": 0,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "플로리다 주",
+					"ne_id": 1
+				},
+				{
+					"id": 4,
+					"text": "미국 플로리다 주",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 1,
+					"end_eid_short": 3,
+					"text_short": "미국 플로리다 주",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 5,
+					"text": "미국",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "미국",
+					"ne_id": 1
+				},
+				{
+					"id": 8,
+					"text": "미국",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "미국",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 6,
+					"text": "인구",
+					"sent_id": 1,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "인구",
+					"ne_id": -1
+				},
+				{
+					"id": 10,
+					"text": "인구",
+					"sent_id": 2,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "인구",
+					"ne_id": -1
+				},
+				{
+					"id": 15,
+					"text": "인구",
+					"sent_id": 3,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "인구",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "미국 전체",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "미국 전체",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "QT_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 9,
+					"text": "열셋째",
+					"sent_id": 2,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "열셋째",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "듀발",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "듀발",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "군청",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "군청",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 16,
+					"text": "2010년 조사 기준",
+					"sent_id": 3,
+					"start_eid": 5,
+					"end_eid": 7,
+					"start_eid_short": 5,
+					"end_eid_short": 7,
+					"text_short": "2010년 조사 기준",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 17,
+					"text": "2010년",
+					"sent_id": 3,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "2010년",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 18,
+					"text": "조사",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "조사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "QT_MAN_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 19,
+					"text": "821784명이다",
+					"sent_id": 3,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "821784명이다",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 20,
+					"text": "경상남도 창원시",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "경상남도 창원시",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "경상남도",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "경상남도",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 22,
+					"text": "자매도시",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "자매도시",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "잭슨빌을 연고로 하는 프로스포츠 팀",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "프로스포츠 팀",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 25,
+					"text": "연고",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "연고",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 26,
+					"text": "프로스포츠",
+					"sent_id": 5,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "프로스포츠",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "OGG_SPORTS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 27,
+					"text": "NFL 풋볼의 잭슨빌 재규어스",
+					"sent_id": 5,
+					"start_eid": 5,
+					"end_eid": 8,
+					"start_eid_short": 5,
+					"end_eid_short": 8,
+					"text_short": "NFL 풋볼의 잭슨빌 재규어스",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "CV_SPORTS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 28,
+					"text": "NFL 풋볼",
+					"sent_id": 5,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "NFL 풋볼",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 29,
+					"text": "잭슨빌의 면적",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "잭슨빌의 면적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "QT_SIZE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 31,
+					"text": "22645 km²이며",
+					"sent_id": 6,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "22645 km²이며",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 32,
+					"text": "이 중",
+					"sent_id": 6,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "이 중",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "QT_PERCENTAGE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "1334이ㄴ",
+					"sent_id": 6,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "1334이ㄴ",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "QT_SIZE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "3021 km²",
+					"sent_id": 6,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "3021 km²",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "TM_CLIMATE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 38,
+					"text": "온난 습윤 기후",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 1,
+					"end_eid_short": 3,
+					"text_short": "온난 습윤 기후",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "DT_SEASON",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 39,
+					"text": "겨울",
+					"sent_id": 7,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "겨울",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "DT_SEASON",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 40,
+					"text": "여름",
+					"sent_id": 7,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "여름",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 28,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 42,
+					"text": "최고 기온",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "최고 기온",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 29,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 43,
+					"text": "최고",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "최고",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 30,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 41,
+					"text": "최고 기온 기록",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "최고 기온 기록",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 31,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 45,
+					"text": "1942년 7월 21일",
+					"sent_id": 8,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 3,
+					"end_eid_short": 5,
+					"text_short": "1942년 7월 21일",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 32,
+			"type": "QT_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 44,
+					"text": "1942년 7월 21일의 43nbsp°C이며",
+					"sent_id": 8,
+					"start_eid": 3,
+					"end_eid": 6,
+					"start_eid_short": 3,
+					"end_eid_short": 6,
+					"text_short": "1942년 7월 21일의 43nbsp°C이며",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 33,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 48,
+					"text": "최저",
+					"sent_id": 8,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "최저",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 34,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 12,
+					"text": "듀발 군",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "듀발 군",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 35,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 33,
+					"text": "1334인 3021",
+					"sent_id": 6,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "3021",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 36,
+			"type": "QT_SIZE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "물이다",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "물이다",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 37,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 47,
+					"text": "최저 기온",
+					"sent_id": 8,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "최저 기온",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 38,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 46,
+					"text": "최저 기온 기록",
+					"sent_id": 8,
+					"start_eid": 7,
+					"end_eid": 9,
+					"start_eid_short": 7,
+					"end_eid_short": 9,
+					"text_short": "최저 기온 기록",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 39,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 50,
+					"text": "1985년 1월 21일",
+					"sent_id": 8,
+					"start_eid": 10,
+					"end_eid": 12,
+					"start_eid_short": 10,
+					"end_eid_short": 12,
+					"text_short": "1985년 1월 21일",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 40,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 49,
+					"text": "1985년 1월 21일에 기록된 14nbsp°C이다",
+					"sent_id": 8,
+					"start_eid": 10,
+					"end_eid": 14,
+					"start_eid_short": 14,
+					"end_eid_short": 14,
+					"text_short": "14nbsp°C이다",
+					"ne_id": -1
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,4204 @@
+{
+	"title": {
+		"text": "계산 복잡도 이론",
+		"NE": "none"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 6,
+		"num_word": 69
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "계산 복잡도 이론",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "계산",
+					"type": "NNG",
+					"position": 0,
+					"weight": 0.436702
+				},
+				{
+					"id": 1,
+					"lemma": "복잡",
+					"type": "NNG",
+					"position": 7,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "도",
+					"type": "JX",
+					"position": 13,
+					"weight": 0.0676272
+				},
+				{
+					"id": 3,
+					"lemma": "이론",
+					"type": "NNG",
+					"position": 17,
+					"weight": 0.9
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "계산",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "복잡도",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "이론",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "계산 복잡도 이론",
+					"type": "TR_OTHERS",
+					"begin": 0,
+					"end": 3,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "계산",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.671992,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "복잡도",
+					"head": 2,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.690298,
+					"mid": 3
+				},
+				{
+					"id": 2,
+					"text": "이론",
+					"head": -1,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.388582,
+					"mid": 4
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "계산 복잡도 이론",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "계산 복잡도 이론은 컴퓨터 과학에서 계산 이론의 분야로, 계산 문제를 푸는 알고리듬을 복잡도에 따라 분류하여 문제의 모임을 구성하는 방법을 연구한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "계산",
+					"type": "NNG",
+					"position": 23,
+					"weight": 0.436702
+				},
+				{
+					"id": 1,
+					"lemma": "복잡",
+					"type": "NNG",
+					"position": 30,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "도",
+					"type": "JX",
+					"position": 36,
+					"weight": 0.0676272
+				},
+				{
+					"id": 3,
+					"lemma": "이론",
+					"type": "NNG",
+					"position": 40,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "은",
+					"type": "JX",
+					"position": 46,
+					"weight": 0.0449928
+				},
+				{
+					"id": 5,
+					"lemma": "컴퓨터",
+					"type": "NNG",
+					"position": 50,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "과학",
+					"type": "NNG",
+					"position": 60,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 66,
+					"weight": 0.153407
+				},
+				{
+					"id": 8,
+					"lemma": "계산",
+					"type": "NNG",
+					"position": 73,
+					"weight": 0.207454
+				},
+				{
+					"id": 9,
+					"lemma": "이론",
+					"type": "NNG",
+					"position": 80,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 86,
+					"weight": 0.0694213
+				},
+				{
+					"id": 11,
+					"lemma": "분야",
+					"type": "NNG",
+					"position": 90,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 96,
+					"weight": 0.153229
+				},
+				{
+					"id": 13,
+					"lemma": ",",
+					"type": "SP",
+					"position": 99,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": "계산",
+					"type": "NNG",
+					"position": 101,
+					"weight": 0.530087
+				},
+				{
+					"id": 15,
+					"lemma": "문제",
+					"type": "NNG",
+					"position": 108,
+					"weight": 0.184611
+				},
+				{
+					"id": 16,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 114,
+					"weight": 0.137686
+				},
+				{
+					"id": 17,
+					"lemma": "풀",
+					"type": "VV",
+					"position": 118,
+					"weight": 0.505849
+				},
+				{
+					"id": 18,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 121,
+					"weight": 0.184941
+				},
+				{
+					"id": 19,
+					"lemma": "알고리듬",
+					"type": "NNG",
+					"position": 125,
+					"weight": 0.25
+				},
+				{
+					"id": 20,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 137,
+					"weight": 0.129611
+				},
+				{
+					"id": 21,
+					"lemma": "복잡",
+					"type": "NNG",
+					"position": 141,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "도",
+					"type": "XSN",
+					"position": 147,
+					"weight": 0.0001
+				},
+				{
+					"id": 23,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 150,
+					"weight": 0.121683
+				},
+				{
+					"id": 24,
+					"lemma": "따르",
+					"type": "VV",
+					"position": 154,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "아",
+					"type": "EC",
+					"position": 157,
+					"weight": 0.398809
+				},
+				{
+					"id": 26,
+					"lemma": "분류",
+					"type": "NNG",
+					"position": 161,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 167,
+					"weight": 0.0001
+				},
+				{
+					"id": 28,
+					"lemma": "어",
+					"type": "EC",
+					"position": 170,
+					"weight": 0.361326
+				},
+				{
+					"id": 29,
+					"lemma": "문제",
+					"type": "NNG",
+					"position": 174,
+					"weight": 0.219152
+				},
+				{
+					"id": 30,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 180,
+					"weight": 0.0694213
+				},
+				{
+					"id": 31,
+					"lemma": "모임",
+					"type": "NNG",
+					"position": 184,
+					"weight": 0.871066
+				},
+				{
+					"id": 32,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 190,
+					"weight": 0.129611
+				},
+				{
+					"id": 33,
+					"lemma": "구성",
+					"type": "NNG",
+					"position": 194,
+					"weight": 0.101187
+				},
+				{
+					"id": 34,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 200,
+					"weight": 0.0001
+				},
+				{
+					"id": 35,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 203,
+					"weight": 0.238503
+				},
+				{
+					"id": 36,
+					"lemma": "방법",
+					"type": "NNG",
+					"position": 207,
+					"weight": 0.9
+				},
+				{
+					"id": 37,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 213,
+					"weight": 0.129611
+				},
+				{
+					"id": 38,
+					"lemma": "연구",
+					"type": "NNG",
+					"position": 217,
+					"weight": 0.9
+				},
+				{
+					"id": 39,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 223,
+					"weight": 0.0001
+				},
+				{
+					"id": 40,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 223,
+					"weight": 0.0449045
+				},
+				{
+					"id": 41,
+					"lemma": ".",
+					"type": "SF",
+					"position": 229,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "계산",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "복잡도",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "이론은",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "컴퓨터",
+					"type": "",
+					"begin": 5,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "과학에서",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "계산",
+					"type": "",
+					"begin": 8,
+					"end": 8
+				},
+				{
+					"id": 6,
+					"text": "이론의",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 7,
+					"text": "분야로,",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 8,
+					"text": "계산",
+					"type": "",
+					"begin": 14,
+					"end": 14
+				},
+				{
+					"id": 9,
+					"text": "문제를",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 10,
+					"text": "푸는",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 11,
+					"text": "알고리듬을",
+					"type": "",
+					"begin": 19,
+					"end": 20
+				},
+				{
+					"id": 12,
+					"text": "복잡도에",
+					"type": "",
+					"begin": 21,
+					"end": 23
+				},
+				{
+					"id": 13,
+					"text": "따라",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 14,
+					"text": "분류하여",
+					"type": "",
+					"begin": 26,
+					"end": 28
+				},
+				{
+					"id": 15,
+					"text": "문제의",
+					"type": "",
+					"begin": 29,
+					"end": 30
+				},
+				{
+					"id": 16,
+					"text": "모임을",
+					"type": "",
+					"begin": 31,
+					"end": 32
+				},
+				{
+					"id": 17,
+					"text": "구성하는",
+					"type": "",
+					"begin": 33,
+					"end": 35
+				},
+				{
+					"id": 18,
+					"text": "방법을",
+					"type": "",
+					"begin": 36,
+					"end": 37
+				},
+				{
+					"id": 19,
+					"text": "연구한다.",
+					"type": "",
+					"begin": 38,
+					"end": 41
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "컴퓨터 과학",
+					"type": "FD_SCIENCE",
+					"begin": 5,
+					"end": 6,
+					"weight": 0.152422,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "계산",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.695594,
+					"mid": 6
+				},
+				{
+					"id": 1,
+					"text": "복잡도",
+					"head": 19,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.673856,
+					"mid": 7
+				},
+				{
+					"id": 2,
+					"text": "이론은",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.663879,
+					"mid": 9
+				},
+				{
+					"id": 3,
+					"text": "컴퓨터",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.847419,
+					"mid": 11
+				},
+				{
+					"id": 4,
+					"text": "과학에서",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [
+						3
+					],
+					"weight": 0.413544,
+					"mid": 9
+				},
+				{
+					"id": 5,
+					"text": "계산",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.810224,
+					"mid": 14
+				},
+				{
+					"id": 6,
+					"text": "이론의",
+					"head": 7,
+					"label": "NP_MOD",
+					"mod": [
+						5
+					],
+					"weight": 0.673513,
+					"mid": 9
+				},
+				{
+					"id": 7,
+					"text": "분야로,",
+					"head": 19,
+					"label": "NP_AJT",
+					"mod": [
+						2,
+						4,
+						6
+					],
+					"weight": 0.772317,
+					"mid": 16
+				},
+				{
+					"id": 8,
+					"text": "계산",
+					"head": 9,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.609205,
+					"mid": 18
+				},
+				{
+					"id": 9,
+					"text": "문제를",
+					"head": 10,
+					"label": "NP_OBJ",
+					"mod": [
+						8
+					],
+					"weight": 0.814027,
+					"mid": 20
+				},
+				{
+					"id": 10,
+					"text": "푸는",
+					"head": 11,
+					"label": "VP_MOD",
+					"mod": [
+						9
+					],
+					"weight": 0.767889,
+					"mid": 20
+				},
+				{
+					"id": 11,
+					"text": "알고리듬을",
+					"head": 13,
+					"label": "NP_OBJ",
+					"mod": [
+						10
+					],
+					"weight": 0.75411,
+					"mid": 23
+				},
+				{
+					"id": 12,
+					"text": "복잡도에",
+					"head": 13,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.743258,
+					"mid": 23
+				},
+				{
+					"id": 13,
+					"text": "따라",
+					"head": 14,
+					"label": "VP",
+					"mod": [
+						11,
+						12
+					],
+					"weight": 0.671697,
+					"mid": 25
+				},
+				{
+					"id": 14,
+					"text": "분류하여",
+					"head": 17,
+					"label": "VP",
+					"mod": [
+						13
+					],
+					"weight": 0.447123,
+					"mid": 26
+				},
+				{
+					"id": 15,
+					"text": "문제의",
+					"head": 16,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.693861,
+					"mid": 28
+				},
+				{
+					"id": 16,
+					"text": "모임을",
+					"head": 17,
+					"label": "NP_OBJ",
+					"mod": [
+						15
+					],
+					"weight": 0.790189,
+					"mid": 26
+				},
+				{
+					"id": 17,
+					"text": "구성하는",
+					"head": 18,
+					"label": "VP_MOD",
+					"mod": [
+						14,
+						16
+					],
+					"weight": 0.842495,
+					"mid": 26
+				},
+				{
+					"id": 18,
+					"text": "방법을",
+					"head": 19,
+					"label": "NP_OBJ",
+					"mod": [
+						17
+					],
+					"weight": 0.86383,
+					"mid": 31
+				},
+				{
+					"id": 19,
+					"text": "연구한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						1,
+						7,
+						18
+					],
+					"weight": 0.00105773,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "계산 복잡도",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 12,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "이론은",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "컴퓨터 과학에서",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S_AJT",
+					"text": "P#1@SBJ은 P#2@AJT에서 계산 이론의 분야로,",
+					"begin": 2,
+					"end": 7,
+					"key_begin": 5,
+					"head_phrase": 12,
+					"sub_phrase": [
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_OBJ",
+					"text": "계산 문제를",
+					"begin": 8,
+					"end": 9,
+					"key_begin": 8,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "VP_MOD",
+					"text": "P#4@OBJ를 푸는",
+					"begin": 8,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_OBJ",
+					"text": "P#5@MOD는 알고리듬을",
+					"begin": 8,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 8,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_AJT",
+					"text": "복잡도에",
+					"begin": 12,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "VP",
+					"text": "P#6@OBJ을 P#7@AJT에 따라 분류하여",
+					"begin": 8,
+					"end": 14,
+					"key_begin": 13,
+					"head_phrase": 10,
+					"sub_phrase": [
+						6,
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "NP_OBJ",
+					"text": "문제의 모임을",
+					"begin": 15,
+					"end": 16,
+					"key_begin": 15,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "VP_MOD",
+					"text": "P#8@VP어 P#9@OBJ을 구성하는",
+					"begin": 8,
+					"end": 17,
+					"key_begin": 17,
+					"head_phrase": 11,
+					"sub_phrase": [
+						8,
+						9
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 11,
+					"label": "NP_OBJ",
+					"text": "P#10@MOD는 방법을",
+					"begin": 8,
+					"end": 18,
+					"key_begin": 18,
+					"head_phrase": 12,
+					"sub_phrase": [
+						10
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 12,
+					"label": "S",
+					"text": "P#0@SBJ도 S#3@AJT로, P#11@OBJ을 연구한다.",
+					"begin": 0,
+					"end": 19,
+					"key_begin": 19,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						3,
+						11
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "풀",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.201745,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 9,
+							"text": "문제를",
+							"weight": 0.245263
+						},
+						{
+							"type": "ARG0",
+							"word_id": 11,
+							"text": "알고리듬을",
+							"weight": 0.158228
+						}
+					]
+				},
+				{
+					"verb": "따르",
+					"sense": 2,
+					"word_id": 13,
+					"weight": 0.432318,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 12,
+							"text": "복잡도에",
+							"weight": 1
+						}
+					]
+				},
+				{
+					"verb": "분류",
+					"sense": 1,
+					"word_id": 14,
+					"weight": 0.143926,
+					"argument": [
+						{
+							"type": "ARGM-CND",
+							"word_id": 13,
+							"text": "따라",
+							"weight": 0.143926
+						}
+					]
+				},
+				{
+					"verb": "구성",
+					"sense": 1,
+					"word_id": 17,
+					"weight": 0.307096,
+					"argument": [
+						{
+							"type": "ARGM-MNR",
+							"word_id": 14,
+							"text": "분류하여",
+							"weight": 0.213384
+						},
+						{
+							"type": "ARG1",
+							"word_id": 16,
+							"text": "모임을",
+							"weight": 0.400808
+						}
+					]
+				},
+				{
+					"verb": "연구",
+					"sense": 1,
+					"word_id": 19,
+					"weight": 0.290494,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 2,
+							"text": "이론은",
+							"weight": 0.205804
+						},
+						{
+							"type": "ARGM-PRD",
+							"word_id": 7,
+							"text": "분야로,",
+							"weight": 0.289541
+						},
+						{
+							"type": "ARG1",
+							"word_id": 18,
+							"text": "방법을",
+							"weight": 0.376136
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 13,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 14,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 2,
+					"type": "o",
+					"head_wid": 14,
+					"ant_sid": 2,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 3,
+					"type": "s",
+					"head_wid": 17,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 4,
+					"type": "s",
+					"head_wid": 19,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 2,
+			"text": "이 때 알고리듬의 수행은 실제 컴퓨터가 할 수 있지만, 평가하는 데에는 튜링 기계와 관련이 있는 정량화된 방법을 사용한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이",
+					"type": "MM",
+					"position": 230,
+					"weight": 0.0020222
+				},
+				{
+					"id": 1,
+					"lemma": "때",
+					"type": "NNG",
+					"position": 234,
+					"weight": 0.734857
+				},
+				{
+					"id": 2,
+					"lemma": "알고리듬",
+					"type": "NNG",
+					"position": 238,
+					"weight": 0.25
+				},
+				{
+					"id": 3,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 250,
+					"weight": 0.0694213
+				},
+				{
+					"id": 4,
+					"lemma": "수행",
+					"type": "NNG",
+					"position": 254,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "은",
+					"type": "JX",
+					"position": 260,
+					"weight": 0.0449928
+				},
+				{
+					"id": 6,
+					"lemma": "실제",
+					"type": "MAG",
+					"position": 264,
+					"weight": 0.005137
+				},
+				{
+					"id": 7,
+					"lemma": "컴퓨터",
+					"type": "NNG",
+					"position": 271,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 280,
+					"weight": 0.066324
+				},
+				{
+					"id": 9,
+					"lemma": "하",
+					"type": "VV",
+					"position": 284,
+					"weight": 0.194733
+				},
+				{
+					"id": 10,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 284,
+					"weight": 0.300746
+				},
+				{
+					"id": 11,
+					"lemma": "수",
+					"type": "NNB",
+					"position": 288,
+					"weight": 0.215617
+				},
+				{
+					"id": 12,
+					"lemma": "있",
+					"type": "VA",
+					"position": 292,
+					"weight": 0.0518488
+				},
+				{
+					"id": 13,
+					"lemma": "지만",
+					"type": "EC",
+					"position": 295,
+					"weight": 0.315566
+				},
+				{
+					"id": 14,
+					"lemma": ",",
+					"type": "SP",
+					"position": 301,
+					"weight": 1
+				},
+				{
+					"id": 15,
+					"lemma": "평가",
+					"type": "NNG",
+					"position": 303,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 309,
+					"weight": 0.0001
+				},
+				{
+					"id": 17,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 312,
+					"weight": 0.238503
+				},
+				{
+					"id": 18,
+					"lemma": "데",
+					"type": "NNB",
+					"position": 316,
+					"weight": 0.226476
+				},
+				{
+					"id": 19,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 319,
+					"weight": 0.135559
+				},
+				{
+					"id": 20,
+					"lemma": "는",
+					"type": "JX",
+					"position": 322,
+					"weight": 0.0387928
+				},
+				{
+					"id": 21,
+					"lemma": "튜링",
+					"type": "NNP",
+					"position": 326,
+					"weight": 0.55
+				},
+				{
+					"id": 22,
+					"lemma": "기계",
+					"type": "NNG",
+					"position": 333,
+					"weight": 0.281929
+				},
+				{
+					"id": 23,
+					"lemma": "와",
+					"type": "JC",
+					"position": 339,
+					"weight": 0.0169714
+				},
+				{
+					"id": 24,
+					"lemma": "관련",
+					"type": "NNG",
+					"position": 343,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 349,
+					"weight": 0.0360723
+				},
+				{
+					"id": 26,
+					"lemma": "있",
+					"type": "VA",
+					"position": 353,
+					"weight": 0.12767
+				},
+				{
+					"id": 27,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 356,
+					"weight": 0.26168
+				},
+				{
+					"id": 28,
+					"lemma": "정량",
+					"type": "NNG",
+					"position": 360,
+					"weight": 0.9
+				},
+				{
+					"id": 29,
+					"lemma": "화",
+					"type": "NNG",
+					"position": 366,
+					"weight": 0.056252
+				},
+				{
+					"id": 30,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 369,
+					"weight": 0.000224177
+				},
+				{
+					"id": 31,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 369,
+					"weight": 0.392321
+				},
+				{
+					"id": 32,
+					"lemma": "방법",
+					"type": "NNG",
+					"position": 373,
+					"weight": 0.9
+				},
+				{
+					"id": 33,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 379,
+					"weight": 0.129611
+				},
+				{
+					"id": 34,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 383,
+					"weight": 0.9
+				},
+				{
+					"id": 35,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 389,
+					"weight": 0.0001
+				},
+				{
+					"id": 36,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 389,
+					"weight": 0.0449045
+				},
+				{
+					"id": 37,
+					"lemma": ".",
+					"type": "SF",
+					"position": 395,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "때",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "알고리듬의",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "수행은",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "실제",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 5,
+					"text": "컴퓨터가",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 6,
+					"text": "할",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 7,
+					"text": "수",
+					"type": "",
+					"begin": 11,
+					"end": 11
+				},
+				{
+					"id": 8,
+					"text": "있지만,",
+					"type": "",
+					"begin": 12,
+					"end": 14
+				},
+				{
+					"id": 9,
+					"text": "평가하는",
+					"type": "",
+					"begin": 15,
+					"end": 17
+				},
+				{
+					"id": 10,
+					"text": "데에는",
+					"type": "",
+					"begin": 18,
+					"end": 20
+				},
+				{
+					"id": 11,
+					"text": "튜링",
+					"type": "",
+					"begin": 21,
+					"end": 21
+				},
+				{
+					"id": 12,
+					"text": "기계와",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 13,
+					"text": "관련이",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 14,
+					"text": "있는",
+					"type": "",
+					"begin": 26,
+					"end": 27
+				},
+				{
+					"id": 15,
+					"text": "정량화된",
+					"type": "",
+					"begin": 28,
+					"end": 31
+				},
+				{
+					"id": 16,
+					"text": "방법을",
+					"type": "",
+					"begin": 32,
+					"end": 33
+				},
+				{
+					"id": 17,
+					"text": "사용한다.",
+					"type": "",
+					"begin": 34,
+					"end": 37
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "컴퓨터",
+					"type": "TMI_HW",
+					"begin": 7,
+					"end": 7,
+					"weight": 0.393577,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이",
+					"head": 1,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.552298,
+					"mid": 33
+				},
+				{
+					"id": 1,
+					"text": "때",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [
+						0
+					],
+					"weight": 0.722141,
+					"mid": 35
+				},
+				{
+					"id": 2,
+					"text": "알고리듬의",
+					"head": 3,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.6571,
+					"mid": 37
+				},
+				{
+					"id": 3,
+					"text": "수행은",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.144167,
+					"mid": 35
+				},
+				{
+					"id": 4,
+					"text": "실제",
+					"head": 6,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.663696,
+					"mid": 35
+				},
+				{
+					"id": 5,
+					"text": "컴퓨터가",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.669906,
+					"mid": 35
+				},
+				{
+					"id": 6,
+					"text": "할",
+					"head": 7,
+					"label": "VP_MOD",
+					"mod": [
+						1,
+						3,
+						4,
+						5
+					],
+					"weight": 0.804975,
+					"mid": 35
+				},
+				{
+					"id": 7,
+					"text": "수",
+					"head": 8,
+					"label": "NP_SBJ",
+					"mod": [
+						6
+					],
+					"weight": 0.808341,
+					"mid": 43
+				},
+				{
+					"id": 8,
+					"text": "있지만,",
+					"head": 17,
+					"label": "VP",
+					"mod": [
+						7
+					],
+					"weight": 0.73058,
+					"mid": 43
+				},
+				{
+					"id": 9,
+					"text": "평가하는",
+					"head": 10,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.721257,
+					"mid": 44
+				},
+				{
+					"id": 10,
+					"text": "데에는",
+					"head": 14,
+					"label": "NP_AJT",
+					"mod": [
+						9
+					],
+					"weight": 0.024316,
+					"mid": 47
+				},
+				{
+					"id": 11,
+					"text": "튜링",
+					"head": 12,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.376899,
+					"mid": 49
+				},
+				{
+					"id": 12,
+					"text": "기계와",
+					"head": 14,
+					"label": "NP_AJT",
+					"mod": [
+						11
+					],
+					"weight": 0.307654,
+					"mid": 47
+				},
+				{
+					"id": 13,
+					"text": "관련이",
+					"head": 14,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.767952,
+					"mid": 47
+				},
+				{
+					"id": 14,
+					"text": "있는",
+					"head": 16,
+					"label": "VP_MOD",
+					"mod": [
+						10,
+						12,
+						13
+					],
+					"weight": 0.886938,
+					"mid": 47
+				},
+				{
+					"id": 15,
+					"text": "정량화된",
+					"head": 16,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.708319,
+					"mid": 53
+				},
+				{
+					"id": 16,
+					"text": "방법을",
+					"head": 17,
+					"label": "NP_OBJ",
+					"mod": [
+						14,
+						15
+					],
+					"weight": 0.821274,
+					"mid": 55
+				},
+				{
+					"id": 17,
+					"text": "사용한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						8,
+						16
+					],
+					"weight": 0.00000562821,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "이 때",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "알고리듬의 수행은",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "AP",
+					"text": "실제",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "컴퓨터가",
+					"begin": 5,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S_MOD",
+					"text": "P#0@AJT때 P#1@SBJ은 P#2@AP실제 P#3@SBJ가 할",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 5,
+					"sub_phrase": [
+						0,
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_SBJ",
+					"text": "S#4@MODㄹ 수",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#5@SBJ수 있지만,",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 12,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_AJT",
+					"text": "평가하는 데에는",
+					"begin": 9,
+					"end": 10,
+					"key_begin": 9,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "NP_AJT",
+					"text": "튜링 기계와",
+					"begin": 11,
+					"end": 12,
+					"key_begin": 11,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "NP_SBJ",
+					"text": "관련이",
+					"begin": 13,
+					"end": 13,
+					"key_begin": 13,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "S_MOD",
+					"text": "P#7@AJT는 P#8@AJT와 P#9@SBJ이 있는",
+					"begin": 9,
+					"end": 14,
+					"key_begin": 14,
+					"head_phrase": 11,
+					"sub_phrase": [
+						7,
+						8,
+						9
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 11,
+					"label": "NP_OBJ",
+					"text": "S#10@MOD는 정량화된 방법을",
+					"begin": 9,
+					"end": 16,
+					"key_begin": 15,
+					"head_phrase": 12,
+					"sub_phrase": [
+						10
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 12,
+					"label": "S",
+					"text": "S#6@S지만, P#11@OBJ을 사용한다.",
+					"begin": 0,
+					"end": 17,
+					"key_begin": 17,
+					"head_phrase": -1,
+					"sub_phrase": [
+						6,
+						11
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "하",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.342066,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 1,
+							"text": "때",
+							"weight": 0.559815
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "수행은",
+							"weight": 0.183094
+						},
+						{
+							"type": "ARGM-TMP",
+							"word_id": 4,
+							"text": "실제",
+							"weight": 0.116239
+						},
+						{
+							"type": "ARG0",
+							"word_id": 5,
+							"text": "컴퓨터가",
+							"weight": 0.406752
+						},
+						{
+							"type": "AUX",
+							"word_id": 8,
+							"text": "있지만,",
+							"weight": 0.444428
+						}
+					]
+				},
+				{
+					"verb": "평가",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0.212606,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "데에는",
+							"weight": 0.212606
+						}
+					]
+				},
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 14,
+					"weight": 0.287803,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 10,
+							"text": "데에는",
+							"weight": 0.24532
+						},
+						{
+							"type": "ARG1",
+							"word_id": 13,
+							"text": "관련이",
+							"weight": 0.330286
+						}
+					]
+				},
+				{
+					"verb": "정량",
+					"sense": 1,
+					"word_id": 15,
+					"weight": 0.243212,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 16,
+							"text": "방법을",
+							"weight": 0.243212
+						}
+					]
+				},
+				{
+					"verb": "사용",
+					"sense": 1,
+					"word_id": 17,
+					"weight": 0.435587,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 16,
+							"text": "방법을",
+							"weight": 0.435587
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 9,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "o",
+					"head_wid": 9,
+					"ant_sid": 2,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 2,
+					"type": "s",
+					"head_wid": 17,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "복잡도의 기준은 알고리듬이 소모하는 소요 시간과 메모리 사용량 등의 자원이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "복잡",
+					"type": "NNG",
+					"position": 396,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "도",
+					"type": "XSN",
+					"position": 402,
+					"weight": 0.0001
+				},
+				{
+					"id": 2,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 405,
+					"weight": 0.120732
+				},
+				{
+					"id": 3,
+					"lemma": "기준",
+					"type": "NNG",
+					"position": 409,
+					"weight": 0.868154
+				},
+				{
+					"id": 4,
+					"lemma": "은",
+					"type": "JX",
+					"position": 415,
+					"weight": 0.0449928
+				},
+				{
+					"id": 5,
+					"lemma": "알고리듬",
+					"type": "NNG",
+					"position": 419,
+					"weight": 0.25
+				},
+				{
+					"id": 6,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 431,
+					"weight": 0.0360723
+				},
+				{
+					"id": 7,
+					"lemma": "소모",
+					"type": "NNG",
+					"position": 435,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 441,
+					"weight": 0.0001
+				},
+				{
+					"id": 9,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 444,
+					"weight": 0.238503
+				},
+				{
+					"id": 10,
+					"lemma": "소요",
+					"type": "NNG",
+					"position": 448,
+					"weight": 0.655445
+				},
+				{
+					"id": 11,
+					"lemma": "시간",
+					"type": "NNG",
+					"position": 455,
+					"weight": 0.160569
+				},
+				{
+					"id": 12,
+					"lemma": "과",
+					"type": "JC",
+					"position": 461,
+					"weight": 0.017569
+				},
+				{
+					"id": 13,
+					"lemma": "메모리",
+					"type": "NNG",
+					"position": 465,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 475,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "량",
+					"type": "NNG",
+					"position": 481,
+					"weight": 0.17275
+				},
+				{
+					"id": 16,
+					"lemma": "등",
+					"type": "NNB",
+					"position": 485,
+					"weight": 0.0146757
+				},
+				{
+					"id": 17,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 488,
+					"weight": 0.0520933
+				},
+				{
+					"id": 18,
+					"lemma": "자원",
+					"type": "NNG",
+					"position": 492,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 498,
+					"weight": 0.0177525
+				},
+				{
+					"id": 20,
+					"lemma": "다",
+					"type": "EF",
+					"position": 501,
+					"weight": 0.353579
+				},
+				{
+					"id": 21,
+					"lemma": ".",
+					"type": "SF",
+					"position": 504,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "복잡도의",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "기준은",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"text": "알고리듬이",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "소모하는",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 4,
+					"text": "소요",
+					"type": "",
+					"begin": 10,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "시간과",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "메모리",
+					"type": "",
+					"begin": 13,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "사용량",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 8,
+					"text": "등의",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 9,
+					"text": "자원이다.",
+					"type": "",
+					"begin": 18,
+					"end": 21
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "메모리",
+					"type": "TMI_HW",
+					"begin": 13,
+					"end": 13,
+					"weight": 0.311587,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "복잡도의",
+					"head": 1,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.790811,
+					"mid": 57
+				},
+				{
+					"id": 1,
+					"text": "기준은",
+					"head": 9,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.864912,
+					"mid": 59
+				},
+				{
+					"id": 2,
+					"text": "알고리듬이",
+					"head": 3,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.738577,
+					"mid": 61
+				},
+				{
+					"id": 3,
+					"text": "소모하는",
+					"head": 5,
+					"label": "VP_MOD",
+					"mod": [
+						2
+					],
+					"weight": 0.285463,
+					"mid": 61
+				},
+				{
+					"id": 4,
+					"text": "소요",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.53422,
+					"mid": 64
+				},
+				{
+					"id": 5,
+					"text": "시간과",
+					"head": 7,
+					"label": "NP_CNJ",
+					"mod": [
+						3,
+						4
+					],
+					"weight": 0.384626,
+					"mid": 66
+				},
+				{
+					"id": 6,
+					"text": "메모리",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.297261,
+					"mid": 66
+				},
+				{
+					"id": 7,
+					"text": "사용량",
+					"head": 8,
+					"label": "NP",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.871552,
+					"mid": 69
+				},
+				{
+					"id": 8,
+					"text": "등의",
+					"head": 9,
+					"label": "NP_MOD",
+					"mod": [
+						7
+					],
+					"weight": 0.741346,
+					"mid": 59
+				},
+				{
+					"id": 9,
+					"text": "자원이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						1,
+						8
+					],
+					"weight": 0.00477574,
+					"mid": 59
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "복잡도의 기준은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "알고리듬이",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S_MOD",
+					"text": "P#1@SBJ이 소모하는",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@SBJ은 S#2@MOD는 소요 시간과 메모리 사용량 등의 자원이다.",
+					"begin": 0,
+					"end": 9,
+					"key_begin": 4,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						2
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "소요 시간과 메모리 사용량 등의 자원",
+							"label": "NP",
+							"begin": 10,
+							"end": 18,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 19,
+							"end": 21,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "소모",
+					"sense": 1,
+					"word_id": 3,
+					"weight": 0.16438,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 2,
+							"text": "알고리듬이",
+							"weight": 0.148717
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "시간과",
+							"weight": 0.180042
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 4,
+			"text": "전자를 시간 복잡도, 후자를 공간 복잡도라 한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "전자",
+					"type": "NNG",
+					"position": 505,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 511,
+					"weight": 0.137686
+				},
+				{
+					"id": 2,
+					"lemma": "시간",
+					"type": "NNG",
+					"position": 515,
+					"weight": 0.0880875
+				},
+				{
+					"id": 3,
+					"lemma": "복잡",
+					"type": "NNG",
+					"position": 522,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "도",
+					"type": "JX",
+					"position": 528,
+					"weight": 0.0676272
+				},
+				{
+					"id": 5,
+					"lemma": ",",
+					"type": "SP",
+					"position": 531,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "후자",
+					"type": "NNG",
+					"position": 533,
+					"weight": 0.528288
+				},
+				{
+					"id": 7,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 539,
+					"weight": 0.137686
+				},
+				{
+					"id": 8,
+					"lemma": "공간",
+					"type": "NNG",
+					"position": 543,
+					"weight": 0.101373
+				},
+				{
+					"id": 9,
+					"lemma": "복잡",
+					"type": "NNG",
+					"position": 550,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "도",
+					"type": "XSN",
+					"position": 556,
+					"weight": 0.0001
+				},
+				{
+					"id": 11,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 556,
+					"weight": 0.0165001
+				},
+				{
+					"id": 12,
+					"lemma": "라",
+					"type": "EC",
+					"position": 559,
+					"weight": 0.20798
+				},
+				{
+					"id": 13,
+					"lemma": "하",
+					"type": "VV",
+					"position": 563,
+					"weight": 0.140183
+				},
+				{
+					"id": 14,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 563,
+					"weight": 0.0793196
+				},
+				{
+					"id": 15,
+					"lemma": ".",
+					"type": "SF",
+					"position": 569,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "전자를",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "시간",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "복잡도,",
+					"type": "",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "후자를",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "공간",
+					"type": "",
+					"begin": 8,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "복잡도라",
+					"type": "",
+					"begin": 9,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "한다.",
+					"type": "",
+					"begin": 13,
+					"end": 15
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "전자를",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.835754,
+					"mid": 72
+				},
+				{
+					"id": 1,
+					"text": "시간",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.636193,
+					"mid": 74
+				},
+				{
+					"id": 2,
+					"text": "복잡도,",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.380865,
+					"mid": 72
+				},
+				{
+					"id": 3,
+					"text": "후자를",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.917806,
+					"mid": 72
+				},
+				{
+					"id": 4,
+					"text": "공간",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.64744,
+					"mid": 72
+				},
+				{
+					"id": 5,
+					"text": "복잡도라",
+					"head": 6,
+					"label": "VNP_CMP",
+					"mod": [
+						0,
+						2,
+						3,
+						4
+					],
+					"weight": 0.467539,
+					"mid": 72
+				},
+				{
+					"id": 6,
+					"text": "한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						5
+					],
+					"weight": 0.0461916,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_OBJ",
+					"text": "전자를",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "시간 복잡도,",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "후자를",
+					"begin": 3,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S_CMP",
+					"text": "P#0@OBJ를 P#1@SBJ도, P#2@OBJ를 공간 복잡도라",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "S#3@CMP라 한다.",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "하",
+					"sense": 2,
+					"word_id": 6,
+					"weight": 0.310269,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 0,
+							"text": "전자를",
+							"weight": 0.343369
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "후자를",
+							"weight": 0.324151
+						},
+						{
+							"type": "ARG2",
+							"word_id": 5,
+							"text": "복잡도라",
+							"weight": 0.263286
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 5,
+			"text": "일반적으로 이와 같은 시공간 등의 자원은 입력의 크기에 의존하는 것으로 취급한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "일반",
+					"type": "NNG",
+					"position": 570,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 576,
+					"weight": 0.0168756
+				},
+				{
+					"id": 2,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 579,
+					"weight": 0.121717
+				},
+				{
+					"id": 3,
+					"lemma": "이",
+					"type": "NP",
+					"position": 586,
+					"weight": 0.000361143
+				},
+				{
+					"id": 4,
+					"lemma": "와",
+					"type": "JKB",
+					"position": 589,
+					"weight": 0.0467108
+				},
+				{
+					"id": 5,
+					"lemma": "같",
+					"type": "VA",
+					"position": 593,
+					"weight": 0.0728396
+				},
+				{
+					"id": 6,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 596,
+					"weight": 0.155123
+				},
+				{
+					"id": 7,
+					"lemma": "시",
+					"type": "NNG",
+					"position": 600,
+					"weight": 0.123639
+				},
+				{
+					"id": 8,
+					"lemma": "공간",
+					"type": "NNG",
+					"position": 603,
+					"weight": 0.184786
+				},
+				{
+					"id": 9,
+					"lemma": "등",
+					"type": "NNB",
+					"position": 610,
+					"weight": 0.0146757
+				},
+				{
+					"id": 10,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 613,
+					"weight": 0.0520933
+				},
+				{
+					"id": 11,
+					"lemma": "자원",
+					"type": "NNG",
+					"position": 617,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "은",
+					"type": "JX",
+					"position": 623,
+					"weight": 0.0449928
+				},
+				{
+					"id": 13,
+					"lemma": "입력",
+					"type": "NNG",
+					"position": 627,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 633,
+					"weight": 0.0694213
+				},
+				{
+					"id": 15,
+					"lemma": "크기",
+					"type": "NNG",
+					"position": 637,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 643,
+					"weight": 0.153364
+				},
+				{
+					"id": 17,
+					"lemma": "의존",
+					"type": "NNG",
+					"position": 647,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 653,
+					"weight": 0.0001
+				},
+				{
+					"id": 19,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 656,
+					"weight": 0.238503
+				},
+				{
+					"id": 20,
+					"lemma": "것",
+					"type": "NNB",
+					"position": 660,
+					"weight": 0.228788
+				},
+				{
+					"id": 21,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 663,
+					"weight": 0.135596
+				},
+				{
+					"id": 22,
+					"lemma": "취급",
+					"type": "NNG",
+					"position": 670,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 676,
+					"weight": 0.0001
+				},
+				{
+					"id": 24,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 676,
+					"weight": 0.0449045
+				},
+				{
+					"id": 25,
+					"lemma": ".",
+					"type": "SF",
+					"position": 682,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "일반적으로",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "이와",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"text": "같은",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "시공간",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "등의",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "자원은",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "입력의",
+					"type": "",
+					"begin": 13,
+					"end": 14
+				},
+				{
+					"id": 7,
+					"text": "크기에",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "의존하는",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "것으로",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 10,
+					"text": "취급한다.",
+					"type": "",
+					"begin": 22,
+					"end": 25
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "일반적으로",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.807767,
+					"mid": 78
+				},
+				{
+					"id": 1,
+					"text": "이와",
+					"head": 2,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.703281,
+					"mid": 80
+				},
+				{
+					"id": 2,
+					"text": "같은",
+					"head": 3,
+					"label": "VP_MOD",
+					"mod": [
+						1
+					],
+					"weight": 0.226468,
+					"mid": 80
+				},
+				{
+					"id": 3,
+					"text": "시공간",
+					"head": 4,
+					"label": "NP",
+					"mod": [
+						2
+					],
+					"weight": 0.774448,
+					"mid": 83
+				},
+				{
+					"id": 4,
+					"text": "등의",
+					"head": 5,
+					"label": "NP_MOD",
+					"mod": [
+						3
+					],
+					"weight": 0.695372,
+					"mid": 85
+				},
+				{
+					"id": 5,
+					"text": "자원은",
+					"head": 10,
+					"label": "NP_SBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.761091,
+					"mid": 86
+				},
+				{
+					"id": 6,
+					"text": "입력의",
+					"head": 7,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.725447,
+					"mid": 88
+				},
+				{
+					"id": 7,
+					"text": "크기에",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						6
+					],
+					"weight": 0.760646,
+					"mid": 90
+				},
+				{
+					"id": 8,
+					"text": "의존하는",
+					"head": 9,
+					"label": "VP_MOD",
+					"mod": [
+						7
+					],
+					"weight": 0.86798,
+					"mid": 90
+				},
+				{
+					"id": 9,
+					"text": "것으로",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [
+						8
+					],
+					"weight": 0.803507,
+					"mid": 92
+				},
+				{
+					"id": 10,
+					"text": "취급한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						0,
+						5,
+						9
+					],
+					"weight": 0.0183135,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "일반적으로",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "이와",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@AJT와 같은",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "P#2@MOD은 시공간 등의 자원은",
+					"begin": 1,
+					"end": 5,
+					"key_begin": 3,
+					"head_phrase": 7,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "입력의 크기에",
+					"begin": 6,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "VP_MOD",
+					"text": "P#4@AJT에 의존하는",
+					"begin": 6,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "P#5@MOD는 것으로",
+					"begin": 6,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 7,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "S",
+					"text": "P#0@AJT으로 P#3@SBJ은 P#6@AJT으로 취급한다.",
+					"begin": 0,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						3,
+						6
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "같",
+					"sense": 1,
+					"word_id": 2,
+					"weight": 0.470695,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 1,
+							"text": "이와",
+							"weight": 0.521271
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "시공간",
+							"weight": 0.420119
+						}
+					]
+				},
+				{
+					"verb": "의존",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.193042,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "크기에",
+							"weight": 0.193042
+						}
+					]
+				},
+				{
+					"verb": "취급",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.0937048,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 9,
+							"text": "것으로",
+							"weight": 0.0937048
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 8,
+					"ant_sid": 5,
+					"ant_wid": 5,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "TR_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "계산 복잡도 이론",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "이론",
+					"ne_id": 0
+				},
+				{
+					"id": 1,
+					"text": "계산 복잡도 이론",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "이론",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 5,
+					"text": "계산",
+					"sent_id": 1,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "계산",
+					"ne_id": -1
+				},
+				{
+					"id": 9,
+					"text": "계산",
+					"sent_id": 1,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "계산",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 3,
+					"text": "계산 이론의 분야",
+					"sent_id": 1,
+					"start_eid": 5,
+					"end_eid": 7,
+					"start_eid_short": 5,
+					"end_eid_short": 7,
+					"text_short": "계산 이론의 분야",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "FD_SCIENCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 2,
+					"text": "컴퓨터 과학",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "컴퓨터 과학",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 6,
+					"text": "계산 문제를 푸는 알고리듬을 복잡도에 따라 분류하여 문제의 모임을 구성하는 방법",
+					"sent_id": 1,
+					"start_eid": 8,
+					"end_eid": 18,
+					"start_eid_short": 18,
+					"end_eid_short": 18,
+					"text_short": "방법",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "계산 문제를 푸는 알고리듬",
+					"sent_id": 1,
+					"start_eid": 8,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "알고리듬",
+					"ne_id": -1
+				},
+				{
+					"id": 15,
+					"text": "알고리듬",
+					"sent_id": 2,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "알고리듬",
+					"ne_id": -1
+				},
+				{
+					"id": 26,
+					"text": "알고리듬",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "알고리듬",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 8,
+					"text": "계산 문제",
+					"sent_id": 1,
+					"start_eid": 8,
+					"end_eid": 9,
+					"start_eid_short": 8,
+					"end_eid_short": 9,
+					"text_short": "계산 문제",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 10,
+					"text": "복잡도",
+					"sent_id": 1,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "복잡도",
+					"ne_id": -1
+				},
+				{
+					"id": 22,
+					"text": "복잡도",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "복잡도",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 11,
+					"text": "문제의 모임",
+					"sent_id": 1,
+					"start_eid": 15,
+					"end_eid": 16,
+					"start_eid_short": 15,
+					"end_eid_short": 16,
+					"text_short": "문제의 모임",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "이 때",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "이 때",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "알고리듬의 수행",
+					"sent_id": 2,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "알고리듬의 수행",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "TMI_HW",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 16,
+					"text": "컴퓨터",
+					"sent_id": 2,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "컴퓨터",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 18,
+					"text": "튜링 기계",
+					"sent_id": 2,
+					"start_eid": 11,
+					"end_eid": 12,
+					"start_eid_short": 11,
+					"end_eid_short": 12,
+					"text_short": "튜링 기계",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 19,
+					"text": "튜링",
+					"sent_id": 2,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "튜링",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 20,
+					"text": "관련",
+					"sent_id": 2,
+					"start_eid": 13,
+					"end_eid": 13,
+					"start_eid_short": 13,
+					"end_eid_short": 13,
+					"text_short": "관련",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "복잡도의 기준",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "복잡도의 기준",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 25,
+					"text": "알고리듬이 소모하는 소요 시간",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "소요 시간",
+					"ne_id": -1
+				},
+				{
+					"id": 30,
+					"text": "전자",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "전자",
+					"ne_id": -1
+				},
+				{
+					"id": 31,
+					"text": "시간 복잡",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "시간 복잡",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 27,
+					"text": "소요",
+					"sent_id": 3,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "소요",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 28,
+					"text": "메모리 사용량",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "메모리 사용량",
+					"ne_id": -1
+				},
+				{
+					"id": 33,
+					"text": "후자",
+					"sent_id": 4,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "후자",
+					"ne_id": -1
+				},
+				{
+					"id": 34,
+					"text": "공간 복잡도이라",
+					"sent_id": 4,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "공간 복잡도이라",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "TMI_HW",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 29,
+					"text": "메모리",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "메모리",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "알고리듬이 소모하는 소요 시간과 메모리 사용량 등의 자원이다",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 9,
+					"start_eid_short": 6,
+					"end_eid_short": 9,
+					"text_short": "메모리 사용량 등의 자원이다",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "공간",
+					"sent_id": 4,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "공간",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "일반적",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "일반적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 39,
+					"text": "이와 같은 시공간",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "시공간",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 40,
+					"text": "이",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "이",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 37,
+					"text": "이와 같은 시공간 등의 자원",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 5,
+					"start_eid_short": 3,
+					"end_eid_short": 5,
+					"text_short": "시공간 등의 자원",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 41,
+					"text": "입력의 크기에 의존하는 것",
+					"sent_id": 5,
+					"start_eid": 6,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "것",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 42,
+					"text": "입력의 크기",
+					"sent_id": 5,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "입력의 크기",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 28,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 43,
+					"text": "입력",
+					"sent_id": 5,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "입력",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 29,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "계산 이론",
+					"sent_id": 1,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "계산 이론",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 30,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 17,
+					"text": "튜링 기계와 관련이 있는 정량화된 방법",
+					"sent_id": 2,
+					"start_eid": 11,
+					"end_eid": 16,
+					"start_eid_short": 16,
+					"end_eid_short": 16,
+					"text_short": "방법",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 31,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 12,
+					"text": "문제",
+					"sent_id": 1,
+					"start_eid": 15,
+					"end_eid": 15,
+					"start_eid_short": 15,
+					"end_eid_short": 15,
+					"text_short": "문제",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 32,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 24,
+					"text": "알고리듬이 소모하는 소요 시간과 메모리 사용량 등",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 8,
+					"start_eid_short": 6,
+					"end_eid_short": 8,
+					"text_short": "메모리 사용량 등",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 33,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 38,
+					"text": "이와 같은 시공간 등",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "시공간 등",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 34,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 32,
+					"text": "시간",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "시간",
+					"ne_id": -1
+				}
+			]
+		}
+	]
+}

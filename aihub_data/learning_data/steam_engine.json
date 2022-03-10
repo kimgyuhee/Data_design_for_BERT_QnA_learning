@@ -1,0 +1,10994 @@
+{
+	"title": {
+		"text": "증기 기관",
+		"NE": "none"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 12,
+		"num_word": 188
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "증기 기관",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 0,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 7,
+					"weight": 0.9
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "증기",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "기관",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "증기",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.770894,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "기관",
+					"head": -1,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.624239,
+					"mid": 2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "증기 기관",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "증기 기관(蒸氣機關)은 외연 열기관으로, 수증기의 열에너지를 기계적인 일로 바꾸는 장치이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 13,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 20,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "(",
+					"type": "SS",
+					"position": 26,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": "蒸氣機關",
+					"type": "SH",
+					"position": 27,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": ")",
+					"type": "SS",
+					"position": 39,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "은",
+					"type": "JX",
+					"position": 40,
+					"weight": 0.0128817
+				},
+				{
+					"id": 6,
+					"lemma": "외연",
+					"type": "NNG",
+					"position": 44,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "열",
+					"type": "NNG",
+					"position": 51,
+					"weight": 0.0316492
+				},
+				{
+					"id": 8,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 54,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 60,
+					"weight": 0.153406
+				},
+				{
+					"id": 10,
+					"lemma": ",",
+					"type": "SP",
+					"position": 66,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": "수",
+					"type": "NNG",
+					"position": 68,
+					"weight": 0.0268421
+				},
+				{
+					"id": 12,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 71,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 77,
+					"weight": 0.0694213
+				},
+				{
+					"id": 14,
+					"lemma": "열",
+					"type": "NNG",
+					"position": 81,
+					"weight": 0.149213
+				},
+				{
+					"id": 15,
+					"lemma": "에너지",
+					"type": "NNG",
+					"position": 84,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 93,
+					"weight": 0.137686
+				},
+				{
+					"id": 17,
+					"lemma": "기계",
+					"type": "NNG",
+					"position": 97,
+					"weight": 0.10138
+				},
+				{
+					"id": 18,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 103,
+					"weight": 0.0168756
+				},
+				{
+					"id": 19,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 106,
+					"weight": 0.0165001
+				},
+				{
+					"id": 20,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 106,
+					"weight": 0.220712
+				},
+				{
+					"id": 21,
+					"lemma": "일",
+					"type": "NNG",
+					"position": 110,
+					"weight": 0.421798
+				},
+				{
+					"id": 22,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 113,
+					"weight": 0.153229
+				},
+				{
+					"id": 23,
+					"lemma": "바꾸",
+					"type": "VV",
+					"position": 117,
+					"weight": 0.9
+				},
+				{
+					"id": 24,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 123,
+					"weight": 0.184941
+				},
+				{
+					"id": 25,
+					"lemma": "장치",
+					"type": "NNG",
+					"position": 127,
+					"weight": 0.658694
+				},
+				{
+					"id": 26,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 133,
+					"weight": 0.0177525
+				},
+				{
+					"id": 27,
+					"lemma": "다",
+					"type": "EF",
+					"position": 136,
+					"weight": 0.353579
+				},
+				{
+					"id": 28,
+					"lemma": ".",
+					"type": "SF",
+					"position": 139,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "증기",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "기관(蒸氣機關)은",
+					"type": "",
+					"begin": 1,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "외연",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "열기관으로,",
+					"type": "",
+					"begin": 7,
+					"end": 10
+				},
+				{
+					"id": 4,
+					"text": "수증기의",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 5,
+					"text": "열에너지를",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 6,
+					"text": "기계적인",
+					"type": "",
+					"begin": 17,
+					"end": 20
+				},
+				{
+					"id": 7,
+					"text": "일로",
+					"type": "",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 8,
+					"text": "바꾸는",
+					"type": "",
+					"begin": 23,
+					"end": 24
+				},
+				{
+					"id": 9,
+					"text": "장치이다.",
+					"type": "",
+					"begin": 25,
+					"end": 28
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "증기",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.729623,
+					"mid": 4
+				},
+				{
+					"id": 1,
+					"text": "기관(蒸氣機關)은",
+					"head": 3,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.807331,
+					"mid": 6
+				},
+				{
+					"id": 2,
+					"text": "외연",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.681735,
+					"mid": 6
+				},
+				{
+					"id": 3,
+					"text": "열기관으로,",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						2,
+						1
+					],
+					"weight": 0.626971,
+					"mid": 9
+				},
+				{
+					"id": 4,
+					"text": "수증기의",
+					"head": 5,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.54589,
+					"mid": 11
+				},
+				{
+					"id": 5,
+					"text": "열에너지를",
+					"head": 8,
+					"label": "NP_OBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.710044,
+					"mid": 9
+				},
+				{
+					"id": 6,
+					"text": "기계적인",
+					"head": 7,
+					"label": "VNP_MOD",
+					"mod": [],
+					"weight": 0.660988,
+					"mid": 14
+				},
+				{
+					"id": 7,
+					"text": "일로",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						6
+					],
+					"weight": 0.854708,
+					"mid": 9
+				},
+				{
+					"id": 8,
+					"text": "바꾸는",
+					"head": 9,
+					"label": "VP_MOD",
+					"mod": [
+						3,
+						5,
+						7
+					],
+					"weight": 0.791325,
+					"mid": 9
+				},
+				{
+					"id": 9,
+					"text": "장치이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						8
+					],
+					"weight": 0.034948,
+					"mid": 17
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "증기 기관(蒸氣機關)은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "S_AJT",
+					"text": "P#0@SBJ은 외연 열기관으로,",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "수증기의 열에너지를",
+					"begin": 4,
+					"end": 5,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "기계적인 일로",
+					"begin": 6,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S_MOD",
+					"text": "S#1@AJT으로, P#2@OBJ를 P#3@AJT로 바꾸는",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 5,
+					"sub_phrase": [
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "S#4@MOD는 장치이다.",
+					"begin": 0,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "장치",
+							"label": "NP",
+							"begin": 25,
+							"end": 25,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 26,
+							"end": 28,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "바꾸",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.261316,
+					"argument": [
+						{
+							"type": "ARGM-INS",
+							"word_id": 3,
+							"text": "열기관으로,",
+							"weight": 0.0773193
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "열에너지를",
+							"weight": 0.569861
+						},
+						{
+							"type": "ARG3",
+							"word_id": 7,
+							"text": "일로",
+							"weight": 0.248535
+						},
+						{
+							"type": "ARG0",
+							"word_id": 9,
+							"text": "장치이다.",
+							"weight": 0.149549
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 9,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 2,
+			"text": "1705년 영국의 발명가 토머스 뉴커먼이 발명했고, 1769년에 제임스 와트가 개량했다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "1705",
+					"type": "SN",
+					"position": 140,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 144,
+					"weight": 0.414343
+				},
+				{
+					"id": 2,
+					"lemma": "영국",
+					"type": "NNP",
+					"position": 148,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 154,
+					"weight": 0.0987295
+				},
+				{
+					"id": 4,
+					"lemma": "발명",
+					"type": "NNG",
+					"position": 158,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "가",
+					"type": "XSN",
+					"position": 164,
+					"weight": 0.000115417
+				},
+				{
+					"id": 6,
+					"lemma": "토머스",
+					"type": "NNP",
+					"position": 168,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "뉴커먼",
+					"type": "NNP",
+					"position": 178,
+					"weight": 0.1
+				},
+				{
+					"id": 8,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 187,
+					"weight": 0.0234517
+				},
+				{
+					"id": 9,
+					"lemma": "발명",
+					"type": "NNG",
+					"position": 191,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 197,
+					"weight": 0.0001
+				},
+				{
+					"id": 11,
+					"lemma": "었",
+					"type": "EP",
+					"position": 197,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "고",
+					"type": "EC",
+					"position": 200,
+					"weight": 0.190901
+				},
+				{
+					"id": 13,
+					"lemma": ",",
+					"type": "SP",
+					"position": 203,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": "1769",
+					"type": "SN",
+					"position": 205,
+					"weight": 1
+				},
+				{
+					"id": 15,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 209,
+					"weight": 0.414343
+				},
+				{
+					"id": 16,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 212,
+					"weight": 0.135559
+				},
+				{
+					"id": 17,
+					"lemma": "제임스",
+					"type": "NNP",
+					"position": 216,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "와트",
+					"type": "NNG",
+					"position": 226,
+					"weight": 0.054579
+				},
+				{
+					"id": 19,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 232,
+					"weight": 0.066324
+				},
+				{
+					"id": 20,
+					"lemma": "개량",
+					"type": "NNG",
+					"position": 236,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 242,
+					"weight": 0.0001
+				},
+				{
+					"id": 22,
+					"lemma": "었",
+					"type": "EP",
+					"position": 242,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "다",
+					"type": "EF",
+					"position": 245,
+					"weight": 0.640954
+				},
+				{
+					"id": 24,
+					"lemma": ".",
+					"type": "SF",
+					"position": 248,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "1705년",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "영국의",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "발명가",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "토머스",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "뉴커먼이",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "발명했고,",
+					"type": "",
+					"begin": 9,
+					"end": 13
+				},
+				{
+					"id": 6,
+					"text": "1769년에",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 7,
+					"text": "제임스",
+					"type": "",
+					"begin": 17,
+					"end": 17
+				},
+				{
+					"id": 8,
+					"text": "와트가",
+					"type": "",
+					"begin": 18,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "개량했다.",
+					"type": "",
+					"begin": 20,
+					"end": 24
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "1705년",
+					"type": "DT_YEAR",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.715135,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "영국",
+					"type": "LCP_COUNTRY",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.599864,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "발명가",
+					"type": "CV_OCCUPATION",
+					"begin": 4,
+					"end": 5,
+					"weight": 0.403374,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "토머스 뉴커먼",
+					"type": "PS_NAME",
+					"begin": 6,
+					"end": 7,
+					"weight": 0.551328,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "1769년",
+					"type": "DT_YEAR",
+					"begin": 14,
+					"end": 15,
+					"weight": 0.710088,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "제임스 와트",
+					"type": "PS_NAME",
+					"begin": 17,
+					"end": 18,
+					"weight": 0.397912,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "1705년",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.748639,
+					"mid": 19
+				},
+				{
+					"id": 1,
+					"text": "영국의",
+					"head": 2,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.666115,
+					"mid": 21
+				},
+				{
+					"id": 2,
+					"text": "발명가",
+					"head": 4,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.409321,
+					"mid": 23
+				},
+				{
+					"id": 3,
+					"text": "토머스",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.807931,
+					"mid": 23
+				},
+				{
+					"id": 4,
+					"text": "뉴커먼이",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						2,
+						3
+					],
+					"weight": 0.796455,
+					"mid": 19
+				},
+				{
+					"id": 5,
+					"text": "발명했고,",
+					"head": 9,
+					"label": "VP",
+					"mod": [
+						0,
+						4
+					],
+					"weight": 0.709687,
+					"mid": 19
+				},
+				{
+					"id": 6,
+					"text": "1769년에",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.832214,
+					"mid": 26
+				},
+				{
+					"id": 7,
+					"text": "제임스",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.727768,
+					"mid": 28
+				},
+				{
+					"id": 8,
+					"text": "와트가",
+					"head": 9,
+					"label": "NP_SBJ",
+					"mod": [
+						7
+					],
+					"weight": 0.804443,
+					"mid": 29
+				},
+				{
+					"id": 9,
+					"text": "개량했다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						5,
+						6,
+						8
+					],
+					"weight": 0.0373212,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "1705년",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "영국의 발명가 토머스 뉴커먼이",
+					"begin": 1,
+					"end": 4,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@AJT년 P#1@SBJ이 발명했고,",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 5,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "1769년에",
+					"begin": 6,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_SBJ",
+					"text": "제임스 와트가",
+					"begin": 7,
+					"end": 8,
+					"key_begin": 7,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "S#2@S고, P#3@AJT에 P#4@SBJ가 개량했다.",
+					"begin": 0,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": -1,
+					"sub_phrase": [
+						2,
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "발명",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.541704,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "1705년",
+							"weight": 0.400639
+						},
+						{
+							"type": "ARG0",
+							"word_id": 4,
+							"text": "뉴커먼이",
+							"weight": 0.68277
+						}
+					]
+				},
+				{
+					"verb": "개량",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0.257337,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 6,
+							"text": "1769년에",
+							"weight": 0.378134
+						},
+						{
+							"type": "ARG0",
+							"word_id": 8,
+							"text": "와트가",
+							"weight": 0.13654
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "o",
+					"head_wid": 5,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 9,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "기계작동을 위해 끓는 물을 이용하는 아이디어는 2,000년의 오랜 역사를 가지고 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "기계",
+					"type": "NNG",
+					"position": 249,
+					"weight": 0.437852
+				},
+				{
+					"id": 1,
+					"lemma": "작동",
+					"type": "NNG",
+					"position": 255,
+					"weight": 0.183976
+				},
+				{
+					"id": 2,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 261,
+					"weight": 0.129611
+				},
+				{
+					"id": 3,
+					"lemma": "위하",
+					"type": "VV",
+					"position": 265,
+					"weight": 0.778555
+				},
+				{
+					"id": 4,
+					"lemma": "어",
+					"type": "EC",
+					"position": 268,
+					"weight": 0.41831
+				},
+				{
+					"id": 5,
+					"lemma": "끓",
+					"type": "VV",
+					"position": 272,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 275,
+					"weight": 0.184941
+				},
+				{
+					"id": 7,
+					"lemma": "물",
+					"type": "NNG",
+					"position": 279,
+					"weight": 0.563459
+				},
+				{
+					"id": 8,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 282,
+					"weight": 0.129611
+				},
+				{
+					"id": 9,
+					"lemma": "이용",
+					"type": "NNG",
+					"position": 286,
+					"weight": 0.101224
+				},
+				{
+					"id": 10,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 292,
+					"weight": 0.0001
+				},
+				{
+					"id": 11,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 295,
+					"weight": 0.238503
+				},
+				{
+					"id": 12,
+					"lemma": "아이디어",
+					"type": "NNG",
+					"position": 299,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "는",
+					"type": "JX",
+					"position": 311,
+					"weight": 0.0287565
+				},
+				{
+					"id": 14,
+					"lemma": "2,000",
+					"type": "SN",
+					"position": 315,
+					"weight": 1
+				},
+				{
+					"id": 15,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 320,
+					"weight": 0.414343
+				},
+				{
+					"id": 16,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 323,
+					"weight": 0.0520933
+				},
+				{
+					"id": 17,
+					"lemma": "오랜",
+					"type": "MM",
+					"position": 327,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "역사",
+					"type": "NNG",
+					"position": 334,
+					"weight": 0.737201
+				},
+				{
+					"id": 19,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 340,
+					"weight": 0.137686
+				},
+				{
+					"id": 20,
+					"lemma": "가지",
+					"type": "VV",
+					"position": 344,
+					"weight": 0.401357
+				},
+				{
+					"id": 21,
+					"lemma": "고",
+					"type": "EC",
+					"position": 350,
+					"weight": 0.416679
+				},
+				{
+					"id": 22,
+					"lemma": "있",
+					"type": "VX",
+					"position": 354,
+					"weight": 0.125953
+				},
+				{
+					"id": 23,
+					"lemma": "다",
+					"type": "EF",
+					"position": 357,
+					"weight": 0.180366
+				},
+				{
+					"id": 24,
+					"lemma": ".",
+					"type": "SF",
+					"position": 360,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "기계작동을",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "위해",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"text": "끓는",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "물을",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "이용하는",
+					"type": "",
+					"begin": 9,
+					"end": 11
+				},
+				{
+					"id": 5,
+					"text": "아이디어는",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 6,
+					"text": "2,000년의",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 7,
+					"text": "오랜",
+					"type": "",
+					"begin": 17,
+					"end": 17
+				},
+				{
+					"id": 8,
+					"text": "역사를",
+					"type": "",
+					"begin": 18,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "가지고",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 10,
+					"text": "있다.",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "2,000년",
+					"type": "DT_DURATION",
+					"begin": 14,
+					"end": 15,
+					"weight": 0.361891,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "기계작동을",
+					"head": 1,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.636367,
+					"mid": 31
+				},
+				{
+					"id": 1,
+					"text": "위해",
+					"head": 2,
+					"label": "VP",
+					"mod": [
+						0
+					],
+					"weight": 0.116132,
+					"mid": 32
+				},
+				{
+					"id": 2,
+					"text": "끓는",
+					"head": 3,
+					"label": "VP_MOD",
+					"mod": [
+						1
+					],
+					"weight": 0.826342,
+					"mid": 32
+				},
+				{
+					"id": 3,
+					"text": "물을",
+					"head": 4,
+					"label": "NP_OBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.838281,
+					"mid": 35
+				},
+				{
+					"id": 4,
+					"text": "이용하는",
+					"head": 5,
+					"label": "VP_MOD",
+					"mod": [
+						3
+					],
+					"weight": 0.857944,
+					"mid": 35
+				},
+				{
+					"id": 5,
+					"text": "아이디어는",
+					"head": 9,
+					"label": "NP_SBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.631082,
+					"mid": 38
+				},
+				{
+					"id": 6,
+					"text": "2,000년의",
+					"head": 8,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.590531,
+					"mid": 40
+				},
+				{
+					"id": 7,
+					"text": "오랜",
+					"head": 8,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.505325,
+					"mid": 40
+				},
+				{
+					"id": 8,
+					"text": "역사를",
+					"head": 9,
+					"label": "NP_OBJ",
+					"mod": [
+						6,
+						7
+					],
+					"weight": 0.775067,
+					"mid": 38
+				},
+				{
+					"id": 9,
+					"text": "가지고",
+					"head": 10,
+					"label": "VP",
+					"mod": [
+						5,
+						8
+					],
+					"weight": 0.765691,
+					"mid": 38
+				},
+				{
+					"id": 10,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						9
+					],
+					"weight": 0.00366579,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_OBJ",
+					"text": "기계작동을",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP_MOD",
+					"text": "P#0@OBJ을 위해 끓는",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "P#1@MOD는 물을",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#2@OBJ을 이용하는",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_SBJ",
+					"text": "P#3@MOD는 아이디어는",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 6,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_OBJ",
+					"text": "2,000년의 오랜 역사를",
+					"begin": 6,
+					"end": 8,
+					"key_begin": 6,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#4@SBJ는 P#5@OBJ를 가지고 있다.",
+					"begin": 0,
+					"end": 10,
+					"key_begin": 9,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4,
+						5
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "위하",
+					"sense": 1,
+					"word_id": 1,
+					"weight": 0.304699,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 0,
+							"text": "기계작동을",
+							"weight": 0.304699
+						}
+					]
+				},
+				{
+					"verb": "끓",
+					"sense": 1,
+					"word_id": 2,
+					"weight": 0.290329,
+					"argument": [
+						{
+							"type": "ARGM-PRP",
+							"word_id": 1,
+							"text": "위해",
+							"weight": 0.36787
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "물을",
+							"weight": 0.212789
+						}
+					]
+				},
+				{
+					"verb": "이용",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.249995,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "물을",
+							"weight": 0.357236
+						},
+						{
+							"type": "ARG0",
+							"word_id": 5,
+							"text": "아이디어는",
+							"weight": 0.142754
+						}
+					]
+				},
+				{
+					"verb": "가지",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0.427187,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 8,
+							"text": "역사를",
+							"weight": 0.300873
+						},
+						{
+							"type": "AUX",
+							"word_id": 10,
+							"text": "있다.",
+							"weight": 0.553501
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 1,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 4,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 4,
+			"text": "초기 장치들은 실용적인 동력 발생로들이 아니었지만 설계가 진보함에 따라 유용한 동력을 발생시킬 수 있게 되어 지난 300년동안 기계 동력의 주요한 근원이 되었는데, 최초의 응용 예는 진공 엔진을 이용한 갱내 배수였다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "초기",
+					"type": "NNG",
+					"position": 361,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "장치",
+					"type": "NNG",
+					"position": 368,
+					"weight": 0.184798
+				},
+				{
+					"id": 2,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 374,
+					"weight": 0.0299841
+				},
+				{
+					"id": 3,
+					"lemma": "은",
+					"type": "JX",
+					"position": 377,
+					"weight": 0.100393
+				},
+				{
+					"id": 4,
+					"lemma": "실용",
+					"type": "NNG",
+					"position": 381,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 387,
+					"weight": 0.0168756
+				},
+				{
+					"id": 6,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 390,
+					"weight": 0.0165001
+				},
+				{
+					"id": 7,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 390,
+					"weight": 0.220712
+				},
+				{
+					"id": 8,
+					"lemma": "동력",
+					"type": "NNG",
+					"position": 394,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "발생",
+					"type": "NNG",
+					"position": 401,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "로",
+					"type": "NNG",
+					"position": 407,
+					"weight": 0.0001
+				},
+				{
+					"id": 11,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 410,
+					"weight": 0.0299841
+				},
+				{
+					"id": 12,
+					"lemma": "이",
+					"type": "JKC",
+					"position": 413,
+					"weight": 0.0001
+				},
+				{
+					"id": 13,
+					"lemma": "아니",
+					"type": "VCN",
+					"position": 417,
+					"weight": 0.354175
+				},
+				{
+					"id": 14,
+					"lemma": "었",
+					"type": "EP",
+					"position": 423,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "지만",
+					"type": "EC",
+					"position": 426,
+					"weight": 0.194093
+				},
+				{
+					"id": 16,
+					"lemma": "설계",
+					"type": "NNG",
+					"position": 433,
+					"weight": 0.21911
+				},
+				{
+					"id": 17,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 439,
+					"weight": 0.066324
+				},
+				{
+					"id": 18,
+					"lemma": "진보",
+					"type": "NNG",
+					"position": 443,
+					"weight": 0.20515
+				},
+				{
+					"id": 19,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 449,
+					"weight": 0.0001
+				},
+				{
+					"id": 20,
+					"lemma": "ㅁ",
+					"type": "ETN",
+					"position": 449,
+					"weight": 0.0575018
+				},
+				{
+					"id": 21,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 452,
+					"weight": 0.131408
+				},
+				{
+					"id": 22,
+					"lemma": "따르",
+					"type": "VV",
+					"position": 456,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "아",
+					"type": "EC",
+					"position": 459,
+					"weight": 0.398809
+				},
+				{
+					"id": 24,
+					"lemma": "유용",
+					"type": "NNG",
+					"position": 463,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "하",
+					"type": "XSA",
+					"position": 469,
+					"weight": 0.0001
+				},
+				{
+					"id": 26,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 469,
+					"weight": 0.488779
+				},
+				{
+					"id": 27,
+					"lemma": "동력",
+					"type": "NNG",
+					"position": 473,
+					"weight": 0.9
+				},
+				{
+					"id": 28,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 479,
+					"weight": 0.129611
+				},
+				{
+					"id": 29,
+					"lemma": "발생",
+					"type": "NNG",
+					"position": 483,
+					"weight": 0.9
+				},
+				{
+					"id": 30,
+					"lemma": "시키",
+					"type": "XSV",
+					"position": 489,
+					"weight": 0.00340357
+				},
+				{
+					"id": 31,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 492,
+					"weight": 0.387847
+				},
+				{
+					"id": 32,
+					"lemma": "수",
+					"type": "NNB",
+					"position": 496,
+					"weight": 0.215617
+				},
+				{
+					"id": 33,
+					"lemma": "있",
+					"type": "VA",
+					"position": 500,
+					"weight": 0.0518488
+				},
+				{
+					"id": 34,
+					"lemma": "게",
+					"type": "EC",
+					"position": 503,
+					"weight": 0.31879
+				},
+				{
+					"id": 35,
+					"lemma": "되",
+					"type": "VV",
+					"position": 507,
+					"weight": 0.209958
+				},
+				{
+					"id": 36,
+					"lemma": "어",
+					"type": "EC",
+					"position": 510,
+					"weight": 0.41831
+				},
+				{
+					"id": 37,
+					"lemma": "지나",
+					"type": "VV",
+					"position": 514,
+					"weight": 0.226279
+				},
+				{
+					"id": 38,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 517,
+					"weight": 0.304215
+				},
+				{
+					"id": 39,
+					"lemma": "300",
+					"type": "SN",
+					"position": 521,
+					"weight": 1
+				},
+				{
+					"id": 40,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 524,
+					"weight": 0.414343
+				},
+				{
+					"id": 41,
+					"lemma": "동안",
+					"type": "NNG",
+					"position": 527,
+					"weight": 0.110562
+				},
+				{
+					"id": 42,
+					"lemma": "기계",
+					"type": "NNG",
+					"position": 534,
+					"weight": 0.184799
+				},
+				{
+					"id": 43,
+					"lemma": "동력",
+					"type": "NNG",
+					"position": 541,
+					"weight": 0.9
+				},
+				{
+					"id": 44,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 547,
+					"weight": 0.0694213
+				},
+				{
+					"id": 45,
+					"lemma": "주요",
+					"type": "NNG",
+					"position": 551,
+					"weight": 0.9
+				},
+				{
+					"id": 46,
+					"lemma": "하",
+					"type": "XSA",
+					"position": 557,
+					"weight": 0.0001
+				},
+				{
+					"id": 47,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 557,
+					"weight": 0.488779
+				},
+				{
+					"id": 48,
+					"lemma": "근원",
+					"type": "NNG",
+					"position": 561,
+					"weight": 0.9
+				},
+				{
+					"id": 49,
+					"lemma": "이",
+					"type": "JKC",
+					"position": 567,
+					"weight": 0.000287945
+				},
+				{
+					"id": 50,
+					"lemma": "되",
+					"type": "VV",
+					"position": 571,
+					"weight": 0.542406
+				},
+				{
+					"id": 51,
+					"lemma": "었",
+					"type": "EP",
+					"position": 574,
+					"weight": 0.9
+				},
+				{
+					"id": 52,
+					"lemma": "는데",
+					"type": "EC",
+					"position": 577,
+					"weight": 0.188154
+				},
+				{
+					"id": 53,
+					"lemma": ",",
+					"type": "SP",
+					"position": 583,
+					"weight": 1
+				},
+				{
+					"id": 54,
+					"lemma": "최초",
+					"type": "NNG",
+					"position": 585,
+					"weight": 0.9
+				},
+				{
+					"id": 55,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 591,
+					"weight": 0.0694213
+				},
+				{
+					"id": 56,
+					"lemma": "응용",
+					"type": "NNG",
+					"position": 595,
+					"weight": 0.9
+				},
+				{
+					"id": 57,
+					"lemma": "예",
+					"type": "NNG",
+					"position": 602,
+					"weight": 0.154407
+				},
+				{
+					"id": 58,
+					"lemma": "는",
+					"type": "JX",
+					"position": 605,
+					"weight": 0.0287565
+				},
+				{
+					"id": 59,
+					"lemma": "진공",
+					"type": "NNG",
+					"position": 609,
+					"weight": 0.9
+				},
+				{
+					"id": 60,
+					"lemma": "엔진",
+					"type": "NNG",
+					"position": 616,
+					"weight": 0.9
+				},
+				{
+					"id": 61,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 622,
+					"weight": 0.129611
+				},
+				{
+					"id": 62,
+					"lemma": "이용",
+					"type": "NNG",
+					"position": 626,
+					"weight": 0.101224
+				},
+				{
+					"id": 63,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 632,
+					"weight": 0.0001
+				},
+				{
+					"id": 64,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 632,
+					"weight": 0.392321
+				},
+				{
+					"id": 65,
+					"lemma": "갱내",
+					"type": "NNG",
+					"position": 636,
+					"weight": 0.9
+				},
+				{
+					"id": 66,
+					"lemma": "배수",
+					"type": "NNG",
+					"position": 643,
+					"weight": 0.183662
+				},
+				{
+					"id": 67,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 649,
+					"weight": 0.0177525
+				},
+				{
+					"id": 68,
+					"lemma": "었",
+					"type": "EP",
+					"position": 649,
+					"weight": 0.9
+				},
+				{
+					"id": 69,
+					"lemma": "다",
+					"type": "EF",
+					"position": 652,
+					"weight": 0.640954
+				},
+				{
+					"id": 70,
+					"lemma": ".",
+					"type": "SF",
+					"position": 655,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "초기",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "장치들은",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "실용적인",
+					"type": "",
+					"begin": 4,
+					"end": 7
+				},
+				{
+					"id": 3,
+					"text": "동력",
+					"type": "",
+					"begin": 8,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "발생로들이",
+					"type": "",
+					"begin": 9,
+					"end": 12
+				},
+				{
+					"id": 5,
+					"text": "아니었지만",
+					"type": "",
+					"begin": 13,
+					"end": 15
+				},
+				{
+					"id": 6,
+					"text": "설계가",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 7,
+					"text": "진보함에",
+					"type": "",
+					"begin": 18,
+					"end": 21
+				},
+				{
+					"id": 8,
+					"text": "따라",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 9,
+					"text": "유용한",
+					"type": "",
+					"begin": 24,
+					"end": 26
+				},
+				{
+					"id": 10,
+					"text": "동력을",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 11,
+					"text": "발생시킬",
+					"type": "",
+					"begin": 29,
+					"end": 31
+				},
+				{
+					"id": 12,
+					"text": "수",
+					"type": "",
+					"begin": 32,
+					"end": 32
+				},
+				{
+					"id": 13,
+					"text": "있게",
+					"type": "",
+					"begin": 33,
+					"end": 34
+				},
+				{
+					"id": 14,
+					"text": "되어",
+					"type": "",
+					"begin": 35,
+					"end": 36
+				},
+				{
+					"id": 15,
+					"text": "지난",
+					"type": "",
+					"begin": 37,
+					"end": 38
+				},
+				{
+					"id": 16,
+					"text": "300년동안",
+					"type": "",
+					"begin": 39,
+					"end": 41
+				},
+				{
+					"id": 17,
+					"text": "기계",
+					"type": "",
+					"begin": 42,
+					"end": 42
+				},
+				{
+					"id": 18,
+					"text": "동력의",
+					"type": "",
+					"begin": 43,
+					"end": 44
+				},
+				{
+					"id": 19,
+					"text": "주요한",
+					"type": "",
+					"begin": 45,
+					"end": 47
+				},
+				{
+					"id": 20,
+					"text": "근원이",
+					"type": "",
+					"begin": 48,
+					"end": 49
+				},
+				{
+					"id": 21,
+					"text": "되었는데,",
+					"type": "",
+					"begin": 50,
+					"end": 53
+				},
+				{
+					"id": 22,
+					"text": "최초의",
+					"type": "",
+					"begin": 54,
+					"end": 55
+				},
+				{
+					"id": 23,
+					"text": "응용",
+					"type": "",
+					"begin": 56,
+					"end": 56
+				},
+				{
+					"id": 24,
+					"text": "예는",
+					"type": "",
+					"begin": 57,
+					"end": 58
+				},
+				{
+					"id": 25,
+					"text": "진공",
+					"type": "",
+					"begin": 59,
+					"end": 59
+				},
+				{
+					"id": 26,
+					"text": "엔진을",
+					"type": "",
+					"begin": 60,
+					"end": 61
+				},
+				{
+					"id": 27,
+					"text": "이용한",
+					"type": "",
+					"begin": 62,
+					"end": 64
+				},
+				{
+					"id": 28,
+					"text": "갱내",
+					"type": "",
+					"begin": 65,
+					"end": 65
+				},
+				{
+					"id": 29,
+					"text": "배수였다.",
+					"type": "",
+					"begin": 66,
+					"end": 70
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "지난 300년동안",
+					"type": "DT_DURATION",
+					"begin": 37,
+					"end": 41,
+					"weight": 0.445135,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "초기",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.662501,
+					"mid": 44
+				},
+				{
+					"id": 1,
+					"text": "장치들은",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.81268,
+					"mid": 46
+				},
+				{
+					"id": 2,
+					"text": "실용적인",
+					"head": 4,
+					"label": "VNP_MOD",
+					"mod": [],
+					"weight": 0.558465,
+					"mid": 48
+				},
+				{
+					"id": 3,
+					"text": "동력",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.664756,
+					"mid": 48
+				},
+				{
+					"id": 4,
+					"text": "발생로들이",
+					"head": 5,
+					"label": "NP_CMP",
+					"mod": [
+						2,
+						3
+					],
+					"weight": 0.719169,
+					"mid": 46
+				},
+				{
+					"id": 5,
+					"text": "아니었지만",
+					"head": 7,
+					"label": "VP",
+					"mod": [
+						1,
+						4
+					],
+					"weight": 0.368889,
+					"mid": 51
+				},
+				{
+					"id": 6,
+					"text": "설계가",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.815122,
+					"mid": 51
+				},
+				{
+					"id": 7,
+					"text": "진보함에",
+					"head": 8,
+					"label": "VP_AJT",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.570859,
+					"mid": 53
+				},
+				{
+					"id": 8,
+					"text": "따라",
+					"head": 11,
+					"label": "VP",
+					"mod": [
+						7
+					],
+					"weight": 0.792575,
+					"mid": 54
+				},
+				{
+					"id": 9,
+					"text": "유용한",
+					"head": 10,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.716876,
+					"mid": 55
+				},
+				{
+					"id": 10,
+					"text": "동력을",
+					"head": 11,
+					"label": "NP_OBJ",
+					"mod": [
+						9
+					],
+					"weight": 0.741965,
+					"mid": 54
+				},
+				{
+					"id": 11,
+					"text": "발생시킬",
+					"head": 12,
+					"label": "VP_MOD",
+					"mod": [
+						8,
+						10
+					],
+					"weight": 0.838741,
+					"mid": 54
+				},
+				{
+					"id": 12,
+					"text": "수",
+					"head": 13,
+					"label": "NP_SBJ",
+					"mod": [
+						11
+					],
+					"weight": 0.831237,
+					"mid": 60
+				},
+				{
+					"id": 13,
+					"text": "있게",
+					"head": 14,
+					"label": "VP",
+					"mod": [
+						12
+					],
+					"weight": 0.59315,
+					"mid": 61
+				},
+				{
+					"id": 14,
+					"text": "되어",
+					"head": 21,
+					"label": "VP",
+					"mod": [
+						13
+					],
+					"weight": 0.636135,
+					"mid": 62
+				},
+				{
+					"id": 15,
+					"text": "지난",
+					"head": 16,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.75666,
+					"mid": 63
+				},
+				{
+					"id": 16,
+					"text": "300년동안",
+					"head": 21,
+					"label": "NP_AJT",
+					"mod": [
+						15
+					],
+					"weight": 0.686962,
+					"mid": 62
+				},
+				{
+					"id": 17,
+					"text": "기계",
+					"head": 18,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.67811,
+					"mid": 67
+				},
+				{
+					"id": 18,
+					"text": "동력의",
+					"head": 20,
+					"label": "NP_MOD",
+					"mod": [
+						17
+					],
+					"weight": 0.621456,
+					"mid": 69
+				},
+				{
+					"id": 19,
+					"text": "주요한",
+					"head": 20,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.670601,
+					"mid": 70
+				},
+				{
+					"id": 20,
+					"text": "근원이",
+					"head": 21,
+					"label": "NP_CMP",
+					"mod": [
+						18,
+						19
+					],
+					"weight": 0.729797,
+					"mid": 62
+				},
+				{
+					"id": 21,
+					"text": "되었는데,",
+					"head": 27,
+					"label": "VP",
+					"mod": [
+						14,
+						16,
+						20
+					],
+					"weight": 0.462298,
+					"mid": 73
+				},
+				{
+					"id": 22,
+					"text": "최초의",
+					"head": 24,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.708413,
+					"mid": 75
+				},
+				{
+					"id": 23,
+					"text": "응용",
+					"head": 24,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.72593,
+					"mid": 75
+				},
+				{
+					"id": 24,
+					"text": "예는",
+					"head": 27,
+					"label": "NP_SBJ",
+					"mod": [
+						22,
+						23
+					],
+					"weight": 0.49213,
+					"mid": 73
+				},
+				{
+					"id": 25,
+					"text": "진공",
+					"head": 26,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.446306,
+					"mid": 79
+				},
+				{
+					"id": 26,
+					"text": "엔진을",
+					"head": 27,
+					"label": "NP_OBJ",
+					"mod": [
+						25
+					],
+					"weight": 0.773572,
+					"mid": 73
+				},
+				{
+					"id": 27,
+					"text": "이용한",
+					"head": 29,
+					"label": "VP_MOD",
+					"mod": [
+						21,
+						24,
+						26
+					],
+					"weight": 0.786955,
+					"mid": 73
+				},
+				{
+					"id": 28,
+					"text": "갱내",
+					"head": 29,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.752965,
+					"mid": 83
+				},
+				{
+					"id": 29,
+					"text": "배수였다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						27,
+						28
+					],
+					"weight": 0.00000595237,
+					"mid": 83
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "초기 장치들은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_CMP",
+					"text": "실용적인 동력 발생로들이",
+					"begin": 2,
+					"end": 4,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@CMP이 아니었지만",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "설계가",
+					"begin": 6,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S_AJT",
+					"text": "S#2@S지만 P#3@SBJ가 진보함에",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 5,
+					"sub_phrase": [
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "S#4@AJT에 따라",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 7,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_OBJ",
+					"text": "유용한 동력을",
+					"begin": 9,
+					"end": 10,
+					"key_begin": 9,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "S_MOD",
+					"text": "S#5@S아 P#6@OBJ을 발생시킬",
+					"begin": 0,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 8,
+					"sub_phrase": [
+						5,
+						6
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "NP_SBJ",
+					"text": "S#7@MODㄹ 수",
+					"begin": 0,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": 9,
+					"sub_phrase": [
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "S",
+					"text": "P#8@SBJ수 있게 되어",
+					"begin": 0,
+					"end": 14,
+					"key_begin": 13,
+					"head_phrase": 12,
+					"sub_phrase": [
+						8
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "NP_AJT",
+					"text": "지난 300년동안",
+					"begin": 15,
+					"end": 16,
+					"key_begin": 15,
+					"head_phrase": 12,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 11,
+					"label": "NP_CMP",
+					"text": "기계 동력의 주요한 근원이",
+					"begin": 17,
+					"end": 20,
+					"key_begin": 17,
+					"head_phrase": 12,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 12,
+					"label": "S",
+					"text": "S#9@S어 P#10@AJT동안 P#11@CMP이 되었는데,",
+					"begin": 0,
+					"end": 21,
+					"key_begin": 21,
+					"head_phrase": 15,
+					"sub_phrase": [
+						9,
+						10,
+						11
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 13,
+					"label": "NP_SBJ",
+					"text": "최초의 응용 예는",
+					"begin": 22,
+					"end": 24,
+					"key_begin": 22,
+					"head_phrase": 15,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 14,
+					"label": "NP_OBJ",
+					"text": "진공 엔진을",
+					"begin": 25,
+					"end": 26,
+					"key_begin": 25,
+					"head_phrase": 15,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 15,
+					"label": "S_MOD",
+					"text": "S#12@S는데, P#13@SBJ는 P#14@OBJ을 이용한",
+					"begin": 0,
+					"end": 27,
+					"key_begin": 27,
+					"head_phrase": 16,
+					"sub_phrase": [
+						12,
+						13,
+						14
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 16,
+					"label": "S",
+					"text": "S#15@MODㄴ 갱내 배수였다.",
+					"begin": 0,
+					"end": 29,
+					"key_begin": 28,
+					"head_phrase": -1,
+					"sub_phrase": [
+						15
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "갱내 배수",
+							"label": "NP",
+							"begin": 65,
+							"end": 66,
+							"ne_type": ""
+						},
+						{
+							"text": "였다.",
+							"label": "VP",
+							"begin": 67,
+							"end": 70,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "아니",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.382752,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 1,
+							"text": "장치들은",
+							"weight": 0.129472
+						},
+						{
+							"type": "ARG2",
+							"word_id": 4,
+							"text": "발생로들이",
+							"weight": 0.636032
+						}
+					]
+				},
+				{
+					"verb": "진보",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.230981,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 6,
+							"text": "설계가",
+							"weight": 0.230981
+						}
+					]
+				},
+				{
+					"verb": "따르",
+					"sense": 2,
+					"word_id": 8,
+					"weight": 0.399363,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "진보함에",
+							"weight": 1
+						}
+					]
+				},
+				{
+					"verb": "유용",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0.55636,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "동력을",
+							"weight": 0.55636
+						}
+					]
+				},
+				{
+					"verb": "발생",
+					"sense": 1,
+					"word_id": 11,
+					"weight": 0.471076,
+					"argument": [
+						{
+							"type": "ARGM-CAU",
+							"word_id": 8,
+							"text": "따라",
+							"weight": 0.32482
+						},
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "동력을",
+							"weight": 0.46079
+						},
+						{
+							"type": "AUX",
+							"word_id": 13,
+							"text": "있게",
+							"weight": 0.627617
+						}
+					]
+				},
+				{
+					"verb": "지나",
+					"sense": 1,
+					"word_id": 15,
+					"weight": 0,
+					"argument": []
+				},
+				{
+					"verb": "주요",
+					"sense": 1,
+					"word_id": 19,
+					"weight": 0.526531,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 20,
+							"text": "근원이",
+							"weight": 0.526531
+						}
+					]
+				},
+				{
+					"verb": "되",
+					"sense": 1,
+					"word_id": 21,
+					"weight": 0.519057,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 16,
+							"text": "300년동안",
+							"weight": 0.284984
+						},
+						{
+							"type": "ARG2",
+							"word_id": 20,
+							"text": "근원이",
+							"weight": 0.753131
+						}
+					]
+				},
+				{
+					"verb": "이용",
+					"sense": 1,
+					"word_id": 27,
+					"weight": 0.429445,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 26,
+							"text": "엔진을",
+							"weight": 0.429445
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 11,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 21,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 5,
+			"text": "이후의 발전형에서는 가압 증기를 사용하고, 회전 운동으로 변환하여 이전에 수차나 풍차 위치의 제한으로부터 풀려나 물과 석탄 또는 나무 연료를 얻을 수 있는 곳이면 어디든지 제조 기계장치의 광범위한 동력 사용을 가능케 하였다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이후",
+					"type": "NNG",
+					"position": 656,
+					"weight": 0.437886
+				},
+				{
+					"id": 1,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 662,
+					"weight": 0.0694213
+				},
+				{
+					"id": 2,
+					"lemma": "발전",
+					"type": "NNG",
+					"position": 666,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "형",
+					"type": "XSN",
+					"position": 672,
+					"weight": 0.0121759
+				},
+				{
+					"id": 4,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 675,
+					"weight": 0.121718
+				},
+				{
+					"id": 5,
+					"lemma": "는",
+					"type": "JX",
+					"position": 681,
+					"weight": 0.0387928
+				},
+				{
+					"id": 6,
+					"lemma": "가압",
+					"type": "NNG",
+					"position": 685,
+					"weight": 0.95
+				},
+				{
+					"id": 7,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 692,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 698,
+					"weight": 0.137686
+				},
+				{
+					"id": 9,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 702,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 708,
+					"weight": 0.0001
+				},
+				{
+					"id": 11,
+					"lemma": "고",
+					"type": "EC",
+					"position": 711,
+					"weight": 0.359917
+				},
+				{
+					"id": 12,
+					"lemma": ",",
+					"type": "SP",
+					"position": 714,
+					"weight": 1
+				},
+				{
+					"id": 13,
+					"lemma": "회전",
+					"type": "NNG",
+					"position": 716,
+					"weight": 0.484715
+				},
+				{
+					"id": 14,
+					"lemma": "운동",
+					"type": "NNG",
+					"position": 723,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 729,
+					"weight": 0.153406
+				},
+				{
+					"id": 16,
+					"lemma": "변환",
+					"type": "NNG",
+					"position": 736,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 742,
+					"weight": 0.0001
+				},
+				{
+					"id": 18,
+					"lemma": "어",
+					"type": "EC",
+					"position": 745,
+					"weight": 0.361326
+				},
+				{
+					"id": 19,
+					"lemma": "이전",
+					"type": "NNG",
+					"position": 749,
+					"weight": 0.218885
+				},
+				{
+					"id": 20,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 755,
+					"weight": 0.153364
+				},
+				{
+					"id": 21,
+					"lemma": "수차",
+					"type": "NNG",
+					"position": 759,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "나",
+					"type": "JC",
+					"position": 765,
+					"weight": 0.00543468
+				},
+				{
+					"id": 23,
+					"lemma": "풍차",
+					"type": "NNG",
+					"position": 769,
+					"weight": 0.9
+				},
+				{
+					"id": 24,
+					"lemma": "위치",
+					"type": "NNG",
+					"position": 776,
+					"weight": 0.184678
+				},
+				{
+					"id": 25,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 782,
+					"weight": 0.0694213
+				},
+				{
+					"id": 26,
+					"lemma": "제한",
+					"type": "NNG",
+					"position": 786,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "으로부터",
+					"type": "JKB",
+					"position": 792,
+					"weight": 0.9
+				},
+				{
+					"id": 28,
+					"lemma": "풀려나",
+					"type": "VV",
+					"position": 805,
+					"weight": 0.9
+				},
+				{
+					"id": 29,
+					"lemma": "아",
+					"type": "EC",
+					"position": 811,
+					"weight": 0.398809
+				},
+				{
+					"id": 30,
+					"lemma": "물",
+					"type": "NNG",
+					"position": 815,
+					"weight": 0.187657
+				},
+				{
+					"id": 31,
+					"lemma": "과",
+					"type": "JC",
+					"position": 818,
+					"weight": 0.017569
+				},
+				{
+					"id": 32,
+					"lemma": "석탄",
+					"type": "NNG",
+					"position": 822,
+					"weight": 0.9
+				},
+				{
+					"id": 33,
+					"lemma": "또는",
+					"type": "MAJ",
+					"position": 829,
+					"weight": 0.0017557
+				},
+				{
+					"id": 34,
+					"lemma": "나무",
+					"type": "NNG",
+					"position": 836,
+					"weight": 0.413695
+				},
+				{
+					"id": 35,
+					"lemma": "연료",
+					"type": "NNG",
+					"position": 843,
+					"weight": 0.9
+				},
+				{
+					"id": 36,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 849,
+					"weight": 0.137686
+				},
+				{
+					"id": 37,
+					"lemma": "얻",
+					"type": "VV",
+					"position": 853,
+					"weight": 0.9
+				},
+				{
+					"id": 38,
+					"lemma": "을",
+					"type": "ETM",
+					"position": 856,
+					"weight": 0.0216774
+				},
+				{
+					"id": 39,
+					"lemma": "수",
+					"type": "NNB",
+					"position": 860,
+					"weight": 0.215617
+				},
+				{
+					"id": 40,
+					"lemma": "있",
+					"type": "VA",
+					"position": 864,
+					"weight": 0.0518488
+				},
+				{
+					"id": 41,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 867,
+					"weight": 0.26168
+				},
+				{
+					"id": 42,
+					"lemma": "곳",
+					"type": "NNG",
+					"position": 871,
+					"weight": 0.658803
+				},
+				{
+					"id": 43,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 874,
+					"weight": 0.0177525
+				},
+				{
+					"id": 44,
+					"lemma": "면",
+					"type": "EC",
+					"position": 877,
+					"weight": 0.232867
+				},
+				{
+					"id": 45,
+					"lemma": "어디",
+					"type": "NP",
+					"position": 881,
+					"weight": 0.0244097
+				},
+				{
+					"id": 46,
+					"lemma": "든지",
+					"type": "JX",
+					"position": 887,
+					"weight": 0.18287
+				},
+				{
+					"id": 47,
+					"lemma": "제조",
+					"type": "NNG",
+					"position": 894,
+					"weight": 0.9
+				},
+				{
+					"id": 48,
+					"lemma": "기계",
+					"type": "NNG",
+					"position": 901,
+					"weight": 0.184799
+				},
+				{
+					"id": 49,
+					"lemma": "장치",
+					"type": "NNG",
+					"position": 907,
+					"weight": 0.184798
+				},
+				{
+					"id": 50,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 913,
+					"weight": 0.0694213
+				},
+				{
+					"id": 51,
+					"lemma": "광범위",
+					"type": "NNG",
+					"position": 917,
+					"weight": 0.45
+				},
+				{
+					"id": 52,
+					"lemma": "하",
+					"type": "XSA",
+					"position": 926,
+					"weight": 0.0001
+				},
+				{
+					"id": 53,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 926,
+					"weight": 0.488779
+				},
+				{
+					"id": 54,
+					"lemma": "동력",
+					"type": "NNG",
+					"position": 930,
+					"weight": 0.9
+				},
+				{
+					"id": 55,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 937,
+					"weight": 0.9
+				},
+				{
+					"id": 56,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 943,
+					"weight": 0.129611
+				},
+				{
+					"id": 57,
+					"lemma": "가능",
+					"type": "NNG",
+					"position": 947,
+					"weight": 0.100956
+				},
+				{
+					"id": 58,
+					"lemma": "하",
+					"type": "XSA",
+					"position": 953,
+					"weight": 0.0001
+				},
+				{
+					"id": 59,
+					"lemma": "게",
+					"type": "EC",
+					"position": 953,
+					"weight": 0.362254
+				},
+				{
+					"id": 60,
+					"lemma": "하",
+					"type": "VX",
+					"position": 957,
+					"weight": 0.0899221
+				},
+				{
+					"id": 61,
+					"lemma": "었",
+					"type": "EP",
+					"position": 960,
+					"weight": 0.9
+				},
+				{
+					"id": 62,
+					"lemma": "다",
+					"type": "EF",
+					"position": 963,
+					"weight": 0.640954
+				},
+				{
+					"id": 63,
+					"lemma": ".",
+					"type": "SF",
+					"position": 966,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이후의",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "발전형에서는",
+					"type": "",
+					"begin": 2,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "가압",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "증기를",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "사용하고,",
+					"type": "",
+					"begin": 9,
+					"end": 12
+				},
+				{
+					"id": 5,
+					"text": "회전",
+					"type": "",
+					"begin": 13,
+					"end": 13
+				},
+				{
+					"id": 6,
+					"text": "운동으로",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 7,
+					"text": "변환하여",
+					"type": "",
+					"begin": 16,
+					"end": 18
+				},
+				{
+					"id": 8,
+					"text": "이전에",
+					"type": "",
+					"begin": 19,
+					"end": 20
+				},
+				{
+					"id": 9,
+					"text": "수차나",
+					"type": "",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 10,
+					"text": "풍차",
+					"type": "",
+					"begin": 23,
+					"end": 23
+				},
+				{
+					"id": 11,
+					"text": "위치의",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 12,
+					"text": "제한으로부터",
+					"type": "",
+					"begin": 26,
+					"end": 27
+				},
+				{
+					"id": 13,
+					"text": "풀려나",
+					"type": "",
+					"begin": 28,
+					"end": 29
+				},
+				{
+					"id": 14,
+					"text": "물과",
+					"type": "",
+					"begin": 30,
+					"end": 31
+				},
+				{
+					"id": 15,
+					"text": "석탄",
+					"type": "",
+					"begin": 32,
+					"end": 32
+				},
+				{
+					"id": 16,
+					"text": "또는",
+					"type": "",
+					"begin": 33,
+					"end": 33
+				},
+				{
+					"id": 17,
+					"text": "나무",
+					"type": "",
+					"begin": 34,
+					"end": 34
+				},
+				{
+					"id": 18,
+					"text": "연료를",
+					"type": "",
+					"begin": 35,
+					"end": 36
+				},
+				{
+					"id": 19,
+					"text": "얻을",
+					"type": "",
+					"begin": 37,
+					"end": 38
+				},
+				{
+					"id": 20,
+					"text": "수",
+					"type": "",
+					"begin": 39,
+					"end": 39
+				},
+				{
+					"id": 21,
+					"text": "있는",
+					"type": "",
+					"begin": 40,
+					"end": 41
+				},
+				{
+					"id": 22,
+					"text": "곳이면",
+					"type": "",
+					"begin": 42,
+					"end": 44
+				},
+				{
+					"id": 23,
+					"text": "어디든지",
+					"type": "",
+					"begin": 45,
+					"end": 46
+				},
+				{
+					"id": 24,
+					"text": "제조",
+					"type": "",
+					"begin": 47,
+					"end": 47
+				},
+				{
+					"id": 25,
+					"text": "기계장치의",
+					"type": "",
+					"begin": 48,
+					"end": 50
+				},
+				{
+					"id": 26,
+					"text": "광범위한",
+					"type": "",
+					"begin": 51,
+					"end": 53
+				},
+				{
+					"id": 27,
+					"text": "동력",
+					"type": "",
+					"begin": 54,
+					"end": 54
+				},
+				{
+					"id": 28,
+					"text": "사용을",
+					"type": "",
+					"begin": 55,
+					"end": 56
+				},
+				{
+					"id": 29,
+					"text": "가능케",
+					"type": "",
+					"begin": 57,
+					"end": 59
+				},
+				{
+					"id": 30,
+					"text": "하였다.",
+					"type": "",
+					"begin": 60,
+					"end": 63
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "석탄",
+					"type": "MT_ROCK",
+					"begin": 32,
+					"end": 32,
+					"weight": 0.63985,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이후의",
+					"head": 1,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.638304,
+					"mid": 85
+				},
+				{
+					"id": 1,
+					"text": "발전형에서는",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [
+						0
+					],
+					"weight": 0.597444,
+					"mid": 87
+				},
+				{
+					"id": 2,
+					"text": "가압",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.762259,
+					"mid": 89
+				},
+				{
+					"id": 3,
+					"text": "증기를",
+					"head": 4,
+					"label": "NP_OBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.840965,
+					"mid": 87
+				},
+				{
+					"id": 4,
+					"text": "사용하고,",
+					"head": 7,
+					"label": "VP",
+					"mod": [
+						1,
+						3
+					],
+					"weight": 0.811613,
+					"mid": 91
+				},
+				{
+					"id": 5,
+					"text": "회전",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.741969,
+					"mid": 93
+				},
+				{
+					"id": 6,
+					"text": "운동으로",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [
+						5
+					],
+					"weight": 0.835927,
+					"mid": 91
+				},
+				{
+					"id": 7,
+					"text": "변환하여",
+					"head": 13,
+					"label": "VP",
+					"mod": [
+						4,
+						6
+					],
+					"weight": 0.60945,
+					"mid": 95
+				},
+				{
+					"id": 8,
+					"text": "이전에",
+					"head": 13,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.511196,
+					"mid": 95
+				},
+				{
+					"id": 9,
+					"text": "수차나",
+					"head": 11,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.618219,
+					"mid": 98
+				},
+				{
+					"id": 10,
+					"text": "풍차",
+					"head": 11,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.692085,
+					"mid": 98
+				},
+				{
+					"id": 11,
+					"text": "위치의",
+					"head": 12,
+					"label": "NP_MOD",
+					"mod": [
+						9,
+						10
+					],
+					"weight": 0.720944,
+					"mid": 101
+				},
+				{
+					"id": 12,
+					"text": "제한으로부터",
+					"head": 13,
+					"label": "NP_AJT",
+					"mod": [
+						11
+					],
+					"weight": 0.890869,
+					"mid": 95
+				},
+				{
+					"id": 13,
+					"text": "풀려나",
+					"head": 19,
+					"label": "VP",
+					"mod": [
+						7,
+						8,
+						12
+					],
+					"weight": 0.749012,
+					"mid": 103
+				},
+				{
+					"id": 14,
+					"text": "물과",
+					"head": 15,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.108173,
+					"mid": 105
+				},
+				{
+					"id": 15,
+					"text": "석탄",
+					"head": 18,
+					"label": "NP_CNJ",
+					"mod": [
+						14
+					],
+					"weight": 0.0339151,
+					"mid": 107
+				},
+				{
+					"id": 16,
+					"text": "또는",
+					"head": 18,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.613077,
+					"mid": 107
+				},
+				{
+					"id": 17,
+					"text": "나무",
+					"head": 18,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.773696,
+					"mid": 107
+				},
+				{
+					"id": 18,
+					"text": "연료를",
+					"head": 19,
+					"label": "NP_OBJ",
+					"mod": [
+						15,
+						16,
+						17
+					],
+					"weight": 0.739429,
+					"mid": 103
+				},
+				{
+					"id": 19,
+					"text": "얻을",
+					"head": 20,
+					"label": "VP_MOD",
+					"mod": [
+						13,
+						18
+					],
+					"weight": 0.810889,
+					"mid": 103
+				},
+				{
+					"id": 20,
+					"text": "수",
+					"head": 21,
+					"label": "NP_SBJ",
+					"mod": [
+						19
+					],
+					"weight": 0.823734,
+					"mid": 113
+				},
+				{
+					"id": 21,
+					"text": "있는",
+					"head": 22,
+					"label": "VP_MOD",
+					"mod": [
+						20
+					],
+					"weight": 0.830804,
+					"mid": 113
+				},
+				{
+					"id": 22,
+					"text": "곳이면",
+					"head": 23,
+					"label": "VNP",
+					"mod": [
+						21
+					],
+					"weight": 0.673971,
+					"mid": 115
+				},
+				{
+					"id": 23,
+					"text": "어디든지",
+					"head": 30,
+					"label": "VNP_AJT",
+					"mod": [
+						22
+					],
+					"weight": 0.28688,
+					"mid": 115
+				},
+				{
+					"id": 24,
+					"text": "제조",
+					"head": 25,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.775272,
+					"mid": 117
+				},
+				{
+					"id": 25,
+					"text": "기계장치의",
+					"head": 28,
+					"label": "NP_MOD",
+					"mod": [
+						24
+					],
+					"weight": 0.702513,
+					"mid": 119
+				},
+				{
+					"id": 26,
+					"text": "광범위한",
+					"head": 28,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.580739,
+					"mid": 120
+				},
+				{
+					"id": 27,
+					"text": "동력",
+					"head": 28,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.803582,
+					"mid": 119
+				},
+				{
+					"id": 28,
+					"text": "사용을",
+					"head": 30,
+					"label": "NP_OBJ",
+					"mod": [
+						25,
+						26,
+						27
+					],
+					"weight": 0.832394,
+					"mid": 123
+				},
+				{
+					"id": 29,
+					"text": "가능케",
+					"head": 30,
+					"label": "VP_AJT",
+					"mod": [],
+					"weight": 0.48942,
+					"mid": 124
+				},
+				{
+					"id": 30,
+					"text": "하였다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						23,
+						28,
+						29
+					],
+					"weight": 9.72024e-8,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "이후의 발전형에서는",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_OBJ",
+					"text": "가압 증기를",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP",
+					"text": "P#0@AJT는 P#1@OBJ를 사용하고,",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "회전 운동으로",
+					"begin": 5,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "VP",
+					"text": "P#2@VP고, P#3@AJT으로 변환하여",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 7,
+					"sub_phrase": [
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "이전에",
+					"begin": 8,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "수차나 풍차 위치의 제한으로부터",
+					"begin": 9,
+					"end": 12,
+					"key_begin": 9,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "VP",
+					"text": "P#4@VP어 P#5@AJT에 P#6@AJT으로부터 풀려나",
+					"begin": 0,
+					"end": 13,
+					"key_begin": 13,
+					"head_phrase": 9,
+					"sub_phrase": [
+						4,
+						5,
+						6
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "NP_OBJ",
+					"text": "물과 석탄 또는 나무 연료를",
+					"begin": 14,
+					"end": 18,
+					"key_begin": 14,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "물과 석탄",
+							"label": "NP_OBJ",
+							"begin": 30,
+							"end": 32,
+							"ne_type": ""
+						},
+						{
+							"text": "나무 연료",
+							"label": "NP_OBJ",
+							"begin": 34,
+							"end": 35,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 9,
+					"label": "VP_MOD",
+					"text": "P#7@VP아 P#8@OBJ를 얻을",
+					"begin": 0,
+					"end": 19,
+					"key_begin": 19,
+					"head_phrase": 10,
+					"sub_phrase": [
+						7,
+						8
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "NP_SBJ",
+					"text": "P#9@MOD을 수",
+					"begin": 0,
+					"end": 20,
+					"key_begin": 20,
+					"head_phrase": 11,
+					"sub_phrase": [
+						9
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 11,
+					"label": "S_MOD",
+					"text": "P#10@SBJ수 있는",
+					"begin": 0,
+					"end": 21,
+					"key_begin": 21,
+					"head_phrase": 12,
+					"sub_phrase": [
+						10
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 12,
+					"label": "S",
+					"text": "S#11@MOD는 곳이면",
+					"begin": 0,
+					"end": 22,
+					"key_begin": 22,
+					"head_phrase": 13,
+					"sub_phrase": [
+						11
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "곳",
+							"label": "NP",
+							"begin": 42,
+							"end": 42,
+							"ne_type": ""
+						},
+						{
+							"text": "이면",
+							"label": "VP",
+							"begin": 43,
+							"end": 44,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 13,
+					"label": "S_AJT",
+					"text": "S#12@S면 어디든지",
+					"begin": 0,
+					"end": 23,
+					"key_begin": 23,
+					"head_phrase": 16,
+					"sub_phrase": [
+						12
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 14,
+					"label": "NP_OBJ",
+					"text": "제조 기계장치의 광범위한 동력 사용을",
+					"begin": 24,
+					"end": 28,
+					"key_begin": 24,
+					"head_phrase": 16,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 15,
+					"label": "VP_AJT",
+					"text": "가능케",
+					"begin": 29,
+					"end": 29,
+					"key_begin": 29,
+					"head_phrase": 16,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 16,
+					"label": "S",
+					"text": "S#13@AJT든지 P#14@OBJ을 P#15@AJT게 하였다.",
+					"begin": 0,
+					"end": 30,
+					"key_begin": 30,
+					"head_phrase": -1,
+					"sub_phrase": [
+						13,
+						14,
+						15
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "사용",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.294113,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 1,
+							"text": "발전형에서는",
+							"weight": 0.157676
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "증기를",
+							"weight": 0.430549
+						}
+					]
+				},
+				{
+					"verb": "변환",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.186563,
+					"argument": [
+						{
+							"type": "ARG3",
+							"word_id": 6,
+							"text": "운동으로",
+							"weight": 0.186563
+						}
+					]
+				},
+				{
+					"verb": "풀려나",
+					"sense": 1,
+					"word_id": 13,
+					"weight": 0.253878,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 8,
+							"text": "이전에",
+							"weight": 0.248388
+						},
+						{
+							"type": "ARG2",
+							"word_id": 12,
+							"text": "제한으로부터",
+							"weight": 0.259368
+						}
+					]
+				},
+				{
+					"verb": "얻",
+					"sense": 1,
+					"word_id": 19,
+					"weight": 0.626595,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 18,
+							"text": "연료를",
+							"weight": 0.404915
+						},
+						{
+							"type": "AUX",
+							"word_id": 21,
+							"text": "있는",
+							"weight": 0.848274
+						}
+					]
+				},
+				{
+					"verb": "광범위",
+					"sense": 1,
+					"word_id": 26,
+					"weight": 0.5942,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 28,
+							"text": "사용을",
+							"weight": 0.5942
+						}
+					]
+				},
+				{
+					"verb": "가능",
+					"sense": 1,
+					"word_id": 29,
+					"weight": 0.300493,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 28,
+							"text": "사용을",
+							"weight": 0.30317
+						},
+						{
+							"type": "AUX",
+							"word_id": 30,
+							"text": "하였다.",
+							"weight": 0.297816
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 4,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 7,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 2,
+					"type": "s",
+					"head_wid": 13,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 3,
+					"type": "s",
+					"head_wid": 19,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 6,
+			"text": "주목할 점은, 이 동력원이 증기 견인차, 철도 기관차 같은 증기 견인차들과 같은 기동 원동기에 훗날 사용 된 것이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "주목",
+					"type": "NNG",
+					"position": 967,
+					"weight": 0.437124
+				},
+				{
+					"id": 1,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 973,
+					"weight": 0.0001
+				},
+				{
+					"id": 2,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 973,
+					"weight": 0.387847
+				},
+				{
+					"id": 3,
+					"lemma": "점",
+					"type": "NNG",
+					"position": 977,
+					"weight": 0.558489
+				},
+				{
+					"id": 4,
+					"lemma": "은",
+					"type": "JX",
+					"position": 980,
+					"weight": 0.0449928
+				},
+				{
+					"id": 5,
+					"lemma": ",",
+					"type": "SP",
+					"position": 983,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "이",
+					"type": "MM",
+					"position": 985,
+					"weight": 0.0017249
+				},
+				{
+					"id": 7,
+					"lemma": "동력",
+					"type": "NNG",
+					"position": 989,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "원",
+					"type": "XSN",
+					"position": 995,
+					"weight": 0.00350502
+				},
+				{
+					"id": 9,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 998,
+					"weight": 0.0731805
+				},
+				{
+					"id": 10,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1002,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "견인",
+					"type": "NNG",
+					"position": 1009,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "차",
+					"type": "NNG",
+					"position": 1015,
+					"weight": 0.0735127
+				},
+				{
+					"id": 13,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1018,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": "철도",
+					"type": "NNG",
+					"position": 1020,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 1027,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "차",
+					"type": "NNG",
+					"position": 1033,
+					"weight": 0.0735127
+				},
+				{
+					"id": 17,
+					"lemma": "같",
+					"type": "VA",
+					"position": 1037,
+					"weight": 0.00587343
+				},
+				{
+					"id": 18,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 1040,
+					"weight": 0.155123
+				},
+				{
+					"id": 19,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1044,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "견인",
+					"type": "NNG",
+					"position": 1051,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "차",
+					"type": "NNG",
+					"position": 1057,
+					"weight": 0.0735127
+				},
+				{
+					"id": 22,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 1060,
+					"weight": 0.0299841
+				},
+				{
+					"id": 23,
+					"lemma": "과",
+					"type": "JKB",
+					"position": 1063,
+					"weight": 0.0399165
+				},
+				{
+					"id": 24,
+					"lemma": "같",
+					"type": "VA",
+					"position": 1067,
+					"weight": 0.0728396
+				},
+				{
+					"id": 25,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 1070,
+					"weight": 0.155123
+				},
+				{
+					"id": 26,
+					"lemma": "기동",
+					"type": "NNG",
+					"position": 1074,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "원동",
+					"type": "NNG",
+					"position": 1081,
+					"weight": 0.0434917
+				},
+				{
+					"id": 28,
+					"lemma": "기",
+					"type": "XSN",
+					"position": 1087,
+					"weight": 0.000294499
+				},
+				{
+					"id": 29,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1090,
+					"weight": 0.121683
+				},
+				{
+					"id": 30,
+					"lemma": "훗날",
+					"type": "NNG",
+					"position": 1094,
+					"weight": 0.9
+				},
+				{
+					"id": 31,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 1101,
+					"weight": 0.9
+				},
+				{
+					"id": 32,
+					"lemma": "되",
+					"type": "VV",
+					"position": 1108,
+					"weight": 0.0139267
+				},
+				{
+					"id": 33,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1108,
+					"weight": 0.304215
+				},
+				{
+					"id": 34,
+					"lemma": "것",
+					"type": "NNB",
+					"position": 1112,
+					"weight": 0.228788
+				},
+				{
+					"id": 35,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 1115,
+					"weight": 0.0607843
+				},
+				{
+					"id": 36,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1118,
+					"weight": 0.353579
+				},
+				{
+					"id": 37,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1121,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "주목할",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "점은,",
+					"type": "",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "이",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "동력원이",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 4,
+					"text": "증기",
+					"type": "",
+					"begin": 10,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "견인차,",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 6,
+					"text": "철도",
+					"type": "",
+					"begin": 14,
+					"end": 14
+				},
+				{
+					"id": 7,
+					"text": "기관차",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "같은",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 9,
+					"text": "증기",
+					"type": "",
+					"begin": 19,
+					"end": 19
+				},
+				{
+					"id": 10,
+					"text": "견인차들과",
+					"type": "",
+					"begin": 20,
+					"end": 23
+				},
+				{
+					"id": 11,
+					"text": "같은",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 12,
+					"text": "기동",
+					"type": "",
+					"begin": 26,
+					"end": 26
+				},
+				{
+					"id": 13,
+					"text": "원동기에",
+					"type": "",
+					"begin": 27,
+					"end": 29
+				},
+				{
+					"id": 14,
+					"text": "훗날",
+					"type": "",
+					"begin": 30,
+					"end": 30
+				},
+				{
+					"id": 15,
+					"text": "사용",
+					"type": "",
+					"begin": 31,
+					"end": 31
+				},
+				{
+					"id": 16,
+					"text": "된",
+					"type": "",
+					"begin": 32,
+					"end": 33
+				},
+				{
+					"id": 17,
+					"text": "것이다.",
+					"type": "",
+					"begin": 34,
+					"end": 37
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "견인차",
+					"type": "AF_TRANSPORT",
+					"begin": 11,
+					"end": 12,
+					"weight": 0.508349,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "철도",
+					"type": "AF_TRANSPORT",
+					"begin": 14,
+					"end": 14,
+					"weight": 0.354236,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "기관차",
+					"type": "AF_TRANSPORT",
+					"begin": 15,
+					"end": 16,
+					"weight": 0.291868,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "견인차",
+					"type": "AF_TRANSPORT",
+					"begin": 20,
+					"end": 21,
+					"weight": 0.218455,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "주목할",
+					"head": 1,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.730925,
+					"mid": 125
+				},
+				{
+					"id": 1,
+					"text": "점은,",
+					"head": 16,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.718483,
+					"mid": 128
+				},
+				{
+					"id": 2,
+					"text": "이",
+					"head": 3,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.756316,
+					"mid": 130
+				},
+				{
+					"id": 3,
+					"text": "동력원이",
+					"head": 16,
+					"label": "NP_SBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.733361,
+					"mid": 128
+				},
+				{
+					"id": 4,
+					"text": "증기",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.783913,
+					"mid": 133
+				},
+				{
+					"id": 5,
+					"text": "견인차,",
+					"head": 7,
+					"label": "NP_CNJ",
+					"mod": [
+						4
+					],
+					"weight": 0.475137,
+					"mid": 135
+				},
+				{
+					"id": 6,
+					"text": "철도",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.467161,
+					"mid": 135
+				},
+				{
+					"id": 7,
+					"text": "기관차",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.537849,
+					"mid": 138
+				},
+				{
+					"id": 8,
+					"text": "같은",
+					"head": 10,
+					"label": "VP_MOD",
+					"mod": [
+						7
+					],
+					"weight": 0.397382,
+					"mid": 138
+				},
+				{
+					"id": 9,
+					"text": "증기",
+					"head": 10,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.575093,
+					"mid": 141
+				},
+				{
+					"id": 10,
+					"text": "견인차들과",
+					"head": 11,
+					"label": "NP_AJT",
+					"mod": [
+						8,
+						9
+					],
+					"weight": 0.453722,
+					"mid": 143
+				},
+				{
+					"id": 11,
+					"text": "같은",
+					"head": 13,
+					"label": "VP_MOD",
+					"mod": [
+						10
+					],
+					"weight": 0.358029,
+					"mid": 143
+				},
+				{
+					"id": 12,
+					"text": "기동",
+					"head": 13,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.771238,
+					"mid": 146
+				},
+				{
+					"id": 13,
+					"text": "원동기에",
+					"head": 16,
+					"label": "NP_AJT",
+					"mod": [
+						11,
+						12
+					],
+					"weight": 0.773869,
+					"mid": 128
+				},
+				{
+					"id": 14,
+					"text": "훗날",
+					"head": 15,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.763123,
+					"mid": 149
+				},
+				{
+					"id": 15,
+					"text": "사용",
+					"head": 16,
+					"label": "NP_CMP",
+					"mod": [
+						14
+					],
+					"weight": 0.503242,
+					"mid": 128
+				},
+				{
+					"id": 16,
+					"text": "된",
+					"head": 17,
+					"label": "VP_MOD",
+					"mod": [
+						1,
+						3,
+						13,
+						15
+					],
+					"weight": 0.862275,
+					"mid": 128
+				},
+				{
+					"id": 17,
+					"text": "것이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						16
+					],
+					"weight": 0.000156324,
+					"mid": 152
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "주목할 점은,",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "이 동력원이",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "증기 견인차, 철도 기관차",
+					"begin": 4,
+					"end": 7,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "증기 견인차",
+							"label": "NP_AJT",
+							"begin": 10,
+							"end": 12,
+							"ne_type": ""
+						},
+						{
+							"text": "철도 기관차",
+							"label": "NP_AJT",
+							"begin": 14,
+							"end": 16,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#2@AJT차 같은",
+					"begin": 4,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "P#3@MOD은 증기 견인차들과",
+					"begin": 4,
+					"end": 10,
+					"key_begin": 9,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "VP_MOD",
+					"text": "P#4@AJT과 같은",
+					"begin": 4,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "P#5@MOD은 기동 원동기에",
+					"begin": 4,
+					"end": 13,
+					"key_begin": 12,
+					"head_phrase": 8,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_CMP",
+					"text": "훗날 사용",
+					"begin": 14,
+					"end": 15,
+					"key_begin": 14,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "S_MOD",
+					"text": "P#0@SBJ은, P#1@SBJ이 P#6@AJT에 P#7@CMP사용 된",
+					"begin": 0,
+					"end": 16,
+					"key_begin": 16,
+					"head_phrase": 9,
+					"sub_phrase": [
+						0,
+						1,
+						6,
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "S",
+					"text": "S#8@MODㄴ 것이다.",
+					"begin": 0,
+					"end": 17,
+					"key_begin": 17,
+					"head_phrase": -1,
+					"sub_phrase": [
+						8
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "것",
+							"label": "NP",
+							"begin": 34,
+							"end": 34,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 35,
+							"end": 37,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "주목",
+					"sense": 1,
+					"word_id": 0,
+					"weight": 0.134731,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 1,
+							"text": "점은,",
+							"weight": 0.134731
+						}
+					]
+				},
+				{
+					"verb": "같",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.484328,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 7,
+							"text": "기관차",
+							"weight": 0.411896
+						},
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "견인차들과",
+							"weight": 0.55676
+						}
+					]
+				},
+				{
+					"verb": "같",
+					"sense": 1,
+					"word_id": 11,
+					"weight": 0.43669,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 10,
+							"text": "견인차들과",
+							"weight": 0.348887
+						},
+						{
+							"type": "ARG1",
+							"word_id": 13,
+							"text": "원동기에",
+							"weight": 0.524493
+						}
+					]
+				},
+				{
+					"verb": "되",
+					"sense": 4,
+					"word_id": 16,
+					"weight": 0.260395,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "동력원이",
+							"weight": 0.277178
+						},
+						{
+							"type": "ARG2",
+							"word_id": 13,
+							"text": "원동기에",
+							"weight": 0.268637
+						},
+						{
+							"type": "ARG1",
+							"word_id": 15,
+							"text": "사용",
+							"weight": 0.235369
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 7,
+			"text": "현대 증기 터빈들은 여러가지 열원들을 사용하여 세계에 전력의 대략 80%을 생산한다 .",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "현대",
+					"type": "NNG",
+					"position": 1122,
+					"weight": 0.25647
+				},
+				{
+					"id": 1,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1129,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "터빈",
+					"type": "NNG",
+					"position": 1136,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 1142,
+					"weight": 0.0299841
+				},
+				{
+					"id": 4,
+					"lemma": "은",
+					"type": "JX",
+					"position": 1145,
+					"weight": 0.100393
+				},
+				{
+					"id": 5,
+					"lemma": "여러",
+					"type": "MM",
+					"position": 1149,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "가지",
+					"type": "NNB",
+					"position": 1155,
+					"weight": 0.0671689
+				},
+				{
+					"id": 7,
+					"lemma": "열원",
+					"type": "NNG",
+					"position": 1162,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 1168,
+					"weight": 0.0299841
+				},
+				{
+					"id": 9,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1171,
+					"weight": 0.0819193
+				},
+				{
+					"id": 10,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 1175,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1181,
+					"weight": 0.0001
+				},
+				{
+					"id": 12,
+					"lemma": "어",
+					"type": "EC",
+					"position": 1184,
+					"weight": 0.361326
+				},
+				{
+					"id": 13,
+					"lemma": "세계",
+					"type": "NNG",
+					"position": 1188,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1194,
+					"weight": 0.153364
+				},
+				{
+					"id": 15,
+					"lemma": "전력",
+					"type": "NNG",
+					"position": 1198,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1204,
+					"weight": 0.0694213
+				},
+				{
+					"id": 17,
+					"lemma": "대략",
+					"type": "MAG",
+					"position": 1208,
+					"weight": 0.00351968
+				},
+				{
+					"id": 18,
+					"lemma": "80",
+					"type": "SN",
+					"position": 1215,
+					"weight": 1
+				},
+				{
+					"id": 19,
+					"lemma": "%",
+					"type": "SW",
+					"position": 1217,
+					"weight": 1
+				},
+				{
+					"id": 20,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1218,
+					"weight": 0.017976
+				},
+				{
+					"id": 21,
+					"lemma": "생산",
+					"type": "NNG",
+					"position": 1222,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1228,
+					"weight": 0.0001
+				},
+				{
+					"id": 23,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 1228,
+					"weight": 0.0449045
+				},
+				{
+					"id": 24,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1235,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "현대",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "증기",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "터빈들은",
+					"type": "",
+					"begin": 2,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "여러가지",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "열원들을",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "사용하여",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "세계에",
+					"type": "",
+					"begin": 13,
+					"end": 14
+				},
+				{
+					"id": 7,
+					"text": "전력의",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "대략",
+					"type": "",
+					"begin": 17,
+					"end": 17
+				},
+				{
+					"id": 9,
+					"text": "80%을",
+					"type": "",
+					"begin": 18,
+					"end": 20
+				},
+				{
+					"id": 10,
+					"text": "생산한다",
+					"type": "",
+					"begin": 21,
+					"end": 23
+				},
+				{
+					"id": 11,
+					"text": ".",
+					"type": "",
+					"begin": 24,
+					"end": 24
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "현대",
+					"type": "DT_OTHERS",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.321999,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "80%",
+					"type": "QT_PERCENTAGE",
+					"begin": 18,
+					"end": 19,
+					"weight": 0.615924,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "현대",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.17966,
+					"mid": 154
+				},
+				{
+					"id": 1,
+					"text": "증기",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.582302,
+					"mid": 156
+				},
+				{
+					"id": 2,
+					"text": "터빈들은",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.642276,
+					"mid": 158
+				},
+				{
+					"id": 3,
+					"text": "여러가지",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.416787,
+					"mid": 160
+				},
+				{
+					"id": 4,
+					"text": "열원들을",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.764656,
+					"mid": 158
+				},
+				{
+					"id": 5,
+					"text": "사용하여",
+					"head": 10,
+					"label": "VP",
+					"mod": [
+						2,
+						4
+					],
+					"weight": 0.459483,
+					"mid": 162
+				},
+				{
+					"id": 6,
+					"text": "세계에",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.549671,
+					"mid": 162
+				},
+				{
+					"id": 7,
+					"text": "전력의",
+					"head": 9,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.748056,
+					"mid": 165
+				},
+				{
+					"id": 8,
+					"text": "대략",
+					"head": 9,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.342468,
+					"mid": 165
+				},
+				{
+					"id": 9,
+					"text": "80%을",
+					"head": 10,
+					"label": "NP_OBJ",
+					"mod": [
+						7,
+						8
+					],
+					"weight": 0.706361,
+					"mid": 162
+				},
+				{
+					"id": 10,
+					"text": "생산한다",
+					"head": 11,
+					"label": "VP",
+					"mod": [
+						5,
+						6,
+						9
+					],
+					"weight": 0.610587,
+					"mid": 168
+				},
+				{
+					"id": 11,
+					"text": ".",
+					"head": -1,
+					"label": "NP",
+					"mod": [
+						10
+					],
+					"weight": 0.000413643,
+					"mid": 169
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "현대 증기 터빈들은",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_OBJ",
+					"text": "여러가지 열원들을",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@OBJ을 사용하여",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 5,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "세계에",
+					"begin": 6,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_OBJ",
+					"text": "전력의 대략 80%을",
+					"begin": 7,
+					"end": 9,
+					"key_begin": 7,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "S#2@S어 P#3@AJT에 P#4@OBJ을 생산한다",
+					"begin": 0,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 6,
+					"sub_phrase": [
+						2,
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP",
+					"text": "S#5@Sㄴ다 .",
+					"begin": 0,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": -1,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "사용",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.658585,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "열원들을",
+							"weight": 0.658585
+						}
+					]
+				},
+				{
+					"verb": "생산",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.26202,
+					"argument": [
+						{
+							"type": "ARGM-DIS",
+							"word_id": 5,
+							"text": "사용하여",
+							"weight": 0.132446
+						},
+						{
+							"type": "ARGM-LOC",
+							"word_id": 6,
+							"text": "세계에",
+							"weight": 0.266642
+						},
+						{
+							"type": "ARG1",
+							"word_id": 9,
+							"text": "80%을",
+							"weight": 0.386973
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 10,
+					"ant_sid": 7,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 8,
+			"text": "증기 기관들은 비록 태양 에너지, 원자력 또는 지열 에너지와 같은 열의 다른 외부 근원이 사용될지라도 일반적으로 외연기관이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1236,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 1243,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 1249,
+					"weight": 0.0299841
+				},
+				{
+					"id": 3,
+					"lemma": "은",
+					"type": "JX",
+					"position": 1252,
+					"weight": 0.100393
+				},
+				{
+					"id": 4,
+					"lemma": "비록",
+					"type": "MAG",
+					"position": 1256,
+					"weight": 0.126297
+				},
+				{
+					"id": 5,
+					"lemma": "태양",
+					"type": "NNG",
+					"position": 1263,
+					"weight": 0.26058
+				},
+				{
+					"id": 6,
+					"lemma": "에너지",
+					"type": "NNG",
+					"position": 1270,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1279,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "원자",
+					"type": "NNG",
+					"position": 1281,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "력",
+					"type": "XSN",
+					"position": 1287,
+					"weight": 0.0344464
+				},
+				{
+					"id": 10,
+					"lemma": "또는",
+					"type": "MAJ",
+					"position": 1291,
+					"weight": 0.000693319
+				},
+				{
+					"id": 11,
+					"lemma": "지열",
+					"type": "NNG",
+					"position": 1298,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "에너지",
+					"type": "NNG",
+					"position": 1305,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "와",
+					"type": "JKB",
+					"position": 1314,
+					"weight": 0.0567862
+				},
+				{
+					"id": 14,
+					"lemma": "같",
+					"type": "VA",
+					"position": 1318,
+					"weight": 0.0728396
+				},
+				{
+					"id": 15,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 1321,
+					"weight": 0.155123
+				},
+				{
+					"id": 16,
+					"lemma": "열",
+					"type": "NNG",
+					"position": 1325,
+					"weight": 0.11281
+				},
+				{
+					"id": 17,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1328,
+					"weight": 0.0694213
+				},
+				{
+					"id": 18,
+					"lemma": "다른",
+					"type": "MM",
+					"position": 1332,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "외부",
+					"type": "NNG",
+					"position": 1339,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "근원",
+					"type": "NNG",
+					"position": 1346,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 1352,
+					"weight": 0.0360723
+				},
+				{
+					"id": 22,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 1356,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 1362,
+					"weight": 0.000224177
+				},
+				{
+					"id": 24,
+					"lemma": "ㄹ지라도",
+					"type": "EC",
+					"position": 1362,
+					"weight": 0.368131
+				},
+				{
+					"id": 25,
+					"lemma": "일반",
+					"type": "NNG",
+					"position": 1375,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 1381,
+					"weight": 0.0168756
+				},
+				{
+					"id": 27,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 1384,
+					"weight": 0.121717
+				},
+				{
+					"id": 28,
+					"lemma": "외연",
+					"type": "NNG",
+					"position": 1391,
+					"weight": 0.9
+				},
+				{
+					"id": 29,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 1397,
+					"weight": 0.9
+				},
+				{
+					"id": 30,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 1403,
+					"weight": 0.0177525
+				},
+				{
+					"id": 31,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1406,
+					"weight": 0.353579
+				},
+				{
+					"id": 32,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1409,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "증기",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "기관들은",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "비록",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "태양",
+					"type": "",
+					"begin": 5,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "에너지,",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "원자력",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "또는",
+					"type": "",
+					"begin": 10,
+					"end": 10
+				},
+				{
+					"id": 7,
+					"text": "지열",
+					"type": "",
+					"begin": 11,
+					"end": 11
+				},
+				{
+					"id": 8,
+					"text": "에너지와",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 9,
+					"text": "같은",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 10,
+					"text": "열의",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 11,
+					"text": "다른",
+					"type": "",
+					"begin": 18,
+					"end": 18
+				},
+				{
+					"id": 12,
+					"text": "외부",
+					"type": "",
+					"begin": 19,
+					"end": 19
+				},
+				{
+					"id": 13,
+					"text": "근원이",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 14,
+					"text": "사용될지라도",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				},
+				{
+					"id": 15,
+					"text": "일반적으로",
+					"type": "",
+					"begin": 25,
+					"end": 27
+				},
+				{
+					"id": 16,
+					"text": "외연기관이다.",
+					"type": "",
+					"begin": 28,
+					"end": 32
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "태양 에너지",
+					"type": "TR_SCIENCE",
+					"begin": 5,
+					"end": 6,
+					"weight": 0.277195,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "증기",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.706909,
+					"mid": 171
+				},
+				{
+					"id": 1,
+					"text": "기관들은",
+					"head": 14,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.686283,
+					"mid": 173
+				},
+				{
+					"id": 2,
+					"text": "비록",
+					"head": 14,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.766937,
+					"mid": 173
+				},
+				{
+					"id": 3,
+					"text": "태양",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.810067,
+					"mid": 176
+				},
+				{
+					"id": 4,
+					"text": "에너지,",
+					"head": 8,
+					"label": "NP_CNJ",
+					"mod": [
+						3
+					],
+					"weight": 0.424704,
+					"mid": 178
+				},
+				{
+					"id": 5,
+					"text": "원자력",
+					"head": 8,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.391987,
+					"mid": 178
+				},
+				{
+					"id": 6,
+					"text": "또는",
+					"head": 8,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.516208,
+					"mid": 178
+				},
+				{
+					"id": 7,
+					"text": "지열",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.755155,
+					"mid": 178
+				},
+				{
+					"id": 8,
+					"text": "에너지와",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [
+						4,
+						5,
+						6,
+						7
+					],
+					"weight": 0.637374,
+					"mid": 183
+				},
+				{
+					"id": 9,
+					"text": "같은",
+					"head": 10,
+					"label": "VP_MOD",
+					"mod": [
+						8
+					],
+					"weight": 0.147414,
+					"mid": 183
+				},
+				{
+					"id": 10,
+					"text": "열의",
+					"head": 13,
+					"label": "NP_MOD",
+					"mod": [
+						9
+					],
+					"weight": 0.741701,
+					"mid": 186
+				},
+				{
+					"id": 11,
+					"text": "다른",
+					"head": 13,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.579633,
+					"mid": 186
+				},
+				{
+					"id": 12,
+					"text": "외부",
+					"head": 13,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.658863,
+					"mid": 186
+				},
+				{
+					"id": 13,
+					"text": "근원이",
+					"head": 14,
+					"label": "NP_SBJ",
+					"mod": [
+						10,
+						11,
+						12
+					],
+					"weight": 0.837795,
+					"mid": 173
+				},
+				{
+					"id": 14,
+					"text": "사용될지라도",
+					"head": 16,
+					"label": "VP",
+					"mod": [
+						1,
+						2,
+						13
+					],
+					"weight": 0.776879,
+					"mid": 190
+				},
+				{
+					"id": 15,
+					"text": "일반적으로",
+					"head": 16,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.854466,
+					"mid": 190
+				},
+				{
+					"id": 16,
+					"text": "외연기관이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						14,
+						15
+					],
+					"weight": 0.000157762,
+					"mid": 190
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "증기 기관들은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "AP",
+					"text": "비록",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "태양 에너지, 원자력 또는 지열 에너지와",
+					"begin": 3,
+					"end": 8,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "태양 에너지",
+							"label": "NP_AJT",
+							"begin": 5,
+							"end": 6,
+							"ne_type": "TR_SCIENCE"
+						},
+						{
+							"text": "원자력",
+							"label": "NP_AJT",
+							"begin": 8,
+							"end": 9,
+							"ne_type": ""
+						},
+						{
+							"text": "지열 에너지",
+							"label": "NP_AJT",
+							"begin": 11,
+							"end": 12,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#2@AJT와 같은",
+					"begin": 3,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_SBJ",
+					"text": "P#3@MOD은 열의 다른 외부 근원이",
+					"begin": 3,
+					"end": 13,
+					"key_begin": 10,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@AP비록 P#4@SBJ이 사용될지라도",
+					"begin": 0,
+					"end": 14,
+					"key_begin": 14,
+					"head_phrase": 7,
+					"sub_phrase": [
+						0,
+						1,
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "일반적으로",
+					"begin": 15,
+					"end": 15,
+					"key_begin": 15,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "S",
+					"text": "S#5@Sㄹ지라도 P#6@AJT으로 외연기관이다.",
+					"begin": 0,
+					"end": 16,
+					"key_begin": 16,
+					"head_phrase": -1,
+					"sub_phrase": [
+						5,
+						6
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "외연기관",
+							"label": "NP",
+							"begin": 28,
+							"end": 29,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 30,
+							"end": 32,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "같",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0.563012,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 8,
+							"text": "에너지와",
+							"weight": 0.511571
+						},
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "열의",
+							"weight": 0.614453
+						}
+					]
+				},
+				{
+					"verb": "사용",
+					"sense": 1,
+					"word_id": 14,
+					"weight": 0.236647,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 13,
+							"text": "근원이",
+							"weight": 0.236647
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 9,
+			"text": "동력 싸이클은 Rankine 사이클로 알려져 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "동력",
+					"type": "NNG",
+					"position": 1410,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "싸이클",
+					"type": "NNG",
+					"position": 1417,
+					"weight": 0.3
+				},
+				{
+					"id": 2,
+					"lemma": "은",
+					"type": "JX",
+					"position": 1426,
+					"weight": 0.0449928
+				},
+				{
+					"id": 3,
+					"lemma": "Rankine",
+					"type": "SL",
+					"position": 1430,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "사이클",
+					"type": "NNG",
+					"position": 1438,
+					"weight": 0.169752
+				},
+				{
+					"id": 5,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 1447,
+					"weight": 0.153229
+				},
+				{
+					"id": 6,
+					"lemma": "알려지",
+					"type": "VV",
+					"position": 1451,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "어",
+					"type": "EC",
+					"position": 1457,
+					"weight": 0.41831
+				},
+				{
+					"id": 8,
+					"lemma": "있",
+					"type": "VX",
+					"position": 1461,
+					"weight": 0.125953
+				},
+				{
+					"id": 9,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1464,
+					"weight": 0.180366
+				},
+				{
+					"id": 10,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1467,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "동력",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "싸이클은",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "Rankine",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "사이클로",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "알려져",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "있다.",
+					"type": "",
+					"begin": 8,
+					"end": 10
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "싸이클",
+					"type": "CV_SPORTS",
+					"begin": 1,
+					"end": 1,
+					"weight": 0.361228,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "사이클",
+					"type": "CV_SPORTS",
+					"begin": 4,
+					"end": 4,
+					"weight": 0.267239,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "동력",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.80156,
+					"mid": 193
+				},
+				{
+					"id": 1,
+					"text": "싸이클은",
+					"head": 4,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.766593,
+					"mid": 195
+				},
+				{
+					"id": 2,
+					"text": "Rankine",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.652114,
+					"mid": 197
+				},
+				{
+					"id": 3,
+					"text": "사이클로",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.739173,
+					"mid": 195
+				},
+				{
+					"id": 4,
+					"text": "알려져",
+					"head": 5,
+					"label": "VP",
+					"mod": [
+						1,
+						3
+					],
+					"weight": 0.773182,
+					"mid": 195
+				},
+				{
+					"id": 5,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						4
+					],
+					"weight": 0.18329,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "동력 싸이클은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "Rankine 사이클로",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@AJT로 알려져 있다.",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 4,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "알려지",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.355163,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 1,
+							"text": "싸이클은",
+							"weight": 0.279718
+						},
+						{
+							"type": "ARG2",
+							"word_id": 3,
+							"text": "사이클로",
+							"weight": 1
+						},
+						{
+							"type": "AUX",
+							"word_id": 5,
+							"text": "있다.",
+							"weight": 0.637827
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 10,
+			"text": "일반적으로, '증기 기관'이라는 용어는 통합 증기 플랜트, 즉, 철도 증기 기관차와 이동형 증기 기관을 가리킬 수도 있고, 단독 기계류, 즉, 보 엔진과 고정 증기 기관을 가리킬 수도 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "일반",
+					"type": "NNG",
+					"position": 1468,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 1474,
+					"weight": 0.0168756
+				},
+				{
+					"id": 2,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 1477,
+					"weight": 0.121717
+				},
+				{
+					"id": 3,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1483,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "'",
+					"type": "SS",
+					"position": 1485,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1486,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 1493,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "'",
+					"type": "SS",
+					"position": 1499,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 1500,
+					"weight": 0.00747344
+				},
+				{
+					"id": 9,
+					"lemma": "라는",
+					"type": "ETM",
+					"position": 1503,
+					"weight": 0.230361
+				},
+				{
+					"id": 10,
+					"lemma": "용어",
+					"type": "NNG",
+					"position": 1510,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "는",
+					"type": "JX",
+					"position": 1516,
+					"weight": 0.0287565
+				},
+				{
+					"id": 12,
+					"lemma": "통합",
+					"type": "NNG",
+					"position": 1520,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1527,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "플랜트",
+					"type": "NNG",
+					"position": 1534,
+					"weight": 0.160194
+				},
+				{
+					"id": 15,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1543,
+					"weight": 1
+				},
+				{
+					"id": 16,
+					"lemma": "즉",
+					"type": "MAJ",
+					"position": 1545,
+					"weight": 0.00801197
+				},
+				{
+					"id": 17,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1548,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "철도",
+					"type": "NNG",
+					"position": 1550,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1557,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 1564,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "차",
+					"type": "NNG",
+					"position": 1570,
+					"weight": 0.0735127
+				},
+				{
+					"id": 22,
+					"lemma": "와",
+					"type": "JC",
+					"position": 1573,
+					"weight": 0.0169714
+				},
+				{
+					"id": 23,
+					"lemma": "이동형",
+					"type": "NNP",
+					"position": 1577,
+					"weight": 0.15
+				},
+				{
+					"id": 24,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1587,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 1594,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1600,
+					"weight": 0.129611
+				},
+				{
+					"id": 27,
+					"lemma": "가리키",
+					"type": "VV",
+					"position": 1604,
+					"weight": 0.9
+				},
+				{
+					"id": 28,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 1610,
+					"weight": 0.300746
+				},
+				{
+					"id": 29,
+					"lemma": "수",
+					"type": "NNB",
+					"position": 1614,
+					"weight": 0.215617
+				},
+				{
+					"id": 30,
+					"lemma": "도",
+					"type": "JX",
+					"position": 1617,
+					"weight": 0.103448
+				},
+				{
+					"id": 31,
+					"lemma": "있",
+					"type": "VA",
+					"position": 1621,
+					"weight": 0.0558599
+				},
+				{
+					"id": 32,
+					"lemma": "고",
+					"type": "EC",
+					"position": 1624,
+					"weight": 0.310376
+				},
+				{
+					"id": 33,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1627,
+					"weight": 1
+				},
+				{
+					"id": 34,
+					"lemma": "단독",
+					"type": "NNG",
+					"position": 1629,
+					"weight": 0.9
+				},
+				{
+					"id": 35,
+					"lemma": "기계",
+					"type": "NNG",
+					"position": 1636,
+					"weight": 0.184799
+				},
+				{
+					"id": 36,
+					"lemma": "류",
+					"type": "XSN",
+					"position": 1642,
+					"weight": 0.0293167
+				},
+				{
+					"id": 37,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1645,
+					"weight": 1
+				},
+				{
+					"id": 38,
+					"lemma": "즉",
+					"type": "MAJ",
+					"position": 1647,
+					"weight": 0.00801197
+				},
+				{
+					"id": 39,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1650,
+					"weight": 1
+				},
+				{
+					"id": 40,
+					"lemma": "보",
+					"type": "NNG",
+					"position": 1652,
+					"weight": 0.00233941
+				},
+				{
+					"id": 41,
+					"lemma": "엔진",
+					"type": "NNG",
+					"position": 1656,
+					"weight": 0.9
+				},
+				{
+					"id": 42,
+					"lemma": "과",
+					"type": "JC",
+					"position": 1662,
+					"weight": 0.017569
+				},
+				{
+					"id": 43,
+					"lemma": "고정",
+					"type": "NNG",
+					"position": 1666,
+					"weight": 0.800492
+				},
+				{
+					"id": 44,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1673,
+					"weight": 0.9
+				},
+				{
+					"id": 45,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 1680,
+					"weight": 0.9
+				},
+				{
+					"id": 46,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1686,
+					"weight": 0.129611
+				},
+				{
+					"id": 47,
+					"lemma": "가리키",
+					"type": "VV",
+					"position": 1690,
+					"weight": 0.9
+				},
+				{
+					"id": 48,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 1696,
+					"weight": 0.300746
+				},
+				{
+					"id": 49,
+					"lemma": "수",
+					"type": "NNB",
+					"position": 1700,
+					"weight": 0.215617
+				},
+				{
+					"id": 50,
+					"lemma": "도",
+					"type": "JX",
+					"position": 1703,
+					"weight": 0.103448
+				},
+				{
+					"id": 51,
+					"lemma": "있",
+					"type": "VA",
+					"position": 1707,
+					"weight": 0.0558599
+				},
+				{
+					"id": 52,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1710,
+					"weight": 0.132573
+				},
+				{
+					"id": 53,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1713,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "일반적으로,",
+					"type": "",
+					"begin": 0,
+					"end": 3
+				},
+				{
+					"id": 1,
+					"text": "'증기",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "기관'이라는",
+					"type": "",
+					"begin": 6,
+					"end": 9
+				},
+				{
+					"id": 3,
+					"text": "용어는",
+					"type": "",
+					"begin": 10,
+					"end": 11
+				},
+				{
+					"id": 4,
+					"text": "통합",
+					"type": "",
+					"begin": 12,
+					"end": 12
+				},
+				{
+					"id": 5,
+					"text": "증기",
+					"type": "",
+					"begin": 13,
+					"end": 13
+				},
+				{
+					"id": 6,
+					"text": "플랜트,",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 7,
+					"text": "즉,",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 8,
+					"text": "철도",
+					"type": "",
+					"begin": 18,
+					"end": 18
+				},
+				{
+					"id": 9,
+					"text": "증기",
+					"type": "",
+					"begin": 19,
+					"end": 19
+				},
+				{
+					"id": 10,
+					"text": "기관차와",
+					"type": "",
+					"begin": 20,
+					"end": 22
+				},
+				{
+					"id": 11,
+					"text": "이동형",
+					"type": "",
+					"begin": 23,
+					"end": 23
+				},
+				{
+					"id": 12,
+					"text": "증기",
+					"type": "",
+					"begin": 24,
+					"end": 24
+				},
+				{
+					"id": 13,
+					"text": "기관을",
+					"type": "",
+					"begin": 25,
+					"end": 26
+				},
+				{
+					"id": 14,
+					"text": "가리킬",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 15,
+					"text": "수도",
+					"type": "",
+					"begin": 29,
+					"end": 30
+				},
+				{
+					"id": 16,
+					"text": "있고,",
+					"type": "",
+					"begin": 31,
+					"end": 33
+				},
+				{
+					"id": 17,
+					"text": "단독",
+					"type": "",
+					"begin": 34,
+					"end": 34
+				},
+				{
+					"id": 18,
+					"text": "기계류,",
+					"type": "",
+					"begin": 35,
+					"end": 37
+				},
+				{
+					"id": 19,
+					"text": "즉,",
+					"type": "",
+					"begin": 38,
+					"end": 39
+				},
+				{
+					"id": 20,
+					"text": "보",
+					"type": "",
+					"begin": 40,
+					"end": 40
+				},
+				{
+					"id": 21,
+					"text": "엔진과",
+					"type": "",
+					"begin": 41,
+					"end": 42
+				},
+				{
+					"id": 22,
+					"text": "고정",
+					"type": "",
+					"begin": 43,
+					"end": 43
+				},
+				{
+					"id": 23,
+					"text": "증기",
+					"type": "",
+					"begin": 44,
+					"end": 44
+				},
+				{
+					"id": 24,
+					"text": "기관을",
+					"type": "",
+					"begin": 45,
+					"end": 46
+				},
+				{
+					"id": 25,
+					"text": "가리킬",
+					"type": "",
+					"begin": 47,
+					"end": 48
+				},
+				{
+					"id": 26,
+					"text": "수도",
+					"type": "",
+					"begin": 49,
+					"end": 50
+				},
+				{
+					"id": 27,
+					"text": "있다.",
+					"type": "",
+					"begin": 51,
+					"end": 53
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "기관차",
+					"type": "AF_TRANSPORT",
+					"begin": 20,
+					"end": 21,
+					"weight": 0.71967,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "일반적으로,",
+					"head": 14,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.0211027,
+					"mid": 200
+				},
+				{
+					"id": 1,
+					"text": "'증기",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.654797,
+					"mid": 202
+				},
+				{
+					"id": 2,
+					"text": "기관'이라는",
+					"head": 3,
+					"label": "VNP_MOD",
+					"mod": [
+						1
+					],
+					"weight": 0.560172,
+					"mid": 203
+				},
+				{
+					"id": 3,
+					"text": "용어는",
+					"head": 14,
+					"label": "NP_SBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.434421,
+					"mid": 200
+				},
+				{
+					"id": 4,
+					"text": "통합",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.123865,
+					"mid": 206
+				},
+				{
+					"id": 5,
+					"text": "증기",
+					"head": 6,
+					"label": "NP",
+					"mod": [
+						4
+					],
+					"weight": 0.51604,
+					"mid": 208
+				},
+				{
+					"id": 6,
+					"text": "플랜트,",
+					"head": 13,
+					"label": "NP_CNJ",
+					"mod": [
+						5
+					],
+					"weight": 0.384134,
+					"mid": 210
+				},
+				{
+					"id": 7,
+					"text": "즉,",
+					"head": 13,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.192303,
+					"mid": 210
+				},
+				{
+					"id": 8,
+					"text": "철도",
+					"head": 9,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.119153,
+					"mid": 213
+				},
+				{
+					"id": 9,
+					"text": "증기",
+					"head": 10,
+					"label": "NP",
+					"mod": [
+						8
+					],
+					"weight": 0.745856,
+					"mid": 215
+				},
+				{
+					"id": 10,
+					"text": "기관차와",
+					"head": 13,
+					"label": "NP_CNJ",
+					"mod": [
+						9
+					],
+					"weight": 0.781028,
+					"mid": 210
+				},
+				{
+					"id": 11,
+					"text": "이동형",
+					"head": 12,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.237694,
+					"mid": 218
+				},
+				{
+					"id": 12,
+					"text": "증기",
+					"head": 13,
+					"label": "NP",
+					"mod": [
+						11
+					],
+					"weight": 0.60317,
+					"mid": 210
+				},
+				{
+					"id": 13,
+					"text": "기관을",
+					"head": 14,
+					"label": "NP_OBJ",
+					"mod": [
+						6,
+						7,
+						10,
+						12
+					],
+					"weight": 0.805682,
+					"mid": 200
+				},
+				{
+					"id": 14,
+					"text": "가리킬",
+					"head": 15,
+					"label": "VP_MOD",
+					"mod": [
+						0,
+						3,
+						13
+					],
+					"weight": 0.678277,
+					"mid": 200
+				},
+				{
+					"id": 15,
+					"text": "수도",
+					"head": 16,
+					"label": "NP_SBJ",
+					"mod": [
+						14
+					],
+					"weight": 0.749718,
+					"mid": 223
+				},
+				{
+					"id": 16,
+					"text": "있고,",
+					"head": 25,
+					"label": "VP",
+					"mod": [
+						15
+					],
+					"weight": 0.0334381,
+					"mid": 224
+				},
+				{
+					"id": 17,
+					"text": "단독",
+					"head": 18,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.706304,
+					"mid": 226
+				},
+				{
+					"id": 18,
+					"text": "기계류,",
+					"head": 24,
+					"label": "NP_CNJ",
+					"mod": [
+						17
+					],
+					"weight": 0.562931,
+					"mid": 228
+				},
+				{
+					"id": 19,
+					"text": "즉,",
+					"head": 24,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.268467,
+					"mid": 228
+				},
+				{
+					"id": 20,
+					"text": "보",
+					"head": 21,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.646562,
+					"mid": 231
+				},
+				{
+					"id": 21,
+					"text": "엔진과",
+					"head": 24,
+					"label": "NP_CNJ",
+					"mod": [
+						20
+					],
+					"weight": 0.750623,
+					"mid": 228
+				},
+				{
+					"id": 22,
+					"text": "고정",
+					"head": 23,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.420284,
+					"mid": 234
+				},
+				{
+					"id": 23,
+					"text": "증기",
+					"head": 24,
+					"label": "NP",
+					"mod": [
+						22
+					],
+					"weight": 0.649477,
+					"mid": 228
+				},
+				{
+					"id": 24,
+					"text": "기관을",
+					"head": 25,
+					"label": "NP_OBJ",
+					"mod": [
+						18,
+						19,
+						21,
+						23
+					],
+					"weight": 0.808448,
+					"mid": 224
+				},
+				{
+					"id": 25,
+					"text": "가리킬",
+					"head": 26,
+					"label": "VP_MOD",
+					"mod": [
+						16,
+						24
+					],
+					"weight": 0.783674,
+					"mid": 224
+				},
+				{
+					"id": 26,
+					"text": "수도",
+					"head": 27,
+					"label": "NP_SBJ",
+					"mod": [
+						25
+					],
+					"weight": 0.654963,
+					"mid": 238
+				},
+				{
+					"id": 27,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						26
+					],
+					"weight": 9.02564e-12,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "일반적으로,",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VNP_MOD",
+					"text": "'증기 기관'이라는",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "P#1@MOD라는 용어는",
+					"begin": 1,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_OBJ",
+					"text": "통합 증기 플랜트, 즉, 철도 증기 기관차와 이동형 증기 기관을",
+					"begin": 4,
+					"end": 13,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "통합 증기 플랜트",
+							"label": "NP_OBJ",
+							"begin": 12,
+							"end": 14,
+							"ne_type": ""
+						},
+						{
+							"text": "즉",
+							"label": "NP_OBJ",
+							"begin": 16,
+							"end": 16,
+							"ne_type": ""
+						},
+						{
+							"text": "철도 증기 기관차",
+							"label": "NP_OBJ",
+							"begin": 18,
+							"end": 21,
+							"ne_type": ""
+						},
+						{
+							"text": "이동형 증기 기관",
+							"label": "NP_OBJ",
+							"begin": 23,
+							"end": 25,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 4,
+					"label": "S_MOD",
+					"text": "P#0@AJT으로, P#2@SBJ는 P#3@OBJ을 가리킬",
+					"begin": 0,
+					"end": 14,
+					"key_begin": 14,
+					"head_phrase": 5,
+					"sub_phrase": [
+						0,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_SBJ",
+					"text": "S#4@MODㄹ 수도",
+					"begin": 0,
+					"end": 15,
+					"key_begin": 15,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#5@SBJ도 있고,",
+					"begin": 0,
+					"end": 16,
+					"key_begin": 16,
+					"head_phrase": 8,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_OBJ",
+					"text": "단독 기계류, 즉, 보 엔진과 고정 증기 기관을",
+					"begin": 17,
+					"end": 24,
+					"key_begin": 17,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "단독 기계류",
+							"label": "NP_OBJ",
+							"begin": 34,
+							"end": 36,
+							"ne_type": ""
+						},
+						{
+							"text": "즉",
+							"label": "NP_OBJ",
+							"begin": 38,
+							"end": 38,
+							"ne_type": ""
+						},
+						{
+							"text": "보 엔진",
+							"label": "NP_OBJ",
+							"begin": 40,
+							"end": 41,
+							"ne_type": ""
+						},
+						{
+							"text": "고정 증기 기관",
+							"label": "NP_OBJ",
+							"begin": 43,
+							"end": 45,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 8,
+					"label": "S_MOD",
+					"text": "S#6@S고, P#7@OBJ을 가리킬",
+					"begin": 0,
+					"end": 25,
+					"key_begin": 25,
+					"head_phrase": 9,
+					"sub_phrase": [
+						6,
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "NP_SBJ",
+					"text": "S#8@MODㄹ 수도",
+					"begin": 0,
+					"end": 26,
+					"key_begin": 26,
+					"head_phrase": 10,
+					"sub_phrase": [
+						8
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "S",
+					"text": "P#9@SBJ도 있다.",
+					"begin": 0,
+					"end": 27,
+					"key_begin": 27,
+					"head_phrase": -1,
+					"sub_phrase": [
+						9
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "가리키",
+					"sense": 1,
+					"word_id": 14,
+					"weight": 0.375677,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 13,
+							"text": "기관을",
+							"weight": 0.389535
+						},
+						{
+							"type": "AUX",
+							"word_id": 16,
+							"text": "있고,",
+							"weight": 0.36182
+						}
+					]
+				},
+				{
+					"verb": "가리키",
+					"sense": 1,
+					"word_id": 25,
+					"weight": 0.442304,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 24,
+							"text": "기관을",
+							"weight": 0.448781
+						},
+						{
+							"type": "AUX",
+							"word_id": 27,
+							"text": "있다.",
+							"weight": 0.435827
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 25,
+					"ant_sid": 10,
+					"ant_wid": 3,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 11,
+			"text": "증기 해머와 증기 파일 드라이버들과 같은 전문화된 장치들은 독립된 보일러로부터 공급된 증기를 사용한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1714,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "해머",
+					"type": "NNP",
+					"position": 1721,
+					"weight": 0.00125356
+				},
+				{
+					"id": 2,
+					"lemma": "와",
+					"type": "JC",
+					"position": 1727,
+					"weight": 0.0104534
+				},
+				{
+					"id": 3,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1731,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "파일",
+					"type": "NNG",
+					"position": 1738,
+					"weight": 0.182515
+				},
+				{
+					"id": 5,
+					"lemma": "드라이버",
+					"type": "NNG",
+					"position": 1745,
+					"weight": 0.178466
+				},
+				{
+					"id": 6,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 1757,
+					"weight": 0.0299841
+				},
+				{
+					"id": 7,
+					"lemma": "과",
+					"type": "JKB",
+					"position": 1760,
+					"weight": 0.0399165
+				},
+				{
+					"id": 8,
+					"lemma": "같",
+					"type": "VA",
+					"position": 1764,
+					"weight": 0.0728396
+				},
+				{
+					"id": 9,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 1767,
+					"weight": 0.155123
+				},
+				{
+					"id": 10,
+					"lemma": "전문",
+					"type": "NNG",
+					"position": 1771,
+					"weight": 0.657846
+				},
+				{
+					"id": 11,
+					"lemma": "화",
+					"type": "XSN",
+					"position": 1777,
+					"weight": 0.0240371
+				},
+				{
+					"id": 12,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 1780,
+					"weight": 0.000260989
+				},
+				{
+					"id": 13,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1780,
+					"weight": 0.392321
+				},
+				{
+					"id": 14,
+					"lemma": "장치",
+					"type": "NNG",
+					"position": 1784,
+					"weight": 0.658694
+				},
+				{
+					"id": 15,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 1790,
+					"weight": 0.0299841
+				},
+				{
+					"id": 16,
+					"lemma": "은",
+					"type": "JX",
+					"position": 1793,
+					"weight": 0.100393
+				},
+				{
+					"id": 17,
+					"lemma": "독립",
+					"type": "NNG",
+					"position": 1797,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 1803,
+					"weight": 0.000224177
+				},
+				{
+					"id": 19,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1803,
+					"weight": 0.392321
+				},
+				{
+					"id": 20,
+					"lemma": "보일러",
+					"type": "NNG",
+					"position": 1807,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "로부터",
+					"type": "JKB",
+					"position": 1816,
+					"weight": 0.151826
+				},
+				{
+					"id": 22,
+					"lemma": "공급",
+					"type": "NNG",
+					"position": 1826,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 1832,
+					"weight": 0.000224177
+				},
+				{
+					"id": 24,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 1832,
+					"weight": 0.392321
+				},
+				{
+					"id": 25,
+					"lemma": "증기",
+					"type": "NNG",
+					"position": 1836,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 1842,
+					"weight": 0.137686
+				},
+				{
+					"id": 27,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 1846,
+					"weight": 0.9
+				},
+				{
+					"id": 28,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1852,
+					"weight": 0.0001
+				},
+				{
+					"id": 29,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 1852,
+					"weight": 0.0449045
+				},
+				{
+					"id": 30,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1858,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "증기",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "해머와",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "증기",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "파일",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 4,
+					"text": "드라이버들과",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "같은",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "전문화된",
+					"type": "",
+					"begin": 10,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "장치들은",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "독립된",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "보일러로부터",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 10,
+					"text": "공급된",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				},
+				{
+					"id": 11,
+					"text": "증기를",
+					"type": "",
+					"begin": 25,
+					"end": 26
+				},
+				{
+					"id": 12,
+					"text": "사용한다.",
+					"type": "",
+					"begin": 27,
+					"end": 30
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "증기",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.476229,
+					"mid": 240
+				},
+				{
+					"id": 1,
+					"text": "해머와",
+					"head": 4,
+					"label": "NP_CNJ",
+					"mod": [
+						0
+					],
+					"weight": 0.645365,
+					"mid": 242
+				},
+				{
+					"id": 2,
+					"text": "증기",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.539403,
+					"mid": 244
+				},
+				{
+					"id": 3,
+					"text": "파일",
+					"head": 4,
+					"label": "NP",
+					"mod": [
+						2
+					],
+					"weight": 0.762926,
+					"mid": 242
+				},
+				{
+					"id": 4,
+					"text": "드라이버들과",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						1,
+						3
+					],
+					"weight": 0.685345,
+					"mid": 247
+				},
+				{
+					"id": 5,
+					"text": "같은",
+					"head": 7,
+					"label": "VP_MOD",
+					"mod": [
+						4
+					],
+					"weight": 0.784001,
+					"mid": 247
+				},
+				{
+					"id": 6,
+					"text": "전문화된",
+					"head": 7,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.629591,
+					"mid": 249
+				},
+				{
+					"id": 7,
+					"text": "장치들은",
+					"head": 12,
+					"label": "NP_SBJ",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.760075,
+					"mid": 251
+				},
+				{
+					"id": 8,
+					"text": "독립된",
+					"head": 9,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.432458,
+					"mid": 252
+				},
+				{
+					"id": 9,
+					"text": "보일러로부터",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [
+						8
+					],
+					"weight": 0.508155,
+					"mid": 255
+				},
+				{
+					"id": 10,
+					"text": "공급된",
+					"head": 11,
+					"label": "VP_MOD",
+					"mod": [
+						9
+					],
+					"weight": 0.823555,
+					"mid": 255
+				},
+				{
+					"id": 11,
+					"text": "증기를",
+					"head": 12,
+					"label": "NP_OBJ",
+					"mod": [
+						10
+					],
+					"weight": 0.821518,
+					"mid": 257
+				},
+				{
+					"id": 12,
+					"text": "사용한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						7,
+						11
+					],
+					"weight": 0.00423533,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "증기 해머와 증기 파일 드라이버들과",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "증기 해머",
+							"label": "NP_AJT",
+							"begin": 0,
+							"end": 1,
+							"ne_type": ""
+						},
+						{
+							"text": "증기 파일 드라이버들",
+							"label": "NP_AJT",
+							"begin": 3,
+							"end": 6,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 1,
+					"label": "VP_MOD",
+					"text": "P#0@AJT과 같은",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 2,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "P#1@MOD은 전문화된 장치들은",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 6,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "독립된 보일러로부터",
+					"begin": 8,
+					"end": 9,
+					"key_begin": 8,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "VP_MOD",
+					"text": "P#3@AJT로부터 공급된",
+					"begin": 8,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_OBJ",
+					"text": "P#4@MODㄴ 증기를",
+					"begin": 8,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#2@SBJ은 P#5@OBJ를 사용한다.",
+					"begin": 0,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": -1,
+					"sub_phrase": [
+						2,
+						5
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "같",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.513892,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 4,
+							"text": "드라이버들과",
+							"weight": 0.323608
+						},
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "장치들은",
+							"weight": 0.704177
+						}
+					]
+				},
+				{
+					"verb": "전문",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.221401,
+					"argument": [
+						{
+							"type": "ARGM-DIS",
+							"word_id": 5,
+							"text": "같은",
+							"weight": 0.133525
+						},
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "장치들은",
+							"weight": 0.309278
+						}
+					]
+				},
+				{
+					"verb": "독립",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.343153,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 9,
+							"text": "보일러로부터",
+							"weight": 0.343153
+						}
+					]
+				},
+				{
+					"verb": "공급",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.23484,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 9,
+							"text": "보일러로부터",
+							"weight": 0.267668
+						},
+						{
+							"type": "ARG1",
+							"word_id": 11,
+							"text": "증기를",
+							"weight": 0.202012
+						}
+					]
+				},
+				{
+					"verb": "사용",
+					"sense": 1,
+					"word_id": 12,
+					"weight": 0.387187,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 11,
+							"text": "증기를",
+							"weight": 0.387187
+						}
+					]
+				}
+			],
+			"ZA": []
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "증기 기관",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "증기 기관",
+					"ne_id": -1
+				},
+				{
+					"id": 2,
+					"text": "증기 기관蒸氣機關",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "증기 기관蒸氣機關",
+					"ne_id": -1
+				},
+				{
+					"id": 6,
+					"text": "수증기의 열에너지를 기계적인 일로 바꾸는 장치이다",
+					"sent_id": 1,
+					"start_eid": 4,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "장치이다",
+					"ne_id": -1
+				},
+				{
+					"id": 87,
+					"text": "증기 기관이라는 용어",
+					"sent_id": 10,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "용어",
+					"ne_id": -1
+				},
+				{
+					"id": 88,
+					"text": "증기 기관이라는",
+					"sent_id": 10,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "증기 기관이라는",
+					"ne_id": -1
+				},
+				{
+					"id": 90,
+					"text": "통합 증기 플랜트 즉 철도 증기 기관차와 이동형 증기 기관",
+					"sent_id": 10,
+					"start_eid": 4,
+					"end_eid": 13,
+					"start_eid_short": 11,
+					"end_eid_short": 13,
+					"text_short": "이동형 증기 기관",
+					"ne_id": -1
+				},
+				{
+					"id": 99,
+					"text": "단독 기계류 즉 보 엔진과 고정 증기 기관",
+					"sent_id": 10,
+					"start_eid": 17,
+					"end_eid": 24,
+					"start_eid_short": 22,
+					"end_eid_short": 24,
+					"text_short": "고정 증기 기관",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "외연 열기관",
+					"sent_id": 1,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "외연 열기관",
+					"ne_id": -1
+				},
+				{
+					"id": 82,
+					"text": "외연기관이다",
+					"sent_id": 8,
+					"start_eid": 16,
+					"end_eid": 16,
+					"start_eid_short": 16,
+					"end_eid_short": 16,
+					"text_short": "외연기관이다",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 5,
+					"text": "외연",
+					"sent_id": 1,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "외연",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "수증기의 열에너지",
+					"sent_id": 1,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "수증기의 열에너지",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 8,
+					"text": "수증기",
+					"sent_id": 1,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "수증기",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 9,
+					"text": "기계적인 일",
+					"sent_id": 1,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "일",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 10,
+					"text": "1705년",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "1705년",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "CV_OCCUPATION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 12,
+					"text": "영국의 발명가",
+					"sent_id": 2,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "영국의 발명가",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "영국",
+					"sent_id": 2,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "영국",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "PS_NAME",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 11,
+					"text": "영국의 발명가 토머스 뉴커먼",
+					"sent_id": 2,
+					"start_eid": 1,
+					"end_eid": 4,
+					"start_eid_short": 1,
+					"end_eid_short": 4,
+					"text_short": "영국의 발명가 토머스 뉴커먼",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "1769년",
+					"sent_id": 2,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "1769년",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "PS_NAME",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 15,
+					"text": "제임스 와트",
+					"sent_id": 2,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "제임스 와트",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 17,
+					"text": "끓는 물을 이용하는 아이디어",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "아이디어",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 18,
+					"text": "끓는 물",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "물",
+					"ne_id": -1
+				},
+				{
+					"id": 48,
+					"text": "물",
+					"sent_id": 5,
+					"start_eid": 14,
+					"end_eid": 14,
+					"start_eid_short": 14,
+					"end_eid_short": 14,
+					"text_short": "물",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 16,
+					"text": "기계작동",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "기계작동",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 19,
+					"text": "2000년의 오랜 역사",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 8,
+					"start_eid_short": 6,
+					"end_eid_short": 8,
+					"text_short": "2000년의 오랜 역사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "DT_DURATION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 20,
+					"text": "2000년",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "2000년",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "초기 장치들",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "초기 장치들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 22,
+					"text": "초기",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "초기",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "실용적인 동력 발생로들",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "동력 발생로들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 25,
+					"text": "설계",
+					"sent_id": 4,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "설계",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "DT_DURATION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 27,
+					"text": "지난 300년동안",
+					"sent_id": 4,
+					"start_eid": 15,
+					"end_eid": 16,
+					"start_eid_short": 16,
+					"end_eid_short": 16,
+					"text_short": "300년동안",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 24,
+					"text": "동력",
+					"sent_id": 4,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "동력",
+					"ne_id": -1
+				},
+				{
+					"id": 26,
+					"text": "동력",
+					"sent_id": 4,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "동력",
+					"ne_id": -1
+				},
+				{
+					"id": 29,
+					"text": "기계 동력",
+					"sent_id": 4,
+					"start_eid": 17,
+					"end_eid": 18,
+					"start_eid_short": 17,
+					"end_eid_short": 18,
+					"text_short": "기계 동력",
+					"ne_id": -1
+				},
+				{
+					"id": 53,
+					"text": "동력",
+					"sent_id": 5,
+					"start_eid": 27,
+					"end_eid": 27,
+					"start_eid_short": 27,
+					"end_eid_short": 27,
+					"text_short": "동력",
+					"ne_id": -1
+				},
+				{
+					"id": 84,
+					"text": "동력",
+					"sent_id": 9,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "동력",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 30,
+					"text": "기계",
+					"sent_id": 4,
+					"start_eid": 17,
+					"end_eid": 17,
+					"start_eid_short": 17,
+					"end_eid_short": 17,
+					"text_short": "기계",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 28,
+					"text": "기계 동력의 주요한 근원",
+					"sent_id": 4,
+					"start_eid": 17,
+					"end_eid": 20,
+					"start_eid_short": 20,
+					"end_eid_short": 20,
+					"text_short": "근원",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 32,
+					"text": "최초",
+					"sent_id": 4,
+					"start_eid": 22,
+					"end_eid": 22,
+					"start_eid_short": 22,
+					"end_eid_short": 22,
+					"text_short": "최초",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 33,
+					"text": "응용",
+					"sent_id": 4,
+					"start_eid": 23,
+					"end_eid": 23,
+					"start_eid_short": 23,
+					"end_eid_short": 23,
+					"text_short": "응용",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "진공 엔진을 이용한 갱내 배수이었다",
+					"sent_id": 4,
+					"start_eid": 25,
+					"end_eid": 29,
+					"start_eid_short": 28,
+					"end_eid_short": 29,
+					"text_short": "갱내 배수이었다",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 28,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "진공",
+					"sent_id": 4,
+					"start_eid": 25,
+					"end_eid": 25,
+					"start_eid_short": 25,
+					"end_eid_short": 25,
+					"text_short": "진공",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 29,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 37,
+					"text": "갱내",
+					"sent_id": 4,
+					"start_eid": 28,
+					"end_eid": 28,
+					"start_eid_short": 28,
+					"end_eid_short": 28,
+					"text_short": "갱내",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 30,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 38,
+					"text": "이후의 발전형",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "이후의 발전형",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 31,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 40,
+					"text": "가압",
+					"sent_id": 5,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "가압",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 32,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 41,
+					"text": "회전 운동",
+					"sent_id": 5,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "회전 운동",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 33,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 42,
+					"text": "회전",
+					"sent_id": 5,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "회전",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 34,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 43,
+					"text": "수차나 풍차 위치의 제한",
+					"sent_id": 5,
+					"start_eid": 9,
+					"end_eid": 12,
+					"start_eid_short": 10,
+					"end_eid_short": 12,
+					"text_short": "풍차 위치의 제한",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 35,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 44,
+					"text": "수차",
+					"sent_id": 5,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "수차",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 36,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 45,
+					"text": "풍차",
+					"sent_id": 5,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "풍차",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 37,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 46,
+					"text": "위치",
+					"sent_id": 5,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "위치",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 38,
+			"type": "MT_ROCK",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 47,
+					"text": "물과 석탄 또는 나무 연료",
+					"sent_id": 5,
+					"start_eid": 14,
+					"end_eid": 18,
+					"start_eid_short": 15,
+					"end_eid_short": 18,
+					"text_short": "석탄 또는 나무 연료",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 39,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 49,
+					"text": "석탄",
+					"sent_id": 5,
+					"start_eid": 15,
+					"end_eid": 15,
+					"start_eid_short": 15,
+					"end_eid_short": 15,
+					"text_short": "석탄",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 40,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 50,
+					"text": "나무",
+					"sent_id": 5,
+					"start_eid": 17,
+					"end_eid": 17,
+					"start_eid_short": 17,
+					"end_eid_short": 17,
+					"text_short": "나무",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 41,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 52,
+					"text": "기계장치",
+					"sent_id": 5,
+					"start_eid": 25,
+					"end_eid": 25,
+					"start_eid_short": 25,
+					"end_eid_short": 25,
+					"text_short": "기계장치",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 42,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 51,
+					"text": "기계장치의 광범위한 동력 사용",
+					"sent_id": 5,
+					"start_eid": 25,
+					"end_eid": 28,
+					"start_eid_short": 27,
+					"end_eid_short": 28,
+					"text_short": "동력 사용",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 43,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 54,
+					"text": "주목할 점",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "점",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 44,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 55,
+					"text": "이 동력원",
+					"sent_id": 6,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "이 동력원",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 45,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 56,
+					"text": "증기 견인차 철도 기관차 같은 증기 견인차들과 같은 기동 원동기",
+					"sent_id": 6,
+					"start_eid": 4,
+					"end_eid": 13,
+					"start_eid_short": 12,
+					"end_eid_short": 13,
+					"text_short": "기동 원동기",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 46,
+			"type": "AF_TRANSPORT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 57,
+					"text": "증기 견인차",
+					"sent_id": 6,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "증기 견인차",
+					"ne_id": 3
+				},
+				{
+					"id": 61,
+					"text": "증기 견인차들",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 10,
+					"start_eid_short": 9,
+					"end_eid_short": 10,
+					"text_short": "증기 견인차들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 47,
+			"type": "AF_TRANSPORT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 60,
+					"text": "철도",
+					"sent_id": 6,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "철도",
+					"ne_id": 1
+				},
+				{
+					"id": 95,
+					"text": "철도",
+					"sent_id": 10,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "철도",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 48,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 63,
+					"text": "기동",
+					"sent_id": 6,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "기동",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 49,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 64,
+					"text": "현대",
+					"sent_id": 7,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "현대",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 50,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 65,
+					"text": "증기 터빈들",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "증기 터빈들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 51,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 67,
+					"text": "여러가지 열원들",
+					"sent_id": 7,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "여러가지 열원들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 52,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 68,
+					"text": "여러가지",
+					"sent_id": 7,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "여러가지",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 53,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 69,
+					"text": "세계",
+					"sent_id": 7,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "세계",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 54,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 71,
+					"text": "전력",
+					"sent_id": 7,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "전력",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 55,
+			"type": "QT_PERCENTAGE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 70,
+					"text": "전력의 대략 80",
+					"sent_id": 7,
+					"start_eid": 7,
+					"end_eid": 9,
+					"start_eid_short": 7,
+					"end_eid_short": 9,
+					"text_short": "전력의 대략 80",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 56,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 72,
+					"text": "증기 기관들",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "증기 기관들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 57,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 75,
+					"text": "태양 에너지 원자력 또는 지열 에너지와 같은 열",
+					"sent_id": 8,
+					"start_eid": 3,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "열",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 58,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 78,
+					"text": "지열 에너지",
+					"sent_id": 8,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "지열 에너지",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 59,
+			"type": "TR_SCIENCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 76,
+					"text": "태양 에너지",
+					"sent_id": 8,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "태양 에너지",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 60,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 77,
+					"text": "원자력",
+					"sent_id": 8,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "원자력",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 61,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 79,
+					"text": "지열",
+					"sent_id": 8,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "지열",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 62,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 80,
+					"text": "외부",
+					"sent_id": 8,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "외부",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 63,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 81,
+					"text": "일반적",
+					"sent_id": 8,
+					"start_eid": 15,
+					"end_eid": 15,
+					"start_eid_short": 15,
+					"end_eid_short": 15,
+					"text_short": "일반적",
+					"ne_id": -1
+				},
+				{
+					"id": 86,
+					"text": "일반적",
+					"sent_id": 10,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "일반적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 64,
+			"type": "CV_SPORTS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 83,
+					"text": "동력 싸이클",
+					"sent_id": 9,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "동력 싸이클",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 65,
+			"type": "CV_SPORTS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 85,
+					"text": "Rankine 사이클",
+					"sent_id": 9,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "Rankine 사이클",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 66,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 92,
+					"text": "통합",
+					"sent_id": 10,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "통합",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 67,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 97,
+					"text": "이동형",
+					"sent_id": 10,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "이동형",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 68,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 100,
+					"text": "단독 기계류",
+					"sent_id": 10,
+					"start_eid": 17,
+					"end_eid": 18,
+					"start_eid_short": 17,
+					"end_eid_short": 18,
+					"text_short": "단독 기계류",
+					"ne_id": -1
+				},
+				{
+					"id": 101,
+					"text": "단독",
+					"sent_id": 10,
+					"start_eid": 17,
+					"end_eid": 17,
+					"start_eid_short": 17,
+					"end_eid_short": 17,
+					"text_short": "단독",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 69,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 103,
+					"text": "보",
+					"sent_id": 10,
+					"start_eid": 20,
+					"end_eid": 20,
+					"start_eid_short": 20,
+					"end_eid_short": 20,
+					"text_short": "보",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 70,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 1,
+					"text": "증기",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 3,
+					"text": "증기",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 39,
+					"text": "가압 증기",
+					"sent_id": 5,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "가압 증기",
+					"ne_id": -1
+				},
+				{
+					"id": 58,
+					"text": "증기",
+					"sent_id": 6,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 62,
+					"text": "증기",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 66,
+					"text": "증기",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 73,
+					"text": "증기",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 89,
+					"text": "증기",
+					"sent_id": 10,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 93,
+					"text": "증기",
+					"sent_id": 10,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 96,
+					"text": "증기",
+					"sent_id": 10,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 98,
+					"text": "증기",
+					"sent_id": 10,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 105,
+					"text": "증기",
+					"sent_id": 10,
+					"start_eid": 23,
+					"end_eid": 23,
+					"start_eid_short": 23,
+					"end_eid_short": 23,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 108,
+					"text": "증기",
+					"sent_id": 11,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 111,
+					"text": "증기",
+					"sent_id": 11,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "증기",
+					"ne_id": -1
+				},
+				{
+					"id": 112,
+					"text": "독립된 보일러로부터 공급된 증기",
+					"sent_id": 11,
+					"start_eid": 8,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "증기",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 71,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 104,
+					"text": "고정",
+					"sent_id": 10,
+					"start_eid": 22,
+					"end_eid": 22,
+					"start_eid_short": 22,
+					"end_eid_short": 22,
+					"text_short": "고정",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 72,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 107,
+					"text": "증기 해머",
+					"sent_id": 11,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "증기 해머",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 73,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 109,
+					"text": "증기 파일 드라이버들",
+					"sent_id": 11,
+					"start_eid": 2,
+					"end_eid": 4,
+					"start_eid_short": 2,
+					"end_eid_short": 4,
+					"text_short": "증기 파일 드라이버들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 74,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 110,
+					"text": "증기 파일",
+					"sent_id": 11,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "증기 파일",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 75,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 113,
+					"text": "보일러",
+					"sent_id": 11,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "보일러",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 76,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 31,
+					"text": "최초의 응용 예",
+					"sent_id": 4,
+					"start_eid": 22,
+					"end_eid": 24,
+					"start_eid_short": 22,
+					"end_eid_short": 24,
+					"text_short": "최초의 응용 예",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 77,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 106,
+					"text": "증기 해머와 증기 파일 드라이버들과 같은 전문화된 장치들",
+					"sent_id": 11,
+					"start_eid": 0,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "장치들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 78,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 74,
+					"text": "태양 에너지 원자력 또는 지열 에너지와 같은 열의 다른 외부 근원",
+					"sent_id": 8,
+					"start_eid": 3,
+					"end_eid": 13,
+					"start_eid_short": 10,
+					"end_eid_short": 13,
+					"text_short": "열의 다른 외부 근원",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 79,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "진공 엔진",
+					"sent_id": 4,
+					"start_eid": 25,
+					"end_eid": 26,
+					"start_eid_short": 25,
+					"end_eid_short": 26,
+					"text_short": "진공 엔진",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 80,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 102,
+					"text": "보 엔진",
+					"sent_id": 10,
+					"start_eid": 20,
+					"end_eid": 21,
+					"start_eid_short": 20,
+					"end_eid_short": 21,
+					"text_short": "보 엔진",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 81,
+			"type": "AF_TRANSPORT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 59,
+					"text": "철도 기관차",
+					"sent_id": 6,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "철도 기관차",
+					"ne_id": 2
+				},
+				{
+					"id": 94,
+					"text": "철도 증기 기관차",
+					"sent_id": 10,
+					"start_eid": 8,
+					"end_eid": 10,
+					"start_eid_short": 8,
+					"end_eid_short": 10,
+					"text_short": "철도 증기 기관차",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 82,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 91,
+					"text": "통합 증기 플랜트",
+					"sent_id": 10,
+					"start_eid": 4,
+					"end_eid": 6,
+					"start_eid_short": 4,
+					"end_eid_short": 6,
+					"text_short": "통합 증기 플랜트",
+					"ne_id": -1
+				}
+			]
+		}
+	]
+}

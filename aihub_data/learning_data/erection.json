@@ -1,0 +1,4603 @@
+{
+	"title": {
+		"text": "건설",
+		"NE": "CV_LAW"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 6,
+		"num_word": 71
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "건설",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "건설",
+					"type": "NNG",
+					"position": 0,
+					"weight": 0.9
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "건설",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "건설",
+					"type": "AF_BUILDING",
+					"begin": 0,
+					"end": 0,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "건설",
+					"head": -1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.863996,
+					"mid": 0
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "건설",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "thumb 건설(建設)은 건축(architecture)과 토목(civil engineering)의 총칭으로, 보통 건물을 짓거나 만들거나 하는 일이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "thumb",
+					"type": "SL",
+					"position": 6,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "건설",
+					"type": "NNG",
+					"position": 12,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "(",
+					"type": "SS",
+					"position": 18,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": "建設",
+					"type": "SH",
+					"position": 19,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": ")",
+					"type": "SS",
+					"position": 25,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "은",
+					"type": "JX",
+					"position": 26,
+					"weight": 0.0128817
+				},
+				{
+					"id": 6,
+					"lemma": "건축",
+					"type": "NNG",
+					"position": 30,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "(",
+					"type": "SS",
+					"position": 36,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "architecture",
+					"type": "SL",
+					"position": 37,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": ")",
+					"type": "SS",
+					"position": 49,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": "과",
+					"type": "JC",
+					"position": 50,
+					"weight": 0.00441114
+				},
+				{
+					"id": 11,
+					"lemma": "토목",
+					"type": "NNG",
+					"position": 54,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "(",
+					"type": "SS",
+					"position": 60,
+					"weight": 1
+				},
+				{
+					"id": 13,
+					"lemma": "civil",
+					"type": "SL",
+					"position": 61,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": "engineering",
+					"type": "SL",
+					"position": 67,
+					"weight": 1
+				},
+				{
+					"id": 15,
+					"lemma": ")",
+					"type": "SS",
+					"position": 78,
+					"weight": 1
+				},
+				{
+					"id": 16,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 79,
+					"weight": 0.0878251
+				},
+				{
+					"id": 17,
+					"lemma": "총칭",
+					"type": "NNG",
+					"position": 83,
+					"weight": 0.75
+				},
+				{
+					"id": 18,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 89,
+					"weight": 0.153406
+				},
+				{
+					"id": 19,
+					"lemma": ",",
+					"type": "SP",
+					"position": 95,
+					"weight": 1
+				},
+				{
+					"id": 20,
+					"lemma": "보통",
+					"type": "NNG",
+					"position": 97,
+					"weight": 0.359365
+				},
+				{
+					"id": 21,
+					"lemma": "건물",
+					"type": "NNG",
+					"position": 104,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 110,
+					"weight": 0.129611
+				},
+				{
+					"id": 23,
+					"lemma": "짓",
+					"type": "VV",
+					"position": 114,
+					"weight": 0.634592
+				},
+				{
+					"id": 24,
+					"lemma": "거나",
+					"type": "EC",
+					"position": 117,
+					"weight": 0.421781
+				},
+				{
+					"id": 25,
+					"lemma": "만들",
+					"type": "VV",
+					"position": 124,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "거나",
+					"type": "EC",
+					"position": 130,
+					"weight": 0.421781
+				},
+				{
+					"id": 27,
+					"lemma": "하",
+					"type": "VV",
+					"position": 137,
+					"weight": 0.140183
+				},
+				{
+					"id": 28,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 140,
+					"weight": 0.184941
+				},
+				{
+					"id": 29,
+					"lemma": "일",
+					"type": "NNG",
+					"position": 144,
+					"weight": 0.421798
+				},
+				{
+					"id": 30,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 147,
+					"weight": 0.0177525
+				},
+				{
+					"id": 31,
+					"lemma": "다",
+					"type": "EF",
+					"position": 150,
+					"weight": 0.353579
+				},
+				{
+					"id": 32,
+					"lemma": ".",
+					"type": "SF",
+					"position": 153,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "thumb",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "건설(建設)은",
+					"type": "",
+					"begin": 1,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "건축(architecture)과",
+					"type": "",
+					"begin": 6,
+					"end": 10
+				},
+				{
+					"id": 3,
+					"text": "토목(civil",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 4,
+					"text": "engineering)의",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 5,
+					"text": "총칭으로,",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 6,
+					"text": "보통",
+					"type": "",
+					"begin": 20,
+					"end": 20
+				},
+				{
+					"id": 7,
+					"text": "건물을",
+					"type": "",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 8,
+					"text": "짓거나",
+					"type": "",
+					"begin": 23,
+					"end": 24
+				},
+				{
+					"id": 9,
+					"text": "만들거나",
+					"type": "",
+					"begin": 25,
+					"end": 26
+				},
+				{
+					"id": 10,
+					"text": "하는",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 11,
+					"text": "일이다.",
+					"type": "",
+					"begin": 29,
+					"end": 32
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "thumb",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.685218,
+					"mid": 2
+				},
+				{
+					"id": 1,
+					"text": "건설(建設)은",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.815413,
+					"mid": 4
+				},
+				{
+					"id": 2,
+					"text": "건축(architecture)과",
+					"head": 4,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.721093,
+					"mid": 6
+				},
+				{
+					"id": 3,
+					"text": "토목(civil",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.880011,
+					"mid": 6
+				},
+				{
+					"id": 4,
+					"text": "engineering)의",
+					"head": 5,
+					"label": "NP_MOD",
+					"mod": [
+						2,
+						3
+					],
+					"weight": 0.643352,
+					"mid": 4
+				},
+				{
+					"id": 5,
+					"text": "총칭으로,",
+					"head": 11,
+					"label": "NP_AJT",
+					"mod": [
+						1,
+						4
+					],
+					"weight": 0.86708,
+					"mid": 10
+				},
+				{
+					"id": 6,
+					"text": "보통",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.137262,
+					"mid": 12
+				},
+				{
+					"id": 7,
+					"text": "건물을",
+					"head": 8,
+					"label": "NP_OBJ",
+					"mod": [
+						6
+					],
+					"weight": 0.795046,
+					"mid": 14
+				},
+				{
+					"id": 8,
+					"text": "짓거나",
+					"head": 9,
+					"label": "VP",
+					"mod": [
+						7
+					],
+					"weight": 0.846602,
+					"mid": 15
+				},
+				{
+					"id": 9,
+					"text": "만들거나",
+					"head": 10,
+					"label": "VP",
+					"mod": [
+						8
+					],
+					"weight": 0.569363,
+					"mid": 16
+				},
+				{
+					"id": 10,
+					"text": "하는",
+					"head": 11,
+					"label": "VP_MOD",
+					"mod": [
+						9
+					],
+					"weight": 0.80787,
+					"mid": 16
+				},
+				{
+					"id": 11,
+					"text": "일이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						5,
+						10
+					],
+					"weight": 0.0064025,
+					"mid": 10
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "thumb 건설(建設)은",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "S_AJT",
+					"text": "P#0@SBJ은 건축(architecture)과 토목(civil engineering)의 총칭으로,",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 2,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "보통 건물을",
+					"begin": 6,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#2@OBJ을 짓거나 만들거나 하는",
+					"begin": 6,
+					"end": 10,
+					"key_begin": 8,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "S#1@AJT으로, P#3@MOD는 일이다.",
+					"begin": 0,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": -1,
+					"sub_phrase": [
+						1,
+						3
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "일",
+							"label": "NP",
+							"begin": 29,
+							"end": 29,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 30,
+							"end": 32,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "짓",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.273223,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "건물을",
+							"weight": 0.273223
+						}
+					]
+				},
+				{
+					"verb": "만들",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0.107078,
+					"argument": [
+						{
+							"type": "ARGM-MNR",
+							"word_id": 8,
+							"text": "짓거나",
+							"weight": 0.107078
+						}
+					]
+				},
+				{
+					"verb": "하",
+					"sense": 4,
+					"word_id": 10,
+					"weight": 0,
+					"argument": []
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 8,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 9,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 2,
+					"type": "s",
+					"head_wid": 9,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 2,
+			"text": "토목건축(土木建築)이라고도 하며, 줄여서 토건이라는 말도 쓰인다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "토목",
+					"type": "NNG",
+					"position": 154,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "건축",
+					"type": "NNG",
+					"position": 160,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "(",
+					"type": "SS",
+					"position": 166,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": "土木建築",
+					"type": "SH",
+					"position": 167,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": ")",
+					"type": "SS",
+					"position": 179,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "이라고",
+					"type": "JKQ",
+					"position": 180,
+					"weight": 0.0202133
+				},
+				{
+					"id": 6,
+					"lemma": "도",
+					"type": "JX",
+					"position": 189,
+					"weight": 0.0188913
+				},
+				{
+					"id": 7,
+					"lemma": "하",
+					"type": "VV",
+					"position": 193,
+					"weight": 0.0910671
+				},
+				{
+					"id": 8,
+					"lemma": "며",
+					"type": "EC",
+					"position": 196,
+					"weight": 0.429701
+				},
+				{
+					"id": 9,
+					"lemma": ",",
+					"type": "SP",
+					"position": 199,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": "줄이",
+					"type": "VV",
+					"position": 201,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "어서",
+					"type": "EC",
+					"position": 204,
+					"weight": 0.421998
+				},
+				{
+					"id": 12,
+					"lemma": "토건",
+					"type": "NNG",
+					"position": 211,
+					"weight": 0.5
+				},
+				{
+					"id": 13,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 217,
+					"weight": 0.0177525
+				},
+				{
+					"id": 14,
+					"lemma": "라는",
+					"type": "ETM",
+					"position": 220,
+					"weight": 0.230361
+				},
+				{
+					"id": 15,
+					"lemma": "말",
+					"type": "NNG",
+					"position": 227,
+					"weight": 0.528926
+				},
+				{
+					"id": 16,
+					"lemma": "도",
+					"type": "JX",
+					"position": 230,
+					"weight": 0.0676272
+				},
+				{
+					"id": 17,
+					"lemma": "쓰이",
+					"type": "VV",
+					"position": 234,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 237,
+					"weight": 0.0793196
+				},
+				{
+					"id": 19,
+					"lemma": ".",
+					"type": "SF",
+					"position": 243,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "토목건축(土木建築)이라고도",
+					"type": "",
+					"begin": 0,
+					"end": 6
+				},
+				{
+					"id": 1,
+					"text": "하며,",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 2,
+					"text": "줄여서",
+					"type": "",
+					"begin": 10,
+					"end": 11
+				},
+				{
+					"id": 3,
+					"text": "토건이라는",
+					"type": "",
+					"begin": 12,
+					"end": 14
+				},
+				{
+					"id": 4,
+					"text": "말도",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 5,
+					"text": "쓰인다.",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "土木建築",
+					"type": "AF_BUILDING",
+					"begin": 3,
+					"end": 3,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "토목건축(土木建築)이라고도",
+					"head": 1,
+					"label": "VNP_CMP",
+					"mod": [],
+					"weight": 0.687404,
+					"mid": 19
+				},
+				{
+					"id": 1,
+					"text": "하며,",
+					"head": 2,
+					"label": "VP",
+					"mod": [
+						0
+					],
+					"weight": 0.621176,
+					"mid": 20
+				},
+				{
+					"id": 2,
+					"text": "줄여서",
+					"head": 5,
+					"label": "VP",
+					"mod": [
+						1
+					],
+					"weight": 0.582993,
+					"mid": 20
+				},
+				{
+					"id": 3,
+					"text": "토건이라는",
+					"head": 4,
+					"label": "VNP_MOD",
+					"mod": [],
+					"weight": 0.57262,
+					"mid": 22
+				},
+				{
+					"id": 4,
+					"text": "말도",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.138503,
+					"mid": 23
+				},
+				{
+					"id": 5,
+					"text": "쓰인다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						2,
+						4
+					],
+					"weight": 0.0153692,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "VNP_CMP",
+					"text": "토목건축(土木建築)이라고도",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP",
+					"text": "P#0@CMP도 하며, 줄여서",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "토건이라는 말도",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#1@VP어서 P#2@SBJ도 쓰인다.",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": -1,
+					"sub_phrase": [
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "하",
+					"sense": 2,
+					"word_id": 1,
+					"weight": 0.396805,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 0,
+							"text": "토목건축(土木建築)이라고도",
+							"weight": 1
+						}
+					]
+				},
+				{
+					"verb": "줄이",
+					"sense": 1,
+					"word_id": 2,
+					"weight": 0,
+					"argument": []
+				},
+				{
+					"verb": "쓰이",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.370708,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "말도",
+							"weight": 0.370708
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 0,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 2,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 2,
+					"type": "o",
+					"head_wid": 2,
+					"ant_sid": 2,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 3,
+					"type": "s",
+					"head_wid": 3,
+					"ant_sid": 2,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "대한민국 건설산업기본법 상으로는 \"건설공사\"라는 용어를 쓴다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "대한민국",
+					"type": "NNP",
+					"position": 244,
+					"weight": 0.0891175
+				},
+				{
+					"id": 1,
+					"lemma": "건설",
+					"type": "NNG",
+					"position": 257,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "산업",
+					"type": "NNG",
+					"position": 263,
+					"weight": 0.184753
+				},
+				{
+					"id": 3,
+					"lemma": "기본",
+					"type": "NNG",
+					"position": 269,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "법",
+					"type": "NNG",
+					"position": 275,
+					"weight": 0.11676
+				},
+				{
+					"id": 5,
+					"lemma": "상",
+					"type": "XSN",
+					"position": 279,
+					"weight": 0.0188915
+				},
+				{
+					"id": 6,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 282,
+					"weight": 0.121717
+				},
+				{
+					"id": 7,
+					"lemma": "는",
+					"type": "JX",
+					"position": 288,
+					"weight": 0.0387928
+				},
+				{
+					"id": 8,
+					"lemma": "\"",
+					"type": "SS",
+					"position": 292,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "건설",
+					"type": "NNG",
+					"position": 293,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 299,
+					"weight": 0.184722
+				},
+				{
+					"id": 11,
+					"lemma": "\"",
+					"type": "SS",
+					"position": 305,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 306,
+					"weight": 0.00747344
+				},
+				{
+					"id": 13,
+					"lemma": "라는",
+					"type": "ETM",
+					"position": 306,
+					"weight": 0.230361
+				},
+				{
+					"id": 14,
+					"lemma": "용어",
+					"type": "NNG",
+					"position": 313,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 319,
+					"weight": 0.137686
+				},
+				{
+					"id": 16,
+					"lemma": "쓰",
+					"type": "VV",
+					"position": 323,
+					"weight": 0.772556
+				},
+				{
+					"id": 17,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 323,
+					"weight": 0.0793196
+				},
+				{
+					"id": 18,
+					"lemma": ".",
+					"type": "SF",
+					"position": 329,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "대한민국",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "건설산업기본법",
+					"type": "",
+					"begin": 1,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"text": "상으로는",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 3,
+					"text": "\"건설공사\"라는",
+					"type": "",
+					"begin": 8,
+					"end": 13
+				},
+				{
+					"id": 4,
+					"text": "용어를",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 5,
+					"text": "쓴다.",
+					"type": "",
+					"begin": 16,
+					"end": 18
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "대한민국",
+					"type": "LCP_COUNTRY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.503902,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "건설산업기본법",
+					"type": "CV_LAW",
+					"begin": 1,
+					"end": 4,
+					"weight": 0.868925,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "대한민국",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.793366,
+					"mid": 25
+				},
+				{
+					"id": 1,
+					"text": "건설산업기본법",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.784851,
+					"mid": 27
+				},
+				{
+					"id": 2,
+					"text": "상으로는",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						1
+					],
+					"weight": 0.663831,
+					"mid": 28
+				},
+				{
+					"id": 3,
+					"text": "\"건설공사\"라는",
+					"head": 4,
+					"label": "VNP_MOD",
+					"mod": [],
+					"weight": 0.392251,
+					"mid": 30
+				},
+				{
+					"id": 4,
+					"text": "용어를",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.79766,
+					"mid": 31
+				},
+				{
+					"id": 5,
+					"text": "쓴다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						2,
+						4
+					],
+					"weight": 0.104265,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "대한민국 건설산업기본법 상으로는",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_OBJ",
+					"text": "\"건설공사\"라는 용어를",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP",
+					"text": "P#0@AJT는 P#1@OBJ를 쓴다.",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "쓰",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.328637,
+					"argument": [
+						{
+							"type": "ARGM-CND",
+							"word_id": 2,
+							"text": "상으로는",
+							"weight": 0.145961
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "용어를",
+							"weight": 0.511313
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 4,
+			"text": "건설공사란 토목공사, 건축공사, 산업설비공사, 조경공사, 환경시설공사, 그 밖에 명칭에 관계없이 시설물을 설치ㆍ유지ㆍ보수하는공사(시설물을 설치하기 위한 부지조성공사를 포함한다) 및 기계설비나 그 밖의 구조물의 설치 및 해체공사 등을 말한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "건설",
+					"type": "NNG",
+					"position": 330,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 336,
+					"weight": 0.184722
+				},
+				{
+					"id": 2,
+					"lemma": "란",
+					"type": "JX",
+					"position": 342,
+					"weight": 0.018041
+				},
+				{
+					"id": 3,
+					"lemma": "토목",
+					"type": "NNG",
+					"position": 346,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 352,
+					"weight": 0.184722
+				},
+				{
+					"id": 5,
+					"lemma": ",",
+					"type": "SP",
+					"position": 358,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "건축",
+					"type": "NNG",
+					"position": 360,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 366,
+					"weight": 0.184722
+				},
+				{
+					"id": 8,
+					"lemma": ",",
+					"type": "SP",
+					"position": 372,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "산업",
+					"type": "NNG",
+					"position": 374,
+					"weight": 0.53135
+				},
+				{
+					"id": 10,
+					"lemma": "설비",
+					"type": "NNG",
+					"position": 380,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 386,
+					"weight": 0.184722
+				},
+				{
+					"id": 12,
+					"lemma": ",",
+					"type": "SP",
+					"position": 392,
+					"weight": 1
+				},
+				{
+					"id": 13,
+					"lemma": "조경",
+					"type": "NNG",
+					"position": 394,
+					"weight": 0.50093
+				},
+				{
+					"id": 14,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 400,
+					"weight": 0.184722
+				},
+				{
+					"id": 15,
+					"lemma": ",",
+					"type": "SP",
+					"position": 406,
+					"weight": 1
+				},
+				{
+					"id": 16,
+					"lemma": "환경",
+					"type": "NNG",
+					"position": 408,
+					"weight": 0.531505
+				},
+				{
+					"id": 17,
+					"lemma": "시설",
+					"type": "NNG",
+					"position": 414,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 420,
+					"weight": 0.184722
+				},
+				{
+					"id": 19,
+					"lemma": ",",
+					"type": "SP",
+					"position": 426,
+					"weight": 1
+				},
+				{
+					"id": 20,
+					"lemma": "그",
+					"type": "MM",
+					"position": 428,
+					"weight": 0.0224513
+				},
+				{
+					"id": 21,
+					"lemma": "밖",
+					"type": "NNG",
+					"position": 432,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 435,
+					"weight": 0.153364
+				},
+				{
+					"id": 23,
+					"lemma": "명칭",
+					"type": "NNG",
+					"position": 439,
+					"weight": 0.9
+				},
+				{
+					"id": 24,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 445,
+					"weight": 0.153364
+				},
+				{
+					"id": 25,
+					"lemma": "관계없이",
+					"type": "MAG",
+					"position": 449,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "시설",
+					"type": "NNG",
+					"position": 462,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "물",
+					"type": "XSN",
+					"position": 468,
+					"weight": 0.00142289
+				},
+				{
+					"id": 28,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 471,
+					"weight": 0.0819193
+				},
+				{
+					"id": 29,
+					"lemma": "설치",
+					"type": "NNG",
+					"position": 475,
+					"weight": 0.0749782
+				},
+				{
+					"id": 30,
+					"lemma": "ㆍ",
+					"type": "SP",
+					"position": 481,
+					"weight": 1
+				},
+				{
+					"id": 31,
+					"lemma": "유지",
+					"type": "NNG",
+					"position": 484,
+					"weight": 0.454224
+				},
+				{
+					"id": 32,
+					"lemma": "ㆍ",
+					"type": "SP",
+					"position": 490,
+					"weight": 1
+				},
+				{
+					"id": 33,
+					"lemma": "보수",
+					"type": "NNG",
+					"position": 493,
+					"weight": 0.53108
+				},
+				{
+					"id": 34,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 499,
+					"weight": 0.0001
+				},
+				{
+					"id": 35,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 502,
+					"weight": 0.238503
+				},
+				{
+					"id": 36,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 505,
+					"weight": 0.65842
+				},
+				{
+					"id": 37,
+					"lemma": "(",
+					"type": "SS",
+					"position": 511,
+					"weight": 1
+				},
+				{
+					"id": 38,
+					"lemma": "시설",
+					"type": "NNG",
+					"position": 512,
+					"weight": 0.9
+				},
+				{
+					"id": 39,
+					"lemma": "물",
+					"type": "XSN",
+					"position": 518,
+					"weight": 0.00142289
+				},
+				{
+					"id": 40,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 521,
+					"weight": 0.0819193
+				},
+				{
+					"id": 41,
+					"lemma": "설치",
+					"type": "NNG",
+					"position": 525,
+					"weight": 0.0749782
+				},
+				{
+					"id": 42,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 531,
+					"weight": 0.0001
+				},
+				{
+					"id": 43,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 534,
+					"weight": 0.0556099
+				},
+				{
+					"id": 44,
+					"lemma": "위하",
+					"type": "VV",
+					"position": 538,
+					"weight": 0.176484
+				},
+				{
+					"id": 45,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 541,
+					"weight": 0.304215
+				},
+				{
+					"id": 46,
+					"lemma": "부지",
+					"type": "NNG",
+					"position": 545,
+					"weight": 0.9
+				},
+				{
+					"id": 47,
+					"lemma": "조성",
+					"type": "NNG",
+					"position": 551,
+					"weight": 0.9
+				},
+				{
+					"id": 48,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 557,
+					"weight": 0.184722
+				},
+				{
+					"id": 49,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 563,
+					"weight": 0.137686
+				},
+				{
+					"id": 50,
+					"lemma": "포함",
+					"type": "NNG",
+					"position": 567,
+					"weight": 0.9
+				},
+				{
+					"id": 51,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 573,
+					"weight": 0.0001
+				},
+				{
+					"id": 52,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 573,
+					"weight": 0.0449045
+				},
+				{
+					"id": 53,
+					"lemma": ")",
+					"type": "SS",
+					"position": 579,
+					"weight": 1
+				},
+				{
+					"id": 54,
+					"lemma": "및",
+					"type": "MAJ",
+					"position": 581,
+					"weight": 0.00376688
+				},
+				{
+					"id": 55,
+					"lemma": "기계",
+					"type": "NNG",
+					"position": 585,
+					"weight": 0.413657
+				},
+				{
+					"id": 56,
+					"lemma": "설비",
+					"type": "NNG",
+					"position": 591,
+					"weight": 0.9
+				},
+				{
+					"id": 57,
+					"lemma": "나",
+					"type": "JC",
+					"position": 597,
+					"weight": 0.00543468
+				},
+				{
+					"id": 58,
+					"lemma": "그",
+					"type": "MM",
+					"position": 601,
+					"weight": 0.00897022
+				},
+				{
+					"id": 59,
+					"lemma": "밖",
+					"type": "NNG",
+					"position": 605,
+					"weight": 0.9
+				},
+				{
+					"id": 60,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 608,
+					"weight": 0.0694213
+				},
+				{
+					"id": 61,
+					"lemma": "구조",
+					"type": "NNG",
+					"position": 612,
+					"weight": 0.9
+				},
+				{
+					"id": 62,
+					"lemma": "물",
+					"type": "XSN",
+					"position": 618,
+					"weight": 0.00142289
+				},
+				{
+					"id": 63,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 621,
+					"weight": 0.120732
+				},
+				{
+					"id": 64,
+					"lemma": "설치",
+					"type": "NNG",
+					"position": 625,
+					"weight": 0.644354
+				},
+				{
+					"id": 65,
+					"lemma": "및",
+					"type": "MAJ",
+					"position": 632,
+					"weight": 0.00215414
+				},
+				{
+					"id": 66,
+					"lemma": "해체",
+					"type": "NNG",
+					"position": 636,
+					"weight": 0.9
+				},
+				{
+					"id": 67,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 642,
+					"weight": 0.184722
+				},
+				{
+					"id": 68,
+					"lemma": "등",
+					"type": "NNB",
+					"position": 649,
+					"weight": 0.0146757
+				},
+				{
+					"id": 69,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 652,
+					"weight": 0.0630104
+				},
+				{
+					"id": 70,
+					"lemma": "말",
+					"type": "NNG",
+					"position": 656,
+					"weight": 0.0814073
+				},
+				{
+					"id": 71,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 659,
+					"weight": 0.0001
+				},
+				{
+					"id": 72,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 659,
+					"weight": 0.0449045
+				},
+				{
+					"id": 73,
+					"lemma": ".",
+					"type": "SF",
+					"position": 665,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "건설공사란",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "토목공사,",
+					"type": "",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "건축공사,",
+					"type": "",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 3,
+					"text": "산업설비공사,",
+					"type": "",
+					"begin": 9,
+					"end": 12
+				},
+				{
+					"id": 4,
+					"text": "조경공사,",
+					"type": "",
+					"begin": 13,
+					"end": 15
+				},
+				{
+					"id": 5,
+					"text": "환경시설공사,",
+					"type": "",
+					"begin": 16,
+					"end": 19
+				},
+				{
+					"id": 6,
+					"text": "그",
+					"type": "",
+					"begin": 20,
+					"end": 20
+				},
+				{
+					"id": 7,
+					"text": "밖에",
+					"type": "",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 8,
+					"text": "명칭에",
+					"type": "",
+					"begin": 23,
+					"end": 24
+				},
+				{
+					"id": 9,
+					"text": "관계없이",
+					"type": "",
+					"begin": 25,
+					"end": 25
+				},
+				{
+					"id": 10,
+					"text": "시설물을",
+					"type": "",
+					"begin": 26,
+					"end": 28
+				},
+				{
+					"id": 11,
+					"text": "설치ㆍ유지ㆍ보수하는공사(시설물을",
+					"type": "",
+					"begin": 29,
+					"end": 40
+				},
+				{
+					"id": 12,
+					"text": "설치하기",
+					"type": "",
+					"begin": 41,
+					"end": 43
+				},
+				{
+					"id": 13,
+					"text": "위한",
+					"type": "",
+					"begin": 44,
+					"end": 45
+				},
+				{
+					"id": 14,
+					"text": "부지조성공사를",
+					"type": "",
+					"begin": 46,
+					"end": 49
+				},
+				{
+					"id": 15,
+					"text": "포함한다)",
+					"type": "",
+					"begin": 50,
+					"end": 53
+				},
+				{
+					"id": 16,
+					"text": "및",
+					"type": "",
+					"begin": 54,
+					"end": 54
+				},
+				{
+					"id": 17,
+					"text": "기계설비나",
+					"type": "",
+					"begin": 55,
+					"end": 57
+				},
+				{
+					"id": 18,
+					"text": "그",
+					"type": "",
+					"begin": 58,
+					"end": 58
+				},
+				{
+					"id": 19,
+					"text": "밖의",
+					"type": "",
+					"begin": 59,
+					"end": 60
+				},
+				{
+					"id": 20,
+					"text": "구조물의",
+					"type": "",
+					"begin": 61,
+					"end": 63
+				},
+				{
+					"id": 21,
+					"text": "설치",
+					"type": "",
+					"begin": 64,
+					"end": 64
+				},
+				{
+					"id": 22,
+					"text": "및",
+					"type": "",
+					"begin": 65,
+					"end": 65
+				},
+				{
+					"id": 23,
+					"text": "해체공사",
+					"type": "",
+					"begin": 66,
+					"end": 67
+				},
+				{
+					"id": 24,
+					"text": "등을",
+					"type": "",
+					"begin": 68,
+					"end": 69
+				},
+				{
+					"id": 25,
+					"text": "말한다.",
+					"type": "",
+					"begin": 70,
+					"end": 73
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "조경공사",
+					"type": "OGG_ECONOMY",
+					"begin": 13,
+					"end": 14,
+					"weight": 0.271989,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "환경시설공사",
+					"type": "OGG_POLITICS",
+					"begin": 16,
+					"end": 18,
+					"weight": 0.715643,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "건설공사란",
+					"head": 25,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.695742,
+					"mid": 32
+				},
+				{
+					"id": 1,
+					"text": "토목공사,",
+					"head": 5,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.696858,
+					"mid": 34
+				},
+				{
+					"id": 2,
+					"text": "건축공사,",
+					"head": 5,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.702294,
+					"mid": 34
+				},
+				{
+					"id": 3,
+					"text": "산업설비공사,",
+					"head": 5,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.688088,
+					"mid": 34
+				},
+				{
+					"id": 4,
+					"text": "조경공사,",
+					"head": 5,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.634203,
+					"mid": 34
+				},
+				{
+					"id": 5,
+					"text": "환경시설공사,",
+					"head": 25,
+					"label": "NP_AJT",
+					"mod": [
+						1,
+						2,
+						3,
+						4
+					],
+					"weight": 0.0555792,
+					"mid": 38
+				},
+				{
+					"id": 6,
+					"text": "그",
+					"head": 7,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.750749,
+					"mid": 40
+				},
+				{
+					"id": 7,
+					"text": "밖에",
+					"head": 25,
+					"label": "NP_AJT",
+					"mod": [
+						6
+					],
+					"weight": 0.767949,
+					"mid": 41
+				},
+				{
+					"id": 8,
+					"text": "명칭에",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.196455,
+					"mid": 43
+				},
+				{
+					"id": 9,
+					"text": "관계없이",
+					"head": 25,
+					"label": "AP",
+					"mod": [
+						8
+					],
+					"weight": 0.786496,
+					"mid": 43
+				},
+				{
+					"id": 10,
+					"text": "시설물을",
+					"head": 25,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.769245,
+					"mid": 44
+				},
+				{
+					"id": 11,
+					"text": "설치ㆍ유지ㆍ보수하는공사(시설물을",
+					"head": 12,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.575113,
+					"mid": 46
+				},
+				{
+					"id": 12,
+					"text": "설치하기",
+					"head": 13,
+					"label": "VP_OBJ",
+					"mod": [
+						11
+					],
+					"weight": 0.441761,
+					"mid": 46
+				},
+				{
+					"id": 13,
+					"text": "위한",
+					"head": 14,
+					"label": "VP_MOD",
+					"mod": [
+						12
+					],
+					"weight": 0.678149,
+					"mid": -2
+				},
+				{
+					"id": 14,
+					"text": "부지조성공사를",
+					"head": 15,
+					"label": "NP_OBJ",
+					"mod": [
+						13
+					],
+					"weight": 0.531365,
+					"mid": 49
+				},
+				{
+					"id": 15,
+					"text": "포함한다)",
+					"head": 23,
+					"label": "NP_CNJ",
+					"mod": [
+						14
+					],
+					"weight": 0.495467,
+					"mid": 51
+				},
+				{
+					"id": 16,
+					"text": "및",
+					"head": 23,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.147779,
+					"mid": 51
+				},
+				{
+					"id": 17,
+					"text": "기계설비나",
+					"head": 20,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.346205,
+					"mid": 54
+				},
+				{
+					"id": 18,
+					"text": "그",
+					"head": 19,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.645989,
+					"mid": 56
+				},
+				{
+					"id": 19,
+					"text": "밖의",
+					"head": 20,
+					"label": "NP_MOD",
+					"mod": [
+						18
+					],
+					"weight": 0.0931322,
+					"mid": 54
+				},
+				{
+					"id": 20,
+					"text": "구조물의",
+					"head": 21,
+					"label": "NP_MOD",
+					"mod": [
+						17,
+						19
+					],
+					"weight": 0.047912,
+					"mid": 59
+				},
+				{
+					"id": 21,
+					"text": "설치",
+					"head": 23,
+					"label": "NP_CNJ",
+					"mod": [
+						20
+					],
+					"weight": 0.387798,
+					"mid": 51
+				},
+				{
+					"id": 22,
+					"text": "및",
+					"head": 23,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.668051,
+					"mid": 51
+				},
+				{
+					"id": 23,
+					"text": "해체공사",
+					"head": 24,
+					"label": "NP",
+					"mod": [
+						15,
+						16,
+						21,
+						22
+					],
+					"weight": 0.641228,
+					"mid": 63
+				},
+				{
+					"id": 24,
+					"text": "등을",
+					"head": 25,
+					"label": "NP_OBJ",
+					"mod": [
+						23
+					],
+					"weight": 0.785169,
+					"mid": 64
+				},
+				{
+					"id": 25,
+					"text": "말한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						0,
+						5,
+						7,
+						9,
+						10,
+						24
+					],
+					"weight": 4.44712e-10,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "건설공사란",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "토목공사, 건축공사, 산업설비공사, 조경공사, 환경시설공사,",
+					"begin": 1,
+					"end": 5,
+					"key_begin": 1,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "토목공사",
+							"label": "NP_AJT",
+							"begin": 3,
+							"end": 4,
+							"ne_type": ""
+						},
+						{
+							"text": "건축공사",
+							"label": "NP_AJT",
+							"begin": 6,
+							"end": 7,
+							"ne_type": ""
+						},
+						{
+							"text": "산업설비공사",
+							"label": "NP_AJT",
+							"begin": 9,
+							"end": 11,
+							"ne_type": ""
+						},
+						{
+							"text": "조경공사",
+							"label": "NP_AJT",
+							"begin": 13,
+							"end": 14,
+							"ne_type": "OGG_ECONOMY"
+						},
+						{
+							"text": "환경시설공사",
+							"label": "NP_AJT",
+							"begin": 16,
+							"end": 18,
+							"ne_type": "OGG_POLITICS"
+						}
+					]
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "그 밖에",
+					"begin": 6,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "명칭에",
+					"begin": 8,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "AP",
+					"text": "P#3@AJT에 관계없이",
+					"begin": 8,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 7,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_OBJ",
+					"text": "시설물을",
+					"begin": 10,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_OBJ",
+					"text": "설치ㆍ유지ㆍ보수하는공사(시설물을 설치하기 위한 부지조성공사를 포함한다) 및 기계설비나 그 밖의 구조물의 설치 및 해체공사 등을",
+					"begin": 11,
+					"end": 24,
+					"key_begin": 11,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "설치ㆍ유지ㆍ보수하는공사(시설물을 설치하기 위한 부지조성공사를 포함한다)",
+							"label": "NP_OBJ",
+							"begin": 29,
+							"end": 53,
+							"ne_type": ""
+						},
+						{
+							"text": "기계설비나 그 밖의 구조물의 설치",
+							"label": "NP_OBJ",
+							"begin": 55,
+							"end": 64,
+							"ne_type": ""
+						},
+						{
+							"text": "해체공사",
+							"label": "NP_OBJ",
+							"begin": 66,
+							"end": 67,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 7,
+					"label": "S",
+					"text": "P#0@SBJ란 P#1@AJT공사, P#2@AJT에 P#4@AP관계없이 P#5@OBJ을 P#6@OBJ을 말한다.",
+					"begin": 0,
+					"end": 25,
+					"key_begin": 25,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1,
+						2,
+						4,
+						5,
+						6
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "설치",
+					"sense": 1,
+					"word_id": 11,
+					"weight": 0,
+					"argument": []
+				},
+				{
+					"verb": "설치",
+					"sense": 1,
+					"word_id": 12,
+					"weight": 0.216404,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 11,
+							"text": "설치ㆍ유지ㆍ보수하는공사(시설물을",
+							"weight": 0.216404
+						}
+					]
+				},
+				{
+					"verb": "위하",
+					"sense": 1,
+					"word_id": 13,
+					"weight": 0.293235,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 12,
+							"text": "설치하기",
+							"weight": 0.230171
+						},
+						{
+							"type": "ARG0",
+							"word_id": 14,
+							"text": "부지조성공사를",
+							"weight": 0.356299
+						}
+					]
+				},
+				{
+					"verb": "포함",
+					"sense": 1,
+					"word_id": 15,
+					"weight": 0.000212942,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 14,
+							"text": "부지조성공사를",
+							"weight": 0.000212942
+						}
+					]
+				},
+				{
+					"verb": "말",
+					"sense": 1,
+					"word_id": 25,
+					"weight": 0.410049,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 24,
+							"text": "등을",
+							"weight": 0.410049
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 12,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 5,
+			"text": "다만, 「전기공사업법」에 따른 전기공사,  「정보통신공사업법」에 따른 정보통신공사, 「소방시설공사업법」에 따른 소방시설공사, 「문화재 수리 등에 관한 법률」에 따른 문화재 수리공사는 포함하지 아니한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "다만",
+					"type": "MAG",
+					"position": 666,
+					"weight": 0.0633512
+				},
+				{
+					"id": 1,
+					"lemma": ",",
+					"type": "SP",
+					"position": 672,
+					"weight": 1
+				},
+				{
+					"id": 2,
+					"lemma": "「",
+					"type": "SS",
+					"position": 674,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": "전기",
+					"type": "NNG",
+					"position": 677,
+					"weight": 0.199043
+				},
+				{
+					"id": 4,
+					"lemma": "공사업법",
+					"type": "NNP",
+					"position": 683,
+					"weight": 0.6
+				},
+				{
+					"id": 5,
+					"lemma": "」",
+					"type": "SS",
+					"position": 695,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 698,
+					"weight": 0.048593
+				},
+				{
+					"id": 7,
+					"lemma": "따르",
+					"type": "VV",
+					"position": 702,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 705,
+					"weight": 0.304215
+				},
+				{
+					"id": 9,
+					"lemma": "전기",
+					"type": "NNG",
+					"position": 709,
+					"weight": 0.655686
+				},
+				{
+					"id": 10,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 715,
+					"weight": 0.184722
+				},
+				{
+					"id": 11,
+					"lemma": ",",
+					"type": "SP",
+					"position": 721,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "「",
+					"type": "SS",
+					"position": 724,
+					"weight": 1
+				},
+				{
+					"id": 13,
+					"lemma": "정보",
+					"type": "NNG",
+					"position": 727,
+					"weight": 0.198911
+				},
+				{
+					"id": 14,
+					"lemma": "통신",
+					"type": "NNG",
+					"position": 733,
+					"weight": 0.184787
+				},
+				{
+					"id": 15,
+					"lemma": "공사업법",
+					"type": "NNP",
+					"position": 739,
+					"weight": 0.6
+				},
+				{
+					"id": 16,
+					"lemma": "」",
+					"type": "SS",
+					"position": 751,
+					"weight": 1
+				},
+				{
+					"id": 17,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 754,
+					"weight": 0.048593
+				},
+				{
+					"id": 18,
+					"lemma": "따르",
+					"type": "VV",
+					"position": 758,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 761,
+					"weight": 0.304215
+				},
+				{
+					"id": 20,
+					"lemma": "정보",
+					"type": "NNG",
+					"position": 765,
+					"weight": 0.65525
+				},
+				{
+					"id": 21,
+					"lemma": "통신",
+					"type": "NNG",
+					"position": 771,
+					"weight": 0.184787
+				},
+				{
+					"id": 22,
+					"lemma": "공",
+					"type": "XSN",
+					"position": 777,
+					"weight": 0.00025927
+				},
+				{
+					"id": 23,
+					"lemma": "사",
+					"type": "NNG",
+					"position": 780,
+					"weight": 0.0231032
+				},
+				{
+					"id": 24,
+					"lemma": ",",
+					"type": "SP",
+					"position": 783,
+					"weight": 1
+				},
+				{
+					"id": 25,
+					"lemma": "「",
+					"type": "SS",
+					"position": 785,
+					"weight": 1
+				},
+				{
+					"id": 26,
+					"lemma": "소방",
+					"type": "NNG",
+					"position": 788,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "시설공",
+					"type": "NNP",
+					"position": 794,
+					"weight": 0.6
+				},
+				{
+					"id": 28,
+					"lemma": "사업",
+					"type": "NNG",
+					"position": 803,
+					"weight": 0.9
+				},
+				{
+					"id": 29,
+					"lemma": "법",
+					"type": "NNG",
+					"position": 809,
+					"weight": 0.11676
+				},
+				{
+					"id": 30,
+					"lemma": "」",
+					"type": "SS",
+					"position": 812,
+					"weight": 1
+				},
+				{
+					"id": 31,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 815,
+					"weight": 0.048593
+				},
+				{
+					"id": 32,
+					"lemma": "따르",
+					"type": "VV",
+					"position": 819,
+					"weight": 0.9
+				},
+				{
+					"id": 33,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 822,
+					"weight": 0.304215
+				},
+				{
+					"id": 34,
+					"lemma": "소방",
+					"type": "NNG",
+					"position": 826,
+					"weight": 0.9
+				},
+				{
+					"id": 35,
+					"lemma": "시설",
+					"type": "NNG",
+					"position": 832,
+					"weight": 0.9
+				},
+				{
+					"id": 36,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 838,
+					"weight": 0.184722
+				},
+				{
+					"id": 37,
+					"lemma": ",",
+					"type": "SP",
+					"position": 844,
+					"weight": 1
+				},
+				{
+					"id": 38,
+					"lemma": "「",
+					"type": "SS",
+					"position": 846,
+					"weight": 1
+				},
+				{
+					"id": 39,
+					"lemma": "문화",
+					"type": "NNG",
+					"position": 849,
+					"weight": 0.199597
+				},
+				{
+					"id": 40,
+					"lemma": "재",
+					"type": "NNG",
+					"position": 855,
+					"weight": 0.0300276
+				},
+				{
+					"id": 41,
+					"lemma": "수리",
+					"type": "NNG",
+					"position": 859,
+					"weight": 0.9
+				},
+				{
+					"id": 42,
+					"lemma": "등",
+					"type": "NNB",
+					"position": 866,
+					"weight": 0.0146757
+				},
+				{
+					"id": 43,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 869,
+					"weight": 0.135559
+				},
+				{
+					"id": 44,
+					"lemma": "관",
+					"type": "NNG",
+					"position": 873,
+					"weight": 0.130437
+				},
+				{
+					"id": 45,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 876,
+					"weight": 0.0001
+				},
+				{
+					"id": 46,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 876,
+					"weight": 0.392321
+				},
+				{
+					"id": 47,
+					"lemma": "법률",
+					"type": "NNG",
+					"position": 880,
+					"weight": 0.9
+				},
+				{
+					"id": 48,
+					"lemma": "」",
+					"type": "SS",
+					"position": 886,
+					"weight": 1
+				},
+				{
+					"id": 49,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 889,
+					"weight": 0.048593
+				},
+				{
+					"id": 50,
+					"lemma": "따르",
+					"type": "VV",
+					"position": 893,
+					"weight": 0.9
+				},
+				{
+					"id": 51,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 896,
+					"weight": 0.304215
+				},
+				{
+					"id": 52,
+					"lemma": "문화",
+					"type": "NNG",
+					"position": 900,
+					"weight": 0.657511
+				},
+				{
+					"id": 53,
+					"lemma": "재",
+					"type": "NNG",
+					"position": 906,
+					"weight": 0.0300276
+				},
+				{
+					"id": 54,
+					"lemma": "수리",
+					"type": "NNG",
+					"position": 910,
+					"weight": 0.9
+				},
+				{
+					"id": 55,
+					"lemma": "공사",
+					"type": "NNG",
+					"position": 916,
+					"weight": 0.184722
+				},
+				{
+					"id": 56,
+					"lemma": "는",
+					"type": "JX",
+					"position": 922,
+					"weight": 0.0287565
+				},
+				{
+					"id": 57,
+					"lemma": "포함",
+					"type": "NNG",
+					"position": 926,
+					"weight": 0.9
+				},
+				{
+					"id": 58,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 932,
+					"weight": 0.0001
+				},
+				{
+					"id": 59,
+					"lemma": "지",
+					"type": "EC",
+					"position": 935,
+					"weight": 0.260723
+				},
+				{
+					"id": 60,
+					"lemma": "아니하",
+					"type": "VX",
+					"position": 939,
+					"weight": 0.257113
+				},
+				{
+					"id": 61,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 945,
+					"weight": 0.184394
+				},
+				{
+					"id": 62,
+					"lemma": ".",
+					"type": "SF",
+					"position": 951,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "다만,",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "「전기공사업법」에",
+					"type": "",
+					"begin": 2,
+					"end": 6
+				},
+				{
+					"id": 2,
+					"text": "따른",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 3,
+					"text": "전기공사,",
+					"type": "",
+					"begin": 9,
+					"end": 11
+				},
+				{
+					"id": 4,
+					"text": "「정보통신공사업법」에",
+					"type": "",
+					"begin": 12,
+					"end": 17
+				},
+				{
+					"id": 5,
+					"text": "따른",
+					"type": "",
+					"begin": 18,
+					"end": 19
+				},
+				{
+					"id": 6,
+					"text": "정보통신공사,",
+					"type": "",
+					"begin": 20,
+					"end": 24
+				},
+				{
+					"id": 7,
+					"text": "「소방시설공사업법」에",
+					"type": "",
+					"begin": 25,
+					"end": 31
+				},
+				{
+					"id": 8,
+					"text": "따른",
+					"type": "",
+					"begin": 32,
+					"end": 33
+				},
+				{
+					"id": 9,
+					"text": "소방시설공사,",
+					"type": "",
+					"begin": 34,
+					"end": 37
+				},
+				{
+					"id": 10,
+					"text": "「문화재",
+					"type": "",
+					"begin": 38,
+					"end": 40
+				},
+				{
+					"id": 11,
+					"text": "수리",
+					"type": "",
+					"begin": 41,
+					"end": 41
+				},
+				{
+					"id": 12,
+					"text": "등에",
+					"type": "",
+					"begin": 42,
+					"end": 43
+				},
+				{
+					"id": 13,
+					"text": "관한",
+					"type": "",
+					"begin": 44,
+					"end": 46
+				},
+				{
+					"id": 14,
+					"text": "법률」에",
+					"type": "",
+					"begin": 47,
+					"end": 49
+				},
+				{
+					"id": 15,
+					"text": "따른",
+					"type": "",
+					"begin": 50,
+					"end": 51
+				},
+				{
+					"id": 16,
+					"text": "문화재",
+					"type": "",
+					"begin": 52,
+					"end": 53
+				},
+				{
+					"id": 17,
+					"text": "수리공사는",
+					"type": "",
+					"begin": 54,
+					"end": 56
+				},
+				{
+					"id": 18,
+					"text": "포함하지",
+					"type": "",
+					"begin": 57,
+					"end": 59
+				},
+				{
+					"id": 19,
+					"text": "아니한다.",
+					"type": "",
+					"begin": 60,
+					"end": 62
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "전기공사업법",
+					"type": "CV_LAW",
+					"begin": 3,
+					"end": 4,
+					"weight": 0.32388,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "정보통신공사업법",
+					"type": "CV_LAW",
+					"begin": 13,
+					"end": 15,
+					"weight": 0.319247,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "정보통신공사",
+					"type": "CV_POSITION",
+					"begin": 20,
+					"end": 23,
+					"weight": 0.250696,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "소방시설공사업법",
+					"type": "CV_LAW",
+					"begin": 26,
+					"end": 29,
+					"weight": 0.401483,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "다만,",
+					"head": 18,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.687223,
+					"mid": 66
+				},
+				{
+					"id": 1,
+					"text": "「전기공사업법」에",
+					"head": 2,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.385953,
+					"mid": 68
+				},
+				{
+					"id": 2,
+					"text": "따른",
+					"head": 3,
+					"label": "VP_MOD",
+					"mod": [
+						1
+					],
+					"weight": 0.151923,
+					"mid": 68
+				},
+				{
+					"id": 3,
+					"text": "전기공사,",
+					"head": 4,
+					"label": "NP_CNJ",
+					"mod": [
+						2
+					],
+					"weight": 0.140705,
+					"mid": 71
+				},
+				{
+					"id": 4,
+					"text": "「정보통신공사업법」에",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						3
+					],
+					"weight": 0.523895,
+					"mid": 73
+				},
+				{
+					"id": 5,
+					"text": "따른",
+					"head": 7,
+					"label": "VP_MOD",
+					"mod": [
+						4
+					],
+					"weight": 0.410124,
+					"mid": 73
+				},
+				{
+					"id": 6,
+					"text": "정보통신공사,",
+					"head": 7,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.194728,
+					"mid": 76
+				},
+				{
+					"id": 7,
+					"text": "「소방시설공사업법」에",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.498496,
+					"mid": 78
+				},
+				{
+					"id": 8,
+					"text": "따른",
+					"head": 9,
+					"label": "VP_MOD",
+					"mod": [
+						7
+					],
+					"weight": 0.188595,
+					"mid": 78
+				},
+				{
+					"id": 9,
+					"text": "소방시설공사,",
+					"head": 14,
+					"label": "NP_CNJ",
+					"mod": [
+						8
+					],
+					"weight": 0.102893,
+					"mid": 81
+				},
+				{
+					"id": 10,
+					"text": "「문화재",
+					"head": 11,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.421659,
+					"mid": 83
+				},
+				{
+					"id": 11,
+					"text": "수리",
+					"head": 12,
+					"label": "NP",
+					"mod": [
+						10
+					],
+					"weight": 0.811904,
+					"mid": 85
+				},
+				{
+					"id": 12,
+					"text": "등에",
+					"head": 13,
+					"label": "NP_AJT",
+					"mod": [
+						11
+					],
+					"weight": 0.531573,
+					"mid": 87
+				},
+				{
+					"id": 13,
+					"text": "관한",
+					"head": 14,
+					"label": "VP_MOD",
+					"mod": [
+						12
+					],
+					"weight": 0.764907,
+					"mid": 87
+				},
+				{
+					"id": 14,
+					"text": "법률」에",
+					"head": 15,
+					"label": "NP_AJT",
+					"mod": [
+						9,
+						13
+					],
+					"weight": 0.577337,
+					"mid": 90
+				},
+				{
+					"id": 15,
+					"text": "따른",
+					"head": 17,
+					"label": "VP_MOD",
+					"mod": [
+						14
+					],
+					"weight": 0.641707,
+					"mid": 90
+				},
+				{
+					"id": 16,
+					"text": "문화재",
+					"head": 17,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.58702,
+					"mid": 93
+				},
+				{
+					"id": 17,
+					"text": "수리공사는",
+					"head": 18,
+					"label": "NP_OBJ",
+					"mod": [
+						15,
+						16
+					],
+					"weight": 0.0207514,
+					"mid": 66
+				},
+				{
+					"id": 18,
+					"text": "포함하지",
+					"head": 19,
+					"label": "VP",
+					"mod": [
+						0,
+						17
+					],
+					"weight": 0.775118,
+					"mid": 66
+				},
+				{
+					"id": 19,
+					"text": "아니한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						18
+					],
+					"weight": 9.37849e-10,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "AP",
+					"text": "다만,",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "「전기공사업법」에",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@AJT에 따른",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "P#2@MODㄴ 전기공사, 「정보통신공사업법」에",
+					"begin": 1,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "「전기공사업법」에 따른 전기공사",
+							"label": "NP_AJT",
+							"begin": 2,
+							"end": 10,
+							"ne_type": ""
+						},
+						{
+							"text": "「정보통신공사업법」",
+							"label": "NP_AJT",
+							"begin": 12,
+							"end": 16,
+							"ne_type": "CV_LAW"
+						}
+					]
+				},
+				{
+					"id": 4,
+					"label": "VP_MOD",
+					"text": "P#3@AJT에 따른",
+					"begin": 1,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "P#4@MODㄴ 정보통신공사, 「소방시설공사업법」에",
+					"begin": 1,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "VP_MOD",
+					"text": "P#5@AJT에 따른",
+					"begin": 1,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 7,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_AJT",
+					"text": "P#6@MODㄴ 소방시설공사, 「문화재 수리 등에 관한 법률」에",
+					"begin": 1,
+					"end": 14,
+					"key_begin": 9,
+					"head_phrase": 8,
+					"sub_phrase": [
+						6
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "「전기공사업법」에 따른 전기공사,  「정보통신공사업법」에 따른 정보통신공사, 「소방시설공사업법」에 따른 소방시설공사",
+							"label": "NP_AJT",
+							"begin": 2,
+							"end": 36,
+							"ne_type": ""
+						},
+						{
+							"text": "「문화재 수리 등에 관한 법률」",
+							"label": "NP_AJT",
+							"begin": 38,
+							"end": 48,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 8,
+					"label": "VP_MOD",
+					"text": "P#7@AJT에 따른",
+					"begin": 1,
+					"end": 15,
+					"key_begin": 15,
+					"head_phrase": 9,
+					"sub_phrase": [
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "NP_OBJ",
+					"text": "P#8@MODㄴ 문화재 수리공사는",
+					"begin": 1,
+					"end": 17,
+					"key_begin": 16,
+					"head_phrase": 10,
+					"sub_phrase": [
+						8
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "VP",
+					"text": "P#0@AP다만, P#9@OBJ는 포함하지 아니한다.",
+					"begin": 0,
+					"end": 19,
+					"key_begin": 18,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						9
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "따르",
+					"sense": 2,
+					"word_id": 2,
+					"weight": 0.421561,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 1,
+							"text": "「전기공사업법」에",
+							"weight": 1
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "전기공사,",
+							"weight": 0.312325
+						}
+					]
+				},
+				{
+					"verb": "따르",
+					"sense": 2,
+					"word_id": 5,
+					"weight": 0.384248,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "「정보통신공사업법」에",
+							"weight": 1
+						},
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "「소방시설공사업법」에",
+							"weight": 0.247954
+						}
+					]
+				},
+				{
+					"verb": "따르",
+					"sense": 2,
+					"word_id": 8,
+					"weight": 0.472631,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "「소방시설공사업법」에",
+							"weight": 1
+						},
+						{
+							"type": "ARG1",
+							"word_id": 9,
+							"text": "소방시설공사,",
+							"weight": 0.321298
+						}
+					]
+				},
+				{
+					"verb": "관",
+					"sense": 1,
+					"word_id": 13,
+					"weight": 0.441706,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 12,
+							"text": "등에",
+							"weight": 0.32244
+						},
+						{
+							"type": "ARG1",
+							"word_id": 14,
+							"text": "법률」에",
+							"weight": 0.560971
+						}
+					]
+				},
+				{
+					"verb": "따르",
+					"sense": 2,
+					"word_id": 15,
+					"weight": 0.552201,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 14,
+							"text": "법률」에",
+							"weight": 1
+						},
+						{
+							"type": "ARG1",
+							"word_id": 17,
+							"text": "수리공사는",
+							"weight": 0.445463
+						}
+					]
+				},
+				{
+					"verb": "포함",
+					"sense": 1,
+					"word_id": 18,
+					"weight": 0.405067,
+					"argument": [
+						{
+							"type": "ARGM-DIS",
+							"word_id": 0,
+							"text": "다만,",
+							"weight": 0.284833
+						},
+						{
+							"type": "ARG1",
+							"word_id": 17,
+							"text": "수리공사는",
+							"weight": 0.411171
+						},
+						{
+							"type": "ARGM-NEG",
+							"word_id": 19,
+							"text": "아니한다.",
+							"weight": 0.519199
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 18,
+					"ant_sid": 4,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "AF_BUILDING",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "건설",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "건설",
+					"ne_id": 0
+				},
+				{
+					"id": 1,
+					"text": "건설建設",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "건설建設",
+					"ne_id": -1
+				},
+				{
+					"id": 2,
+					"text": "건축architecture과 토목civil engineering의 총칭",
+					"sent_id": 1,
+					"start_eid": 2,
+					"end_eid": 5,
+					"start_eid_short": 3,
+					"end_eid_short": 5,
+					"text_short": "토목civil engineering의 총칭",
+					"ne_id": -1
+				},
+				{
+					"id": 5,
+					"text": "보통 건물을 짓거나 만들거나 하는 일이다",
+					"sent_id": 1,
+					"start_eid": 6,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "일이다",
+					"ne_id": -1
+				},
+				{
+					"id": 8,
+					"text": "토목건축土木建築",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "토목건축土木建築",
+					"ne_id": 0
+				},
+				{
+					"id": 9,
+					"text": "토건이라는 말",
+					"sent_id": 2,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "말",
+					"ne_id": -1
+				},
+				{
+					"id": 10,
+					"text": "토건이라는",
+					"sent_id": 2,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "토건이라는",
+					"ne_id": -1
+				},
+				{
+					"id": 14,
+					"text": "건설공사라는 용어",
+					"sent_id": 3,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "용어",
+					"ne_id": -1
+				},
+				{
+					"id": 15,
+					"text": "건설공사이라는",
+					"sent_id": 3,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "건설공사이라는",
+					"ne_id": -1
+				},
+				{
+					"id": 16,
+					"text": "건설공사",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "건설공사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 3,
+					"text": "건축architecture",
+					"sent_id": 1,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "건축architecture",
+					"ne_id": -1
+				},
+				{
+					"id": 19,
+					"text": "건축공사",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "건축공사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "건물",
+					"sent_id": 1,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "건물",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 6,
+					"text": "보통",
+					"sent_id": 1,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "보통",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "CV_LAW",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 11,
+					"text": "대한민국 건설산업기본법 상",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "대한민국 건설산업기본법 상",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 12,
+					"text": "대한민국",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "대한민국",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "건설산업기본법",
+					"sent_id": 3,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "건설산업기본법",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "OGG_ECONOMY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "조경공사",
+					"sent_id": 4,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "조경공사",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "OGG_POLITICS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 22,
+					"text": "환경시설공사",
+					"sent_id": 4,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "환경시설공사",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "그 밖",
+					"sent_id": 4,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "그 밖",
+					"ne_id": -1
+				},
+				{
+					"id": 31,
+					"text": "그 밖",
+					"sent_id": 4,
+					"start_eid": 18,
+					"end_eid": 19,
+					"start_eid_short": 18,
+					"end_eid_short": 19,
+					"text_short": "그 밖",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 24,
+					"text": "명칭",
+					"sent_id": 4,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "명칭",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 25,
+					"text": "시설물을 설치ㆍ유지ㆍ보수하는공사시설물을 설치하기 위한 부지조성공사를 포함하ㄴ다",
+					"sent_id": 4,
+					"start_eid": 10,
+					"end_eid": 15,
+					"start_eid_short": 15,
+					"end_eid_short": 15,
+					"text_short": "포함하ㄴ다",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 27,
+					"text": "설치ㆍ유지ㆍ보수하는공사시설물",
+					"sent_id": 4,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "설치ㆍ유지ㆍ보수하는공사시설물",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 28,
+					"text": "기계설비나 그 밖의 구조물의 설치 및 해체공사",
+					"sent_id": 4,
+					"start_eid": 17,
+					"end_eid": 23,
+					"start_eid_short": 18,
+					"end_eid_short": 23,
+					"text_short": "그 밖의 구조물의 설치 및 해체공사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 30,
+					"text": "그 밖의 구조물",
+					"sent_id": 4,
+					"start_eid": 18,
+					"end_eid": 20,
+					"start_eid_short": 18,
+					"end_eid_short": 20,
+					"text_short": "그 밖의 구조물",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 29,
+					"text": "기계설비",
+					"sent_id": 4,
+					"start_eid": 17,
+					"end_eid": 17,
+					"start_eid_short": 17,
+					"end_eid_short": 17,
+					"text_short": "기계설비",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 32,
+					"text": "설치",
+					"sent_id": 4,
+					"start_eid": 21,
+					"end_eid": 21,
+					"start_eid_short": 21,
+					"end_eid_short": 21,
+					"text_short": "설치",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 17,
+					"text": "토목공사 건축공사 산업설비공사 조경공사 환경시설공사 그 밖에 명칭에 관계없이 시설물을 설치ㆍ유지ㆍ보수하는공사시설물을 설치하기 위한 부지조성공사를 포함한다 및 기계설비나 그 밖의 구조물의 설치 및 해체공사 등",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 24,
+					"start_eid_short": 18,
+					"end_eid_short": 24,
+					"text_short": "그 밖의 구조물의 설치 및 해체공사 등",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "「전기공사업법」에 따른 전기공사 「정보통신공사업법」에 따른 정보통신공사 「소방시설공사업법」에 따른 소방시설공사 「문화재 수리 등에 관한 법률」에 따른 문화재 수리공사",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 17,
+					"start_eid_short": 16,
+					"end_eid_short": 17,
+					"text_short": "문화재 수리공사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "「전기공사업법」에 따른 전기공사",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "전기공사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "CV_POSITION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 37,
+					"text": "「정보통신공사업법」에 따른 정보통신공사",
+					"sent_id": 5,
+					"start_eid": 4,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "정보통신공사",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 41,
+					"text": "「문화재 수리 등에 관한 법률」",
+					"sent_id": 5,
+					"start_eid": 10,
+					"end_eid": 14,
+					"start_eid_short": 14,
+					"end_eid_short": 14,
+					"text_short": "법률」",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 42,
+					"text": "문화재",
+					"sent_id": 5,
+					"start_eid": 16,
+					"end_eid": 16,
+					"start_eid_short": 16,
+					"end_eid_short": 16,
+					"text_short": "문화재",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 33,
+					"text": "해체공사",
+					"sent_id": 4,
+					"start_eid": 23,
+					"end_eid": 23,
+					"start_eid_short": 23,
+					"end_eid_short": 23,
+					"text_short": "해체공사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 26,
+					"text": "시설물",
+					"sent_id": 4,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "시설물",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "토목civil engineering",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "토목civil engineering",
+					"ne_id": -1
+				},
+				{
+					"id": 18,
+					"text": "토목공사",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "토목공사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 20,
+					"text": "산업설비공사",
+					"sent_id": 4,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "산업설비공사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "CV_LAW",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "「전기공사업법」",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "「전기공사업법」",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 28,
+			"type": "CV_LAW",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 38,
+					"text": "「정보통신공사업법」",
+					"sent_id": 5,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "「정보통신공사업법」",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 29,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 39,
+					"text": "「소방시설공사업법」에 따른 소방시설공사",
+					"sent_id": 5,
+					"start_eid": 7,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "소방시설공사",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 30,
+			"type": "CV_LAW",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 40,
+					"text": "「소방시설공사업법」",
+					"sent_id": 5,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "「소방시설공사업법」",
+					"ne_id": 3
+				}
+			]
+		}
+	]
+}

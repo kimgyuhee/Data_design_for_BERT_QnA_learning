@@ -1,0 +1,5861 @@
+{
+	"title": {
+		"text": "빅토리아 앨버트 박물관",
+		"NE": "OGG_ART"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 8,
+		"num_word": 93
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "빅토리아 앨버트 박물관",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "빅토리아",
+					"type": "NNP",
+					"position": 0,
+					"weight": 0.0868188
+				},
+				{
+					"id": 1,
+					"lemma": "앨버트",
+					"type": "NNP",
+					"position": 13,
+					"weight": 0.45
+				},
+				{
+					"id": 2,
+					"lemma": "박물",
+					"type": "NNG",
+					"position": 23,
+					"weight": 0.15
+				},
+				{
+					"id": 3,
+					"lemma": "관",
+					"type": "XSN",
+					"position": 29,
+					"weight": 0.0123777
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "빅토리아",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "앨버트",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "박물관",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "빅토리아 앨버트 박물관",
+					"type": "OGG_ART",
+					"begin": 0,
+					"end": 3,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "빅토리아",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.448602,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "앨버트",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.811234,
+					"mid": 3
+				},
+				{
+					"id": 2,
+					"text": "박물관",
+					"head": -1,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.295616,
+					"mid": 4
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "빅토리아 앨버트 박물관",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "빅토리아 앨버트 박물관(Victoria and Albert Museum)은 영국 런던의 사우스켄싱턴에 있는 미술관이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "빅토리아",
+					"type": "NNP",
+					"position": 32,
+					"weight": 0.0868188
+				},
+				{
+					"id": 1,
+					"lemma": "앨버트",
+					"type": "NNP",
+					"position": 45,
+					"weight": 0.45
+				},
+				{
+					"id": 2,
+					"lemma": "박물",
+					"type": "NNG",
+					"position": 55,
+					"weight": 0.15
+				},
+				{
+					"id": 3,
+					"lemma": "관",
+					"type": "XSN",
+					"position": 61,
+					"weight": 0.0123777
+				},
+				{
+					"id": 4,
+					"lemma": "(",
+					"type": "SS",
+					"position": 64,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "Victoria",
+					"type": "SL",
+					"position": 65,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "and",
+					"type": "SL",
+					"position": 74,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "Albert",
+					"type": "SL",
+					"position": 78,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "Museum",
+					"type": "SL",
+					"position": 85,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": ")",
+					"type": "SS",
+					"position": 91,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": "은",
+					"type": "JX",
+					"position": 92,
+					"weight": 0.0128817
+				},
+				{
+					"id": 11,
+					"lemma": "영국",
+					"type": "NNP",
+					"position": 96,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "런던",
+					"type": "NNP",
+					"position": 103,
+					"weight": 0.0808205
+				},
+				{
+					"id": 13,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 109,
+					"weight": 0.0987295
+				},
+				{
+					"id": 14,
+					"lemma": "사우스켄싱턴",
+					"type": "NNP",
+					"position": 113,
+					"weight": 0.6
+				},
+				{
+					"id": 15,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 131,
+					"weight": 0.0823628
+				},
+				{
+					"id": 16,
+					"lemma": "있",
+					"type": "VA",
+					"position": 135,
+					"weight": 0.037292
+				},
+				{
+					"id": 17,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 138,
+					"weight": 0.26168
+				},
+				{
+					"id": 18,
+					"lemma": "미술",
+					"type": "NNG",
+					"position": 142,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "관",
+					"type": "XSN",
+					"position": 148,
+					"weight": 0.0123777
+				},
+				{
+					"id": 20,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 151,
+					"weight": 0.0165001
+				},
+				{
+					"id": 21,
+					"lemma": "다",
+					"type": "EF",
+					"position": 154,
+					"weight": 0.353579
+				},
+				{
+					"id": 22,
+					"lemma": ".",
+					"type": "SF",
+					"position": 157,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "빅토리아",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "앨버트",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "박물관(Victoria",
+					"type": "",
+					"begin": 2,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "and",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "Albert",
+					"type": "",
+					"begin": 7,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "Museum)은",
+					"type": "",
+					"begin": 8,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "영국",
+					"type": "",
+					"begin": 11,
+					"end": 11
+				},
+				{
+					"id": 7,
+					"text": "런던의",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 8,
+					"text": "사우스켄싱턴에",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 9,
+					"text": "있는",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 10,
+					"text": "미술관이다.",
+					"type": "",
+					"begin": 18,
+					"end": 22
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "빅토리아 앨버트 박물관",
+					"type": "OGG_ART",
+					"begin": 0,
+					"end": 3,
+					"weight": 0.437247,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "영국",
+					"type": "LCP_COUNTRY",
+					"begin": 11,
+					"end": 11,
+					"weight": 0.695459,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "런던",
+					"type": "LCP_CAPITALCITY",
+					"begin": 12,
+					"end": 12,
+					"weight": 0.651322,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "사우스켄싱턴",
+					"type": "LCP_CAPITALCITY",
+					"begin": 14,
+					"end": 14,
+					"weight": 0.226605,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "미술관",
+					"type": "OGG_ART",
+					"begin": 18,
+					"end": 19,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "빅토리아",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.488923,
+					"mid": 6
+				},
+				{
+					"id": 1,
+					"text": "앨버트",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.731707,
+					"mid": 8
+				},
+				{
+					"id": 2,
+					"text": "박물관(Victoria",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.626775,
+					"mid": 10
+				},
+				{
+					"id": 3,
+					"text": "and",
+					"head": 5,
+					"label": "NP",
+					"mod": [
+						2
+					],
+					"weight": 0.769562,
+					"mid": 12
+				},
+				{
+					"id": 4,
+					"text": "Albert",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.729023,
+					"mid": 12
+				},
+				{
+					"id": 5,
+					"text": "Museum)은",
+					"head": 10,
+					"label": "NP_SBJ",
+					"mod": [
+						3,
+						4
+					],
+					"weight": 0.813562,
+					"mid": 15
+				},
+				{
+					"id": 6,
+					"text": "영국",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.822839,
+					"mid": 17
+				},
+				{
+					"id": 7,
+					"text": "런던의",
+					"head": 8,
+					"label": "NP_MOD",
+					"mod": [
+						6
+					],
+					"weight": 0.760133,
+					"mid": 19
+				},
+				{
+					"id": 8,
+					"text": "사우스켄싱턴에",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [
+						7
+					],
+					"weight": 0.827381,
+					"mid": 21
+				},
+				{
+					"id": 9,
+					"text": "있는",
+					"head": 10,
+					"label": "VP_MOD",
+					"mod": [
+						8
+					],
+					"weight": 0.758845,
+					"mid": 21
+				},
+				{
+					"id": 10,
+					"text": "미술관이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						5,
+						9
+					],
+					"weight": 0.0321821,
+					"mid": 15
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "빅토리아 앨버트 박물관(Victoria and Albert Museum)은",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "영국 런던의 사우스켄싱턴에",
+					"begin": 6,
+					"end": 8,
+					"key_begin": 6,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@AJT에 있는",
+					"begin": 6,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@SBJ은 P#2@MOD는 미술관이다.",
+					"begin": 0,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						2
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "미술관",
+							"label": "NP",
+							"begin": 18,
+							"end": 19,
+							"ne_type": "OGG_ART"
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 20,
+							"end": 22,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0.348267,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 8,
+							"text": "사우스켄싱턴에",
+							"weight": 0.348267
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 2,
+			"text": "영국 왕립박물관 중의 하나로, 중세부터 근대에 걸친 유럽 미술을 중심으로 동양미술 작품에 이르기까지 광범위하게 소장하고 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "영국",
+					"type": "NNP",
+					"position": 158,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "왕립",
+					"type": "NNG",
+					"position": 165,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "박물",
+					"type": "NNG",
+					"position": 171,
+					"weight": 0.15
+				},
+				{
+					"id": 3,
+					"lemma": "관",
+					"type": "XSN",
+					"position": 177,
+					"weight": 0.0123777
+				},
+				{
+					"id": 4,
+					"lemma": "중",
+					"type": "NNB",
+					"position": 181,
+					"weight": 0.0260506
+				},
+				{
+					"id": 5,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 184,
+					"weight": 0.0520933
+				},
+				{
+					"id": 6,
+					"lemma": "하나",
+					"type": "NR",
+					"position": 188,
+					"weight": 0.000723053
+				},
+				{
+					"id": 7,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 194,
+					"weight": 0.0190976
+				},
+				{
+					"id": 8,
+					"lemma": ",",
+					"type": "SP",
+					"position": 197,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "중세",
+					"type": "NNG",
+					"position": 199,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "부터",
+					"type": "JX",
+					"position": 205,
+					"weight": 0.0688504
+				},
+				{
+					"id": 11,
+					"lemma": "근대",
+					"type": "NNG",
+					"position": 212,
+					"weight": 0.324665
+				},
+				{
+					"id": 12,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 218,
+					"weight": 0.153364
+				},
+				{
+					"id": 13,
+					"lemma": "걸치",
+					"type": "VV",
+					"position": 222,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 225,
+					"weight": 0.304215
+				},
+				{
+					"id": 15,
+					"lemma": "유럽",
+					"type": "NNP",
+					"position": 229,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "미술",
+					"type": "NNG",
+					"position": 236,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 242,
+					"weight": 0.129611
+				},
+				{
+					"id": 18,
+					"lemma": "중심",
+					"type": "NNG",
+					"position": 246,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 252,
+					"weight": 0.153406
+				},
+				{
+					"id": 20,
+					"lemma": "동양",
+					"type": "NNG",
+					"position": 259,
+					"weight": 0.187724
+				},
+				{
+					"id": 21,
+					"lemma": "미술",
+					"type": "NNG",
+					"position": 265,
+					"weight": 0.9
+				},
+				{
+					"id": 22,
+					"lemma": "작품",
+					"type": "NNG",
+					"position": 272,
+					"weight": 0.18482
+				},
+				{
+					"id": 23,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 278,
+					"weight": 0.153364
+				},
+				{
+					"id": 24,
+					"lemma": "이르",
+					"type": "VV",
+					"position": 282,
+					"weight": 0.434887
+				},
+				{
+					"id": 25,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 288,
+					"weight": 0.0380514
+				},
+				{
+					"id": 26,
+					"lemma": "까지",
+					"type": "JX",
+					"position": 291,
+					"weight": 0.150151
+				},
+				{
+					"id": 27,
+					"lemma": "광범위",
+					"type": "NNG",
+					"position": 298,
+					"weight": 0.45
+				},
+				{
+					"id": 28,
+					"lemma": "하",
+					"type": "XSA",
+					"position": 307,
+					"weight": 0.0001
+				},
+				{
+					"id": 29,
+					"lemma": "게",
+					"type": "EC",
+					"position": 310,
+					"weight": 0.362254
+				},
+				{
+					"id": 30,
+					"lemma": "소장",
+					"type": "NNG",
+					"position": 314,
+					"weight": 0.9
+				},
+				{
+					"id": 31,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 320,
+					"weight": 0.0001
+				},
+				{
+					"id": 32,
+					"lemma": "고",
+					"type": "EC",
+					"position": 323,
+					"weight": 0.359917
+				},
+				{
+					"id": 33,
+					"lemma": "있",
+					"type": "VX",
+					"position": 327,
+					"weight": 0.125953
+				},
+				{
+					"id": 34,
+					"lemma": "다",
+					"type": "EF",
+					"position": 330,
+					"weight": 0.180366
+				},
+				{
+					"id": 35,
+					"lemma": ".",
+					"type": "SF",
+					"position": 333,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "영국",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "왕립박물관",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "중의",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "하나로,",
+					"type": "",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "중세부터",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "근대에",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "걸친",
+					"type": "",
+					"begin": 13,
+					"end": 14
+				},
+				{
+					"id": 7,
+					"text": "유럽",
+					"type": "",
+					"begin": 15,
+					"end": 15
+				},
+				{
+					"id": 8,
+					"text": "미술을",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 9,
+					"text": "중심으로",
+					"type": "",
+					"begin": 18,
+					"end": 19
+				},
+				{
+					"id": 10,
+					"text": "동양미술",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 11,
+					"text": "작품에",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 12,
+					"text": "이르기까지",
+					"type": "",
+					"begin": 24,
+					"end": 26
+				},
+				{
+					"id": 13,
+					"text": "광범위하게",
+					"type": "",
+					"begin": 27,
+					"end": 29
+				},
+				{
+					"id": 14,
+					"text": "소장하고",
+					"type": "",
+					"begin": 30,
+					"end": 32
+				},
+				{
+					"id": 15,
+					"text": "있다.",
+					"type": "",
+					"begin": 33,
+					"end": 35
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "영국",
+					"type": "LCP_COUNTRY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.52609,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "왕립박물관",
+					"type": "OGG_ART",
+					"begin": 1,
+					"end": 3,
+					"weight": 0.172038,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "하나",
+					"type": "QT_COUNT",
+					"begin": 6,
+					"end": 6,
+					"weight": 0.473094,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "중세부터",
+					"type": "DT_OTHERS",
+					"begin": 9,
+					"end": 10,
+					"weight": 0.311741,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "근대",
+					"type": "DT_OTHERS",
+					"begin": 11,
+					"end": 11,
+					"weight": 0.501619,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "유럽",
+					"type": "LCG_CONTINENT",
+					"begin": 15,
+					"end": 15,
+					"weight": 0.598406,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "동양미술",
+					"type": "FD_ART",
+					"begin": 20,
+					"end": 21,
+					"weight": 0.684519,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "영국",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.742393,
+					"mid": 24
+				},
+				{
+					"id": 1,
+					"text": "왕립박물관",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.680412,
+					"mid": 26
+				},
+				{
+					"id": 2,
+					"text": "중의",
+					"head": 3,
+					"label": "NP_MOD",
+					"mod": [
+						1
+					],
+					"weight": 0.805255,
+					"mid": 28
+				},
+				{
+					"id": 3,
+					"text": "하나로,",
+					"head": 14,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.453709,
+					"mid": 30
+				},
+				{
+					"id": 4,
+					"text": "중세부터",
+					"head": 12,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.476756,
+					"mid": 32
+				},
+				{
+					"id": 5,
+					"text": "근대에",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.680025,
+					"mid": 34
+				},
+				{
+					"id": 6,
+					"text": "걸친",
+					"head": 8,
+					"label": "VP_MOD",
+					"mod": [
+						5
+					],
+					"weight": 0.642963,
+					"mid": 34
+				},
+				{
+					"id": 7,
+					"text": "유럽",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.82299,
+					"mid": 37
+				},
+				{
+					"id": 8,
+					"text": "미술을",
+					"head": 9,
+					"label": "NP_OBJ",
+					"mod": [
+						6,
+						7
+					],
+					"weight": 0.55937,
+					"mid": 39
+				},
+				{
+					"id": 9,
+					"text": "중심으로",
+					"head": 12,
+					"label": "NP_AJT",
+					"mod": [
+						8
+					],
+					"weight": 0.534276,
+					"mid": 32
+				},
+				{
+					"id": 10,
+					"text": "동양미술",
+					"head": 11,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.66067,
+					"mid": 42
+				},
+				{
+					"id": 11,
+					"text": "작품에",
+					"head": 12,
+					"label": "NP_AJT",
+					"mod": [
+						10
+					],
+					"weight": 0.755915,
+					"mid": 32
+				},
+				{
+					"id": 12,
+					"text": "이르기까지",
+					"head": 14,
+					"label": "VP_AJT",
+					"mod": [
+						4,
+						9,
+						11
+					],
+					"weight": 0.354403,
+					"mid": 30
+				},
+				{
+					"id": 13,
+					"text": "광범위하게",
+					"head": 14,
+					"label": "VP_AJT",
+					"mod": [],
+					"weight": 0.746731,
+					"mid": 30
+				},
+				{
+					"id": 14,
+					"text": "소장하고",
+					"head": 15,
+					"label": "VP",
+					"mod": [
+						3,
+						12,
+						13
+					],
+					"weight": 0.787688,
+					"mid": 30
+				},
+				{
+					"id": 15,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						14
+					],
+					"weight": 0.000732544,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "영국 왕립박물관 중의 하나로,",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 0,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "중세부터",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "근대에",
+					"begin": 5,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#2@AJT에 걸친",
+					"begin": 5,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_OBJ",
+					"text": "P#3@MODㄴ 유럽 미술을",
+					"begin": 5,
+					"end": 8,
+					"key_begin": 7,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "P#4@OBJ을 중심으로",
+					"begin": 5,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 7,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "동양미술 작품에",
+					"begin": 10,
+					"end": 11,
+					"key_begin": 10,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "VP_AJT",
+					"text": "P#1@AJT부터 P#5@AJT으로 P#6@AJT에 이르기까지",
+					"begin": 4,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": 9,
+					"sub_phrase": [
+						1,
+						5,
+						6
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "VP_AJT",
+					"text": "광범위하게",
+					"begin": 13,
+					"end": 13,
+					"key_begin": 13,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "VP",
+					"text": "P#0@AJT로, P#7@AJT까지 P#8@AJT게 소장하고 있다.",
+					"begin": 0,
+					"end": 15,
+					"key_begin": 14,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						7,
+						8
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "걸치",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.281177,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 5,
+							"text": "근대에",
+							"weight": 0.294482
+						},
+						{
+							"type": "ARG1",
+							"word_id": 8,
+							"text": "미술을",
+							"weight": 0.267871
+						}
+					]
+				},
+				{
+					"verb": "이르",
+					"sense": 1,
+					"word_id": 12,
+					"weight": 0.315711,
+					"argument": [
+						{
+							"type": "ARGM-MNR",
+							"word_id": 9,
+							"text": "중심으로",
+							"weight": 0.156771
+						},
+						{
+							"type": "ARG3",
+							"word_id": 11,
+							"text": "작품에",
+							"weight": 0.474651
+						}
+					]
+				},
+				{
+					"verb": "광범위",
+					"sense": 1,
+					"word_id": 13,
+					"weight": 0,
+					"argument": []
+				},
+				{
+					"verb": "소장",
+					"sense": 1,
+					"word_id": 14,
+					"weight": 0.297439,
+					"argument": [
+						{
+							"type": "ARGM-ADV",
+							"word_id": 12,
+							"text": "이르기까지",
+							"weight": 0.133424
+						},
+						{
+							"type": "ARGM-MNR",
+							"word_id": 13,
+							"text": "광범위하게",
+							"weight": 0.15322
+						},
+						{
+							"type": "AUX",
+							"word_id": 15,
+							"text": "있다.",
+							"weight": 0.605674
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 14,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "특히 장식미술 공예분야에서는 세계적 규모와 내용을 자랑한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "특히",
+					"type": "MAG",
+					"position": 334,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "장식",
+					"type": "NNG",
+					"position": 341,
+					"weight": 0.260945
+				},
+				{
+					"id": 2,
+					"lemma": "미술",
+					"type": "NNG",
+					"position": 347,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "공예",
+					"type": "NNG",
+					"position": 354,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "분야",
+					"type": "NNG",
+					"position": 360,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 366,
+					"weight": 0.153407
+				},
+				{
+					"id": 6,
+					"lemma": "는",
+					"type": "JX",
+					"position": 372,
+					"weight": 0.0387928
+				},
+				{
+					"id": 7,
+					"lemma": "세계",
+					"type": "NNG",
+					"position": 376,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 382,
+					"weight": 0.0168756
+				},
+				{
+					"id": 9,
+					"lemma": "규모",
+					"type": "NNG",
+					"position": 386,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "와",
+					"type": "JC",
+					"position": 392,
+					"weight": 0.0169714
+				},
+				{
+					"id": 11,
+					"lemma": "내용",
+					"type": "NNG",
+					"position": 396,
+					"weight": 0.802911
+				},
+				{
+					"id": 12,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 402,
+					"weight": 0.129611
+				},
+				{
+					"id": 13,
+					"lemma": "자랑",
+					"type": "NNG",
+					"position": 406,
+					"weight": 0.100957
+				},
+				{
+					"id": 14,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 412,
+					"weight": 0.0001
+				},
+				{
+					"id": 15,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 412,
+					"weight": 0.0449045
+				},
+				{
+					"id": 16,
+					"lemma": ".",
+					"type": "SF",
+					"position": 418,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "특히",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "장식미술",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "공예분야에서는",
+					"type": "",
+					"begin": 3,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "세계적",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "규모와",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "내용을",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "자랑한다.",
+					"type": "",
+					"begin": 13,
+					"end": 16
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "장식미술",
+					"type": "FD_ART",
+					"begin": 1,
+					"end": 2,
+					"weight": 0.55105,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "특히",
+					"head": 6,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.811369,
+					"mid": 45
+				},
+				{
+					"id": 1,
+					"text": "장식미술",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.760697,
+					"mid": 47
+				},
+				{
+					"id": 2,
+					"text": "공예분야에서는",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [
+						1
+					],
+					"weight": 0.757924,
+					"mid": 48
+				},
+				{
+					"id": 3,
+					"text": "세계적",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.300191,
+					"mid": 50
+				},
+				{
+					"id": 4,
+					"text": "규모와",
+					"head": 5,
+					"label": "NP_CNJ",
+					"mod": [
+						3
+					],
+					"weight": 0.729995,
+					"mid": 52
+				},
+				{
+					"id": 5,
+					"text": "내용을",
+					"head": 6,
+					"label": "NP_OBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.843333,
+					"mid": 53
+				},
+				{
+					"id": 6,
+					"text": "자랑한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						0,
+						2,
+						5
+					],
+					"weight": 0.0743346,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "AP",
+					"text": "특히",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "장식미술 공예분야에서는",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "세계적 규모와 내용을",
+					"begin": 3,
+					"end": 5,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "세계적 규모",
+							"label": "NP_OBJ",
+							"begin": 7,
+							"end": 9,
+							"ne_type": ""
+						},
+						{
+							"text": "내용",
+							"label": "NP_OBJ",
+							"begin": 11,
+							"end": 11,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 3,
+					"label": "VP",
+					"text": "P#0@AP특히 P#1@AJT는 P#2@OBJ을 자랑한다.",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "자랑",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.35484,
+					"argument": [
+						{
+							"type": "ARGM-LOC",
+							"word_id": 2,
+							"text": "공예분야에서는",
+							"weight": 0.203554
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "내용을",
+							"weight": 0.506126
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 6,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 4,
+			"text": "1852년 말버러 하우스에 개설된 산업박물관을 모체로 하여 발족하였다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "1852",
+					"type": "SN",
+					"position": 419,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 423,
+					"weight": 0.414343
+				},
+				{
+					"id": 2,
+					"lemma": "말버러",
+					"type": "NNP",
+					"position": 427,
+					"weight": 0.6
+				},
+				{
+					"id": 3,
+					"lemma": "하우스",
+					"type": "NNG",
+					"position": 437,
+					"weight": 0.271611
+				},
+				{
+					"id": 4,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 446,
+					"weight": 0.153364
+				},
+				{
+					"id": 5,
+					"lemma": "개설",
+					"type": "NNG",
+					"position": 450,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 456,
+					"weight": 0.000224177
+				},
+				{
+					"id": 7,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 456,
+					"weight": 0.392321
+				},
+				{
+					"id": 8,
+					"lemma": "산업",
+					"type": "NNG",
+					"position": 460,
+					"weight": 0.658532
+				},
+				{
+					"id": 9,
+					"lemma": "박물",
+					"type": "NNG",
+					"position": 466,
+					"weight": 0.15
+				},
+				{
+					"id": 10,
+					"lemma": "관",
+					"type": "XSN",
+					"position": 472,
+					"weight": 0.0123777
+				},
+				{
+					"id": 11,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 475,
+					"weight": 0.0819193
+				},
+				{
+					"id": 12,
+					"lemma": "모체",
+					"type": "NNG",
+					"position": 479,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 485,
+					"weight": 0.153229
+				},
+				{
+					"id": 14,
+					"lemma": "하",
+					"type": "VV",
+					"position": 489,
+					"weight": 0.275522
+				},
+				{
+					"id": 15,
+					"lemma": "어",
+					"type": "EC",
+					"position": 492,
+					"weight": 0.41831
+				},
+				{
+					"id": 16,
+					"lemma": "발족",
+					"type": "NNG",
+					"position": 496,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 502,
+					"weight": 0.0001
+				},
+				{
+					"id": 18,
+					"lemma": "었",
+					"type": "EP",
+					"position": 505,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "다",
+					"type": "EF",
+					"position": 508,
+					"weight": 0.640954
+				},
+				{
+					"id": 20,
+					"lemma": ".",
+					"type": "SF",
+					"position": 511,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "1852년",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "말버러",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "하우스에",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "개설된",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "산업박물관을",
+					"type": "",
+					"begin": 8,
+					"end": 11
+				},
+				{
+					"id": 5,
+					"text": "모체로",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 6,
+					"text": "하여",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 7,
+					"text": "발족하였다.",
+					"type": "",
+					"begin": 16,
+					"end": 20
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "1852년",
+					"type": "DT_YEAR",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.680381,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "1852년",
+					"head": 3,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.205873,
+					"mid": 55
+				},
+				{
+					"id": 1,
+					"text": "말버러",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.670673,
+					"mid": 57
+				},
+				{
+					"id": 2,
+					"text": "하우스에",
+					"head": 3,
+					"label": "NP_AJT",
+					"mod": [
+						1
+					],
+					"weight": 0.571626,
+					"mid": 55
+				},
+				{
+					"id": 3,
+					"text": "개설된",
+					"head": 4,
+					"label": "VP_MOD",
+					"mod": [
+						0,
+						2
+					],
+					"weight": 0.764138,
+					"mid": 55
+				},
+				{
+					"id": 4,
+					"text": "산업박물관을",
+					"head": 6,
+					"label": "NP_OBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.790227,
+					"mid": 61
+				},
+				{
+					"id": 5,
+					"text": "모체로",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.769136,
+					"mid": 61
+				},
+				{
+					"id": 6,
+					"text": "하여",
+					"head": 7,
+					"label": "VP",
+					"mod": [
+						4,
+						5
+					],
+					"weight": 0.623312,
+					"mid": 61
+				},
+				{
+					"id": 7,
+					"text": "발족하였다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						6
+					],
+					"weight": 0.0206228,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "1852년",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "말버러 하우스에",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#0@AJT년 P#1@AJT에 개설된",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_OBJ",
+					"text": "P#2@MODㄴ 산업박물관을",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 5,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "모체로",
+					"begin": 5,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "VP",
+					"text": "P#3@OBJ을 P#4@AJT로 하여 발족하였다.",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3,
+						4
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "개설",
+					"sense": 1,
+					"word_id": 3,
+					"weight": 0.329443,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "1852년",
+							"weight": 0.454673
+						},
+						{
+							"type": "ARGM-LOC",
+							"word_id": 2,
+							"text": "하우스에",
+							"weight": 0.126446
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "산업박물관을",
+							"weight": 0.407211
+						}
+					]
+				},
+				{
+					"verb": "하",
+					"sense": 3,
+					"word_id": 6,
+					"weight": 0.217687,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "산업박물관을",
+							"weight": 0.237092
+						},
+						{
+							"type": "ARG2",
+							"word_id": 5,
+							"text": "모체로",
+							"weight": 0.198283
+						}
+					]
+				},
+				{
+					"verb": "발족",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.0814618,
+					"argument": [
+						{
+							"type": "ARGM-MNR",
+							"word_id": 6,
+							"text": "하여",
+							"weight": 0.0814618
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 6,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 7,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 2,
+					"type": "o",
+					"head_wid": 7,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 5,
+			"text": "그 후 종래의 자연과학 부문을 분리하여 수집품 확대에 주력하였다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "그",
+					"type": "MM",
+					"position": 512,
+					"weight": 0.026321
+				},
+				{
+					"id": 1,
+					"lemma": "후",
+					"type": "NNG",
+					"position": 516,
+					"weight": 0.734062
+				},
+				{
+					"id": 2,
+					"lemma": "종래",
+					"type": "NNG",
+					"position": 520,
+					"weight": 0.151124
+				},
+				{
+					"id": 3,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 526,
+					"weight": 0.0694213
+				},
+				{
+					"id": 4,
+					"lemma": "자연",
+					"type": "NNG",
+					"position": 530,
+					"weight": 0.840607
+				},
+				{
+					"id": 5,
+					"lemma": "과학",
+					"type": "NNG",
+					"position": 536,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "부문",
+					"type": "NNG",
+					"position": 543,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 549,
+					"weight": 0.129611
+				},
+				{
+					"id": 8,
+					"lemma": "분리",
+					"type": "NNG",
+					"position": 553,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 559,
+					"weight": 0.0001
+				},
+				{
+					"id": 10,
+					"lemma": "어",
+					"type": "EC",
+					"position": 562,
+					"weight": 0.361326
+				},
+				{
+					"id": 11,
+					"lemma": "수집",
+					"type": "NNG",
+					"position": 566,
+					"weight": 0.216919
+				},
+				{
+					"id": 12,
+					"lemma": "품",
+					"type": "XSN",
+					"position": 572,
+					"weight": 0.00270725
+				},
+				{
+					"id": 13,
+					"lemma": "확대",
+					"type": "NNG",
+					"position": 576,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 582,
+					"weight": 0.153364
+				},
+				{
+					"id": 15,
+					"lemma": "주력",
+					"type": "NNG",
+					"position": 586,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 592,
+					"weight": 0.0001
+				},
+				{
+					"id": 17,
+					"lemma": "었",
+					"type": "EP",
+					"position": 595,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "다",
+					"type": "EF",
+					"position": 598,
+					"weight": 0.640954
+				},
+				{
+					"id": 19,
+					"lemma": ".",
+					"type": "SF",
+					"position": 601,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "그",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "후",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "종래의",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "자연과학",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "부문을",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "분리하여",
+					"type": "",
+					"begin": 8,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "수집품",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 7,
+					"text": "확대에",
+					"type": "",
+					"begin": 13,
+					"end": 14
+				},
+				{
+					"id": 8,
+					"text": "주력하였다.",
+					"type": "",
+					"begin": 15,
+					"end": 19
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "그",
+					"head": 1,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.479676,
+					"mid": 64
+				},
+				{
+					"id": 1,
+					"text": "후",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						0
+					],
+					"weight": 0.81944,
+					"mid": 66
+				},
+				{
+					"id": 2,
+					"text": "종래의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.684222,
+					"mid": 68
+				},
+				{
+					"id": 3,
+					"text": "자연과학",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.607925,
+					"mid": 68
+				},
+				{
+					"id": 4,
+					"text": "부문을",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [
+						2,
+						3
+					],
+					"weight": 0.832919,
+					"mid": 66
+				},
+				{
+					"id": 5,
+					"text": "분리하여",
+					"head": 8,
+					"label": "VP",
+					"mod": [
+						1,
+						4
+					],
+					"weight": 0.79316,
+					"mid": 66
+				},
+				{
+					"id": 6,
+					"text": "수집품",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.509951,
+					"mid": 72
+				},
+				{
+					"id": 7,
+					"text": "확대에",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						6
+					],
+					"weight": 0.771738,
+					"mid": 73
+				},
+				{
+					"id": 8,
+					"text": "주력하였다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						5,
+						7
+					],
+					"weight": 0.0332106,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "그 후",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_OBJ",
+					"text": "종래의 자연과학 부문을",
+					"begin": 2,
+					"end": 4,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP",
+					"text": "P#0@AJT후 P#1@OBJ을 분리하여",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "수집품 확대에",
+					"begin": 6,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "VP",
+					"text": "P#2@VP어 P#3@AJT에 주력하였다.",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": -1,
+					"sub_phrase": [
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "분리",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.477547,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 1,
+							"text": "후",
+							"weight": 0.422653
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "부문을",
+							"weight": 0.532441
+						}
+					]
+				},
+				{
+					"verb": "주력",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.152712,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "확대에",
+							"weight": 0.152712
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 5,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 8,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 6,
+			"text": "1899년 A. 웨브의 설계로 신관(新館)을 건립할 때 빅토리아 여왕은 산업과 미술의 결합을 시도했던 망부(亡夫) 앨버트 공(公)의 유지를 구체화하기 위하여 빅토리아 앨버트 박물관으로 이름을 바꾸어 1909년에 개관하였다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "1899",
+					"type": "SN",
+					"position": 602,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 606,
+					"weight": 0.414343
+				},
+				{
+					"id": 2,
+					"lemma": "A",
+					"type": "SL",
+					"position": 610,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": ".",
+					"type": "SF",
+					"position": 611,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "웨브",
+					"type": "NNP",
+					"position": 613,
+					"weight": 0.05
+				},
+				{
+					"id": 5,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 619,
+					"weight": 0.0987295
+				},
+				{
+					"id": 6,
+					"lemma": "설계",
+					"type": "NNG",
+					"position": 623,
+					"weight": 0.870195
+				},
+				{
+					"id": 7,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 629,
+					"weight": 0.153229
+				},
+				{
+					"id": 8,
+					"lemma": "신관",
+					"type": "NNG",
+					"position": 633,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "(",
+					"type": "SS",
+					"position": 639,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": "新館",
+					"type": "SH",
+					"position": 640,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": ")",
+					"type": "SS",
+					"position": 646,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 647,
+					"weight": 0.0336085
+				},
+				{
+					"id": 13,
+					"lemma": "건립",
+					"type": "NNG",
+					"position": 651,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 657,
+					"weight": 0.0001
+				},
+				{
+					"id": 15,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 657,
+					"weight": 0.387847
+				},
+				{
+					"id": 16,
+					"lemma": "때",
+					"type": "NNG",
+					"position": 661,
+					"weight": 0.656522
+				},
+				{
+					"id": 17,
+					"lemma": "빅토리아",
+					"type": "NNG",
+					"position": 665,
+					"weight": 0.00513444
+				},
+				{
+					"id": 18,
+					"lemma": "여왕",
+					"type": "NNG",
+					"position": 678,
+					"weight": 0.184274
+				},
+				{
+					"id": 19,
+					"lemma": "은",
+					"type": "JX",
+					"position": 684,
+					"weight": 0.0449928
+				},
+				{
+					"id": 20,
+					"lemma": "산업",
+					"type": "NNG",
+					"position": 688,
+					"weight": 0.324769
+				},
+				{
+					"id": 21,
+					"lemma": "과",
+					"type": "JC",
+					"position": 694,
+					"weight": 0.017569
+				},
+				{
+					"id": 22,
+					"lemma": "미술",
+					"type": "NNG",
+					"position": 698,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 704,
+					"weight": 0.0694213
+				},
+				{
+					"id": 24,
+					"lemma": "결합",
+					"type": "NNG",
+					"position": 708,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 714,
+					"weight": 0.129611
+				},
+				{
+					"id": 26,
+					"lemma": "시도",
+					"type": "NNG",
+					"position": 718,
+					"weight": 0.101105
+				},
+				{
+					"id": 27,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 724,
+					"weight": 0.0001
+				},
+				{
+					"id": 28,
+					"lemma": "었",
+					"type": "EP",
+					"position": 724,
+					"weight": 0.9
+				},
+				{
+					"id": 29,
+					"lemma": "던",
+					"type": "ETM",
+					"position": 727,
+					"weight": 0.107547
+				},
+				{
+					"id": 30,
+					"lemma": "망부",
+					"type": "NNG",
+					"position": 731,
+					"weight": 0.8
+				},
+				{
+					"id": 31,
+					"lemma": "(",
+					"type": "SS",
+					"position": 737,
+					"weight": 1
+				},
+				{
+					"id": 32,
+					"lemma": "亡夫",
+					"type": "SH",
+					"position": 738,
+					"weight": 1
+				},
+				{
+					"id": 33,
+					"lemma": ")",
+					"type": "SS",
+					"position": 744,
+					"weight": 1
+				},
+				{
+					"id": 34,
+					"lemma": "앨버트",
+					"type": "NNP",
+					"position": 746,
+					"weight": 0.45
+				},
+				{
+					"id": 35,
+					"lemma": "공",
+					"type": "NNG",
+					"position": 756,
+					"weight": 0.267428
+				},
+				{
+					"id": 36,
+					"lemma": "(",
+					"type": "SS",
+					"position": 759,
+					"weight": 1
+				},
+				{
+					"id": 37,
+					"lemma": "公",
+					"type": "SH",
+					"position": 760,
+					"weight": 1
+				},
+				{
+					"id": 38,
+					"lemma": ")",
+					"type": "SS",
+					"position": 763,
+					"weight": 1
+				},
+				{
+					"id": 39,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 764,
+					"weight": 0.0878251
+				},
+				{
+					"id": 40,
+					"lemma": "유지",
+					"type": "NNG",
+					"position": 768,
+					"weight": 0.744601
+				},
+				{
+					"id": 41,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 774,
+					"weight": 0.137686
+				},
+				{
+					"id": 42,
+					"lemma": "구체",
+					"type": "NNG",
+					"position": 778,
+					"weight": 0.9
+				},
+				{
+					"id": 43,
+					"lemma": "화",
+					"type": "XSN",
+					"position": 784,
+					"weight": 0.0240371
+				},
+				{
+					"id": 44,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 787,
+					"weight": 0.000102334
+				},
+				{
+					"id": 45,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 790,
+					"weight": 0.0556099
+				},
+				{
+					"id": 46,
+					"lemma": "위하",
+					"type": "VV",
+					"position": 794,
+					"weight": 0.176484
+				},
+				{
+					"id": 47,
+					"lemma": "어",
+					"type": "EC",
+					"position": 800,
+					"weight": 0.41831
+				},
+				{
+					"id": 48,
+					"lemma": "빅토리아",
+					"type": "NNG",
+					"position": 804,
+					"weight": 0.0060951
+				},
+				{
+					"id": 49,
+					"lemma": "앨버트",
+					"type": "NNP",
+					"position": 817,
+					"weight": 0.45
+				},
+				{
+					"id": 50,
+					"lemma": "박물",
+					"type": "NNG",
+					"position": 827,
+					"weight": 0.15
+				},
+				{
+					"id": 51,
+					"lemma": "관",
+					"type": "XSN",
+					"position": 833,
+					"weight": 0.0123777
+				},
+				{
+					"id": 52,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 836,
+					"weight": 0.121717
+				},
+				{
+					"id": 53,
+					"lemma": "이름",
+					"type": "NNG",
+					"position": 843,
+					"weight": 0.9
+				},
+				{
+					"id": 54,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 849,
+					"weight": 0.129611
+				},
+				{
+					"id": 55,
+					"lemma": "바꾸",
+					"type": "VV",
+					"position": 853,
+					"weight": 0.9
+				},
+				{
+					"id": 56,
+					"lemma": "어",
+					"type": "EC",
+					"position": 859,
+					"weight": 0.41831
+				},
+				{
+					"id": 57,
+					"lemma": "1909",
+					"type": "SN",
+					"position": 863,
+					"weight": 1
+				},
+				{
+					"id": 58,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 867,
+					"weight": 0.414343
+				},
+				{
+					"id": 59,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 870,
+					"weight": 0.135559
+				},
+				{
+					"id": 60,
+					"lemma": "개관",
+					"type": "NNG",
+					"position": 874,
+					"weight": 0.9
+				},
+				{
+					"id": 61,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 880,
+					"weight": 0.0001
+				},
+				{
+					"id": 62,
+					"lemma": "었",
+					"type": "EP",
+					"position": 883,
+					"weight": 0.9
+				},
+				{
+					"id": 63,
+					"lemma": "다",
+					"type": "EF",
+					"position": 886,
+					"weight": 0.640954
+				},
+				{
+					"id": 64,
+					"lemma": ".",
+					"type": "SF",
+					"position": 889,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "1899년",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "A.",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "웨브의",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "설계로",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "신관(新館)을",
+					"type": "",
+					"begin": 8,
+					"end": 12
+				},
+				{
+					"id": 5,
+					"text": "건립할",
+					"type": "",
+					"begin": 13,
+					"end": 15
+				},
+				{
+					"id": 6,
+					"text": "때",
+					"type": "",
+					"begin": 16,
+					"end": 16
+				},
+				{
+					"id": 7,
+					"text": "빅토리아",
+					"type": "",
+					"begin": 17,
+					"end": 17
+				},
+				{
+					"id": 8,
+					"text": "여왕은",
+					"type": "",
+					"begin": 18,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "산업과",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 10,
+					"text": "미술의",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 11,
+					"text": "결합을",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 12,
+					"text": "시도했던",
+					"type": "",
+					"begin": 26,
+					"end": 29
+				},
+				{
+					"id": 13,
+					"text": "망부(亡夫)",
+					"type": "",
+					"begin": 30,
+					"end": 33
+				},
+				{
+					"id": 14,
+					"text": "앨버트",
+					"type": "",
+					"begin": 34,
+					"end": 34
+				},
+				{
+					"id": 15,
+					"text": "공(公)의",
+					"type": "",
+					"begin": 35,
+					"end": 39
+				},
+				{
+					"id": 16,
+					"text": "유지를",
+					"type": "",
+					"begin": 40,
+					"end": 41
+				},
+				{
+					"id": 17,
+					"text": "구체화하기",
+					"type": "",
+					"begin": 42,
+					"end": 45
+				},
+				{
+					"id": 18,
+					"text": "위하여",
+					"type": "",
+					"begin": 46,
+					"end": 47
+				},
+				{
+					"id": 19,
+					"text": "빅토리아",
+					"type": "",
+					"begin": 48,
+					"end": 48
+				},
+				{
+					"id": 20,
+					"text": "앨버트",
+					"type": "",
+					"begin": 49,
+					"end": 49
+				},
+				{
+					"id": 21,
+					"text": "박물관으로",
+					"type": "",
+					"begin": 50,
+					"end": 52
+				},
+				{
+					"id": 22,
+					"text": "이름을",
+					"type": "",
+					"begin": 53,
+					"end": 54
+				},
+				{
+					"id": 23,
+					"text": "바꾸어",
+					"type": "",
+					"begin": 55,
+					"end": 56
+				},
+				{
+					"id": 24,
+					"text": "1909년에",
+					"type": "",
+					"begin": 57,
+					"end": 59
+				},
+				{
+					"id": 25,
+					"text": "개관하였다.",
+					"type": "",
+					"begin": 60,
+					"end": 64
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "1899년",
+					"type": "DT_YEAR",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.715486,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "웨브",
+					"type": "PS_NAME",
+					"begin": 4,
+					"end": 4,
+					"weight": 0.13408,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "빅토리아 여왕",
+					"type": "PS_NAME",
+					"begin": 17,
+					"end": 18,
+					"weight": 0.425984,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "亡夫",
+					"type": "PS_NAME",
+					"begin": 32,
+					"end": 32,
+					"weight": 0.10839,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "앨버트",
+					"type": "PS_NAME",
+					"begin": 34,
+					"end": 34,
+					"weight": 0.442171,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "공",
+					"type": "CV_SPORTS_INST",
+					"begin": 35,
+					"end": 35,
+					"weight": 0.197883,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "빅토리아 앨버트 박물관",
+					"type": "OGG_ART",
+					"begin": 48,
+					"end": 51,
+					"weight": 0.230909,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "1909년",
+					"type": "DT_YEAR",
+					"begin": 57,
+					"end": 58,
+					"weight": 0.655429,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "1899년",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.687107,
+					"mid": 75
+				},
+				{
+					"id": 1,
+					"text": "A.",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.0375825,
+					"mid": 77
+				},
+				{
+					"id": 2,
+					"text": "웨브의",
+					"head": 3,
+					"label": "NP_MOD",
+					"mod": [
+						1
+					],
+					"weight": 0.674986,
+					"mid": 79
+				},
+				{
+					"id": 3,
+					"text": "설계로",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.515253,
+					"mid": 75
+				},
+				{
+					"id": 4,
+					"text": "신관(新館)을",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.769908,
+					"mid": 75
+				},
+				{
+					"id": 5,
+					"text": "건립할",
+					"head": 6,
+					"label": "VP_MOD",
+					"mod": [
+						0,
+						3,
+						4
+					],
+					"weight": 0.699002,
+					"mid": 75
+				},
+				{
+					"id": 6,
+					"text": "때",
+					"head": 17,
+					"label": "NP_AJT",
+					"mod": [
+						5
+					],
+					"weight": 0.20719,
+					"mid": 84
+				},
+				{
+					"id": 7,
+					"text": "빅토리아",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.803696,
+					"mid": 86
+				},
+				{
+					"id": 8,
+					"text": "여왕은",
+					"head": 17,
+					"label": "NP_SBJ",
+					"mod": [
+						7
+					],
+					"weight": 0.213677,
+					"mid": 84
+				},
+				{
+					"id": 9,
+					"text": "산업과",
+					"head": 10,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.632982,
+					"mid": 89
+				},
+				{
+					"id": 10,
+					"text": "미술의",
+					"head": 11,
+					"label": "NP_MOD",
+					"mod": [
+						9
+					],
+					"weight": 0.590533,
+					"mid": 91
+				},
+				{
+					"id": 11,
+					"text": "결합을",
+					"head": 12,
+					"label": "NP_OBJ",
+					"mod": [
+						10
+					],
+					"weight": 0.783435,
+					"mid": 93
+				},
+				{
+					"id": 12,
+					"text": "시도했던",
+					"head": 15,
+					"label": "VP_MOD",
+					"mod": [
+						11
+					],
+					"weight": 0.278352,
+					"mid": 93
+				},
+				{
+					"id": 13,
+					"text": "망부(亡夫)",
+					"head": 15,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.627271,
+					"mid": 96
+				},
+				{
+					"id": 14,
+					"text": "앨버트",
+					"head": 15,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.902115,
+					"mid": 96
+				},
+				{
+					"id": 15,
+					"text": "공(公)의",
+					"head": 16,
+					"label": "NP_MOD",
+					"mod": [
+						12,
+						13,
+						14
+					],
+					"weight": 0.575857,
+					"mid": 99
+				},
+				{
+					"id": 16,
+					"text": "유지를",
+					"head": 17,
+					"label": "NP_OBJ",
+					"mod": [
+						15
+					],
+					"weight": 0.719398,
+					"mid": 84
+				},
+				{
+					"id": 17,
+					"text": "구체화하기",
+					"head": 18,
+					"label": "VP_OBJ",
+					"mod": [
+						6,
+						8,
+						16
+					],
+					"weight": 0.699292,
+					"mid": 84
+				},
+				{
+					"id": 18,
+					"text": "위하여",
+					"head": 23,
+					"label": "VP",
+					"mod": [
+						17
+					],
+					"weight": 0.794533,
+					"mid": 101
+				},
+				{
+					"id": 19,
+					"text": "빅토리아",
+					"head": 20,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.000559412,
+					"mid": 103
+				},
+				{
+					"id": 20,
+					"text": "앨버트",
+					"head": 21,
+					"label": "NP",
+					"mod": [
+						19
+					],
+					"weight": 0.718261,
+					"mid": 105
+				},
+				{
+					"id": 21,
+					"text": "박물관으로",
+					"head": 23,
+					"label": "NP_AJT",
+					"mod": [
+						20
+					],
+					"weight": 0.896721,
+					"mid": 101
+				},
+				{
+					"id": 22,
+					"text": "이름을",
+					"head": 23,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.839463,
+					"mid": 101
+				},
+				{
+					"id": 23,
+					"text": "바꾸어",
+					"head": 25,
+					"label": "VP",
+					"mod": [
+						18,
+						21,
+						22
+					],
+					"weight": 0.778704,
+					"mid": 101
+				},
+				{
+					"id": 24,
+					"text": "1909년에",
+					"head": 25,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.816795,
+					"mid": 108
+				},
+				{
+					"id": 25,
+					"text": "개관하였다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						23,
+						24
+					],
+					"weight": 2.98204e-10,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "1899년",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "A. 웨브의 설계로",
+					"begin": 1,
+					"end": 3,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "신관(新館)을",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#0@AJT년 P#1@AJT로 P#2@OBJ을 건립할",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "P#3@MODㄹ 때",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 9,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_SBJ",
+					"text": "빅토리아 여왕은",
+					"begin": 7,
+					"end": 8,
+					"key_begin": 7,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_OBJ",
+					"text": "산업과 미술의 결합을",
+					"begin": 9,
+					"end": 11,
+					"key_begin": 9,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "VP_MOD",
+					"text": "P#6@OBJ을 시도했던",
+					"begin": 9,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": 8,
+					"sub_phrase": [
+						6
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "NP_OBJ",
+					"text": "P#7@MOD던 망부(亡夫) 앨버트 공(公)의 유지를",
+					"begin": 9,
+					"end": 16,
+					"key_begin": 13,
+					"head_phrase": 9,
+					"sub_phrase": [
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "S_OBJ",
+					"text": "P#4@AJT때 P#5@SBJ은 P#8@OBJ를 구체화하기",
+					"begin": 0,
+					"end": 17,
+					"key_begin": 17,
+					"head_phrase": 10,
+					"sub_phrase": [
+						4,
+						5,
+						8
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "S",
+					"text": "S#9@OBJ기 위하여",
+					"begin": 0,
+					"end": 18,
+					"key_begin": 18,
+					"head_phrase": 13,
+					"sub_phrase": [
+						9
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 11,
+					"label": "NP_AJT",
+					"text": "빅토리아 앨버트 박물관으로",
+					"begin": 19,
+					"end": 21,
+					"key_begin": 19,
+					"head_phrase": 13,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 12,
+					"label": "NP_OBJ",
+					"text": "이름을",
+					"begin": 22,
+					"end": 22,
+					"key_begin": 22,
+					"head_phrase": 13,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 13,
+					"label": "S",
+					"text": "S#10@S어 P#11@AJT으로 P#12@OBJ을 바꾸어",
+					"begin": 0,
+					"end": 23,
+					"key_begin": 23,
+					"head_phrase": 15,
+					"sub_phrase": [
+						10,
+						11,
+						12
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 14,
+					"label": "NP_AJT",
+					"text": "1909년에",
+					"begin": 24,
+					"end": 24,
+					"key_begin": 24,
+					"head_phrase": 15,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 15,
+					"label": "S",
+					"text": "S#13@S어 P#14@AJT에 개관하였다.",
+					"begin": 0,
+					"end": 25,
+					"key_begin": 25,
+					"head_phrase": -1,
+					"sub_phrase": [
+						13,
+						14
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "건립",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.377847,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "1899년",
+							"weight": 0.615015
+						},
+						{
+							"type": "ARGM-PRD",
+							"word_id": 3,
+							"text": "설계로",
+							"weight": 0.0919293
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "신관(新館)을",
+							"weight": 0.426598
+						}
+					]
+				},
+				{
+					"verb": "시도",
+					"sense": 1,
+					"word_id": 12,
+					"weight": 0.272166,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 6,
+							"text": "때",
+							"weight": 0.396459
+						},
+						{
+							"type": "ARG1",
+							"word_id": 11,
+							"text": "결합을",
+							"weight": 0.183707
+						},
+						{
+							"type": "ARG0",
+							"word_id": 15,
+							"text": "공(公)의",
+							"weight": 0.236333
+						}
+					]
+				},
+				{
+					"verb": "구체",
+					"sense": 1,
+					"word_id": 17,
+					"weight": 0.704438,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 16,
+							"text": "유지를",
+							"weight": 0.704438
+						}
+					]
+				},
+				{
+					"verb": "위하",
+					"sense": 1,
+					"word_id": 18,
+					"weight": 0.274998,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 17,
+							"text": "구체화하기",
+							"weight": 0.274998
+						}
+					]
+				},
+				{
+					"verb": "바꾸",
+					"sense": 1,
+					"word_id": 23,
+					"weight": 0.312202,
+					"argument": [
+						{
+							"type": "ARGM-PRP",
+							"word_id": 18,
+							"text": "위하여",
+							"weight": 0.16699
+						},
+						{
+							"type": "ARG3",
+							"word_id": 21,
+							"text": "박물관으로",
+							"weight": 0.44886
+						},
+						{
+							"type": "ARG1",
+							"word_id": 22,
+							"text": "이름을",
+							"weight": 0.320757
+						}
+					]
+				},
+				{
+					"verb": "개관",
+					"sense": 1,
+					"word_id": 25,
+					"weight": 0.354887,
+					"argument": [
+						{
+							"type": "ARGM-CAU",
+							"word_id": 23,
+							"text": "바꾸어",
+							"weight": 0.132092
+						},
+						{
+							"type": "ARGM-TMP",
+							"word_id": 24,
+							"text": "1909년에",
+							"weight": 0.577681
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 5,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 23,
+					"ant_sid": 6,
+					"ant_wid": 8,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 2,
+					"type": "o",
+					"head_wid": 25,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 3,
+					"type": "s",
+					"head_wid": 25,
+					"ant_sid": 6,
+					"ant_wid": 8,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 7,
+			"text": "이후 교육 계몽기관으로도 활발히 활동하고 있으며, 부속시설로는 대규모 미술관계 도서실과 슬라이드 센터가 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이후",
+					"type": "NNG",
+					"position": 890,
+					"weight": 0.437886
+				},
+				{
+					"id": 1,
+					"lemma": "교육",
+					"type": "NNG",
+					"position": 897,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "계몽",
+					"type": "NNG",
+					"position": 904,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "기관",
+					"type": "NNG",
+					"position": 910,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 916,
+					"weight": 0.153406
+				},
+				{
+					"id": 5,
+					"lemma": "도",
+					"type": "JX",
+					"position": 922,
+					"weight": 0.0912297
+				},
+				{
+					"id": 6,
+					"lemma": "활발히",
+					"type": "MAG",
+					"position": 926,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "활동",
+					"type": "NNG",
+					"position": 936,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 942,
+					"weight": 0.0001
+				},
+				{
+					"id": 9,
+					"lemma": "고",
+					"type": "EC",
+					"position": 945,
+					"weight": 0.359917
+				},
+				{
+					"id": 10,
+					"lemma": "있",
+					"type": "VX",
+					"position": 949,
+					"weight": 0.125953
+				},
+				{
+					"id": 11,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 952,
+					"weight": 0.265281
+				},
+				{
+					"id": 12,
+					"lemma": ",",
+					"type": "SP",
+					"position": 958,
+					"weight": 1
+				},
+				{
+					"id": 13,
+					"lemma": "부속",
+					"type": "NNG",
+					"position": 960,
+					"weight": 0.9
+				},
+				{
+					"id": 14,
+					"lemma": "시설",
+					"type": "NNG",
+					"position": 966,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 972,
+					"weight": 0.153229
+				},
+				{
+					"id": 16,
+					"lemma": "는",
+					"type": "JX",
+					"position": 975,
+					"weight": 0.0387928
+				},
+				{
+					"id": 17,
+					"lemma": "대",
+					"type": "XPN",
+					"position": 979,
+					"weight": 0.000141351
+				},
+				{
+					"id": 18,
+					"lemma": "규모",
+					"type": "NNG",
+					"position": 982,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "미술",
+					"type": "NNG",
+					"position": 989,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "관계",
+					"type": "NNG",
+					"position": 995,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "도서",
+					"type": "NNG",
+					"position": 1002,
+					"weight": 0.183186
+				},
+				{
+					"id": 22,
+					"lemma": "실",
+					"type": "XSN",
+					"position": 1008,
+					"weight": 0.0165296
+				},
+				{
+					"id": 23,
+					"lemma": "과",
+					"type": "JC",
+					"position": 1011,
+					"weight": 0.0096702
+				},
+				{
+					"id": 24,
+					"lemma": "슬라이드",
+					"type": "NNG",
+					"position": 1015,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "센터",
+					"type": "NNG",
+					"position": 1028,
+					"weight": 0.9
+				},
+				{
+					"id": 26,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 1034,
+					"weight": 0.066324
+				},
+				{
+					"id": 27,
+					"lemma": "있",
+					"type": "VA",
+					"position": 1038,
+					"weight": 0.12767
+				},
+				{
+					"id": 28,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1041,
+					"weight": 0.132573
+				},
+				{
+					"id": 29,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1044,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이후",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "교육",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "계몽기관으로도",
+					"type": "",
+					"begin": 2,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "활발히",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "활동하고",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "있으며,",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "부속시설로는",
+					"type": "",
+					"begin": 13,
+					"end": 16
+				},
+				{
+					"id": 7,
+					"text": "대규모",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 8,
+					"text": "미술관계",
+					"type": "",
+					"begin": 19,
+					"end": 20
+				},
+				{
+					"id": 9,
+					"text": "도서실과",
+					"type": "",
+					"begin": 21,
+					"end": 23
+				},
+				{
+					"id": 10,
+					"text": "슬라이드",
+					"type": "",
+					"begin": 24,
+					"end": 24
+				},
+				{
+					"id": 11,
+					"text": "센터가",
+					"type": "",
+					"begin": 25,
+					"end": 26
+				},
+				{
+					"id": 12,
+					"text": "있다.",
+					"type": "",
+					"begin": 27,
+					"end": 29
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이후",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.802532,
+					"mid": 110
+				},
+				{
+					"id": 1,
+					"text": "교육",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.647386,
+					"mid": 112
+				},
+				{
+					"id": 2,
+					"text": "계몽기관으로도",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [
+						1
+					],
+					"weight": 0.811937,
+					"mid": 110
+				},
+				{
+					"id": 3,
+					"text": "활발히",
+					"head": 4,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.653201,
+					"mid": 110
+				},
+				{
+					"id": 4,
+					"text": "활동하고",
+					"head": 5,
+					"label": "VP",
+					"mod": [
+						0,
+						2,
+						3
+					],
+					"weight": 0.814921,
+					"mid": 115
+				},
+				{
+					"id": 5,
+					"text": "있으며,",
+					"head": 12,
+					"label": "VP",
+					"mod": [
+						4
+					],
+					"weight": 0.799006,
+					"mid": 115
+				},
+				{
+					"id": 6,
+					"text": "부속시설로는",
+					"head": 12,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.632573,
+					"mid": 116
+				},
+				{
+					"id": 7,
+					"text": "대규모",
+					"head": 9,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.496156,
+					"mid": 118
+				},
+				{
+					"id": 8,
+					"text": "미술관계",
+					"head": 9,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.731231,
+					"mid": 118
+				},
+				{
+					"id": 9,
+					"text": "도서실과",
+					"head": 11,
+					"label": "NP_CNJ",
+					"mod": [
+						7,
+						8
+					],
+					"weight": 0.607641,
+					"mid": 121
+				},
+				{
+					"id": 10,
+					"text": "슬라이드",
+					"head": 11,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.828941,
+					"mid": 121
+				},
+				{
+					"id": 11,
+					"text": "센터가",
+					"head": 12,
+					"label": "NP_SBJ",
+					"mod": [
+						9,
+						10
+					],
+					"weight": 0.718401,
+					"mid": 123
+				},
+				{
+					"id": 12,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						5,
+						6,
+						11
+					],
+					"weight": 0.01141,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "이후",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "교육 계몽기관으로도",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "AP",
+					"text": "활발히",
+					"begin": 3,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP",
+					"text": "P#0@AJT이후 P#1@AJT도 P#2@AP활발히 활동하고 있으며,",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 4,
+					"head_phrase": 6,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "부속시설로는",
+					"begin": 6,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_SBJ",
+					"text": "대규모 미술관계 도서실과 슬라이드 센터가",
+					"begin": 7,
+					"end": 11,
+					"key_begin": 7,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "대규모 미술관계 도서실",
+							"label": "NP_SBJ",
+							"begin": 17,
+							"end": 22,
+							"ne_type": ""
+						},
+						{
+							"text": "슬라이드 센터",
+							"label": "NP_SBJ",
+							"begin": 24,
+							"end": 25,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#3@VP으며, P#4@AJT는 P#5@SBJ가 있다.",
+					"begin": 0,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3,
+						4,
+						5
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "활동",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.380579,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "이후",
+							"weight": 0.528079
+						},
+						{
+							"type": "ARG1",
+							"word_id": 2,
+							"text": "계몽기관으로도",
+							"weight": 0.101024
+						},
+						{
+							"type": "ARGM-TMP",
+							"word_id": 3,
+							"text": "활발히",
+							"weight": 0.175589
+						},
+						{
+							"type": "AUX",
+							"word_id": 5,
+							"text": "있으며,",
+							"weight": 0.717626
+						}
+					]
+				},
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 12,
+					"weight": 0.252386,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 6,
+							"text": "부속시설로는",
+							"weight": 0.099818
+						},
+						{
+							"type": "ARG1",
+							"word_id": 11,
+							"text": "센터가",
+							"weight": 0.404955
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 4,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "a",
+					"head_wid": 6,
+					"ant_sid": 0,
+					"ant_wid": 2,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "OGG_ART",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "빅토리아 앨버트 박물관",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "빅토리아 앨버트 박물관",
+					"ne_id": 0
+				},
+				{
+					"id": 1,
+					"text": "빅토리아 앨버트 박물관Victoria and Albert Museum",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 5,
+					"start_eid_short": 0,
+					"end_eid_short": 5,
+					"text_short": "빅토리아 앨버트 박물관Victoria and Albert Museum",
+					"ne_id": 0
+				},
+				{
+					"id": 42,
+					"text": "빅토리아 앨버트 박물관",
+					"sent_id": 6,
+					"start_eid": 19,
+					"end_eid": 21,
+					"start_eid_short": 19,
+					"end_eid_short": 21,
+					"text_short": "빅토리아 앨버트 박물관",
+					"ne_id": 6
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "LCP_CAPITALCITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "영국 런던",
+					"sent_id": 1,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "영국 런던",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "영국",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "영국",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "LCP_CAPITALCITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 3,
+					"text": "영국 런던의 사우스켄싱턴",
+					"sent_id": 1,
+					"start_eid": 6,
+					"end_eid": 8,
+					"start_eid_short": 6,
+					"end_eid_short": 8,
+					"text_short": "영국 런던의 사우스켄싱턴",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "OGG_ART",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 2,
+					"text": "영국 런던의 사우스켄싱턴에 있는 미술관이다",
+					"sent_id": 1,
+					"start_eid": 6,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "미술관이다",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "OGG_ART",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 6,
+					"text": "영국 왕립박물관",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "영국 왕립박물관",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "QT_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 5,
+					"text": "영국 왕립박물관 중의 하나",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 3,
+					"start_eid_short": 0,
+					"end_eid_short": 3,
+					"text_short": "영국 왕립박물관 중의 하나",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 9,
+					"text": "중세",
+					"sent_id": 2,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "중세",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 11,
+					"text": "유럽 미술",
+					"sent_id": 2,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "유럽 미술",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 10,
+					"text": "근대",
+					"sent_id": 2,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "근대",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "LCG_CONTINENT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 12,
+					"text": "유럽",
+					"sent_id": 2,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "유럽",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 8,
+					"text": "중세부터 근대에 걸친 유럽 미술을 중심",
+					"sent_id": 2,
+					"start_eid": 4,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "중심",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "동양미술 작품",
+					"sent_id": 2,
+					"start_eid": 10,
+					"end_eid": 11,
+					"start_eid_short": 10,
+					"end_eid_short": 11,
+					"text_short": "동양미술 작품",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "FD_ART",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "동양미술",
+					"sent_id": 2,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "동양미술",
+					"ne_id": 6
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 15,
+					"text": "장식미술 공예분야",
+					"sent_id": 3,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "장식미술 공예분야",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "FD_ART",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 16,
+					"text": "장식미술",
+					"sent_id": 3,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "장식미술",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 19,
+					"text": "내용",
+					"sent_id": 3,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "내용",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 18,
+					"text": "세계적 규모",
+					"sent_id": 3,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "세계적 규모",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 17,
+					"text": "세계적 규모와 내용",
+					"sent_id": 3,
+					"start_eid": 3,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "내용",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 20,
+					"text": "1852년 말버러 하우스에 개설된 산업박물관",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "산업박물관",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "1852년",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "1852년",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 22,
+					"text": "말버러 하우스",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "말버러 하우스",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "말버러",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "말버러",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 24,
+					"text": "모체",
+					"sent_id": 4,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "모체",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 25,
+					"text": "그 후",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "그 후",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 26,
+					"text": "종래의 자연과학 부문",
+					"sent_id": 5,
+					"start_eid": 2,
+					"end_eid": 4,
+					"start_eid_short": 2,
+					"end_eid_short": 4,
+					"text_short": "종래의 자연과학 부문",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 27,
+					"text": "종래",
+					"sent_id": 5,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "종래",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 28,
+					"text": "자연과학",
+					"sent_id": 5,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "자연과학",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 28,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 29,
+					"text": "수집품 확대",
+					"sent_id": 5,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "수집품 확대",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 29,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 30,
+					"text": "수집품",
+					"sent_id": 5,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "수집품",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 30,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 31,
+					"text": "1899년",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "1899년",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 31,
+			"type": "PS_NAME",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 33,
+					"text": "A 웨브",
+					"sent_id": 6,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "A 웨브",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 32,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 32,
+					"text": "A 웨브의 설계",
+					"sent_id": 6,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 1,
+					"end_eid_short": 3,
+					"text_short": "A 웨브의 설계",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 33,
+			"type": "PS_NAME",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "빅토리아 여왕",
+					"sent_id": 6,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "빅토리아 여왕",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 34,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 38,
+					"text": "산업",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "산업",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 35,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 37,
+					"text": "산업과 미술의 결합",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 11,
+					"start_eid_short": 10,
+					"end_eid_short": 11,
+					"text_short": "미술의 결합",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 36,
+			"type": "PS_NAME",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 40,
+					"text": "망부亡夫",
+					"sent_id": 6,
+					"start_eid": 13,
+					"end_eid": 13,
+					"start_eid_short": 13,
+					"end_eid_short": 13,
+					"text_short": "망부亡夫",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 37,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "산업과 미술의 결합을 시도했던 망부亡夫 앨버트 공公의 유지",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 16,
+					"start_eid_short": 13,
+					"end_eid_short": 16,
+					"text_short": "망부亡夫 앨버트 공公의 유지",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 38,
+			"type": "CV_SPORTS_INST",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 41,
+					"text": "앨버트 공公",
+					"sent_id": 6,
+					"start_eid": 14,
+					"end_eid": 15,
+					"start_eid_short": 14,
+					"end_eid_short": 15,
+					"text_short": "앨버트 공公",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 39,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 43,
+					"text": "이름",
+					"sent_id": 6,
+					"start_eid": 22,
+					"end_eid": 22,
+					"start_eid_short": 22,
+					"end_eid_short": 22,
+					"text_short": "이름",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 40,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 44,
+					"text": "1909년",
+					"sent_id": 6,
+					"start_eid": 24,
+					"end_eid": 24,
+					"start_eid_short": 24,
+					"end_eid_short": 24,
+					"text_short": "1909년",
+					"ne_id": 7
+				}
+			]
+		},
+		{
+			"id": 41,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 45,
+					"text": "교육 계몽기관",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "교육 계몽기관",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 42,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 46,
+					"text": "교육",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "교육",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 43,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 47,
+					"text": "부속시설",
+					"sent_id": 7,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "부속시설",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 44,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 49,
+					"text": "대규모 미술관계 도서실",
+					"sent_id": 7,
+					"start_eid": 7,
+					"end_eid": 9,
+					"start_eid_short": 7,
+					"end_eid_short": 9,
+					"text_short": "대규모 미술관계 도서실",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 45,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 50,
+					"text": "대규모",
+					"sent_id": 7,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "대규모",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 46,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 51,
+					"text": "미술관계",
+					"sent_id": 7,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "미술관계",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 47,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 48,
+					"text": "대규모 미술관계 도서실과 슬라이드 센터",
+					"sent_id": 7,
+					"start_eid": 7,
+					"end_eid": 11,
+					"start_eid_short": 10,
+					"end_eid_short": 11,
+					"text_short": "슬라이드 센터",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 48,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 52,
+					"text": "슬라이드 센터",
+					"sent_id": 7,
+					"start_eid": 10,
+					"end_eid": 11,
+					"start_eid_short": 10,
+					"end_eid_short": 11,
+					"text_short": "슬라이드 센터",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 49,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 39,
+					"text": "미술",
+					"sent_id": 6,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "미술",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 50,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "신관新館",
+					"sent_id": 6,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "신관新館",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 51,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 53,
+					"text": "슬라이드",
+					"sent_id": 7,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "슬라이드",
+					"ne_id": -1
+				}
+			]
+		}
+	]
+}

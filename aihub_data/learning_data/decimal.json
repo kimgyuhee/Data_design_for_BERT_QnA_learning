@@ -1,0 +1,1756 @@
+{
+	"title": {
+		"text": "소수 (수론)",
+		"NE": "none"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 4,
+		"num_word": 29
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "소수 (수론)",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "소수",
+					"type": "NNG",
+					"position": 0,
+					"weight": 0.434311
+				},
+				{
+					"id": 1,
+					"lemma": "(",
+					"type": "SS",
+					"position": 7,
+					"weight": 1
+				},
+				{
+					"id": 2,
+					"lemma": "수론",
+					"type": "NNG",
+					"position": 8,
+					"weight": 0.25
+				},
+				{
+					"id": 3,
+					"lemma": ")",
+					"type": "SS",
+					"position": 14,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "소수",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "(수론)",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "소수",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.789736,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "(수론)",
+					"head": -1,
+					"label": "NP_PRN",
+					"mod": [
+						0
+					],
+					"weight": 0.0622276,
+					"mid": 2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_PRN",
+					"text": "소수 (수론)",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "소수(素數, 발음: 소쑤)는 양의 약수가 1과 자기 자신 뿐인 1보다 큰 자연수로 정의된다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "소수",
+					"type": "NNG",
+					"position": 15,
+					"weight": 0.434311
+				},
+				{
+					"id": 1,
+					"lemma": "(",
+					"type": "SS",
+					"position": 21,
+					"weight": 1
+				},
+				{
+					"id": 2,
+					"lemma": "素數",
+					"type": "SH",
+					"position": 22,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": ",",
+					"type": "SP",
+					"position": 28,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "발음",
+					"type": "NNG",
+					"position": 30,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": ":",
+					"type": "SP",
+					"position": 36,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "소쑤",
+					"type": "NNP",
+					"position": 38,
+					"weight": 0.6
+				},
+				{
+					"id": 7,
+					"lemma": ")",
+					"type": "SS",
+					"position": 44,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "는",
+					"type": "JX",
+					"position": 45,
+					"weight": 0.00823314
+				},
+				{
+					"id": 9,
+					"lemma": "양",
+					"type": "NNG",
+					"position": 49,
+					"weight": 0.180669
+				},
+				{
+					"id": 10,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 52,
+					"weight": 0.0694213
+				},
+				{
+					"id": 11,
+					"lemma": "약수",
+					"type": "NNG",
+					"position": 56,
+					"weight": 0.858035
+				},
+				{
+					"id": 12,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 62,
+					"weight": 0.066324
+				},
+				{
+					"id": 13,
+					"lemma": "1",
+					"type": "SN",
+					"position": 66,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": "과",
+					"type": "JC",
+					"position": 67,
+					"weight": 0.000241365
+				},
+				{
+					"id": 15,
+					"lemma": "자기",
+					"type": "NP",
+					"position": 71,
+					"weight": 0.0105232
+				},
+				{
+					"id": 16,
+					"lemma": "자신",
+					"type": "NNG",
+					"position": 78,
+					"weight": 0.0705224
+				},
+				{
+					"id": 17,
+					"lemma": "뿐",
+					"type": "NNB",
+					"position": 85,
+					"weight": 0.0105035
+				},
+				{
+					"id": 18,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 88,
+					"weight": 0.0607843
+				},
+				{
+					"id": 19,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 88,
+					"weight": 0.220712
+				},
+				{
+					"id": 20,
+					"lemma": "1",
+					"type": "SN",
+					"position": 92,
+					"weight": 1
+				},
+				{
+					"id": 21,
+					"lemma": "보다",
+					"type": "JKB",
+					"position": 93,
+					"weight": 0.00370202
+				},
+				{
+					"id": 22,
+					"lemma": "크",
+					"type": "VA",
+					"position": 100,
+					"weight": 0.0717949
+				},
+				{
+					"id": 23,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 100,
+					"weight": 0.430446
+				},
+				{
+					"id": 24,
+					"lemma": "자연",
+					"type": "NNG",
+					"position": 104,
+					"weight": 0.635529
+				},
+				{
+					"id": 25,
+					"lemma": "수",
+					"type": "NNG",
+					"position": 110,
+					"weight": 0.00933311
+				},
+				{
+					"id": 26,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 113,
+					"weight": 0.153229
+				},
+				{
+					"id": 27,
+					"lemma": "정의",
+					"type": "NNG",
+					"position": 117,
+					"weight": 0.206237
+				},
+				{
+					"id": 28,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 123,
+					"weight": 0.000224177
+				},
+				{
+					"id": 29,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 123,
+					"weight": 0.0449045
+				},
+				{
+					"id": 30,
+					"lemma": ".",
+					"type": "SF",
+					"position": 129,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "소수(素數,",
+					"type": "",
+					"begin": 0,
+					"end": 3
+				},
+				{
+					"id": 1,
+					"text": "발음:",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "소쑤)는",
+					"type": "",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 3,
+					"text": "양의",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 4,
+					"text": "약수가",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 5,
+					"text": "1과",
+					"type": "",
+					"begin": 13,
+					"end": 14
+				},
+				{
+					"id": 6,
+					"text": "자기",
+					"type": "",
+					"begin": 15,
+					"end": 15
+				},
+				{
+					"id": 7,
+					"text": "자신",
+					"type": "",
+					"begin": 16,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "뿐인",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "1보다",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 10,
+					"text": "큰",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 11,
+					"text": "자연수로",
+					"type": "",
+					"begin": 24,
+					"end": 26
+				},
+				{
+					"id": 12,
+					"text": "정의된다.",
+					"type": "",
+					"begin": 27,
+					"end": 30
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "소쑤",
+					"type": "PS_NAME",
+					"begin": 6,
+					"end": 6,
+					"weight": 0.14256,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "1",
+					"type": "QT_OTHERS",
+					"begin": 13,
+					"end": 13,
+					"weight": 0.409575,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "1",
+					"type": "QT_OTHERS",
+					"begin": 20,
+					"end": 20,
+					"weight": 0.443179,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "소수(素數,",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.510083,
+					"mid": 4
+				},
+				{
+					"id": 1,
+					"text": "발음:",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.549388,
+					"mid": 4
+				},
+				{
+					"id": 2,
+					"text": "소쑤)는",
+					"head": 12,
+					"label": "NP_SBJ",
+					"mod": [
+						0,
+						1
+					],
+					"weight": 0.683571,
+					"mid": 6
+				},
+				{
+					"id": 3,
+					"text": "양의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.609815,
+					"mid": 8
+				},
+				{
+					"id": 4,
+					"text": "약수가",
+					"head": 12,
+					"label": "NP_SBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.777194,
+					"mid": 9
+				},
+				{
+					"id": 5,
+					"text": "1과",
+					"head": 7,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.0909836,
+					"mid": 11
+				},
+				{
+					"id": 6,
+					"text": "자기",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.778113,
+					"mid": 11
+				},
+				{
+					"id": 7,
+					"text": "자신",
+					"head": 8,
+					"label": "NP",
+					"mod": [
+						5,
+						6
+					],
+					"weight": 0.685535,
+					"mid": 14
+				},
+				{
+					"id": 8,
+					"text": "뿐인",
+					"head": 9,
+					"label": "VNP_MOD",
+					"mod": [
+						7
+					],
+					"weight": 0.155147,
+					"mid": 15
+				},
+				{
+					"id": 9,
+					"text": "1보다",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [
+						8
+					],
+					"weight": 0.300275,
+					"mid": 17
+				},
+				{
+					"id": 10,
+					"text": "큰",
+					"head": 11,
+					"label": "VP_MOD",
+					"mod": [
+						9
+					],
+					"weight": 0.420531,
+					"mid": 17
+				},
+				{
+					"id": 11,
+					"text": "자연수로",
+					"head": 12,
+					"label": "NP_AJT",
+					"mod": [
+						10
+					],
+					"weight": 0.833187,
+					"mid": 19
+				},
+				{
+					"id": 12,
+					"text": "정의된다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						2,
+						4,
+						11
+					],
+					"weight": 0.0000662679,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "소수(素數, 발음: 소쑤)는",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "양의 약수가",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VNP_MOD",
+					"text": "1과 자기 자신 뿐인",
+					"begin": 5,
+					"end": 8,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "P#2@MODㄴ 1보다",
+					"begin": 5,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "VP_MOD",
+					"text": "P#3@AJT보다 큰",
+					"begin": 5,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "P#4@MODㄴ 자연수로",
+					"begin": 5,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#0@SBJ는 P#1@SBJ가 P#5@AJT로 정의된다.",
+					"begin": 0,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1,
+						5
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "크",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.344022,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 11,
+							"text": "자연수로",
+							"weight": 0.344022
+						}
+					]
+				},
+				{
+					"verb": "정의",
+					"sense": 1,
+					"word_id": 12,
+					"weight": 0.218081,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 2,
+							"text": "소쑤)는",
+							"weight": 0.182851
+						},
+						{
+							"type": "ARG2",
+							"word_id": 11,
+							"text": "자연수로",
+							"weight": 0.253311
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 2,
+			"text": "정수론에서 매우 중요한 역할을 담당한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "정수",
+					"type": "NNG",
+					"position": 130,
+					"weight": 0.404383
+				},
+				{
+					"id": 1,
+					"lemma": "론",
+					"type": "XSN",
+					"position": 136,
+					"weight": 0.0338336
+				},
+				{
+					"id": 2,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 139,
+					"weight": 0.121718
+				},
+				{
+					"id": 3,
+					"lemma": "매우",
+					"type": "MAG",
+					"position": 146,
+					"weight": 0.0558577
+				},
+				{
+					"id": 4,
+					"lemma": "중요",
+					"type": "NNG",
+					"position": 153,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "하",
+					"type": "XSA",
+					"position": 159,
+					"weight": 0.0001
+				},
+				{
+					"id": 6,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 159,
+					"weight": 0.488779
+				},
+				{
+					"id": 7,
+					"lemma": "역할",
+					"type": "NNG",
+					"position": 163,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 169,
+					"weight": 0.129611
+				},
+				{
+					"id": 9,
+					"lemma": "담당",
+					"type": "NNG",
+					"position": 173,
+					"weight": 0.101301
+				},
+				{
+					"id": 10,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 179,
+					"weight": 0.0001
+				},
+				{
+					"id": 11,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 179,
+					"weight": 0.0449045
+				},
+				{
+					"id": 12,
+					"lemma": ".",
+					"type": "SF",
+					"position": 185,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "정수론에서",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "매우",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "중요한",
+					"type": "",
+					"begin": 4,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "역할을",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "담당한다.",
+					"type": "",
+					"begin": 9,
+					"end": 12
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "정수론",
+					"type": "TR_SCIENCE",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.214257,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "정수론에서",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.825257,
+					"mid": 20
+				},
+				{
+					"id": 1,
+					"text": "매우",
+					"head": 2,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.65448,
+					"mid": 22
+				},
+				{
+					"id": 2,
+					"text": "중요한",
+					"head": 3,
+					"label": "VP_MOD",
+					"mod": [
+						1
+					],
+					"weight": 0.735845,
+					"mid": 22
+				},
+				{
+					"id": 3,
+					"text": "역할을",
+					"head": 4,
+					"label": "NP_OBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.852114,
+					"mid": 24
+				},
+				{
+					"id": 4,
+					"text": "담당한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						0,
+						3
+					],
+					"weight": 0.30921,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "정수론에서",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "AP",
+					"text": "매우",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@AP매우 중요한",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_OBJ",
+					"text": "P#2@MODㄴ 역할을",
+					"begin": 1,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "VP",
+					"text": "P#0@AJT에서 P#3@OBJ을 담당한다.",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "중요",
+					"sense": 1,
+					"word_id": 2,
+					"weight": 0.292809,
+					"argument": [
+						{
+							"type": "ARGM-EXT",
+							"word_id": 0,
+							"text": "정수론에서",
+							"weight": 0.143036
+						},
+						{
+							"type": "ARGM-EXT",
+							"word_id": 1,
+							"text": "매우",
+							"weight": 0.446659
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "역할을",
+							"weight": 0.288732
+						}
+					]
+				},
+				{
+					"verb": "담당",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.291874,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 0,
+							"text": "정수론에서",
+							"weight": 0.173488
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "역할을",
+							"weight": 0.41026
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 4,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "현재에 와서는 암호 분야에서의 사용으로 그 중요성이 부각되고 있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "현재",
+					"type": "NNG",
+					"position": 186,
+					"weight": 0.176093
+				},
+				{
+					"id": 1,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 192,
+					"weight": 0.153364
+				},
+				{
+					"id": 2,
+					"lemma": "오",
+					"type": "VV",
+					"position": 196,
+					"weight": 0.227595
+				},
+				{
+					"id": 3,
+					"lemma": "아서",
+					"type": "EC",
+					"position": 196,
+					"weight": 0.428178
+				},
+				{
+					"id": 4,
+					"lemma": "는",
+					"type": "JX",
+					"position": 202,
+					"weight": 0.0115393
+				},
+				{
+					"id": 5,
+					"lemma": "암호",
+					"type": "NNG",
+					"position": 206,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "분야",
+					"type": "NNG",
+					"position": 213,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 219,
+					"weight": 0.153407
+				},
+				{
+					"id": 8,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 225,
+					"weight": 0.00917577
+				},
+				{
+					"id": 9,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 229,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 235,
+					"weight": 0.153406
+				},
+				{
+					"id": 11,
+					"lemma": "그",
+					"type": "MM",
+					"position": 242,
+					"weight": 0.0101525
+				},
+				{
+					"id": 12,
+					"lemma": "중요",
+					"type": "NNG",
+					"position": 246,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "성",
+					"type": "XSN",
+					"position": 252,
+					"weight": 0.0161708
+				},
+				{
+					"id": 14,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 255,
+					"weight": 0.0731805
+				},
+				{
+					"id": 15,
+					"lemma": "부각",
+					"type": "NNG",
+					"position": 259,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 265,
+					"weight": 0.000224177
+				},
+				{
+					"id": 17,
+					"lemma": "고",
+					"type": "EC",
+					"position": 268,
+					"weight": 0.359917
+				},
+				{
+					"id": 18,
+					"lemma": "있",
+					"type": "VX",
+					"position": 272,
+					"weight": 0.125953
+				},
+				{
+					"id": 19,
+					"lemma": "다",
+					"type": "EF",
+					"position": 275,
+					"weight": 0.180366
+				},
+				{
+					"id": 20,
+					"lemma": ".",
+					"type": "SF",
+					"position": 278,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "현재에",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "와서는",
+					"type": "",
+					"begin": 2,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"text": "암호",
+					"type": "",
+					"begin": 5,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "분야에서의",
+					"type": "",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "사용으로",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "그",
+					"type": "",
+					"begin": 11,
+					"end": 11
+				},
+				{
+					"id": 6,
+					"text": "중요성이",
+					"type": "",
+					"begin": 12,
+					"end": 14
+				},
+				{
+					"id": 7,
+					"text": "부각되고",
+					"type": "",
+					"begin": 15,
+					"end": 17
+				},
+				{
+					"id": 8,
+					"text": "있다.",
+					"type": "",
+					"begin": 18,
+					"end": 20
+				}
+			],
+			"NE": [],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "현재에",
+					"head": 1,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.806155,
+					"mid": 26
+				},
+				{
+					"id": 1,
+					"text": "와서는",
+					"head": 7,
+					"label": "VP",
+					"mod": [
+						0
+					],
+					"weight": 0.738748,
+					"mid": 27
+				},
+				{
+					"id": 2,
+					"text": "암호",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.668417,
+					"mid": 29
+				},
+				{
+					"id": 3,
+					"text": "분야에서의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [
+						2
+					],
+					"weight": 0.811255,
+					"mid": 31
+				},
+				{
+					"id": 4,
+					"text": "사용으로",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [
+						3
+					],
+					"weight": 0.797314,
+					"mid": 27
+				},
+				{
+					"id": 5,
+					"text": "그",
+					"head": 6,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.652988,
+					"mid": 34
+				},
+				{
+					"id": 6,
+					"text": "중요성이",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						5
+					],
+					"weight": 0.844362,
+					"mid": 27
+				},
+				{
+					"id": 7,
+					"text": "부각되고",
+					"head": 8,
+					"label": "VP",
+					"mod": [
+						1,
+						4,
+						6
+					],
+					"weight": 0.820545,
+					"mid": 27
+				},
+				{
+					"id": 8,
+					"text": "있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						7
+					],
+					"weight": 0.0880465,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "현재에",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "VP",
+					"text": "P#0@AJT에 와서는",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "암호 분야에서의 사용으로",
+					"begin": 2,
+					"end": 4,
+					"key_begin": 2,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "그 중요성이",
+					"begin": 5,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#1@VP는 P#2@AJT으로 P#3@SBJ이 부각되고 있다.",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 7,
+					"head_phrase": -1,
+					"sub_phrase": [
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "오",
+					"sense": 1,
+					"word_id": 1,
+					"weight": 0.18349,
+					"argument": [
+						{
+							"type": "ARG3",
+							"word_id": 0,
+							"text": "현재에",
+							"weight": 0.18349
+						}
+					]
+				},
+				{
+					"verb": "부각",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.387543,
+					"argument": [
+						{
+							"type": "ARGM-CAU",
+							"word_id": 4,
+							"text": "사용으로",
+							"weight": 0.152461
+						},
+						{
+							"type": "ARG1",
+							"word_id": 6,
+							"text": "중요성이",
+							"weight": 0.301655
+						},
+						{
+							"type": "AUX",
+							"word_id": 8,
+							"text": "있다.",
+							"weight": 0.708513
+						}
+					]
+				}
+			],
+			"ZA": []
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "소수",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "소수"
+				},
+				{
+					"id": 1,
+					"text": "소수素數 발음 소쑤",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "소수素數 발음 소쑤"
+				},
+				{
+					"id": 2,
+					"text": "양의 약수가 1과 자기 자신 뿐인 1보다 큰 자연수",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "자연수"
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 3,
+					"text": "양의 약수",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "양의 약수"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "양",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "양"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "QT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 6,
+					"text": "1",
+					"sent_id": 1,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "1"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "TR_SCIENCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 8,
+					"text": "정수론",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "정수론"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 9,
+					"text": "매우 중요한 역할",
+					"sent_id": 2,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "역할"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 10,
+					"text": "현재",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "현재"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 12,
+					"text": "암호 분야",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "암호 분야"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "암호",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "암호"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 11,
+					"text": "암호 분야에서의 사용",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 4,
+					"start_eid_short": 2,
+					"end_eid_short": 4,
+					"text_short": "암호 분야에서의 사용"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "그 중요성",
+					"sent_id": 3,
+					"start_eid": 5,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "그 중요성"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 5,
+					"text": "1과 자기 자신",
+					"sent_id": 1,
+					"start_eid": 5,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "자기 자신"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "QT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "1",
+					"sent_id": 1,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "1",
+					"ne_id": -1
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,4141 @@
+{
+	"title": {
+		"text": "ABC (미국의 방송사)",
+		"NE": "LCP_COUNTRY"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 7,
+		"num_word": 68
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "ABC (미국의 방송사)",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "ABC",
+					"type": "SL",
+					"position": 0,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "(",
+					"type": "SS",
+					"position": 4,
+					"weight": 1
+				},
+				{
+					"id": 2,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 5,
+					"weight": 0.0674526
+				},
+				{
+					"id": 3,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 11,
+					"weight": 0.0987295
+				},
+				{
+					"id": 4,
+					"lemma": "방송",
+					"type": "NNG",
+					"position": 15,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "사",
+					"type": "XSN",
+					"position": 21,
+					"weight": 0.00634534
+				},
+				{
+					"id": 6,
+					"lemma": ")",
+					"type": "SS",
+					"position": 24,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "ABC",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "(미국의",
+					"type": "",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "방송사)",
+					"type": "",
+					"begin": 4,
+					"end": 6
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "ABC",
+					"type": "OGG_MEDIA",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.243025,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.804475,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "방송사",
+					"type": "OGG_MEDIA",
+					"begin": 4,
+					"end": 5,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "ABC",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.775344,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "(미국의",
+					"head": 2,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.62944,
+					"mid": 1
+				},
+				{
+					"id": 2,
+					"text": "방송사)",
+					"head": -1,
+					"label": "NP",
+					"mod": [
+						0,
+						1
+					],
+					"weight": 0.35134,
+					"mid": 3
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "ABC (미국의 방송사)",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "미국방송회사(美國放送協會)는 미국의 텔레비전, 라디오 방송을 운영하는 방송사이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 25,
+					"weight": 0.0892934
+				},
+				{
+					"id": 1,
+					"lemma": "방송",
+					"type": "NNG",
+					"position": 31,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "회사",
+					"type": "NNG",
+					"position": 37,
+					"weight": 0.184812
+				},
+				{
+					"id": 3,
+					"lemma": "(",
+					"type": "SS",
+					"position": 43,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "美國放送協會",
+					"type": "SH",
+					"position": 44,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": ")",
+					"type": "SS",
+					"position": 62,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "는",
+					"type": "JX",
+					"position": 63,
+					"weight": 0.00823314
+				},
+				{
+					"id": 7,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 67,
+					"weight": 0.0448659
+				},
+				{
+					"id": 8,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 73,
+					"weight": 0.0987295
+				},
+				{
+					"id": 9,
+					"lemma": "텔레비전",
+					"type": "NNG",
+					"position": 77,
+					"weight": 0.870987
+				},
+				{
+					"id": 10,
+					"lemma": ",",
+					"type": "SP",
+					"position": 89,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": "라디오",
+					"type": "NNG",
+					"position": 91,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "방송",
+					"type": "NNG",
+					"position": 101,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 107,
+					"weight": 0.129611
+				},
+				{
+					"id": 14,
+					"lemma": "운영",
+					"type": "NNG",
+					"position": 111,
+					"weight": 0.101348
+				},
+				{
+					"id": 15,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 117,
+					"weight": 0.0001
+				},
+				{
+					"id": 16,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 120,
+					"weight": 0.238503
+				},
+				{
+					"id": 17,
+					"lemma": "방송",
+					"type": "NNG",
+					"position": 124,
+					"weight": 0.9
+				},
+				{
+					"id": 18,
+					"lemma": "사",
+					"type": "XSN",
+					"position": 130,
+					"weight": 0.00634534
+				},
+				{
+					"id": 19,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 133,
+					"weight": 0.0165001
+				},
+				{
+					"id": 20,
+					"lemma": "다",
+					"type": "EF",
+					"position": 136,
+					"weight": 0.353579
+				},
+				{
+					"id": 21,
+					"lemma": ".",
+					"type": "SF",
+					"position": 139,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "미국방송회사(美國放送協會)는",
+					"type": "",
+					"begin": 0,
+					"end": 6
+				},
+				{
+					"id": 1,
+					"text": "미국의",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 2,
+					"text": "텔레비전,",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 3,
+					"text": "라디오",
+					"type": "",
+					"begin": 11,
+					"end": 11
+				},
+				{
+					"id": 4,
+					"text": "방송을",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 5,
+					"text": "운영하는",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 6,
+					"text": "방송사이다.",
+					"type": "",
+					"begin": 17,
+					"end": 21
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "미국방송회사",
+					"type": "OGG_MEDIA",
+					"begin": 0,
+					"end": 2,
+					"weight": 0.677088,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "美國放送協會",
+					"type": "OGG_MEDIA",
+					"begin": 4,
+					"end": 4,
+					"weight": 0.156642,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 7,
+					"end": 7,
+					"weight": 0.853141,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "텔레비전",
+					"type": "TMI_HW",
+					"begin": 9,
+					"end": 9,
+					"weight": 1,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "라디오",
+					"type": "TMI_HW",
+					"begin": 11,
+					"end": 11,
+					"weight": 0.408052,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "방송사",
+					"type": "OGG_MEDIA",
+					"begin": 17,
+					"end": 18,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "미국방송회사(美國放送協會)는",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.851071,
+					"mid": 5
+				},
+				{
+					"id": 1,
+					"text": "미국의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.691579,
+					"mid": 7
+				},
+				{
+					"id": 2,
+					"text": "텔레비전,",
+					"head": 3,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.400962,
+					"mid": 9
+				},
+				{
+					"id": 3,
+					"text": "라디오",
+					"head": 4,
+					"label": "NP",
+					"mod": [
+						2
+					],
+					"weight": 0.785151,
+					"mid": 7
+				},
+				{
+					"id": 4,
+					"text": "방송을",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [
+						1,
+						3
+					],
+					"weight": 0.810606,
+					"mid": 12
+				},
+				{
+					"id": 5,
+					"text": "운영하는",
+					"head": 6,
+					"label": "VP_MOD",
+					"mod": [
+						4
+					],
+					"weight": 0.896845,
+					"mid": 12
+				},
+				{
+					"id": 6,
+					"text": "방송사이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						0,
+						5
+					],
+					"weight": 0.116735,
+					"mid": 5
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "미국방송회사(美國放送協會)는",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_OBJ",
+					"text": "미국의 텔레비전, 라디오 방송을",
+					"begin": 1,
+					"end": 4,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@OBJ을 운영하는",
+					"begin": 1,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@SBJ는 P#2@MOD는 방송사이다.",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						2
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "방송사",
+							"label": "NP",
+							"begin": 17,
+							"end": 18,
+							"ne_type": "OGG_MEDIA"
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 19,
+							"end": 21,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "운영",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.180893,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "방송을",
+							"weight": 0.219183
+						},
+						{
+							"type": "ARG0",
+							"word_id": 6,
+							"text": "방송사이다.",
+							"weight": 0.142602
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 2,
+			"text": "1948년 4월 19일에 텔레비전 방송을 시작하였다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "1948",
+					"type": "SN",
+					"position": 140,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 144,
+					"weight": 0.414343
+				},
+				{
+					"id": 2,
+					"lemma": "4",
+					"type": "SN",
+					"position": 148,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": "월",
+					"type": "NNB",
+					"position": 149,
+					"weight": 0.408539
+				},
+				{
+					"id": 4,
+					"lemma": "19",
+					"type": "SN",
+					"position": 153,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "일",
+					"type": "NNB",
+					"position": 155,
+					"weight": 0.126777
+				},
+				{
+					"id": 6,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 158,
+					"weight": 0.135559
+				},
+				{
+					"id": 7,
+					"lemma": "텔레비전",
+					"type": "NNG",
+					"position": 162,
+					"weight": 0.207938
+				},
+				{
+					"id": 8,
+					"lemma": "방송",
+					"type": "NNG",
+					"position": 175,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 181,
+					"weight": 0.129611
+				},
+				{
+					"id": 10,
+					"lemma": "시작",
+					"type": "NNG",
+					"position": 185,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 191,
+					"weight": 0.0001
+				},
+				{
+					"id": 12,
+					"lemma": "었",
+					"type": "EP",
+					"position": 194,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "다",
+					"type": "EF",
+					"position": 197,
+					"weight": 0.640954
+				},
+				{
+					"id": 14,
+					"lemma": ".",
+					"type": "SF",
+					"position": 200,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "1948년",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "4월",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "19일에",
+					"type": "",
+					"begin": 4,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "텔레비전",
+					"type": "",
+					"begin": 7,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "방송을",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "시작하였다.",
+					"type": "",
+					"begin": 10,
+					"end": 14
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "1948년 4월 19일",
+					"type": "DT_OTHERS",
+					"begin": 0,
+					"end": 5,
+					"weight": 0.805113,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "텔레비전",
+					"type": "TMI_HW",
+					"begin": 7,
+					"end": 7,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "1948년",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.612837,
+					"mid": 15
+				},
+				{
+					"id": 1,
+					"text": "4월",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.76775,
+					"mid": 17
+				},
+				{
+					"id": 2,
+					"text": "19일에",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						1
+					],
+					"weight": 0.8628,
+					"mid": 18
+				},
+				{
+					"id": 3,
+					"text": "텔레비전",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.73481,
+					"mid": 20
+				},
+				{
+					"id": 4,
+					"text": "방송을",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.724851,
+					"mid": 21
+				},
+				{
+					"id": 5,
+					"text": "시작하였다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						2,
+						4
+					],
+					"weight": 0.181722,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "1948년 4월 19일에",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_OBJ",
+					"text": "텔레비전 방송을",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP",
+					"text": "P#0@AJT에 P#1@OBJ을 시작하였다.",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "시작",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.323593,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 2,
+							"text": "19일에",
+							"weight": 0.422487
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "방송을",
+							"weight": 0.224698
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 5,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "현재 월트 디즈니 컴퍼니가 소유하고 있으며, 디즈니-ABC 텔레비전 그룹에 속해있다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "현재",
+					"type": "MAG",
+					"position": 201,
+					"weight": 0.0393399
+				},
+				{
+					"id": 1,
+					"lemma": "월트",
+					"type": "NNP",
+					"position": 208,
+					"weight": 0.4
+				},
+				{
+					"id": 2,
+					"lemma": "디즈니",
+					"type": "NNP",
+					"position": 215,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "컴퍼니",
+					"type": "NNG",
+					"position": 225,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 234,
+					"weight": 0.066324
+				},
+				{
+					"id": 5,
+					"lemma": "소유",
+					"type": "NNG",
+					"position": 238,
+					"weight": 0.209021
+				},
+				{
+					"id": 6,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 244,
+					"weight": 0.0001
+				},
+				{
+					"id": 7,
+					"lemma": "고",
+					"type": "EC",
+					"position": 247,
+					"weight": 0.359917
+				},
+				{
+					"id": 8,
+					"lemma": "있",
+					"type": "VX",
+					"position": 251,
+					"weight": 0.125953
+				},
+				{
+					"id": 9,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 254,
+					"weight": 0.265281
+				},
+				{
+					"id": 10,
+					"lemma": ",",
+					"type": "SP",
+					"position": 260,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": "디즈니",
+					"type": "NNP",
+					"position": 262,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "-",
+					"type": "SS",
+					"position": 271,
+					"weight": 1
+				},
+				{
+					"id": 13,
+					"lemma": "ABC",
+					"type": "SL",
+					"position": 272,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": "텔레비전",
+					"type": "NNG",
+					"position": 276,
+					"weight": 0.173352
+				},
+				{
+					"id": 15,
+					"lemma": "그룹",
+					"type": "NNG",
+					"position": 289,
+					"weight": 0.184738
+				},
+				{
+					"id": 16,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 295,
+					"weight": 0.153364
+				},
+				{
+					"id": 17,
+					"lemma": "속",
+					"type": "NNG",
+					"position": 299,
+					"weight": 0.205064
+				},
+				{
+					"id": 18,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 302,
+					"weight": 0.0001
+				},
+				{
+					"id": 19,
+					"lemma": "어",
+					"type": "EC",
+					"position": 302,
+					"weight": 0.361326
+				},
+				{
+					"id": 20,
+					"lemma": "있",
+					"type": "VX",
+					"position": 305,
+					"weight": 0.125953
+				},
+				{
+					"id": 21,
+					"lemma": "다",
+					"type": "EF",
+					"position": 308,
+					"weight": 0.180366
+				},
+				{
+					"id": 22,
+					"lemma": ".",
+					"type": "SF",
+					"position": 311,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "현재",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "월트",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "디즈니",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 3,
+					"text": "컴퍼니가",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 4,
+					"text": "소유하고",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "있으며,",
+					"type": "",
+					"begin": 8,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "디즈니-ABC",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "텔레비전",
+					"type": "",
+					"begin": 14,
+					"end": 14
+				},
+				{
+					"id": 8,
+					"text": "그룹에",
+					"type": "",
+					"begin": 15,
+					"end": 16
+				},
+				{
+					"id": 9,
+					"text": "속해있다.",
+					"type": "",
+					"begin": 17,
+					"end": 22
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "월트 디즈니 컴퍼니",
+					"type": "OGG_ECONOMY",
+					"begin": 1,
+					"end": 3,
+					"weight": 0.523419,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "디즈니-ABC",
+					"type": "OGG_ECONOMY",
+					"begin": 11,
+					"end": 13,
+					"weight": 0.369102,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "텔레비전",
+					"type": "TMI_HW",
+					"begin": 14,
+					"end": 14,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "현재",
+					"head": 4,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.57625,
+					"mid": 23
+				},
+				{
+					"id": 1,
+					"text": "월트",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.315388,
+					"mid": 25
+				},
+				{
+					"id": 2,
+					"text": "디즈니",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.754166,
+					"mid": 27
+				},
+				{
+					"id": 3,
+					"text": "컴퍼니가",
+					"head": 4,
+					"label": "NP_SBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.849595,
+					"mid": 23
+				},
+				{
+					"id": 4,
+					"text": "소유하고",
+					"head": 5,
+					"label": "VP",
+					"mod": [
+						0,
+						3
+					],
+					"weight": 0.744051,
+					"mid": 29
+				},
+				{
+					"id": 5,
+					"text": "있으며,",
+					"head": 9,
+					"label": "VP",
+					"mod": [
+						4
+					],
+					"weight": 0.753966,
+					"mid": 29
+				},
+				{
+					"id": 6,
+					"text": "디즈니-ABC",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.279705,
+					"mid": 31
+				},
+				{
+					"id": 7,
+					"text": "텔레비전",
+					"head": 8,
+					"label": "NP",
+					"mod": [
+						6
+					],
+					"weight": 0.708774,
+					"mid": 33
+				},
+				{
+					"id": 8,
+					"text": "그룹에",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [
+						7
+					],
+					"weight": 0.81676,
+					"mid": 34
+				},
+				{
+					"id": 9,
+					"text": "속해있다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						5,
+						8
+					],
+					"weight": 0.0055073,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "AP",
+					"text": "현재",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "월트 디즈니 컴퍼니가",
+					"begin": 1,
+					"end": 3,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@AP현재 P#1@SBJ가 소유하고 있으며,",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "디즈니-ABC 텔레비전 그룹에",
+					"begin": 6,
+					"end": 8,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "S#2@S으며, P#3@AJT에 속해있다.",
+					"begin": 0,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": -1,
+					"sub_phrase": [
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "소유",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.4342,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "현재",
+							"weight": 0.461043
+						},
+						{
+							"type": "ARG0",
+							"word_id": 3,
+							"text": "컴퍼니가",
+							"weight": 0.373662
+						},
+						{
+							"type": "AUX",
+							"word_id": 5,
+							"text": "있으며,",
+							"weight": 0.467896
+						}
+					]
+				},
+				{
+					"verb": "속",
+					"sense": 1,
+					"word_id": 9,
+					"weight": 0.429273,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "현재",
+							"weight": 0.350624
+						},
+						{
+							"type": "ARG2",
+							"word_id": 8,
+							"text": "그룹에",
+							"weight": 0.507923
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "o",
+					"head_wid": 4,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 9,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 4,
+			"text": "1939년 미국연방통신위원회는 NBC의 독점적인 시장지배를 인지하고 NBC의 두 네트워크를 NBC 레드 네트워크와 NBC 블루 네트워크 두 회사로 분리시키기로 결정했다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "1939",
+					"type": "SN",
+					"position": 312,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 316,
+					"weight": 0.414343
+				},
+				{
+					"id": 2,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 320,
+					"weight": 0.0152661
+				},
+				{
+					"id": 3,
+					"lemma": "연방",
+					"type": "NNG",
+					"position": 326,
+					"weight": 0.232411
+				},
+				{
+					"id": 4,
+					"lemma": "통신",
+					"type": "NNG",
+					"position": 332,
+					"weight": 0.184787
+				},
+				{
+					"id": 5,
+					"lemma": "위원",
+					"type": "NNG",
+					"position": 338,
+					"weight": 0.184216
+				},
+				{
+					"id": 6,
+					"lemma": "회",
+					"type": "XSN",
+					"position": 344,
+					"weight": 0.010766
+				},
+				{
+					"id": 7,
+					"lemma": "는",
+					"type": "JX",
+					"position": 347,
+					"weight": 0.0641645
+				},
+				{
+					"id": 8,
+					"lemma": "NBC",
+					"type": "SL",
+					"position": 351,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 354,
+					"weight": 0.0313522
+				},
+				{
+					"id": 10,
+					"lemma": "독점",
+					"type": "NNG",
+					"position": 358,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "적",
+					"type": "NNG",
+					"position": 364,
+					"weight": 0.0169769
+				},
+				{
+					"id": 12,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 367,
+					"weight": 0.0177525
+				},
+				{
+					"id": 13,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 367,
+					"weight": 0.220712
+				},
+				{
+					"id": 14,
+					"lemma": "시장",
+					"type": "NNG",
+					"position": 371,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "지배",
+					"type": "NNG",
+					"position": 377,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 383,
+					"weight": 0.137686
+				},
+				{
+					"id": 17,
+					"lemma": "인지",
+					"type": "NNG",
+					"position": 387,
+					"weight": 0.0980225
+				},
+				{
+					"id": 18,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 393,
+					"weight": 0.0001
+				},
+				{
+					"id": 19,
+					"lemma": "고",
+					"type": "EC",
+					"position": 396,
+					"weight": 0.359917
+				},
+				{
+					"id": 20,
+					"lemma": "NBC",
+					"type": "SL",
+					"position": 400,
+					"weight": 1
+				},
+				{
+					"id": 21,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 403,
+					"weight": 0.0313522
+				},
+				{
+					"id": 22,
+					"lemma": "두",
+					"type": "MM",
+					"position": 407,
+					"weight": 0.014572
+				},
+				{
+					"id": 23,
+					"lemma": "네트워크",
+					"type": "NNG",
+					"position": 411,
+					"weight": 0.9
+				},
+				{
+					"id": 24,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 423,
+					"weight": 0.137686
+				},
+				{
+					"id": 25,
+					"lemma": "NBC",
+					"type": "SL",
+					"position": 427,
+					"weight": 1
+				},
+				{
+					"id": 26,
+					"lemma": "레드",
+					"type": "NNG",
+					"position": 431,
+					"weight": 0.115628
+				},
+				{
+					"id": 27,
+					"lemma": "네트워크",
+					"type": "NNG",
+					"position": 438,
+					"weight": 0.9
+				},
+				{
+					"id": 28,
+					"lemma": "와",
+					"type": "JC",
+					"position": 450,
+					"weight": 0.0169714
+				},
+				{
+					"id": 29,
+					"lemma": "NBC",
+					"type": "SL",
+					"position": 454,
+					"weight": 1
+				},
+				{
+					"id": 30,
+					"lemma": "블루",
+					"type": "NNG",
+					"position": 458,
+					"weight": 0.15343
+				},
+				{
+					"id": 31,
+					"lemma": "네트워크",
+					"type": "NNG",
+					"position": 465,
+					"weight": 0.9
+				},
+				{
+					"id": 32,
+					"lemma": "두",
+					"type": "MM",
+					"position": 478,
+					"weight": 0.00195503
+				},
+				{
+					"id": 33,
+					"lemma": "회사",
+					"type": "NNG",
+					"position": 482,
+					"weight": 0.737343
+				},
+				{
+					"id": 34,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 488,
+					"weight": 0.153229
+				},
+				{
+					"id": 35,
+					"lemma": "분리",
+					"type": "NNG",
+					"position": 492,
+					"weight": 0.9
+				},
+				{
+					"id": 36,
+					"lemma": "시키",
+					"type": "XSV",
+					"position": 498,
+					"weight": 0.00340357
+				},
+				{
+					"id": 37,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 504,
+					"weight": 0.0556099
+				},
+				{
+					"id": 38,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 507,
+					"weight": 0.131293
+				},
+				{
+					"id": 39,
+					"lemma": "결정",
+					"type": "NNG",
+					"position": 511,
+					"weight": 0.9
+				},
+				{
+					"id": 40,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 517,
+					"weight": 0.0001
+				},
+				{
+					"id": 41,
+					"lemma": "었",
+					"type": "EP",
+					"position": 517,
+					"weight": 0.9
+				},
+				{
+					"id": 42,
+					"lemma": "다",
+					"type": "EF",
+					"position": 520,
+					"weight": 0.640954
+				},
+				{
+					"id": 43,
+					"lemma": ".",
+					"type": "SF",
+					"position": 523,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "1939년",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "미국연방통신위원회는",
+					"type": "",
+					"begin": 2,
+					"end": 7
+				},
+				{
+					"id": 2,
+					"text": "NBC의",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 3,
+					"text": "독점적인",
+					"type": "",
+					"begin": 10,
+					"end": 13
+				},
+				{
+					"id": 4,
+					"text": "시장지배를",
+					"type": "",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 5,
+					"text": "인지하고",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 6,
+					"text": "NBC의",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 7,
+					"text": "두",
+					"type": "",
+					"begin": 22,
+					"end": 22
+				},
+				{
+					"id": 8,
+					"text": "네트워크를",
+					"type": "",
+					"begin": 23,
+					"end": 24
+				},
+				{
+					"id": 9,
+					"text": "NBC",
+					"type": "",
+					"begin": 25,
+					"end": 25
+				},
+				{
+					"id": 10,
+					"text": "레드",
+					"type": "",
+					"begin": 26,
+					"end": 26
+				},
+				{
+					"id": 11,
+					"text": "네트워크와",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 12,
+					"text": "NBC",
+					"type": "",
+					"begin": 29,
+					"end": 29
+				},
+				{
+					"id": 13,
+					"text": "블루",
+					"type": "",
+					"begin": 30,
+					"end": 30
+				},
+				{
+					"id": 14,
+					"text": "네트워크",
+					"type": "",
+					"begin": 31,
+					"end": 31
+				},
+				{
+					"id": 15,
+					"text": "두",
+					"type": "",
+					"begin": 32,
+					"end": 32
+				},
+				{
+					"id": 16,
+					"text": "회사로",
+					"type": "",
+					"begin": 33,
+					"end": 34
+				},
+				{
+					"id": 17,
+					"text": "분리시키기로",
+					"type": "",
+					"begin": 35,
+					"end": 38
+				},
+				{
+					"id": 18,
+					"text": "결정했다.",
+					"type": "",
+					"begin": 39,
+					"end": 43
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "1939년",
+					"type": "DT_YEAR",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.831867,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "미국연방통신위원회",
+					"type": "OGG_ECONOMY",
+					"begin": 2,
+					"end": 6,
+					"weight": 0.972399,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "NBC",
+					"type": "OGG_MEDIA",
+					"begin": 8,
+					"end": 8,
+					"weight": 0.896559,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "NBC",
+					"type": "OGG_MEDIA",
+					"begin": 20,
+					"end": 20,
+					"weight": 0.397998,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "두 네트워크",
+					"type": "QT_COUNT",
+					"begin": 22,
+					"end": 23,
+					"weight": 0.451877,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "NBC 레드 네트워크",
+					"type": "OGG_MEDIA",
+					"begin": 25,
+					"end": 27,
+					"weight": 0.231918,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "NBC 블루 네트워크",
+					"type": "OGG_MEDIA",
+					"begin": 29,
+					"end": 31,
+					"weight": 0.233637,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "두 회사",
+					"type": "QT_COUNT",
+					"begin": 32,
+					"end": 33,
+					"weight": 0.38673,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "1939년",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.5513,
+					"mid": 36
+				},
+				{
+					"id": 1,
+					"text": "미국연방통신위원회는",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.633398,
+					"mid": 36
+				},
+				{
+					"id": 2,
+					"text": "NBC의",
+					"head": 3,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.142631,
+					"mid": 39
+				},
+				{
+					"id": 3,
+					"text": "독점적인",
+					"head": 4,
+					"label": "VNP_MOD",
+					"mod": [
+						2
+					],
+					"weight": 0.603661,
+					"mid": 40
+				},
+				{
+					"id": 4,
+					"text": "시장지배를",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.699248,
+					"mid": 36
+				},
+				{
+					"id": 5,
+					"text": "인지하고",
+					"head": 17,
+					"label": "VP",
+					"mod": [
+						0,
+						1,
+						4
+					],
+					"weight": 0.762077,
+					"mid": 42
+				},
+				{
+					"id": 6,
+					"text": "NBC의",
+					"head": 8,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.631934,
+					"mid": 44
+				},
+				{
+					"id": 7,
+					"text": "두",
+					"head": 8,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.584266,
+					"mid": 44
+				},
+				{
+					"id": 8,
+					"text": "네트워크를",
+					"head": 17,
+					"label": "NP_OBJ",
+					"mod": [
+						6,
+						7
+					],
+					"weight": 0.838689,
+					"mid": 42
+				},
+				{
+					"id": 9,
+					"text": "NBC",
+					"head": 10,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.181997,
+					"mid": 48
+				},
+				{
+					"id": 10,
+					"text": "레드",
+					"head": 11,
+					"label": "NP",
+					"mod": [
+						9
+					],
+					"weight": 0.776549,
+					"mid": 50
+				},
+				{
+					"id": 11,
+					"text": "네트워크와",
+					"head": 14,
+					"label": "NP_CNJ",
+					"mod": [
+						10
+					],
+					"weight": 0.312243,
+					"mid": 52
+				},
+				{
+					"id": 12,
+					"text": "NBC",
+					"head": 13,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.0435595,
+					"mid": 54
+				},
+				{
+					"id": 13,
+					"text": "블루",
+					"head": 14,
+					"label": "NP",
+					"mod": [
+						12
+					],
+					"weight": 0.581816,
+					"mid": 52
+				},
+				{
+					"id": 14,
+					"text": "네트워크",
+					"head": 16,
+					"label": "NP",
+					"mod": [
+						11,
+						13
+					],
+					"weight": 0.59285,
+					"mid": 57
+				},
+				{
+					"id": 15,
+					"text": "두",
+					"head": 16,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.53208,
+					"mid": 57
+				},
+				{
+					"id": 16,
+					"text": "회사로",
+					"head": 17,
+					"label": "NP_AJT",
+					"mod": [
+						14,
+						15
+					],
+					"weight": 0.838469,
+					"mid": 42
+				},
+				{
+					"id": 17,
+					"text": "분리시키기로",
+					"head": 18,
+					"label": "VP_AJT",
+					"mod": [
+						5,
+						8,
+						16
+					],
+					"weight": 0.748153,
+					"mid": 42
+				},
+				{
+					"id": 18,
+					"text": "결정했다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						17
+					],
+					"weight": 0.00000100053,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "1939년",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "미국연방통신위원회는",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VNP_MOD",
+					"text": "NBC의 독점적인",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_OBJ",
+					"text": "P#2@MODㄴ 시장지배를",
+					"begin": 2,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@AJT년 P#1@SBJ는 P#3@OBJ를 인지하고",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 7,
+					"sub_phrase": [
+						0,
+						1,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_OBJ",
+					"text": "NBC의 두 네트워크를",
+					"begin": 6,
+					"end": 8,
+					"key_begin": 6,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "NBC 레드 네트워크와 NBC 블루 네트워크 두 회사로",
+					"begin": 9,
+					"end": 16,
+					"key_begin": 9,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "S_AJT",
+					"text": "S#4@S고 P#5@OBJ를 P#6@AJT로 분리시키기로",
+					"begin": 0,
+					"end": 17,
+					"key_begin": 17,
+					"head_phrase": 8,
+					"sub_phrase": [
+						4,
+						5,
+						6
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "S",
+					"text": "S#7@AJT로 결정했다.",
+					"begin": 0,
+					"end": 18,
+					"key_begin": 18,
+					"head_phrase": -1,
+					"sub_phrase": [
+						7
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "인지",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.329985,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "1939년",
+							"weight": 0.331297
+						},
+						{
+							"type": "ARG0",
+							"word_id": 1,
+							"text": "미국연방통신위원회는",
+							"weight": 0.291756
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "시장지배를",
+							"weight": 0.366902
+						}
+					]
+				},
+				{
+					"verb": "분리",
+					"sense": 1,
+					"word_id": 17,
+					"weight": 0.217712,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 8,
+							"text": "네트워크를",
+							"weight": 0.24763
+						},
+						{
+							"type": "ARG2",
+							"word_id": 16,
+							"text": "회사로",
+							"weight": 0.187793
+						}
+					]
+				},
+				{
+					"verb": "결정",
+					"sense": 1,
+					"word_id": 18,
+					"weight": 0.211571,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 1,
+							"text": "미국연방통신위원회는",
+							"weight": 0.268344
+						},
+						{
+							"type": "ARG1",
+							"word_id": 17,
+							"text": "분리시키기로",
+							"weight": 0.154798
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 17,
+					"ant_sid": 4,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 18,
+					"ant_sid": 4,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 5,
+			"text": "1942년 NBC 레드와 NBC 블루는 완전히 다른 회사로 분리되었다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "1942",
+					"type": "SN",
+					"position": 524,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 528,
+					"weight": 0.414343
+				},
+				{
+					"id": 2,
+					"lemma": "NBC",
+					"type": "SL",
+					"position": 532,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": "레드",
+					"type": "NNG",
+					"position": 536,
+					"weight": 0.115628
+				},
+				{
+					"id": 4,
+					"lemma": "와",
+					"type": "JC",
+					"position": 542,
+					"weight": 0.0169714
+				},
+				{
+					"id": 5,
+					"lemma": "NBC",
+					"type": "SL",
+					"position": 546,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "블루",
+					"type": "NNG",
+					"position": 550,
+					"weight": 0.15343
+				},
+				{
+					"id": 7,
+					"lemma": "는",
+					"type": "JX",
+					"position": 556,
+					"weight": 0.0287565
+				},
+				{
+					"id": 8,
+					"lemma": "완전히",
+					"type": "MAG",
+					"position": 560,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "다른",
+					"type": "MM",
+					"position": 570,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "회사",
+					"type": "NNG",
+					"position": 577,
+					"weight": 0.737343
+				},
+				{
+					"id": 11,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 583,
+					"weight": 0.153229
+				},
+				{
+					"id": 12,
+					"lemma": "분리",
+					"type": "NNG",
+					"position": 587,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 593,
+					"weight": 0.000224177
+				},
+				{
+					"id": 14,
+					"lemma": "었",
+					"type": "EP",
+					"position": 596,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "다",
+					"type": "EF",
+					"position": 599,
+					"weight": 0.640954
+				},
+				{
+					"id": 16,
+					"lemma": ".",
+					"type": "SF",
+					"position": 602,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "1942년",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "NBC",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "레드와",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "NBC",
+					"type": "",
+					"begin": 5,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "블루는",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "완전히",
+					"type": "",
+					"begin": 8,
+					"end": 8
+				},
+				{
+					"id": 6,
+					"text": "다른",
+					"type": "",
+					"begin": 9,
+					"end": 9
+				},
+				{
+					"id": 7,
+					"text": "회사로",
+					"type": "",
+					"begin": 10,
+					"end": 11
+				},
+				{
+					"id": 8,
+					"text": "분리되었다.",
+					"type": "",
+					"begin": 12,
+					"end": 16
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "1942년",
+					"type": "DT_YEAR",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.796573,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "NBC",
+					"type": "OGG_MEDIA",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.702421,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "레드",
+					"type": "TM_COLOR",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.151601,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "NBC 블루",
+					"type": "OGG_MEDIA",
+					"begin": 5,
+					"end": 6,
+					"weight": 0.233918,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "1942년",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.675255,
+					"mid": 60
+				},
+				{
+					"id": 1,
+					"text": "NBC",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.565943,
+					"mid": 62
+				},
+				{
+					"id": 2,
+					"text": "레드와",
+					"head": 4,
+					"label": "NP_CNJ",
+					"mod": [
+						1
+					],
+					"weight": 0.785146,
+					"mid": 64
+				},
+				{
+					"id": 3,
+					"text": "NBC",
+					"head": 4,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.591051,
+					"mid": 64
+				},
+				{
+					"id": 4,
+					"text": "블루는",
+					"head": 8,
+					"label": "NP_SBJ",
+					"mod": [
+						2,
+						3
+					],
+					"weight": 0.591329,
+					"mid": 66
+				},
+				{
+					"id": 5,
+					"text": "완전히",
+					"head": 8,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.687156,
+					"mid": 67
+				},
+				{
+					"id": 6,
+					"text": "다른",
+					"head": 7,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.530922,
+					"mid": 69
+				},
+				{
+					"id": 7,
+					"text": "회사로",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						6
+					],
+					"weight": 0.815192,
+					"mid": 70
+				},
+				{
+					"id": 8,
+					"text": "분리되었다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						0,
+						4,
+						5,
+						7
+					],
+					"weight": 0.0253136,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "1942년",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "NBC 레드와 NBC 블루는",
+					"begin": 1,
+					"end": 4,
+					"key_begin": 1,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "NBC 레드",
+							"label": "NP_SBJ",
+							"begin": 2,
+							"end": 3,
+							"ne_type": ""
+						},
+						{
+							"text": "NBC 블루",
+							"label": "NP_SBJ",
+							"begin": 5,
+							"end": 6,
+							"ne_type": "OGG_MEDIA"
+						}
+					]
+				},
+				{
+					"id": 2,
+					"label": "AP",
+					"text": "완전히",
+					"begin": 5,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "다른 회사로",
+					"begin": 6,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@AJT년 P#1@SBJ는 P#2@AP완전히 P#3@AJT로 분리되었다.",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "분리",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.261871,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "1942년",
+							"weight": 0.327094
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "블루는",
+							"weight": 0.23559
+						},
+						{
+							"type": "ARGM-ADV",
+							"word_id": 5,
+							"text": "완전히",
+							"weight": 0.220069
+						},
+						{
+							"type": "ARG2",
+							"word_id": 7,
+							"text": "회사로",
+							"weight": 0.264733
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 6,
+			"text": "1944년 NBC 블루는 ABC (American Broadcasting Company)로 사명을 바꾸었고, NBC 레드는 NBC로 불리게 되었다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "1944",
+					"type": "SN",
+					"position": 603,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 607,
+					"weight": 0.414343
+				},
+				{
+					"id": 2,
+					"lemma": "NBC",
+					"type": "SL",
+					"position": 611,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": "블루",
+					"type": "NNG",
+					"position": 615,
+					"weight": 0.15343
+				},
+				{
+					"id": 4,
+					"lemma": "는",
+					"type": "JX",
+					"position": 621,
+					"weight": 0.0287565
+				},
+				{
+					"id": 5,
+					"lemma": "ABC",
+					"type": "SL",
+					"position": 625,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "(",
+					"type": "SS",
+					"position": 629,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "American",
+					"type": "SL",
+					"position": 630,
+					"weight": 1
+				},
+				{
+					"id": 8,
+					"lemma": "Broadcasting",
+					"type": "SL",
+					"position": 639,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "Company",
+					"type": "SL",
+					"position": 652,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": ")",
+					"type": "SS",
+					"position": 659,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 660,
+					"weight": 0.0485504
+				},
+				{
+					"id": 12,
+					"lemma": "사명",
+					"type": "NNG",
+					"position": 664,
+					"weight": 0.200682
+				},
+				{
+					"id": 13,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 670,
+					"weight": 0.129611
+				},
+				{
+					"id": 14,
+					"lemma": "바꾸",
+					"type": "VV",
+					"position": 674,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "었",
+					"type": "EP",
+					"position": 680,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "고",
+					"type": "EC",
+					"position": 683,
+					"weight": 0.190901
+				},
+				{
+					"id": 17,
+					"lemma": ",",
+					"type": "SP",
+					"position": 686,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "NBC",
+					"type": "SL",
+					"position": 688,
+					"weight": 1
+				},
+				{
+					"id": 19,
+					"lemma": "레드",
+					"type": "NNP",
+					"position": 692,
+					"weight": 0.00363126
+				},
+				{
+					"id": 20,
+					"lemma": "는",
+					"type": "JX",
+					"position": 698,
+					"weight": 0.0332677
+				},
+				{
+					"id": 21,
+					"lemma": "NBC",
+					"type": "SL",
+					"position": 702,
+					"weight": 1
+				},
+				{
+					"id": 22,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 705,
+					"weight": 0.0327585
+				},
+				{
+					"id": 23,
+					"lemma": "불리",
+					"type": "VV",
+					"position": 709,
+					"weight": 0.439247
+				},
+				{
+					"id": 24,
+					"lemma": "게",
+					"type": "EC",
+					"position": 715,
+					"weight": 0.427975
+				},
+				{
+					"id": 25,
+					"lemma": "되",
+					"type": "VV",
+					"position": 719,
+					"weight": 0.209958
+				},
+				{
+					"id": 26,
+					"lemma": "었",
+					"type": "EP",
+					"position": 722,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "다",
+					"type": "EF",
+					"position": 725,
+					"weight": 0.640954
+				},
+				{
+					"id": 28,
+					"lemma": ".",
+					"type": "SF",
+					"position": 728,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "1944년",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "NBC",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "블루는",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "ABC",
+					"type": "",
+					"begin": 5,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "(American",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "Broadcasting",
+					"type": "",
+					"begin": 8,
+					"end": 8
+				},
+				{
+					"id": 6,
+					"text": "Company)로",
+					"type": "",
+					"begin": 9,
+					"end": 11
+				},
+				{
+					"id": 7,
+					"text": "사명을",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 8,
+					"text": "바꾸었고,",
+					"type": "",
+					"begin": 14,
+					"end": 17
+				},
+				{
+					"id": 9,
+					"text": "NBC",
+					"type": "",
+					"begin": 18,
+					"end": 18
+				},
+				{
+					"id": 10,
+					"text": "레드는",
+					"type": "",
+					"begin": 19,
+					"end": 20
+				},
+				{
+					"id": 11,
+					"text": "NBC로",
+					"type": "",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 12,
+					"text": "불리게",
+					"type": "",
+					"begin": 23,
+					"end": 24
+				},
+				{
+					"id": 13,
+					"text": "되었다.",
+					"type": "",
+					"begin": 25,
+					"end": 28
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "1944년",
+					"type": "DT_YEAR",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.635299,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "NBC 블루",
+					"type": "OGG_MEDIA",
+					"begin": 2,
+					"end": 3,
+					"weight": 0.460519,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "ABC",
+					"type": "OGG_MEDIA",
+					"begin": 5,
+					"end": 5,
+					"weight": 0.292601,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "NBC",
+					"type": "OGG_MEDIA",
+					"begin": 18,
+					"end": 18,
+					"weight": 0.458294,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "레드",
+					"type": "TM_COLOR",
+					"begin": 19,
+					"end": 19,
+					"weight": 0.171889,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "NBC",
+					"type": "OGG_MEDIA",
+					"begin": 21,
+					"end": 21,
+					"weight": 0.229325,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "1944년",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.791613,
+					"mid": 72
+				},
+				{
+					"id": 1,
+					"text": "NBC",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.577502,
+					"mid": 74
+				},
+				{
+					"id": 2,
+					"text": "블루는",
+					"head": 8,
+					"label": "NP_SBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.675601,
+					"mid": 72
+				},
+				{
+					"id": 3,
+					"text": "ABC",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.825503,
+					"mid": 77
+				},
+				{
+					"id": 4,
+					"text": "(American",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.241881,
+					"mid": 79
+				},
+				{
+					"id": 5,
+					"text": "Broadcasting",
+					"head": 6,
+					"label": "NP",
+					"mod": [
+						4
+					],
+					"weight": 0.792271,
+					"mid": 77
+				},
+				{
+					"id": 6,
+					"text": "Company)로",
+					"head": 8,
+					"label": "NP_AJT",
+					"mod": [
+						3,
+						5
+					],
+					"weight": 0.767767,
+					"mid": 72
+				},
+				{
+					"id": 7,
+					"text": "사명을",
+					"head": 8,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.745108,
+					"mid": 72
+				},
+				{
+					"id": 8,
+					"text": "바꾸었고,",
+					"head": 12,
+					"label": "VP",
+					"mod": [
+						0,
+						2,
+						6,
+						7
+					],
+					"weight": 0.621466,
+					"mid": 83
+				},
+				{
+					"id": 9,
+					"text": "NBC",
+					"head": 12,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.0485651,
+					"mid": 83
+				},
+				{
+					"id": 10,
+					"text": "레드는",
+					"head": 12,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.610282,
+					"mid": 83
+				},
+				{
+					"id": 11,
+					"text": "NBC로",
+					"head": 12,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.358454,
+					"mid": 83
+				},
+				{
+					"id": 12,
+					"text": "불리게",
+					"head": 13,
+					"label": "VP",
+					"mod": [
+						8,
+						9,
+						10,
+						11
+					],
+					"weight": 0.694977,
+					"mid": 83
+				},
+				{
+					"id": 13,
+					"text": "되었다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						12
+					],
+					"weight": 0.00010309,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "1944년",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "NBC 블루는",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "ABC (American Broadcasting Company)로",
+					"begin": 3,
+					"end": 6,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_OBJ",
+					"text": "사명을",
+					"begin": 7,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@AJT년 P#1@SBJ는 P#2@AJT로 P#3@OBJ을 바꾸었고,",
+					"begin": 0,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 8,
+					"sub_phrase": [
+						0,
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "AP",
+					"text": "NBC",
+					"begin": 9,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_SBJ",
+					"text": "레드는",
+					"begin": 10,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_AJT",
+					"text": "NBC로",
+					"begin": 11,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "S",
+					"text": "S#4@S고, P#5@APNBC P#6@SBJ는 P#7@AJT로 불리게 되었다.",
+					"begin": 0,
+					"end": 13,
+					"key_begin": 12,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4,
+						5,
+						6,
+						7
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "바꾸",
+					"sense": 1,
+					"word_id": 8,
+					"weight": 0.307476,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 2,
+							"text": "블루는",
+							"weight": 0.263
+						},
+						{
+							"type": "ARG3",
+							"word_id": 6,
+							"text": "Company)로",
+							"weight": 0.275263
+						},
+						{
+							"type": "ARG1",
+							"word_id": 7,
+							"text": "사명을",
+							"weight": 0.384166
+						}
+					]
+				},
+				{
+					"verb": "불리",
+					"sense": 1,
+					"word_id": 12,
+					"weight": 0.282822,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "레드는",
+							"weight": 0.164895
+						},
+						{
+							"type": "ARG2",
+							"word_id": 11,
+							"text": "NBC로",
+							"weight": 0.201231
+						},
+						{
+							"type": "AUX",
+							"word_id": 13,
+							"text": "되었다.",
+							"weight": 0.482341
+						}
+					]
+				}
+			],
+			"ZA": []
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "OGG_MEDIA",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "ABC 미국의 방송사",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "ABC 미국의 방송사",
+					"ne_id": 0
+				},
+				{
+					"id": 22,
+					"text": "NBC 블루 네트워크",
+					"sent_id": 4,
+					"start_eid": 12,
+					"end_eid": 14,
+					"start_eid_short": 12,
+					"end_eid_short": 14,
+					"text_short": "NBC 블루 네트워크",
+					"ne_id": 6
+				},
+				{
+					"id": 27,
+					"text": "NBC 블루",
+					"sent_id": 5,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "NBC 블루",
+					"ne_id": 2
+				},
+				{
+					"id": 31,
+					"text": "NBC 블루",
+					"sent_id": 6,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "NBC 블루",
+					"ne_id": 1
+				},
+				{
+					"id": 33,
+					"text": "ABC American Broadcasting Company",
+					"sent_id": 6,
+					"start_eid": 3,
+					"end_eid": 6,
+					"start_eid_short": 3,
+					"end_eid_short": 6,
+					"text_short": "ABC American Broadcasting Company",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "OGG_MEDIA",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 1,
+					"text": "미국방송회사美國放送協會",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "미국방송회사美國放送協會",
+					"ne_id": 0
+				},
+				{
+					"id": 2,
+					"text": "미국의 텔레비전 라디오 방송을 운영하는 방송사이다",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "방송사이다",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 3,
+					"text": "미국의 텔레비전 라디오 방송",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 4,
+					"start_eid_short": 1,
+					"end_eid_short": 4,
+					"text_short": "미국의 텔레비전 라디오 방송",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "미국",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "미국",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "TMI_HW",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 5,
+					"text": "텔레비전",
+					"sent_id": 1,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "텔레비전",
+					"ne_id": 3
+				},
+				{
+					"id": 9,
+					"text": "텔레비전",
+					"sent_id": 2,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "텔레비전",
+					"ne_id": 1
+				},
+				{
+					"id": 13,
+					"text": "텔레비전",
+					"sent_id": 3,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "텔레비전",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "1948년 4월 19일",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "1948년 4월 19일",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "OGG_ECONOMY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 10,
+					"text": "월트 디즈니 컴퍼니",
+					"sent_id": 3,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 1,
+					"end_eid_short": 3,
+					"text_short": "월트 디즈니 컴퍼니",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 11,
+					"text": "디즈니ABC 텔레비전 그룹",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 8,
+					"start_eid_short": 6,
+					"end_eid_short": 8,
+					"text_short": "디즈니ABC 텔레비전 그룹",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "1939년",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "1939년",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "OGG_ECONOMY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 15,
+					"text": "미국연방통신위원회",
+					"sent_id": 4,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "미국연방통신위원회",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 16,
+					"text": "NBC의 독점적인 시장지배",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "시장지배",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "QT_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 18,
+					"text": "NBC의 두 네트워크",
+					"sent_id": 4,
+					"start_eid": 6,
+					"end_eid": 8,
+					"start_eid_short": 6,
+					"end_eid_short": 8,
+					"text_short": "NBC의 두 네트워크",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "OGG_MEDIA",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "NBC 레드 네트워크",
+					"sent_id": 4,
+					"start_eid": 9,
+					"end_eid": 11,
+					"start_eid_short": 9,
+					"end_eid_short": 11,
+					"text_short": "NBC 레드 네트워크",
+					"ne_id": 5
+				},
+				{
+					"id": 25,
+					"text": "NBC 레드",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "NBC 레드",
+					"ne_id": -1
+				},
+				{
+					"id": 35,
+					"text": "NBC 레드",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 10,
+					"start_eid_short": 9,
+					"end_eid_short": 10,
+					"text_short": "NBC 레드",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "QT_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 20,
+					"text": "NBC 레드 네트워크와 NBC 블루 네트워크 두 회사",
+					"sent_id": 4,
+					"start_eid": 9,
+					"end_eid": 16,
+					"start_eid_short": 12,
+					"end_eid_short": 16,
+					"text_short": "NBC 블루 네트워크 두 회사",
+					"ne_id": 7
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "1942년",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "1942년",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "OGG_MEDIA",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 24,
+					"text": "NBC 레드와 NBC 블루",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "NBC 블루",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 30,
+					"text": "1944년",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "1944년",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "사명",
+					"sent_id": 6,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "사명",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 8,
+					"text": "텔레비전 방송",
+					"sent_id": 2,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 3,
+					"end_eid_short": 4,
+					"text_short": "텔레비전 방송",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "TMI_HW",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 6,
+					"text": "라디오",
+					"sent_id": 1,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "라디오",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "OGG_ECONOMY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 12,
+					"text": "디즈니ABC",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "디즈니ABC",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "OGG_MEDIA",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 17,
+					"text": "NBC",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "NBC",
+					"ne_id": 2
+				},
+				{
+					"id": 19,
+					"text": "NBC",
+					"sent_id": 4,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "NBC",
+					"ne_id": 3
+				},
+				{
+					"id": 26,
+					"text": "NBC",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "NBC",
+					"ne_id": 1
+				},
+				{
+					"id": 28,
+					"text": "NBC",
+					"sent_id": 5,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "NBC",
+					"ne_id": -1
+				},
+				{
+					"id": 32,
+					"text": "NBC",
+					"sent_id": 6,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "NBC",
+					"ne_id": -1
+				},
+				{
+					"id": 36,
+					"text": "NBC",
+					"sent_id": 6,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "NBC",
+					"ne_id": 3
+				},
+				{
+					"id": 37,
+					"text": "NBC",
+					"sent_id": 6,
+					"start_eid": 11,
+					"end_eid": 11,
+					"start_eid_short": 11,
+					"end_eid_short": 11,
+					"text_short": "NBC",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 29,
+					"text": "다른 회사",
+					"sent_id": 5,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "다른 회사",
+					"ne_id": -1
+				}
+			]
+		}
+	]
+}

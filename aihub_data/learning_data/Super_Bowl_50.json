@@ -1,0 +1,7000 @@
+{
+	"title": {
+		"text": "슈퍼볼 50",
+		"NE": "EV_SPORTS"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 6,
+		"num_word": 125
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "슈퍼볼 50",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "슈퍼",
+					"type": "NNG",
+					"position": 0,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "볼",
+					"type": "NNG",
+					"position": 6,
+					"weight": 0.183068
+				},
+				{
+					"id": 2,
+					"lemma": "50",
+					"type": "SN",
+					"position": 10,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "슈퍼볼",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "50",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "슈퍼볼",
+					"type": "EV_SPORTS",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.322769,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "50",
+					"type": "QT_AGE",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.392465,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "슈퍼볼",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.632618,
+					"mid": 1
+				},
+				{
+					"id": 1,
+					"text": "50",
+					"head": -1,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.482597,
+					"mid": 2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "슈퍼볼 50",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "슈퍼볼50은 2016년 2월 7일(현지기준) 캘리포니아 주 산타 클라라의 리바이스 스타디움에서 열린 내셔널 풋볼 콘퍼런스 챔피언 캐롤라이나 팬서스와 아메리칸 풋볼 콘퍼런스 챔피언 덴버 브롱코스의 슈퍼볼 경기이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "슈퍼",
+					"type": "NNG",
+					"position": 12,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "볼",
+					"type": "NNG",
+					"position": 18,
+					"weight": 0.183068
+				},
+				{
+					"id": 2,
+					"lemma": "50",
+					"type": "SN",
+					"position": 21,
+					"weight": 1
+				},
+				{
+					"id": 3,
+					"lemma": "은",
+					"type": "JX",
+					"position": 23,
+					"weight": 0.000894844
+				},
+				{
+					"id": 4,
+					"lemma": "2016",
+					"type": "SN",
+					"position": 27,
+					"weight": 1
+				},
+				{
+					"id": 5,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 31,
+					"weight": 0.414343
+				},
+				{
+					"id": 6,
+					"lemma": "2",
+					"type": "SN",
+					"position": 35,
+					"weight": 1
+				},
+				{
+					"id": 7,
+					"lemma": "월",
+					"type": "NNB",
+					"position": 36,
+					"weight": 0.408539
+				},
+				{
+					"id": 8,
+					"lemma": "7",
+					"type": "SN",
+					"position": 40,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "일",
+					"type": "NNB",
+					"position": 41,
+					"weight": 0.126777
+				},
+				{
+					"id": 10,
+					"lemma": "(",
+					"type": "SS",
+					"position": 44,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": "현지",
+					"type": "NNG",
+					"position": 45,
+					"weight": 0.181161
+				},
+				{
+					"id": 12,
+					"lemma": "기준",
+					"type": "NNG",
+					"position": 51,
+					"weight": 0.184142
+				},
+				{
+					"id": 13,
+					"lemma": ")",
+					"type": "SS",
+					"position": 57,
+					"weight": 1
+				},
+				{
+					"id": 14,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 59,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "주",
+					"type": "NNG",
+					"position": 75,
+					"weight": 0.0177845
+				},
+				{
+					"id": 16,
+					"lemma": "산타",
+					"type": "NNG",
+					"position": 79,
+					"weight": 0.00739359
+				},
+				{
+					"id": 17,
+					"lemma": "클라라",
+					"type": "NNP",
+					"position": 86,
+					"weight": 0.85
+				},
+				{
+					"id": 18,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 95,
+					"weight": 0.0987295
+				},
+				{
+					"id": 19,
+					"lemma": "리바이스",
+					"type": "NNP",
+					"position": 99,
+					"weight": 0.4
+				},
+				{
+					"id": 20,
+					"lemma": "스타디움",
+					"type": "NNG",
+					"position": 112,
+					"weight": 0.9
+				},
+				{
+					"id": 21,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 124,
+					"weight": 0.153407
+				},
+				{
+					"id": 22,
+					"lemma": "열리",
+					"type": "VV",
+					"position": 131,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 134,
+					"weight": 0.304215
+				},
+				{
+					"id": 24,
+					"lemma": "내셔널",
+					"type": "NNG",
+					"position": 138,
+					"weight": 0.645664
+				},
+				{
+					"id": 25,
+					"lemma": "풋볼",
+					"type": "NNG",
+					"position": 148,
+					"weight": 0.8
+				},
+				{
+					"id": 26,
+					"lemma": "콘퍼런스",
+					"type": "NNG",
+					"position": 155,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "챔피언",
+					"type": "NNG",
+					"position": 168,
+					"weight": 0.182424
+				},
+				{
+					"id": 28,
+					"lemma": "캐롤라이나",
+					"type": "NNP",
+					"position": 178,
+					"weight": 0.35
+				},
+				{
+					"id": 29,
+					"lemma": "팬서스",
+					"type": "NNP",
+					"position": 194,
+					"weight": 0.6
+				},
+				{
+					"id": 30,
+					"lemma": "와",
+					"type": "JC",
+					"position": 203,
+					"weight": 0.0104534
+				},
+				{
+					"id": 31,
+					"lemma": "아메리칸",
+					"type": "NNG",
+					"position": 207,
+					"weight": 0.9
+				},
+				{
+					"id": 32,
+					"lemma": "풋볼",
+					"type": "NNG",
+					"position": 220,
+					"weight": 0.8
+				},
+				{
+					"id": 33,
+					"lemma": "콘퍼런스",
+					"type": "NNG",
+					"position": 227,
+					"weight": 0.9
+				},
+				{
+					"id": 34,
+					"lemma": "챔피언",
+					"type": "NNG",
+					"position": 240,
+					"weight": 0.182424
+				},
+				{
+					"id": 35,
+					"lemma": "덴버",
+					"type": "NNP",
+					"position": 250,
+					"weight": 0.55
+				},
+				{
+					"id": 36,
+					"lemma": "브롱코스",
+					"type": "NNP",
+					"position": 257,
+					"weight": 0.6
+				},
+				{
+					"id": 37,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 269,
+					"weight": 0.0987295
+				},
+				{
+					"id": 38,
+					"lemma": "슈퍼",
+					"type": "NNG",
+					"position": 273,
+					"weight": 0.9
+				},
+				{
+					"id": 39,
+					"lemma": "볼",
+					"type": "NNG",
+					"position": 279,
+					"weight": 0.183068
+				},
+				{
+					"id": 40,
+					"lemma": "경기",
+					"type": "NNG",
+					"position": 283,
+					"weight": 0.135556
+				},
+				{
+					"id": 41,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 289,
+					"weight": 0.0177525
+				},
+				{
+					"id": 42,
+					"lemma": "다",
+					"type": "EF",
+					"position": 292,
+					"weight": 0.353579
+				},
+				{
+					"id": 43,
+					"lemma": ".",
+					"type": "SF",
+					"position": 295,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "슈퍼볼50은",
+					"type": "",
+					"begin": 0,
+					"end": 3
+				},
+				{
+					"id": 1,
+					"text": "2016년",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"text": "2월",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 3,
+					"text": "7일(현지기준)",
+					"type": "",
+					"begin": 8,
+					"end": 13
+				},
+				{
+					"id": 4,
+					"text": "캘리포니아",
+					"type": "",
+					"begin": 14,
+					"end": 14
+				},
+				{
+					"id": 5,
+					"text": "주",
+					"type": "",
+					"begin": 15,
+					"end": 15
+				},
+				{
+					"id": 6,
+					"text": "산타",
+					"type": "",
+					"begin": 16,
+					"end": 16
+				},
+				{
+					"id": 7,
+					"text": "클라라의",
+					"type": "",
+					"begin": 17,
+					"end": 18
+				},
+				{
+					"id": 8,
+					"text": "리바이스",
+					"type": "",
+					"begin": 19,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "스타디움에서",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 10,
+					"text": "열린",
+					"type": "",
+					"begin": 22,
+					"end": 23
+				},
+				{
+					"id": 11,
+					"text": "내셔널",
+					"type": "",
+					"begin": 24,
+					"end": 24
+				},
+				{
+					"id": 12,
+					"text": "풋볼",
+					"type": "",
+					"begin": 25,
+					"end": 25
+				},
+				{
+					"id": 13,
+					"text": "콘퍼런스",
+					"type": "",
+					"begin": 26,
+					"end": 26
+				},
+				{
+					"id": 14,
+					"text": "챔피언",
+					"type": "",
+					"begin": 27,
+					"end": 27
+				},
+				{
+					"id": 15,
+					"text": "캐롤라이나",
+					"type": "",
+					"begin": 28,
+					"end": 28
+				},
+				{
+					"id": 16,
+					"text": "팬서스와",
+					"type": "",
+					"begin": 29,
+					"end": 30
+				},
+				{
+					"id": 17,
+					"text": "아메리칸",
+					"type": "",
+					"begin": 31,
+					"end": 31
+				},
+				{
+					"id": 18,
+					"text": "풋볼",
+					"type": "",
+					"begin": 32,
+					"end": 32
+				},
+				{
+					"id": 19,
+					"text": "콘퍼런스",
+					"type": "",
+					"begin": 33,
+					"end": 33
+				},
+				{
+					"id": 20,
+					"text": "챔피언",
+					"type": "",
+					"begin": 34,
+					"end": 34
+				},
+				{
+					"id": 21,
+					"text": "덴버",
+					"type": "",
+					"begin": 35,
+					"end": 35
+				},
+				{
+					"id": 22,
+					"text": "브롱코스의",
+					"type": "",
+					"begin": 36,
+					"end": 37
+				},
+				{
+					"id": 23,
+					"text": "슈퍼볼",
+					"type": "",
+					"begin": 38,
+					"end": 39
+				},
+				{
+					"id": 24,
+					"text": "경기이다.",
+					"type": "",
+					"begin": 40,
+					"end": 43
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "슈퍼볼50",
+					"type": "EV_SPORTS",
+					"begin": 0,
+					"end": 2,
+					"weight": 0.289923,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "2016년 2월 7일",
+					"type": "DT_OTHERS",
+					"begin": 4,
+					"end": 9,
+					"weight": 0.843278,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "캘리포니아 주",
+					"type": "LCP_PROVINCE",
+					"begin": 14,
+					"end": 15,
+					"weight": 0.721718,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "산타 클라라",
+					"type": "LCP_CITY",
+					"begin": 16,
+					"end": 17,
+					"weight": 0.279581,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "리바이스 스타디움",
+					"type": "AF_BUILDING",
+					"begin": 19,
+					"end": 20,
+					"weight": 0.380996,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "내셔널 풋볼 콘퍼런스 챔피언 캐롤라이나 팬서스와 아메리칸 풋볼 콘퍼런스",
+					"type": "OGG_SPORTS",
+					"begin": 24,
+					"end": 33,
+					"weight": 0.56014,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "챔피언",
+					"type": "CV_POSITION",
+					"begin": 34,
+					"end": 34,
+					"weight": 0.378218,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "덴버 브롱코스",
+					"type": "OGG_SPORTS",
+					"begin": 35,
+					"end": 36,
+					"weight": 0.288207,
+					"common_noun": 0
+				},
+				{
+					"id": 8,
+					"text": "슈퍼볼",
+					"type": "EV_SPORTS",
+					"begin": 38,
+					"end": 39,
+					"weight": 0.380719,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "슈퍼볼50은",
+					"head": 24,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.822282,
+					"mid": 4
+				},
+				{
+					"id": 1,
+					"text": "2016년",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.402802,
+					"mid": 6
+				},
+				{
+					"id": 2,
+					"text": "2월",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.744457,
+					"mid": 8
+				},
+				{
+					"id": 3,
+					"text": "7일(현지기준)",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [
+						2
+					],
+					"weight": 0.64787,
+					"mid": 10
+				},
+				{
+					"id": 4,
+					"text": "캘리포니아",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.410799,
+					"mid": 12
+				},
+				{
+					"id": 5,
+					"text": "주",
+					"head": 6,
+					"label": "NP",
+					"mod": [
+						4
+					],
+					"weight": 0.685185,
+					"mid": 14
+				},
+				{
+					"id": 6,
+					"text": "산타",
+					"head": 7,
+					"label": "NP",
+					"mod": [
+						5
+					],
+					"weight": 0.599161,
+					"mid": 16
+				},
+				{
+					"id": 7,
+					"text": "클라라의",
+					"head": 9,
+					"label": "NP_MOD",
+					"mod": [
+						6
+					],
+					"weight": 0.599669,
+					"mid": 18
+				},
+				{
+					"id": 8,
+					"text": "리바이스",
+					"head": 9,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.770102,
+					"mid": 18
+				},
+				{
+					"id": 9,
+					"text": "스타디움에서",
+					"head": 10,
+					"label": "NP_AJT",
+					"mod": [
+						7,
+						8
+					],
+					"weight": 0.816375,
+					"mid": 10
+				},
+				{
+					"id": 10,
+					"text": "열린",
+					"head": 24,
+					"label": "VP_MOD",
+					"mod": [
+						3,
+						9
+					],
+					"weight": 0.862758,
+					"mid": 10
+				},
+				{
+					"id": 11,
+					"text": "내셔널",
+					"head": 12,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.412695,
+					"mid": 23
+				},
+				{
+					"id": 12,
+					"text": "풋볼",
+					"head": 13,
+					"label": "NP",
+					"mod": [
+						11
+					],
+					"weight": 0.325739,
+					"mid": 25
+				},
+				{
+					"id": 13,
+					"text": "콘퍼런스",
+					"head": 14,
+					"label": "NP",
+					"mod": [
+						12
+					],
+					"weight": 0.69197,
+					"mid": 27
+				},
+				{
+					"id": 14,
+					"text": "챔피언",
+					"head": 16,
+					"label": "NP",
+					"mod": [
+						13
+					],
+					"weight": 0.0363545,
+					"mid": 29
+				},
+				{
+					"id": 15,
+					"text": "캐롤라이나",
+					"head": 16,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.807071,
+					"mid": 29
+				},
+				{
+					"id": 16,
+					"text": "팬서스와",
+					"head": 19,
+					"label": "NP_AJT",
+					"mod": [
+						14,
+						15
+					],
+					"weight": 0.409363,
+					"mid": 32
+				},
+				{
+					"id": 17,
+					"text": "아메리칸",
+					"head": 18,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.543885,
+					"mid": 34
+				},
+				{
+					"id": 18,
+					"text": "풋볼",
+					"head": 19,
+					"label": "NP",
+					"mod": [
+						17
+					],
+					"weight": 0.376264,
+					"mid": 32
+				},
+				{
+					"id": 19,
+					"text": "콘퍼런스",
+					"head": 20,
+					"label": "NP",
+					"mod": [
+						16,
+						18
+					],
+					"weight": 0.757057,
+					"mid": 37
+				},
+				{
+					"id": 20,
+					"text": "챔피언",
+					"head": 22,
+					"label": "NP",
+					"mod": [
+						19
+					],
+					"weight": 0.492814,
+					"mid": 39
+				},
+				{
+					"id": 21,
+					"text": "덴버",
+					"head": 22,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.762357,
+					"mid": 39
+				},
+				{
+					"id": 22,
+					"text": "브롱코스의",
+					"head": 24,
+					"label": "NP_MOD",
+					"mod": [
+						20,
+						21
+					],
+					"weight": 0.862989,
+					"mid": 4
+				},
+				{
+					"id": 23,
+					"text": "슈퍼볼",
+					"head": 24,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.726278,
+					"mid": 4
+				},
+				{
+					"id": 24,
+					"text": "경기이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						0,
+						10,
+						22,
+						23
+					],
+					"weight": 2.59981e-7,
+					"mid": 4
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "슈퍼볼50은",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "2016년 2월 7일(현지기준)",
+					"begin": 1,
+					"end": 3,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "캘리포니아 주 산타 클라라의 리바이스 스타디움에서",
+					"begin": 4,
+					"end": 9,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#1@AJT기준) P#2@AJT에서 열린",
+					"begin": 1,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 4,
+					"sub_phrase": [
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@SBJ은 P#3@MODㄴ 내셔널 풋볼 콘퍼런스 챔피언 캐롤라이나 팬서스와 아메리칸 풋볼 콘퍼런스 챔피언 덴버 브롱코스의 슈퍼볼 경기이다.",
+					"begin": 0,
+					"end": 24,
+					"key_begin": 11,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						3
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "내셔널 풋볼 콘퍼런스 챔피언 캐롤라이나 팬서스와 아메리칸 풋볼 콘퍼런스 챔피언 덴버 브롱코스의 슈퍼볼 경기",
+							"label": "NP",
+							"begin": 24,
+							"end": 40,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 41,
+							"end": 43,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "열리",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.283997,
+					"argument": [
+						{
+							"type": "ARGM-LOC",
+							"word_id": 9,
+							"text": "스타디움에서",
+							"weight": 0.283997
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 2,
+			"text": "슈퍼볼 뒤에 로마 숫자를 붙이던 기존의 방식과는 다르게 ('슈퍼볼 50'을 로마숫자로 표기하면 'SUPER BOWL L'로 표기해야 하는데, 이 경우 영어 철자 L이 연속적으로 표기되어 혼란을 야기할 수 있다는 우려) 예외적으로 아라비아 숫자 '50'을 공식적으로 사용하였다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "슈퍼",
+					"type": "NNG",
+					"position": 296,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "볼",
+					"type": "NNG",
+					"position": 302,
+					"weight": 0.183068
+				},
+				{
+					"id": 2,
+					"lemma": "뒤",
+					"type": "NNG",
+					"position": 306,
+					"weight": 0.184699
+				},
+				{
+					"id": 3,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 309,
+					"weight": 0.153364
+				},
+				{
+					"id": 4,
+					"lemma": "로마",
+					"type": "NNG",
+					"position": 313,
+					"weight": 0.11577
+				},
+				{
+					"id": 5,
+					"lemma": "숫자",
+					"type": "NNG",
+					"position": 320,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 326,
+					"weight": 0.137686
+				},
+				{
+					"id": 7,
+					"lemma": "붙이",
+					"type": "VV",
+					"position": 330,
+					"weight": 0.774726
+				},
+				{
+					"id": 8,
+					"lemma": "던",
+					"type": "ETM",
+					"position": 336,
+					"weight": 0.317449
+				},
+				{
+					"id": 9,
+					"lemma": "기존",
+					"type": "NNG",
+					"position": 340,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 346,
+					"weight": 0.0694213
+				},
+				{
+					"id": 11,
+					"lemma": "방식",
+					"type": "NNG",
+					"position": 350,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "과",
+					"type": "JKB",
+					"position": 356,
+					"weight": 0.0503087
+				},
+				{
+					"id": 13,
+					"lemma": "는",
+					"type": "JX",
+					"position": 359,
+					"weight": 0.0387928
+				},
+				{
+					"id": 14,
+					"lemma": "다르",
+					"type": "VA",
+					"position": 363,
+					"weight": 0.10899
+				},
+				{
+					"id": 15,
+					"lemma": "게",
+					"type": "EC",
+					"position": 369,
+					"weight": 0.31879
+				},
+				{
+					"id": 16,
+					"lemma": "(",
+					"type": "SS",
+					"position": 373,
+					"weight": 1
+				},
+				{
+					"id": 17,
+					"lemma": "'",
+					"type": "SS",
+					"position": 374,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "슈퍼",
+					"type": "NNG",
+					"position": 375,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "볼",
+					"type": "NNG",
+					"position": 381,
+					"weight": 0.183068
+				},
+				{
+					"id": 20,
+					"lemma": "50",
+					"type": "SN",
+					"position": 385,
+					"weight": 1
+				},
+				{
+					"id": 21,
+					"lemma": "'",
+					"type": "SS",
+					"position": 387,
+					"weight": 1
+				},
+				{
+					"id": 22,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 388,
+					"weight": 0.0336085
+				},
+				{
+					"id": 23,
+					"lemma": "로마",
+					"type": "NNG",
+					"position": 392,
+					"weight": 0.0564268
+				},
+				{
+					"id": 24,
+					"lemma": "숫자",
+					"type": "NNG",
+					"position": 398,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 404,
+					"weight": 0.153229
+				},
+				{
+					"id": 26,
+					"lemma": "표기",
+					"type": "NNG",
+					"position": 408,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 414,
+					"weight": 0.0001
+				},
+				{
+					"id": 28,
+					"lemma": "면",
+					"type": "EC",
+					"position": 417,
+					"weight": 0.344962
+				},
+				{
+					"id": 29,
+					"lemma": "'",
+					"type": "SS",
+					"position": 421,
+					"weight": 1
+				},
+				{
+					"id": 30,
+					"lemma": "SUPER",
+					"type": "SL",
+					"position": 422,
+					"weight": 1
+				},
+				{
+					"id": 31,
+					"lemma": "BOWL",
+					"type": "SL",
+					"position": 428,
+					"weight": 1
+				},
+				{
+					"id": 32,
+					"lemma": "L",
+					"type": "SL",
+					"position": 433,
+					"weight": 1
+				},
+				{
+					"id": 33,
+					"lemma": "'",
+					"type": "SS",
+					"position": 434,
+					"weight": 1
+				},
+				{
+					"id": 34,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 435,
+					"weight": 0.0485504
+				},
+				{
+					"id": 35,
+					"lemma": "표기",
+					"type": "NNG",
+					"position": 439,
+					"weight": 0.9
+				},
+				{
+					"id": 36,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 445,
+					"weight": 0.0001
+				},
+				{
+					"id": 37,
+					"lemma": "어야",
+					"type": "EC",
+					"position": 445,
+					"weight": 0.371703
+				},
+				{
+					"id": 38,
+					"lemma": "하",
+					"type": "VX",
+					"position": 452,
+					"weight": 0.0899221
+				},
+				{
+					"id": 39,
+					"lemma": "는데",
+					"type": "EC",
+					"position": 455,
+					"weight": 0.252751
+				},
+				{
+					"id": 40,
+					"lemma": ",",
+					"type": "SP",
+					"position": 461,
+					"weight": 1
+				},
+				{
+					"id": 41,
+					"lemma": "이",
+					"type": "MM",
+					"position": 463,
+					"weight": 0.0017249
+				},
+				{
+					"id": 42,
+					"lemma": "경우",
+					"type": "NNG",
+					"position": 467,
+					"weight": 0.737121
+				},
+				{
+					"id": 43,
+					"lemma": "영어",
+					"type": "NNP",
+					"position": 474,
+					"weight": 0.00598227
+				},
+				{
+					"id": 44,
+					"lemma": "철자",
+					"type": "NNG",
+					"position": 481,
+					"weight": 0.9
+				},
+				{
+					"id": 45,
+					"lemma": "L",
+					"type": "SL",
+					"position": 488,
+					"weight": 1
+				},
+				{
+					"id": 46,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 489,
+					"weight": 0.00901723
+				},
+				{
+					"id": 47,
+					"lemma": "연속",
+					"type": "NNG",
+					"position": 493,
+					"weight": 0.9
+				},
+				{
+					"id": 48,
+					"lemma": "적",
+					"type": "NNG",
+					"position": 499,
+					"weight": 0.0169769
+				},
+				{
+					"id": 49,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 502,
+					"weight": 0.153406
+				},
+				{
+					"id": 50,
+					"lemma": "표기",
+					"type": "NNG",
+					"position": 509,
+					"weight": 0.9
+				},
+				{
+					"id": 51,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 515,
+					"weight": 0.000224177
+				},
+				{
+					"id": 52,
+					"lemma": "어",
+					"type": "EC",
+					"position": 518,
+					"weight": 0.361326
+				},
+				{
+					"id": 53,
+					"lemma": "혼란",
+					"type": "NNG",
+					"position": 522,
+					"weight": 0.9
+				},
+				{
+					"id": 54,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 528,
+					"weight": 0.129611
+				},
+				{
+					"id": 55,
+					"lemma": "야기",
+					"type": "NNG",
+					"position": 532,
+					"weight": 0.099954
+				},
+				{
+					"id": 56,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 538,
+					"weight": 0.0001
+				},
+				{
+					"id": 57,
+					"lemma": "ㄹ",
+					"type": "ETM",
+					"position": 538,
+					"weight": 0.387847
+				},
+				{
+					"id": 58,
+					"lemma": "수",
+					"type": "NNB",
+					"position": 542,
+					"weight": 0.215617
+				},
+				{
+					"id": 59,
+					"lemma": "있",
+					"type": "VA",
+					"position": 546,
+					"weight": 0.0518488
+				},
+				{
+					"id": 60,
+					"lemma": "다는",
+					"type": "ETM",
+					"position": 549,
+					"weight": 0.449331
+				},
+				{
+					"id": 61,
+					"lemma": "우려",
+					"type": "NNG",
+					"position": 556,
+					"weight": 0.9
+				},
+				{
+					"id": 62,
+					"lemma": ")",
+					"type": "SS",
+					"position": 562,
+					"weight": 1
+				},
+				{
+					"id": 63,
+					"lemma": "예외",
+					"type": "NNG",
+					"position": 564,
+					"weight": 0.9
+				},
+				{
+					"id": 64,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 570,
+					"weight": 0.0168756
+				},
+				{
+					"id": 65,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 573,
+					"weight": 0.121717
+				},
+				{
+					"id": 66,
+					"lemma": "아라비아",
+					"type": "NNP",
+					"position": 580,
+					"weight": 0.9
+				},
+				{
+					"id": 67,
+					"lemma": "숫자",
+					"type": "NNG",
+					"position": 593,
+					"weight": 0.9
+				},
+				{
+					"id": 68,
+					"lemma": "'",
+					"type": "SS",
+					"position": 600,
+					"weight": 1
+				},
+				{
+					"id": 69,
+					"lemma": "50",
+					"type": "SN",
+					"position": 601,
+					"weight": 1
+				},
+				{
+					"id": 70,
+					"lemma": "'",
+					"type": "SS",
+					"position": 603,
+					"weight": 1
+				},
+				{
+					"id": 71,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 604,
+					"weight": 0.0336085
+				},
+				{
+					"id": 72,
+					"lemma": "공식",
+					"type": "NNG",
+					"position": 608,
+					"weight": 0.9
+				},
+				{
+					"id": 73,
+					"lemma": "적",
+					"type": "XSN",
+					"position": 614,
+					"weight": 0.0168756
+				},
+				{
+					"id": 74,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 617,
+					"weight": 0.121717
+				},
+				{
+					"id": 75,
+					"lemma": "사용",
+					"type": "NNG",
+					"position": 624,
+					"weight": 0.9
+				},
+				{
+					"id": 76,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 630,
+					"weight": 0.0001
+				},
+				{
+					"id": 77,
+					"lemma": "었",
+					"type": "EP",
+					"position": 633,
+					"weight": 0.9
+				},
+				{
+					"id": 78,
+					"lemma": "다",
+					"type": "EF",
+					"position": 636,
+					"weight": 0.640954
+				},
+				{
+					"id": 79,
+					"lemma": ".",
+					"type": "SF",
+					"position": 639,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "슈퍼볼",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "뒤에",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "로마",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "숫자를",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "붙이던",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 5,
+					"text": "기존의",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 6,
+					"text": "방식과는",
+					"type": "",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "다르게",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 8,
+					"text": "('슈퍼볼",
+					"type": "",
+					"begin": 16,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "50'을",
+					"type": "",
+					"begin": 20,
+					"end": 22
+				},
+				{
+					"id": 10,
+					"text": "로마숫자로",
+					"type": "",
+					"begin": 23,
+					"end": 25
+				},
+				{
+					"id": 11,
+					"text": "표기하면",
+					"type": "",
+					"begin": 26,
+					"end": 28
+				},
+				{
+					"id": 12,
+					"text": "'SUPER",
+					"type": "",
+					"begin": 29,
+					"end": 30
+				},
+				{
+					"id": 13,
+					"text": "BOWL",
+					"type": "",
+					"begin": 31,
+					"end": 31
+				},
+				{
+					"id": 14,
+					"text": "L'로",
+					"type": "",
+					"begin": 32,
+					"end": 34
+				},
+				{
+					"id": 15,
+					"text": "표기해야",
+					"type": "",
+					"begin": 35,
+					"end": 37
+				},
+				{
+					"id": 16,
+					"text": "하는데,",
+					"type": "",
+					"begin": 38,
+					"end": 40
+				},
+				{
+					"id": 17,
+					"text": "이",
+					"type": "",
+					"begin": 41,
+					"end": 41
+				},
+				{
+					"id": 18,
+					"text": "경우",
+					"type": "",
+					"begin": 42,
+					"end": 42
+				},
+				{
+					"id": 19,
+					"text": "영어",
+					"type": "",
+					"begin": 43,
+					"end": 43
+				},
+				{
+					"id": 20,
+					"text": "철자",
+					"type": "",
+					"begin": 44,
+					"end": 44
+				},
+				{
+					"id": 21,
+					"text": "L이",
+					"type": "",
+					"begin": 45,
+					"end": 46
+				},
+				{
+					"id": 22,
+					"text": "연속적으로",
+					"type": "",
+					"begin": 47,
+					"end": 49
+				},
+				{
+					"id": 23,
+					"text": "표기되어",
+					"type": "",
+					"begin": 50,
+					"end": 52
+				},
+				{
+					"id": 24,
+					"text": "혼란을",
+					"type": "",
+					"begin": 53,
+					"end": 54
+				},
+				{
+					"id": 25,
+					"text": "야기할",
+					"type": "",
+					"begin": 55,
+					"end": 57
+				},
+				{
+					"id": 26,
+					"text": "수",
+					"type": "",
+					"begin": 58,
+					"end": 58
+				},
+				{
+					"id": 27,
+					"text": "있다는",
+					"type": "",
+					"begin": 59,
+					"end": 60
+				},
+				{
+					"id": 28,
+					"text": "우려)",
+					"type": "",
+					"begin": 61,
+					"end": 62
+				},
+				{
+					"id": 29,
+					"text": "예외적으로",
+					"type": "",
+					"begin": 63,
+					"end": 65
+				},
+				{
+					"id": 30,
+					"text": "아라비아",
+					"type": "",
+					"begin": 66,
+					"end": 66
+				},
+				{
+					"id": 31,
+					"text": "숫자",
+					"type": "",
+					"begin": 67,
+					"end": 67
+				},
+				{
+					"id": 32,
+					"text": "'50'을",
+					"type": "",
+					"begin": 68,
+					"end": 71
+				},
+				{
+					"id": 33,
+					"text": "공식적으로",
+					"type": "",
+					"begin": 72,
+					"end": 74
+				},
+				{
+					"id": 34,
+					"text": "사용하였다.",
+					"type": "",
+					"begin": 75,
+					"end": 79
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "슈퍼볼",
+					"type": "EV_SPORTS",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.331378,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "로마",
+					"type": "LCP_COUNTRY",
+					"begin": 4,
+					"end": 4,
+					"weight": 0.308693,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "슈퍼볼",
+					"type": "EV_SPORTS",
+					"begin": 18,
+					"end": 19,
+					"weight": 0.563442,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "50",
+					"type": "QT_OTHERS",
+					"begin": 20,
+					"end": 20,
+					"weight": 0.368953,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "로마",
+					"type": "LCP_COUNTRY",
+					"begin": 23,
+					"end": 23,
+					"weight": 0.175771,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "SUPER BOWL",
+					"type": "EV_SPORTS",
+					"begin": 30,
+					"end": 31,
+					"weight": 0.15551,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "영어",
+					"type": "CV_LANGUAGE",
+					"begin": 43,
+					"end": 43,
+					"weight": 0.507836,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "아라비아",
+					"type": "LCP_COUNTRY",
+					"begin": 66,
+					"end": 66,
+					"weight": 0.391157,
+					"common_noun": 0
+				},
+				{
+					"id": 8,
+					"text": "50",
+					"type": "QT_OTHERS",
+					"begin": 69,
+					"end": 69,
+					"weight": 0.31078,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "슈퍼볼",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.57298,
+					"mid": 44
+				},
+				{
+					"id": 1,
+					"text": "뒤에",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [
+						0
+					],
+					"weight": 0.607536,
+					"mid": 46
+				},
+				{
+					"id": 2,
+					"text": "로마",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.6819,
+					"mid": 48
+				},
+				{
+					"id": 3,
+					"text": "숫자를",
+					"head": 4,
+					"label": "NP_OBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.757347,
+					"mid": 46
+				},
+				{
+					"id": 4,
+					"text": "붙이던",
+					"head": 6,
+					"label": "VP_MOD",
+					"mod": [
+						1,
+						3
+					],
+					"weight": 0.670548,
+					"mid": 46
+				},
+				{
+					"id": 5,
+					"text": "기존의",
+					"head": 6,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.688731,
+					"mid": 52
+				},
+				{
+					"id": 6,
+					"text": "방식과는",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [
+						4,
+						5
+					],
+					"weight": 0.171402,
+					"mid": 54
+				},
+				{
+					"id": 7,
+					"text": "다르게",
+					"head": 34,
+					"label": "VP_AJT",
+					"mod": [
+						6
+					],
+					"weight": 0.411642,
+					"mid": 54
+				},
+				{
+					"id": 8,
+					"text": "('슈퍼볼",
+					"head": 9,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.661941,
+					"mid": 56
+				},
+				{
+					"id": 9,
+					"text": "50'을",
+					"head": 11,
+					"label": "NP_OBJ",
+					"mod": [
+						8
+					],
+					"weight": 0.733444,
+					"mid": 58
+				},
+				{
+					"id": 10,
+					"text": "로마숫자로",
+					"head": 11,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.716396,
+					"mid": 58
+				},
+				{
+					"id": 11,
+					"text": "표기하면",
+					"head": 15,
+					"label": "VP",
+					"mod": [
+						9,
+						10
+					],
+					"weight": 0.890541,
+					"mid": 60
+				},
+				{
+					"id": 12,
+					"text": "'SUPER",
+					"head": 13,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.705237,
+					"mid": 62
+				},
+				{
+					"id": 13,
+					"text": "BOWL",
+					"head": 14,
+					"label": "NP",
+					"mod": [
+						12
+					],
+					"weight": 0.820034,
+					"mid": 64
+				},
+				{
+					"id": 14,
+					"text": "L'로",
+					"head": 15,
+					"label": "NP_AJT",
+					"mod": [
+						13
+					],
+					"weight": 0.717594,
+					"mid": 60
+				},
+				{
+					"id": 15,
+					"text": "표기해야",
+					"head": 16,
+					"label": "VP",
+					"mod": [
+						11,
+						14
+					],
+					"weight": 0.849685,
+					"mid": 66
+				},
+				{
+					"id": 16,
+					"text": "하는데,",
+					"head": 23,
+					"label": "VP",
+					"mod": [
+						15
+					],
+					"weight": 0.359681,
+					"mid": 67
+				},
+				{
+					"id": 17,
+					"text": "이",
+					"head": 18,
+					"label": "DP",
+					"mod": [],
+					"weight": 0.527304,
+					"mid": 69
+				},
+				{
+					"id": 18,
+					"text": "경우",
+					"head": 23,
+					"label": "NP_AJT",
+					"mod": [
+						17
+					],
+					"weight": 0.813297,
+					"mid": 67
+				},
+				{
+					"id": 19,
+					"text": "영어",
+					"head": 20,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.602546,
+					"mid": 72
+				},
+				{
+					"id": 20,
+					"text": "철자",
+					"head": 21,
+					"label": "NP",
+					"mod": [
+						19
+					],
+					"weight": 0.566534,
+					"mid": 74
+				},
+				{
+					"id": 21,
+					"text": "L이",
+					"head": 23,
+					"label": "NP_SBJ",
+					"mod": [
+						20
+					],
+					"weight": 0.767117,
+					"mid": 67
+				},
+				{
+					"id": 22,
+					"text": "연속적으로",
+					"head": 23,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.816537,
+					"mid": 67
+				},
+				{
+					"id": 23,
+					"text": "표기되어",
+					"head": 25,
+					"label": "VP",
+					"mod": [
+						16,
+						18,
+						21,
+						22
+					],
+					"weight": 0.75316,
+					"mid": 77
+				},
+				{
+					"id": 24,
+					"text": "혼란을",
+					"head": 25,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.775407,
+					"mid": 77
+				},
+				{
+					"id": 25,
+					"text": "야기할",
+					"head": 26,
+					"label": "VP_MOD",
+					"mod": [
+						23,
+						24
+					],
+					"weight": 0.81373,
+					"mid": 77
+				},
+				{
+					"id": 26,
+					"text": "수",
+					"head": 27,
+					"label": "NP_SBJ",
+					"mod": [
+						25
+					],
+					"weight": 0.836745,
+					"mid": 81
+				},
+				{
+					"id": 27,
+					"text": "있다는",
+					"head": 28,
+					"label": "VP_MOD",
+					"mod": [
+						26
+					],
+					"weight": 0.753347,
+					"mid": 81
+				},
+				{
+					"id": 28,
+					"text": "우려)",
+					"head": 34,
+					"label": "NP",
+					"mod": [
+						27
+					],
+					"weight": 0.434453,
+					"mid": 83
+				},
+				{
+					"id": 29,
+					"text": "예외적으로",
+					"head": 34,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.801293,
+					"mid": 84
+				},
+				{
+					"id": 30,
+					"text": "아라비아",
+					"head": 31,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.693466,
+					"mid": 86
+				},
+				{
+					"id": 31,
+					"text": "숫자",
+					"head": 32,
+					"label": "NP",
+					"mod": [
+						30
+					],
+					"weight": 0.697618,
+					"mid": 88
+				},
+				{
+					"id": 32,
+					"text": "'50'을",
+					"head": 34,
+					"label": "NP_OBJ",
+					"mod": [
+						31
+					],
+					"weight": 0.624397,
+					"mid": 89
+				},
+				{
+					"id": 33,
+					"text": "공식적으로",
+					"head": 34,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.837662,
+					"mid": 90
+				},
+				{
+					"id": 34,
+					"text": "사용하였다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						7,
+						28,
+						29,
+						32,
+						33
+					],
+					"weight": 4.71171e-7,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "슈퍼볼 뒤에",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_OBJ",
+					"text": "로마 숫자를",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#0@AJT에 P#1@OBJ를 붙이던",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "P#2@MOD던 기존의 방식과는",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "VP_AJT",
+					"text": "P#3@AJT는 다르게",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 9,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP",
+					"text": "('슈퍼볼 50'을 로마숫자로 표기하면 'SUPER BOWL L'로 표기해야 하는데, 이 경우 영어 철자 L이 연속적으로 표기되어 혼란을 야기할 수 있다는 우려)",
+					"begin": 8,
+					"end": 28,
+					"key_begin": 8,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "예외적으로",
+					"begin": 29,
+					"end": 29,
+					"key_begin": 29,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_OBJ",
+					"text": "아라비아 숫자 '50'을",
+					"begin": 30,
+					"end": 32,
+					"key_begin": 30,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "NP_AJT",
+					"text": "공식적으로",
+					"begin": 33,
+					"end": 33,
+					"key_begin": 33,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "VP",
+					"text": "P#4@AJT게 P#5@NP우려) P#6@AJT으로 P#7@OBJ을 P#8@AJT으로 사용하였다.",
+					"begin": 0,
+					"end": 34,
+					"key_begin": 34,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "붙이",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.382028,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 1,
+							"text": "뒤에",
+							"weight": 0.487986
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "숫자를",
+							"weight": 0.27607
+						}
+					]
+				},
+				{
+					"verb": "표기",
+					"sense": 1,
+					"word_id": 11,
+					"weight": 0.188176,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 9,
+							"text": "50'을",
+							"weight": 0.240402
+						},
+						{
+							"type": "ARGM-MNR",
+							"word_id": 10,
+							"text": "로마숫자로",
+							"weight": 0.135949
+						}
+					]
+				},
+				{
+					"verb": "표기",
+					"sense": 1,
+					"word_id": 15,
+					"weight": 0.186569,
+					"argument": [
+						{
+							"type": "ARGM-CND",
+							"word_id": 11,
+							"text": "표기하면",
+							"weight": 0.199886
+						},
+						{
+							"type": "ARG2",
+							"word_id": 14,
+							"text": "L'로",
+							"weight": 0.143861
+						},
+						{
+							"type": "AUX",
+							"word_id": 16,
+							"text": "하는데,",
+							"weight": 0.215961
+						}
+					]
+				},
+				{
+					"verb": "표기",
+					"sense": 1,
+					"word_id": 23,
+					"weight": 0.295443,
+					"argument": [
+						{
+							"type": "ARGM-MNR",
+							"word_id": 22,
+							"text": "연속적으로",
+							"weight": 0.295443
+						}
+					]
+				},
+				{
+					"verb": "야기",
+					"sense": 1,
+					"word_id": 25,
+					"weight": 0.390095,
+					"argument": [
+						{
+							"type": "ARGM-CND",
+							"word_id": 11,
+							"text": "표기하면",
+							"weight": 0.242945
+						},
+						{
+							"type": "ARGM-CAU",
+							"word_id": 23,
+							"text": "표기되어",
+							"weight": 0.232725
+						},
+						{
+							"type": "ARG1",
+							"word_id": 24,
+							"text": "혼란을",
+							"weight": 0.252066
+						},
+						{
+							"type": "AUX",
+							"word_id": 27,
+							"text": "있다는",
+							"weight": 0.832645
+						}
+					]
+				},
+				{
+					"verb": "사용",
+					"sense": 1,
+					"word_id": 34,
+					"weight": 0.255764,
+					"argument": [
+						{
+							"type": "ARGM-MNR",
+							"word_id": 29,
+							"text": "예외적으로",
+							"weight": 0.179862
+						},
+						{
+							"type": "ARG1",
+							"word_id": 32,
+							"text": "'50'을",
+							"weight": 0.335267
+						},
+						{
+							"type": "ARGM-MNR",
+							"word_id": 33,
+							"text": "공식적으로",
+							"weight": 0.252163
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 15,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 25,
+					"ant_sid": 2,
+					"ant_wid": 21,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 2,
+					"type": "s",
+					"head_wid": 34,
+					"ant_sid": -1,
+					"ant_wid": -1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "국가는 미국 여가수 레이디 가가가 불렀으며, 하프타임 쇼는 영국 락 밴드 콜드플레이가 비욘세, 브루노 마스와 마크 론슨과 함께 해 많은 팬들의 주목을 받았다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "국가",
+					"type": "NNG",
+					"position": 640,
+					"weight": 0.437897
+				},
+				{
+					"id": 1,
+					"lemma": "는",
+					"type": "JX",
+					"position": 646,
+					"weight": 0.0287565
+				},
+				{
+					"id": 2,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 650,
+					"weight": 0.0448659
+				},
+				{
+					"id": 3,
+					"lemma": "여",
+					"type": "XPN",
+					"position": 657,
+					"weight": 0.0001
+				},
+				{
+					"id": 4,
+					"lemma": "가수",
+					"type": "NNG",
+					"position": 660,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "레이디",
+					"type": "NNG",
+					"position": 667,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "가가",
+					"type": "NNG",
+					"position": 677,
+					"weight": 0.132028
+				},
+				{
+					"id": 7,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 683,
+					"weight": 0.066324
+				},
+				{
+					"id": 8,
+					"lemma": "부르",
+					"type": "VV",
+					"position": 687,
+					"weight": 0.308557
+				},
+				{
+					"id": 9,
+					"lemma": "었",
+					"type": "EP",
+					"position": 687,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 693,
+					"weight": 0.197482
+				},
+				{
+					"id": 11,
+					"lemma": ",",
+					"type": "SP",
+					"position": 699,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "하프",
+					"type": "NNG",
+					"position": 701,
+					"weight": 0.9
+				},
+				{
+					"id": 13,
+					"lemma": "타임",
+					"type": "NNG",
+					"position": 707,
+					"weight": 0.136452
+				},
+				{
+					"id": 14,
+					"lemma": "쇼",
+					"type": "NNG",
+					"position": 714,
+					"weight": 0.164929
+				},
+				{
+					"id": 15,
+					"lemma": "는",
+					"type": "JX",
+					"position": 717,
+					"weight": 0.0287565
+				},
+				{
+					"id": 16,
+					"lemma": "영국",
+					"type": "NNP",
+					"position": 721,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "락",
+					"type": "NNG",
+					"position": 728,
+					"weight": 0.10048
+				},
+				{
+					"id": 18,
+					"lemma": "밴드",
+					"type": "NNG",
+					"position": 732,
+					"weight": 0.183639
+				},
+				{
+					"id": 19,
+					"lemma": "콜드플레이",
+					"type": "NNP",
+					"position": 739,
+					"weight": 0.6
+				},
+				{
+					"id": 20,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 754,
+					"weight": 0.0431193
+				},
+				{
+					"id": 21,
+					"lemma": "비욘세",
+					"type": "NNP",
+					"position": 758,
+					"weight": 0.6
+				},
+				{
+					"id": 22,
+					"lemma": ",",
+					"type": "SP",
+					"position": 767,
+					"weight": 1
+				},
+				{
+					"id": 23,
+					"lemma": "브루노",
+					"type": "NNP",
+					"position": 769,
+					"weight": 0.35
+				},
+				{
+					"id": 24,
+					"lemma": "마스",
+					"type": "NNG",
+					"position": 779,
+					"weight": 0.0563983
+				},
+				{
+					"id": 25,
+					"lemma": "와",
+					"type": "JC",
+					"position": 785,
+					"weight": 0.0169714
+				},
+				{
+					"id": 26,
+					"lemma": "마크",
+					"type": "NNP",
+					"position": 789,
+					"weight": 0.0208118
+				},
+				{
+					"id": 27,
+					"lemma": "론슨",
+					"type": "NNP",
+					"position": 796,
+					"weight": 0.6
+				},
+				{
+					"id": 28,
+					"lemma": "과",
+					"type": "JKB",
+					"position": 802,
+					"weight": 0.0270179
+				},
+				{
+					"id": 29,
+					"lemma": "함께",
+					"type": "MAG",
+					"position": 806,
+					"weight": 0.9
+				},
+				{
+					"id": 30,
+					"lemma": "하",
+					"type": "VV",
+					"position": 813,
+					"weight": 0.24126
+				},
+				{
+					"id": 31,
+					"lemma": "어",
+					"type": "EC",
+					"position": 813,
+					"weight": 0.41831
+				},
+				{
+					"id": 32,
+					"lemma": "많",
+					"type": "VA",
+					"position": 817,
+					"weight": 0.0501738
+				},
+				{
+					"id": 33,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 820,
+					"weight": 0.155123
+				},
+				{
+					"id": 34,
+					"lemma": "팬",
+					"type": "NNG",
+					"position": 824,
+					"weight": 0.61475
+				},
+				{
+					"id": 35,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 827,
+					"weight": 0.0299841
+				},
+				{
+					"id": 36,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 830,
+					"weight": 0.120732
+				},
+				{
+					"id": 37,
+					"lemma": "주목",
+					"type": "NNG",
+					"position": 834,
+					"weight": 0.869801
+				},
+				{
+					"id": 38,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 840,
+					"weight": 0.129611
+				},
+				{
+					"id": 39,
+					"lemma": "받",
+					"type": "VV",
+					"position": 844,
+					"weight": 0.765648
+				},
+				{
+					"id": 40,
+					"lemma": "았",
+					"type": "EP",
+					"position": 847,
+					"weight": 0.9
+				},
+				{
+					"id": 41,
+					"lemma": "다",
+					"type": "EF",
+					"position": 850,
+					"weight": 0.640954
+				},
+				{
+					"id": 42,
+					"lemma": ".",
+					"type": "SF",
+					"position": 853,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "국가는",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "여가수",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "레이디",
+					"type": "",
+					"begin": 5,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "가가가",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "불렀으며,",
+					"type": "",
+					"begin": 8,
+					"end": 11
+				},
+				{
+					"id": 6,
+					"text": "하프타임",
+					"type": "",
+					"begin": 12,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "쇼는",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 8,
+					"text": "영국",
+					"type": "",
+					"begin": 16,
+					"end": 16
+				},
+				{
+					"id": 9,
+					"text": "락",
+					"type": "",
+					"begin": 17,
+					"end": 17
+				},
+				{
+					"id": 10,
+					"text": "밴드",
+					"type": "",
+					"begin": 18,
+					"end": 18
+				},
+				{
+					"id": 11,
+					"text": "콜드플레이가",
+					"type": "",
+					"begin": 19,
+					"end": 20
+				},
+				{
+					"id": 12,
+					"text": "비욘세,",
+					"type": "",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 13,
+					"text": "브루노",
+					"type": "",
+					"begin": 23,
+					"end": 23
+				},
+				{
+					"id": 14,
+					"text": "마스와",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 15,
+					"text": "마크",
+					"type": "",
+					"begin": 26,
+					"end": 26
+				},
+				{
+					"id": 16,
+					"text": "론슨과",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 17,
+					"text": "함께",
+					"type": "",
+					"begin": 29,
+					"end": 29
+				},
+				{
+					"id": 18,
+					"text": "해",
+					"type": "",
+					"begin": 30,
+					"end": 31
+				},
+				{
+					"id": 19,
+					"text": "많은",
+					"type": "",
+					"begin": 32,
+					"end": 33
+				},
+				{
+					"id": 20,
+					"text": "팬들의",
+					"type": "",
+					"begin": 34,
+					"end": 36
+				},
+				{
+					"id": 21,
+					"text": "주목을",
+					"type": "",
+					"begin": 37,
+					"end": 38
+				},
+				{
+					"id": 22,
+					"text": "받았다.",
+					"type": "",
+					"begin": 39,
+					"end": 42
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.875583,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "여가수",
+					"type": "CV_OCCUPATION",
+					"begin": 3,
+					"end": 4,
+					"weight": 0.718723,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "레이디 가가",
+					"type": "PS_NAME",
+					"begin": 5,
+					"end": 6,
+					"weight": 0.394033,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "하프타임",
+					"type": "TI_OTHERS",
+					"begin": 12,
+					"end": 13,
+					"weight": 0.267312,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "영국",
+					"type": "LCP_COUNTRY",
+					"begin": 16,
+					"end": 16,
+					"weight": 0.489101,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "락",
+					"type": "FD_ART",
+					"begin": 17,
+					"end": 17,
+					"weight": 0.345657,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "콜드플레이",
+					"type": "PS_NAME",
+					"begin": 19,
+					"end": 19,
+					"weight": 0.463073,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "비욘세",
+					"type": "PS_NAME",
+					"begin": 21,
+					"end": 21,
+					"weight": 0.545513,
+					"common_noun": 0
+				},
+				{
+					"id": 8,
+					"text": "브루노 마스",
+					"type": "PS_NAME",
+					"begin": 23,
+					"end": 24,
+					"weight": 0.438385,
+					"common_noun": 0
+				},
+				{
+					"id": 9,
+					"text": "마크 론슨",
+					"type": "PS_NAME",
+					"begin": 26,
+					"end": 27,
+					"weight": 0.532717,
+					"common_noun": 0
+				},
+				{
+					"id": 10,
+					"text": "팬",
+					"type": "CV_POSITION",
+					"begin": 34,
+					"end": 34,
+					"weight": 0.471058,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "국가는",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.446895,
+					"mid": 92
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.305317,
+					"mid": 94
+				},
+				{
+					"id": 2,
+					"text": "여가수",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.0888321,
+					"mid": 96
+				},
+				{
+					"id": 3,
+					"text": "레이디",
+					"head": 4,
+					"label": "NP",
+					"mod": [
+						2
+					],
+					"weight": 0.685112,
+					"mid": 98
+				},
+				{
+					"id": 4,
+					"text": "가가가",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.796176,
+					"mid": 92
+				},
+				{
+					"id": 5,
+					"text": "불렀으며,",
+					"head": 18,
+					"label": "VP",
+					"mod": [
+						0,
+						4
+					],
+					"weight": 0.435502,
+					"mid": 100
+				},
+				{
+					"id": 6,
+					"text": "하프타임",
+					"head": 7,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.778041,
+					"mid": 102
+				},
+				{
+					"id": 7,
+					"text": "쇼는",
+					"head": 18,
+					"label": "NP_SBJ",
+					"mod": [
+						6
+					],
+					"weight": 0.709465,
+					"mid": 100
+				},
+				{
+					"id": 8,
+					"text": "영국",
+					"head": 10,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.680134,
+					"mid": 105
+				},
+				{
+					"id": 9,
+					"text": "락",
+					"head": 10,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.728197,
+					"mid": 105
+				},
+				{
+					"id": 10,
+					"text": "밴드",
+					"head": 11,
+					"label": "NP",
+					"mod": [
+						8,
+						9
+					],
+					"weight": 0.719382,
+					"mid": 108
+				},
+				{
+					"id": 11,
+					"text": "콜드플레이가",
+					"head": 18,
+					"label": "NP_SBJ",
+					"mod": [
+						10
+					],
+					"weight": 0.740132,
+					"mid": 100
+				},
+				{
+					"id": 12,
+					"text": "비욘세,",
+					"head": 16,
+					"label": "NP_CNJ",
+					"mod": [],
+					"weight": 0.548081,
+					"mid": 111
+				},
+				{
+					"id": 13,
+					"text": "브루노",
+					"head": 14,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.673539,
+					"mid": 113
+				},
+				{
+					"id": 14,
+					"text": "마스와",
+					"head": 16,
+					"label": "NP_CNJ",
+					"mod": [
+						13
+					],
+					"weight": 0.218859,
+					"mid": 111
+				},
+				{
+					"id": 15,
+					"text": "마크",
+					"head": 16,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.474363,
+					"mid": 111
+				},
+				{
+					"id": 16,
+					"text": "론슨과",
+					"head": 17,
+					"label": "NP_AJT",
+					"mod": [
+						12,
+						14,
+						15
+					],
+					"weight": 0.169639,
+					"mid": 117
+				},
+				{
+					"id": 17,
+					"text": "함께",
+					"head": 18,
+					"label": "AP",
+					"mod": [
+						16
+					],
+					"weight": 0.789695,
+					"mid": 100
+				},
+				{
+					"id": 18,
+					"text": "해",
+					"head": 22,
+					"label": "VP",
+					"mod": [
+						5,
+						7,
+						11,
+						17
+					],
+					"weight": 0.774242,
+					"mid": 100
+				},
+				{
+					"id": 19,
+					"text": "많은",
+					"head": 20,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.531487,
+					"mid": 118
+				},
+				{
+					"id": 20,
+					"text": "팬들의",
+					"head": 21,
+					"label": "NP_MOD",
+					"mod": [
+						19
+					],
+					"weight": 0.694865,
+					"mid": 121
+				},
+				{
+					"id": 21,
+					"text": "주목을",
+					"head": 22,
+					"label": "NP_OBJ",
+					"mod": [
+						20
+					],
+					"weight": 0.700624,
+					"mid": 122
+				},
+				{
+					"id": 22,
+					"text": "받았다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						18,
+						21
+					],
+					"weight": 3.17753e-7,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "국가는",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "미국 여가수 레이디 가가가",
+					"begin": 1,
+					"end": 4,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S",
+					"text": "P#0@SBJ는 P#1@SBJ가 불렀으며,",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 7,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "하프타임 쇼는",
+					"begin": 6,
+					"end": 7,
+					"key_begin": 6,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_SBJ",
+					"text": "영국 락 밴드 콜드플레이가",
+					"begin": 8,
+					"end": 11,
+					"key_begin": 8,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "비욘세, 브루노 마스와 마크 론슨과",
+					"begin": 12,
+					"end": 16,
+					"key_begin": 12,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "비욘세",
+							"label": "NP_AJT",
+							"begin": 21,
+							"end": 21,
+							"ne_type": "PS_NAME"
+						},
+						{
+							"text": "브루노 마스",
+							"label": "NP_AJT",
+							"begin": 23,
+							"end": 24,
+							"ne_type": "PS_NAME"
+						},
+						{
+							"text": "마크 론슨",
+							"label": "NP_AJT",
+							"begin": 26,
+							"end": 27,
+							"ne_type": "PS_NAME"
+						}
+					]
+				},
+				{
+					"id": 6,
+					"label": "AP",
+					"text": "P#5@AJT과 함께",
+					"begin": 12,
+					"end": 17,
+					"key_begin": 17,
+					"head_phrase": 7,
+					"sub_phrase": [
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "S",
+					"text": "S#2@S으며, P#3@SBJ는 P#4@SBJ가 P#6@AP함께 해",
+					"begin": 0,
+					"end": 18,
+					"key_begin": 18,
+					"head_phrase": 9,
+					"sub_phrase": [
+						2,
+						3,
+						4,
+						6
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "NP_OBJ",
+					"text": "많은 팬들의 주목을",
+					"begin": 19,
+					"end": 21,
+					"key_begin": 19,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "S",
+					"text": "S#7@S어 P#8@OBJ을 받았다.",
+					"begin": 0,
+					"end": 22,
+					"key_begin": 22,
+					"head_phrase": -1,
+					"sub_phrase": [
+						7,
+						8
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "부르",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.380377,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 4,
+							"text": "가가가",
+							"weight": 0.380377
+						}
+					]
+				},
+				{
+					"verb": "하",
+					"sense": 1,
+					"word_id": 18,
+					"weight": 0.400477,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 11,
+							"text": "콜드플레이가",
+							"weight": 0.460598
+						},
+						{
+							"type": "ARGM-ADV",
+							"word_id": 17,
+							"text": "함께",
+							"weight": 1
+						}
+					]
+				},
+				{
+					"verb": "많",
+					"sense": 1,
+					"word_id": 19,
+					"weight": 0.598248,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 20,
+							"text": "팬들의",
+							"weight": 0.598248
+						}
+					]
+				},
+				{
+					"verb": "받",
+					"sense": 1,
+					"word_id": 22,
+					"weight": 0.441624,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 11,
+							"text": "콜드플레이가",
+							"weight": 0.28724
+						},
+						{
+							"type": "ARGM-CAU",
+							"word_id": 18,
+							"text": "해",
+							"weight": 0.316137
+						},
+						{
+							"type": "ARG1",
+							"word_id": 21,
+							"text": "주목을",
+							"weight": 0.721496
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 22,
+					"ant_sid": 0,
+					"ant_wid": 1,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 4,
+			"text": "이날 경기는 덴버 브롱코스가 캐롤라이나 팬서스를 24-10으로 이겼으며, MVP로는 브롱코스의 라인백커 본 밀러가 선정되었다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이날",
+					"type": "NNG",
+					"position": 854,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "경기",
+					"type": "NNG",
+					"position": 861,
+					"weight": 0.135556
+				},
+				{
+					"id": 2,
+					"lemma": "는",
+					"type": "JX",
+					"position": 867,
+					"weight": 0.0287565
+				},
+				{
+					"id": 3,
+					"lemma": "덴버",
+					"type": "NNP",
+					"position": 871,
+					"weight": 0.55
+				},
+				{
+					"id": 4,
+					"lemma": "브롱코스",
+					"type": "NNP",
+					"position": 878,
+					"weight": 0.6
+				},
+				{
+					"id": 5,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 890,
+					"weight": 0.0431193
+				},
+				{
+					"id": 6,
+					"lemma": "캐롤라이나",
+					"type": "NNP",
+					"position": 894,
+					"weight": 0.35
+				},
+				{
+					"id": 7,
+					"lemma": "팬서스",
+					"type": "NNP",
+					"position": 910,
+					"weight": 0.6
+				},
+				{
+					"id": 8,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 919,
+					"weight": 0.0283046
+				},
+				{
+					"id": 9,
+					"lemma": "24",
+					"type": "SN",
+					"position": 923,
+					"weight": 1
+				},
+				{
+					"id": 10,
+					"lemma": "-",
+					"type": "SS",
+					"position": 925,
+					"weight": 1
+				},
+				{
+					"id": 11,
+					"lemma": "10",
+					"type": "SN",
+					"position": 926,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 928,
+					"weight": 0.00395806
+				},
+				{
+					"id": 13,
+					"lemma": "이기",
+					"type": "VV",
+					"position": 935,
+					"weight": 0.425468
+				},
+				{
+					"id": 14,
+					"lemma": "었",
+					"type": "EP",
+					"position": 938,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 941,
+					"weight": 0.197482
+				},
+				{
+					"id": 16,
+					"lemma": ",",
+					"type": "SP",
+					"position": 947,
+					"weight": 1
+				},
+				{
+					"id": 17,
+					"lemma": "MVP",
+					"type": "SL",
+					"position": 949,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 952,
+					"weight": 0.0327585
+				},
+				{
+					"id": 19,
+					"lemma": "는",
+					"type": "JX",
+					"position": 955,
+					"weight": 0.0387928
+				},
+				{
+					"id": 20,
+					"lemma": "브롱코스",
+					"type": "NNP",
+					"position": 959,
+					"weight": 0.6
+				},
+				{
+					"id": 21,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 971,
+					"weight": 0.0987295
+				},
+				{
+					"id": 22,
+					"lemma": "라인",
+					"type": "NNG",
+					"position": 975,
+					"weight": 0.797021
+				},
+				{
+					"id": 23,
+					"lemma": "백",
+					"type": "NR",
+					"position": 981,
+					"weight": 0.000982713
+				},
+				{
+					"id": 24,
+					"lemma": "커",
+					"type": "NNG",
+					"position": 984,
+					"weight": 0.00986929
+				},
+				{
+					"id": 25,
+					"lemma": "보",
+					"type": "VV",
+					"position": 988,
+					"weight": 0.00917135
+				},
+				{
+					"id": 26,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 988,
+					"weight": 0.304215
+				},
+				{
+					"id": 27,
+					"lemma": "밀러",
+					"type": "NNP",
+					"position": 992,
+					"weight": 0.0261893
+				},
+				{
+					"id": 28,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 998,
+					"weight": 0.0431193
+				},
+				{
+					"id": 29,
+					"lemma": "선정",
+					"type": "NNG",
+					"position": 1002,
+					"weight": 0.208963
+				},
+				{
+					"id": 30,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 1008,
+					"weight": 0.000224177
+				},
+				{
+					"id": 31,
+					"lemma": "었",
+					"type": "EP",
+					"position": 1011,
+					"weight": 0.9
+				},
+				{
+					"id": 32,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1014,
+					"weight": 0.640954
+				},
+				{
+					"id": 33,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1017,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이날",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "경기는",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "덴버",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "브롱코스가",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "캐롤라이나",
+					"type": "",
+					"begin": 6,
+					"end": 6
+				},
+				{
+					"id": 5,
+					"text": "팬서스를",
+					"type": "",
+					"begin": 7,
+					"end": 8
+				},
+				{
+					"id": 6,
+					"text": "24-10으로",
+					"type": "",
+					"begin": 9,
+					"end": 12
+				},
+				{
+					"id": 7,
+					"text": "이겼으며,",
+					"type": "",
+					"begin": 13,
+					"end": 16
+				},
+				{
+					"id": 8,
+					"text": "MVP로는",
+					"type": "",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "브롱코스의",
+					"type": "",
+					"begin": 20,
+					"end": 21
+				},
+				{
+					"id": 10,
+					"text": "라인백커",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				},
+				{
+					"id": 11,
+					"text": "본",
+					"type": "",
+					"begin": 25,
+					"end": 26
+				},
+				{
+					"id": 12,
+					"text": "밀러가",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 13,
+					"text": "선정되었다.",
+					"type": "",
+					"begin": 29,
+					"end": 33
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "덴버 브롱코스",
+					"type": "OGG_SPORTS",
+					"begin": 3,
+					"end": 4,
+					"weight": 0.307702,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "캐롤라이나 팬서스",
+					"type": "PS_NAME",
+					"begin": 6,
+					"end": 7,
+					"weight": 0.0885303,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "24-10",
+					"type": "QT_SPORTS",
+					"begin": 9,
+					"end": 11,
+					"weight": 0.46602,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "MVP",
+					"type": "CV_PRIZE",
+					"begin": 17,
+					"end": 17,
+					"weight": 0.343736,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "브롱코스",
+					"type": "PS_NAME",
+					"begin": 20,
+					"end": 20,
+					"weight": 0.128634,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "밀러",
+					"type": "PS_NAME",
+					"begin": 27,
+					"end": 27,
+					"weight": 0.209181,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이날",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.599298,
+					"mid": 124
+				},
+				{
+					"id": 1,
+					"text": "경기는",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						0
+					],
+					"weight": 0.615745,
+					"mid": 126
+				},
+				{
+					"id": 2,
+					"text": "덴버",
+					"head": 3,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.849347,
+					"mid": 128
+				},
+				{
+					"id": 3,
+					"text": "브롱코스가",
+					"head": 7,
+					"label": "NP_SBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.871624,
+					"mid": 126
+				},
+				{
+					"id": 4,
+					"text": "캐롤라이나",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.632526,
+					"mid": 131
+				},
+				{
+					"id": 5,
+					"text": "팬서스를",
+					"head": 7,
+					"label": "NP_OBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.638218,
+					"mid": 126
+				},
+				{
+					"id": 6,
+					"text": "24-10으로",
+					"head": 7,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.721167,
+					"mid": 126
+				},
+				{
+					"id": 7,
+					"text": "이겼으며,",
+					"head": 13,
+					"label": "VP",
+					"mod": [
+						1,
+						3,
+						5,
+						6
+					],
+					"weight": 0.820589,
+					"mid": 126
+				},
+				{
+					"id": 8,
+					"text": "MVP로는",
+					"head": 13,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.353226,
+					"mid": 134
+				},
+				{
+					"id": 9,
+					"text": "브롱코스의",
+					"head": 10,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.63529,
+					"mid": 136
+				},
+				{
+					"id": 10,
+					"text": "라인백커",
+					"head": 11,
+					"label": "NP_AJT",
+					"mod": [
+						9
+					],
+					"weight": 0.250447,
+					"mid": 138
+				},
+				{
+					"id": 11,
+					"text": "본",
+					"head": 12,
+					"label": "VP_MOD",
+					"mod": [
+						10
+					],
+					"weight": 0.714155,
+					"mid": 138
+				},
+				{
+					"id": 12,
+					"text": "밀러가",
+					"head": 13,
+					"label": "NP_SBJ",
+					"mod": [
+						11
+					],
+					"weight": 0.811106,
+					"mid": 140
+				},
+				{
+					"id": 13,
+					"text": "선정되었다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						7,
+						8,
+						12
+					],
+					"weight": 0.00160428,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "이날 경기는",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "덴버 브롱코스가",
+					"begin": 2,
+					"end": 3,
+					"key_begin": 2,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "캐롤라이나 팬서스를",
+					"begin": 4,
+					"end": 5,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_AJT",
+					"text": "24-10으로",
+					"begin": 6,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@SBJ는 P#1@SBJ가 P#2@OBJ를 P#3@AJT으로 이겼으며,",
+					"begin": 0,
+					"end": 7,
+					"key_begin": 7,
+					"head_phrase": 9,
+					"sub_phrase": [
+						0,
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "MVP로는",
+					"begin": 8,
+					"end": 8,
+					"key_begin": 8,
+					"head_phrase": 9,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "브롱코스의 라인백커",
+					"begin": 9,
+					"end": 10,
+					"key_begin": 9,
+					"head_phrase": 7,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "VP_MOD",
+					"text": "P#6@AJT커 본",
+					"begin": 9,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": 8,
+					"sub_phrase": [
+						6
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "NP_SBJ",
+					"text": "P#7@MODㄴ 밀러가",
+					"begin": 9,
+					"end": 12,
+					"key_begin": 12,
+					"head_phrase": 9,
+					"sub_phrase": [
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "S",
+					"text": "S#4@S으며, P#5@AJT는 P#8@SBJ가 선정되었다.",
+					"begin": 0,
+					"end": 13,
+					"key_begin": 13,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4,
+						5,
+						8
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "이기",
+					"sense": 1,
+					"word_id": 7,
+					"weight": 0.279125,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 1,
+							"text": "경기는",
+							"weight": 0.239819
+						},
+						{
+							"type": "ARG0",
+							"word_id": 3,
+							"text": "브롱코스가",
+							"weight": 0.383474
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "팬서스를",
+							"weight": 0.364985
+						},
+						{
+							"type": "ARGM-PRD",
+							"word_id": 6,
+							"text": "24-10으로",
+							"weight": 0.128221
+						}
+					]
+				},
+				{
+					"verb": "보",
+					"sense": 1,
+					"word_id": 11,
+					"weight": 0.211906,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "라인백커",
+							"weight": 0.122437
+						},
+						{
+							"type": "ARG0",
+							"word_id": 12,
+							"text": "밀러가",
+							"weight": 0.301375
+						}
+					]
+				},
+				{
+					"verb": "선정",
+					"sense": 1,
+					"word_id": 13,
+					"weight": 0.399426,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 8,
+							"text": "MVP로는",
+							"weight": 0.310686
+						},
+						{
+							"type": "ARG1",
+							"word_id": 12,
+							"text": "밀러가",
+							"weight": 0.488167
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 5,
+			"text": "이로써 덴버 브롱코스는 17년만에 트로피를 들어올리게 되었으며, 덴버 브롱코스의 스타 쿼터백 페이튼 매닝은 이번 우승으로 개인 2번째 슈퍼볼 우승을 기록하였으며, 팀의 통산 3번째 슈퍼볼 우승을 견인하였다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "이",
+					"type": "NP",
+					"position": 1018,
+					"weight": 0.00185676
+				},
+				{
+					"id": 1,
+					"lemma": "로써",
+					"type": "JKB",
+					"position": 1021,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "덴버",
+					"type": "NNP",
+					"position": 1028,
+					"weight": 0.55
+				},
+				{
+					"id": 3,
+					"lemma": "브롱코스",
+					"type": "NNP",
+					"position": 1035,
+					"weight": 0.6
+				},
+				{
+					"id": 4,
+					"lemma": "는",
+					"type": "JX",
+					"position": 1047,
+					"weight": 0.0332677
+				},
+				{
+					"id": 5,
+					"lemma": "17",
+					"type": "SN",
+					"position": 1051,
+					"weight": 1
+				},
+				{
+					"id": 6,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 1053,
+					"weight": 0.414343
+				},
+				{
+					"id": 7,
+					"lemma": "만",
+					"type": "NNB",
+					"position": 1056,
+					"weight": 0.000432077
+				},
+				{
+					"id": 8,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 1059,
+					"weight": 0.135559
+				},
+				{
+					"id": 9,
+					"lemma": "트로피",
+					"type": "NNG",
+					"position": 1063,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 1072,
+					"weight": 0.137686
+				},
+				{
+					"id": 11,
+					"lemma": "들어올리",
+					"type": "VV",
+					"position": 1076,
+					"weight": 0.35
+				},
+				{
+					"id": 12,
+					"lemma": "게",
+					"type": "EC",
+					"position": 1088,
+					"weight": 0.427975
+				},
+				{
+					"id": 13,
+					"lemma": "되",
+					"type": "VV",
+					"position": 1092,
+					"weight": 0.209958
+				},
+				{
+					"id": 14,
+					"lemma": "었",
+					"type": "EP",
+					"position": 1095,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 1098,
+					"weight": 0.197482
+				},
+				{
+					"id": 16,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1104,
+					"weight": 1
+				},
+				{
+					"id": 17,
+					"lemma": "덴버",
+					"type": "NNP",
+					"position": 1106,
+					"weight": 0.55
+				},
+				{
+					"id": 18,
+					"lemma": "브롱코스",
+					"type": "NNP",
+					"position": 1113,
+					"weight": 0.6
+				},
+				{
+					"id": 19,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1125,
+					"weight": 0.0987295
+				},
+				{
+					"id": 20,
+					"lemma": "스타",
+					"type": "NNG",
+					"position": 1129,
+					"weight": 0.860609
+				},
+				{
+					"id": 21,
+					"lemma": "쿼터",
+					"type": "NNG",
+					"position": 1136,
+					"weight": 0.135443
+				},
+				{
+					"id": 22,
+					"lemma": "백",
+					"type": "XSN",
+					"position": 1142,
+					"weight": 0
+				},
+				{
+					"id": 23,
+					"lemma": "페이튼",
+					"type": "NNP",
+					"position": 1146,
+					"weight": 0.05
+				},
+				{
+					"id": 24,
+					"lemma": "매닝",
+					"type": "NNP",
+					"position": 1156,
+					"weight": 0.6
+				},
+				{
+					"id": 25,
+					"lemma": "은",
+					"type": "JX",
+					"position": 1162,
+					"weight": 0.0520511
+				},
+				{
+					"id": 26,
+					"lemma": "이번",
+					"type": "NNG",
+					"position": 1166,
+					"weight": 0.9
+				},
+				{
+					"id": 27,
+					"lemma": "우승",
+					"type": "NNG",
+					"position": 1173,
+					"weight": 0.184308
+				},
+				{
+					"id": 28,
+					"lemma": "으로",
+					"type": "JKB",
+					"position": 1179,
+					"weight": 0.153406
+				},
+				{
+					"id": 29,
+					"lemma": "개인",
+					"type": "NNG",
+					"position": 1186,
+					"weight": 0.9
+				},
+				{
+					"id": 30,
+					"lemma": "2",
+					"type": "SN",
+					"position": 1193,
+					"weight": 1
+				},
+				{
+					"id": 31,
+					"lemma": "번째",
+					"type": "NNB",
+					"position": 1194,
+					"weight": 0.415311
+				},
+				{
+					"id": 32,
+					"lemma": "슈퍼",
+					"type": "NNG",
+					"position": 1201,
+					"weight": 0.9
+				},
+				{
+					"id": 33,
+					"lemma": "볼",
+					"type": "NNG",
+					"position": 1207,
+					"weight": 0.183068
+				},
+				{
+					"id": 34,
+					"lemma": "우승",
+					"type": "NNG",
+					"position": 1211,
+					"weight": 0.184308
+				},
+				{
+					"id": 35,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1217,
+					"weight": 0.129611
+				},
+				{
+					"id": 36,
+					"lemma": "기록",
+					"type": "NNG",
+					"position": 1221,
+					"weight": 0.9
+				},
+				{
+					"id": 37,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1227,
+					"weight": 0.0001
+				},
+				{
+					"id": 38,
+					"lemma": "었",
+					"type": "EP",
+					"position": 1230,
+					"weight": 0.9
+				},
+				{
+					"id": 39,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 1233,
+					"weight": 0.197482
+				},
+				{
+					"id": 40,
+					"lemma": ",",
+					"type": "SP",
+					"position": 1239,
+					"weight": 1
+				},
+				{
+					"id": 41,
+					"lemma": "팀",
+					"type": "NNG",
+					"position": 1241,
+					"weight": 0.529852
+				},
+				{
+					"id": 42,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 1244,
+					"weight": 0.0694213
+				},
+				{
+					"id": 43,
+					"lemma": "통산",
+					"type": "NNG",
+					"position": 1248,
+					"weight": 0.9
+				},
+				{
+					"id": 44,
+					"lemma": "3",
+					"type": "SN",
+					"position": 1255,
+					"weight": 1
+				},
+				{
+					"id": 45,
+					"lemma": "번째",
+					"type": "NNB",
+					"position": 1256,
+					"weight": 0.415311
+				},
+				{
+					"id": 46,
+					"lemma": "슈퍼",
+					"type": "NNG",
+					"position": 1263,
+					"weight": 0.9
+				},
+				{
+					"id": 47,
+					"lemma": "볼",
+					"type": "NNG",
+					"position": 1269,
+					"weight": 0.183068
+				},
+				{
+					"id": 48,
+					"lemma": "우승",
+					"type": "NNG",
+					"position": 1273,
+					"weight": 0.184308
+				},
+				{
+					"id": 49,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 1279,
+					"weight": 0.129611
+				},
+				{
+					"id": 50,
+					"lemma": "견인",
+					"type": "NNG",
+					"position": 1283,
+					"weight": 0.9
+				},
+				{
+					"id": 51,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 1289,
+					"weight": 0.0001
+				},
+				{
+					"id": 52,
+					"lemma": "였",
+					"type": "EP",
+					"position": 1292,
+					"weight": 0.9
+				},
+				{
+					"id": 53,
+					"lemma": "다",
+					"type": "EF",
+					"position": 1295,
+					"weight": 0.640954
+				},
+				{
+					"id": 54,
+					"lemma": ".",
+					"type": "SF",
+					"position": 1298,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "이로써",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "덴버",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "브롱코스는",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "17년만에",
+					"type": "",
+					"begin": 5,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "트로피를",
+					"type": "",
+					"begin": 9,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "들어올리게",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "되었으며,",
+					"type": "",
+					"begin": 13,
+					"end": 16
+				},
+				{
+					"id": 7,
+					"text": "덴버",
+					"type": "",
+					"begin": 17,
+					"end": 17
+				},
+				{
+					"id": 8,
+					"text": "브롱코스의",
+					"type": "",
+					"begin": 18,
+					"end": 19
+				},
+				{
+					"id": 9,
+					"text": "스타",
+					"type": "",
+					"begin": 20,
+					"end": 20
+				},
+				{
+					"id": 10,
+					"text": "쿼터백",
+					"type": "",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 11,
+					"text": "페이튼",
+					"type": "",
+					"begin": 23,
+					"end": 23
+				},
+				{
+					"id": 12,
+					"text": "매닝은",
+					"type": "",
+					"begin": 24,
+					"end": 25
+				},
+				{
+					"id": 13,
+					"text": "이번",
+					"type": "",
+					"begin": 26,
+					"end": 26
+				},
+				{
+					"id": 14,
+					"text": "우승으로",
+					"type": "",
+					"begin": 27,
+					"end": 28
+				},
+				{
+					"id": 15,
+					"text": "개인",
+					"type": "",
+					"begin": 29,
+					"end": 29
+				},
+				{
+					"id": 16,
+					"text": "2번째",
+					"type": "",
+					"begin": 30,
+					"end": 31
+				},
+				{
+					"id": 17,
+					"text": "슈퍼볼",
+					"type": "",
+					"begin": 32,
+					"end": 33
+				},
+				{
+					"id": 18,
+					"text": "우승을",
+					"type": "",
+					"begin": 34,
+					"end": 35
+				},
+				{
+					"id": 19,
+					"text": "기록하였으며,",
+					"type": "",
+					"begin": 36,
+					"end": 40
+				},
+				{
+					"id": 20,
+					"text": "팀의",
+					"type": "",
+					"begin": 41,
+					"end": 42
+				},
+				{
+					"id": 21,
+					"text": "통산",
+					"type": "",
+					"begin": 43,
+					"end": 43
+				},
+				{
+					"id": 22,
+					"text": "3번째",
+					"type": "",
+					"begin": 44,
+					"end": 45
+				},
+				{
+					"id": 23,
+					"text": "슈퍼볼",
+					"type": "",
+					"begin": 46,
+					"end": 47
+				},
+				{
+					"id": 24,
+					"text": "우승을",
+					"type": "",
+					"begin": 48,
+					"end": 49
+				},
+				{
+					"id": 25,
+					"text": "견인하였다.",
+					"type": "",
+					"begin": 50,
+					"end": 54
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "덴버 브롱코스",
+					"type": "OGG_SPORTS",
+					"begin": 2,
+					"end": 3,
+					"weight": 0.296069,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "17년",
+					"type": "DT_DURATION",
+					"begin": 5,
+					"end": 6,
+					"weight": 0.858489,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "덴버 브롱코스",
+					"type": "OGG_SPORTS",
+					"begin": 17,
+					"end": 18,
+					"weight": 0.22159,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "스타 쿼터백",
+					"type": "CV_POSITION",
+					"begin": 20,
+					"end": 22,
+					"weight": 0.231721,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "페이튼",
+					"type": "PS_NAME",
+					"begin": 23,
+					"end": 23,
+					"weight": 0.323964,
+					"common_noun": 0
+				},
+				{
+					"id": 5,
+					"text": "매닝",
+					"type": "PS_NAME",
+					"begin": 24,
+					"end": 24,
+					"weight": 0.161107,
+					"common_noun": 0
+				},
+				{
+					"id": 6,
+					"text": "우승",
+					"type": "CV_PRIZE",
+					"begin": 27,
+					"end": 27,
+					"weight": 0.6452,
+					"common_noun": 0
+				},
+				{
+					"id": 7,
+					"text": "2번째",
+					"type": "QT_ORDER",
+					"begin": 30,
+					"end": 31,
+					"weight": 0.646143,
+					"common_noun": 0
+				},
+				{
+					"id": 8,
+					"text": "슈퍼볼",
+					"type": "EV_SPORTS",
+					"begin": 32,
+					"end": 33,
+					"weight": 0.646033,
+					"common_noun": 0
+				},
+				{
+					"id": 9,
+					"text": "우승",
+					"type": "CV_PRIZE",
+					"begin": 34,
+					"end": 34,
+					"weight": 0.558746,
+					"common_noun": 0
+				},
+				{
+					"id": 10,
+					"text": "3번째",
+					"type": "QT_ORDER",
+					"begin": 44,
+					"end": 45,
+					"weight": 0.624072,
+					"common_noun": 0
+				},
+				{
+					"id": 11,
+					"text": "슈퍼볼",
+					"type": "EV_SPORTS",
+					"begin": 46,
+					"end": 47,
+					"weight": 0.641326,
+					"common_noun": 0
+				},
+				{
+					"id": 12,
+					"text": "우승",
+					"type": "CV_PRIZE",
+					"begin": 48,
+					"end": 48,
+					"weight": 0.562406,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "이로써",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.518615,
+					"mid": 142
+				},
+				{
+					"id": 1,
+					"text": "덴버",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.731659,
+					"mid": 144
+				},
+				{
+					"id": 2,
+					"text": "브롱코스는",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.779704,
+					"mid": 142
+				},
+				{
+					"id": 3,
+					"text": "17년만에",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.850615,
+					"mid": 142
+				},
+				{
+					"id": 4,
+					"text": "트로피를",
+					"head": 5,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.673551,
+					"mid": 142
+				},
+				{
+					"id": 5,
+					"text": "들어올리게",
+					"head": 6,
+					"label": "VP",
+					"mod": [
+						0,
+						2,
+						3,
+						4
+					],
+					"weight": 0.659157,
+					"mid": 148
+				},
+				{
+					"id": 6,
+					"text": "되었으며,",
+					"head": 19,
+					"label": "VP",
+					"mod": [
+						5
+					],
+					"weight": 0.767742,
+					"mid": 149
+				},
+				{
+					"id": 7,
+					"text": "덴버",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.782879,
+					"mid": 151
+				},
+				{
+					"id": 8,
+					"text": "브롱코스의",
+					"head": 10,
+					"label": "NP_MOD",
+					"mod": [
+						7
+					],
+					"weight": 0.625423,
+					"mid": 153
+				},
+				{
+					"id": 9,
+					"text": "스타",
+					"head": 10,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.70824,
+					"mid": 153
+				},
+				{
+					"id": 10,
+					"text": "쿼터백",
+					"head": 12,
+					"label": "NP",
+					"mod": [
+						8,
+						9
+					],
+					"weight": 0.597048,
+					"mid": 156
+				},
+				{
+					"id": 11,
+					"text": "페이튼",
+					"head": 12,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.793966,
+					"mid": 156
+				},
+				{
+					"id": 12,
+					"text": "매닝은",
+					"head": 19,
+					"label": "NP_SBJ",
+					"mod": [
+						10,
+						11
+					],
+					"weight": 0.708866,
+					"mid": 149
+				},
+				{
+					"id": 13,
+					"text": "이번",
+					"head": 14,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.665462,
+					"mid": 160
+				},
+				{
+					"id": 14,
+					"text": "우승으로",
+					"head": 19,
+					"label": "NP_AJT",
+					"mod": [
+						13
+					],
+					"weight": 0.803496,
+					"mid": 149
+				},
+				{
+					"id": 15,
+					"text": "개인",
+					"head": 16,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.0736069,
+					"mid": 163
+				},
+				{
+					"id": 16,
+					"text": "2번째",
+					"head": 17,
+					"label": "NP",
+					"mod": [
+						15
+					],
+					"weight": 0.0893659,
+					"mid": 165
+				},
+				{
+					"id": 17,
+					"text": "슈퍼볼",
+					"head": 18,
+					"label": "NP",
+					"mod": [
+						16
+					],
+					"weight": 0.744368,
+					"mid": 167
+				},
+				{
+					"id": 18,
+					"text": "우승을",
+					"head": 19,
+					"label": "NP_OBJ",
+					"mod": [
+						17
+					],
+					"weight": 0.794903,
+					"mid": 149
+				},
+				{
+					"id": 19,
+					"text": "기록하였으며,",
+					"head": 25,
+					"label": "VP",
+					"mod": [
+						6,
+						12,
+						14,
+						18
+					],
+					"weight": 0.729608,
+					"mid": 149
+				},
+				{
+					"id": 20,
+					"text": "팀의",
+					"head": 24,
+					"label": "NP_MOD",
+					"mod": [],
+					"weight": 0.749494,
+					"mid": 170
+				},
+				{
+					"id": 21,
+					"text": "통산",
+					"head": 22,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.244738,
+					"mid": 172
+				},
+				{
+					"id": 22,
+					"text": "3번째",
+					"head": 24,
+					"label": "NP",
+					"mod": [
+						21
+					],
+					"weight": 0.534191,
+					"mid": 170
+				},
+				{
+					"id": 23,
+					"text": "슈퍼볼",
+					"head": 24,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.644683,
+					"mid": 170
+				},
+				{
+					"id": 24,
+					"text": "우승을",
+					"head": 25,
+					"label": "NP_OBJ",
+					"mod": [
+						20,
+						22,
+						23
+					],
+					"weight": 0.877171,
+					"mid": 175
+				},
+				{
+					"id": 25,
+					"text": "견인하였다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						19,
+						24
+					],
+					"weight": 7.05141e-7,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "이로써",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "덴버 브롱코스는",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "17년만에",
+					"begin": 3,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_OBJ",
+					"text": "트로피를",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@AJT로써 P#1@SBJ는 P#2@AJT에 P#3@OBJ를 들어올리게 되었으며,",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": 8,
+					"sub_phrase": [
+						0,
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_SBJ",
+					"text": "덴버 브롱코스의 스타 쿼터백 페이튼 매닝은",
+					"begin": 7,
+					"end": 12,
+					"key_begin": 7,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "NP_AJT",
+					"text": "이번 우승으로",
+					"begin": 13,
+					"end": 14,
+					"key_begin": 13,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "NP_OBJ",
+					"text": "개인 2번째 슈퍼볼 우승을",
+					"begin": 15,
+					"end": 18,
+					"key_begin": 15,
+					"head_phrase": 8,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 8,
+					"label": "S",
+					"text": "S#4@S으며, P#5@SBJ은 P#6@AJT으로 P#7@OBJ을 기록하였으며,",
+					"begin": 0,
+					"end": 19,
+					"key_begin": 19,
+					"head_phrase": 10,
+					"sub_phrase": [
+						4,
+						5,
+						6,
+						7
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 9,
+					"label": "NP_OBJ",
+					"text": "팀의 통산 3번째 슈퍼볼 우승을",
+					"begin": 20,
+					"end": 24,
+					"key_begin": 20,
+					"head_phrase": 10,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 10,
+					"label": "S",
+					"text": "S#8@S으며, P#9@OBJ을 견인하였다.",
+					"begin": 0,
+					"end": 25,
+					"key_begin": 25,
+					"head_phrase": -1,
+					"sub_phrase": [
+						8,
+						9
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "들어올리",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.247316,
+					"argument": [
+						{
+							"type": "ARGM-INS",
+							"word_id": 0,
+							"text": "이로써",
+							"weight": 0.0945135
+						},
+						{
+							"type": "ARGM-TMP",
+							"word_id": 3,
+							"text": "17년만에",
+							"weight": 0.273365
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "트로피를",
+							"weight": 0.152187
+						},
+						{
+							"type": "AUX",
+							"word_id": 6,
+							"text": "되었으며,",
+							"weight": 0.469199
+						}
+					]
+				},
+				{
+					"verb": "기록",
+					"sense": 1,
+					"word_id": 19,
+					"weight": 0.373196,
+					"argument": [
+						{
+							"type": "ARGM-CAU",
+							"word_id": 14,
+							"text": "우승으로",
+							"weight": 0.125029
+						},
+						{
+							"type": "ARG1",
+							"word_id": 18,
+							"text": "우승을",
+							"weight": 0.621362
+						}
+					]
+				},
+				{
+					"verb": "견인",
+					"sense": 1,
+					"word_id": 25,
+					"weight": 0.38184,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 24,
+							"text": "우승을",
+							"weight": 0.38184
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 25,
+					"ant_sid": 5,
+					"ant_wid": 12,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "QT_AGE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "슈퍼볼 50",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "슈퍼볼 50",
+					"ne_id": 1
+				},
+				{
+					"id": 2,
+					"text": "슈퍼볼50",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "슈퍼볼50",
+					"ne_id": 0
+				},
+				{
+					"id": 3,
+					"text": "2016년 2월 7일현지기준 캘리포니아 주 산타 클라라의 리바이스 스타디움에서 열린 내셔널 풋볼 콘퍼런스 챔피언 캐롤라이나 팬서스와 아메리칸 풋볼 콘퍼런스 챔피언 덴버 브롱코스의 슈퍼볼 경기이다",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 24,
+					"start_eid_short": 17,
+					"end_eid_short": 24,
+					"text_short": "아메리칸 풋볼 콘퍼런스 챔피언 덴버 브롱코스의 슈퍼볼 경기이다",
+					"ne_id": -1
+				},
+				{
+					"id": 19,
+					"text": "슈퍼볼 50",
+					"sent_id": 2,
+					"start_eid": 8,
+					"end_eid": 9,
+					"start_eid_short": 8,
+					"end_eid_short": 9,
+					"text_short": "슈퍼볼 50",
+					"ne_id": 3
+				},
+				{
+					"id": 22,
+					"text": "SUPER BOWL L",
+					"sent_id": 2,
+					"start_eid": 12,
+					"end_eid": 14,
+					"start_eid_short": 12,
+					"end_eid_short": 14,
+					"text_short": "SUPER BOWL L",
+					"ne_id": -1
+				},
+				{
+					"id": 66,
+					"text": "이번",
+					"sent_id": 5,
+					"start_eid": 13,
+					"end_eid": 13,
+					"start_eid_short": 13,
+					"end_eid_short": 13,
+					"text_short": "이번",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "DT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "2016년 2월 7일현지기준",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 1,
+					"end_eid_short": 3,
+					"text_short": "2016년 2월 7일현지기준",
+					"ne_id": 1
+				},
+				{
+					"id": 50,
+					"text": "이날",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "이날",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 6,
+					"text": "캘리포니아 주 산타 클라라",
+					"sent_id": 1,
+					"start_eid": 4,
+					"end_eid": 7,
+					"start_eid_short": 4,
+					"end_eid_short": 7,
+					"text_short": "캘리포니아 주 산타 클라라",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "캘리포니아 주",
+					"sent_id": 1,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "캘리포니아 주",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "AF_BUILDING",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 5,
+					"text": "캘리포니아 주 산타 클라라의 리바이스 스타디움",
+					"sent_id": 1,
+					"start_eid": 4,
+					"end_eid": 9,
+					"start_eid_short": 4,
+					"end_eid_short": 9,
+					"text_short": "캘리포니아 주 산타 클라라의 리바이스 스타디움",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "CV_POSITION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 8,
+					"text": "내셔널 풋볼 콘퍼런스 챔피언 캐롤라이나 팬서스",
+					"sent_id": 1,
+					"start_eid": 11,
+					"end_eid": 16,
+					"start_eid_short": 11,
+					"end_eid_short": 16,
+					"text_short": "내셔널 풋볼 콘퍼런스 챔피언 캐롤라이나 팬서스",
+					"ne_id": 6
+				},
+				{
+					"id": 9,
+					"text": "내셔널 풋볼 콘퍼런스 챔피언",
+					"sent_id": 1,
+					"start_eid": 11,
+					"end_eid": 14,
+					"start_eid_short": 11,
+					"end_eid_short": 14,
+					"text_short": "내셔널 풋볼 콘퍼런스 챔피언",
+					"ne_id": -1
+				},
+				{
+					"id": 52,
+					"text": "캐롤라이나 팬서스",
+					"sent_id": 4,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "캐롤라이나 팬서스",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "OGG_SPORTS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 10,
+					"text": "아메리칸 풋볼 콘퍼런스 챔피언 덴버 브롱코스",
+					"sent_id": 1,
+					"start_eid": 17,
+					"end_eid": 22,
+					"start_eid_short": 17,
+					"end_eid_short": 22,
+					"text_short": "아메리칸 풋볼 콘퍼런스 챔피언 덴버 브롱코스",
+					"ne_id": 5
+				},
+				{
+					"id": 11,
+					"text": "아메리칸 풋볼 콘퍼런스 챔피언",
+					"sent_id": 1,
+					"start_eid": 17,
+					"end_eid": 20,
+					"start_eid_short": 17,
+					"end_eid_short": 20,
+					"text_short": "아메리칸 풋볼 콘퍼런스 챔피언",
+					"ne_id": -1
+				},
+				{
+					"id": 51,
+					"text": "덴버 브롱코스",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "덴버 브롱코스",
+					"ne_id": 0
+				},
+				{
+					"id": 57,
+					"text": "브롱코스",
+					"sent_id": 4,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "브롱코스",
+					"ne_id": 4
+				},
+				{
+					"id": 59,
+					"text": "덴버 브롱코스",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "덴버 브롱코스",
+					"ne_id": 0
+				},
+				{
+					"id": 63,
+					"text": "덴버 브롱코스",
+					"sent_id": 5,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "덴버 브롱코스",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "슈퍼볼 뒤에 로마 숫자를 붙이던 기존의 방식",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 6,
+					"start_eid_short": 5,
+					"end_eid_short": 6,
+					"text_short": "기존의 방식",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "슈퍼볼 뒤",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "슈퍼볼 뒤",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 16,
+					"text": "로마 숫자",
+					"sent_id": 2,
+					"start_eid": 2,
+					"end_eid": 3,
+					"start_eid_short": 2,
+					"end_eid_short": 3,
+					"text_short": "로마 숫자",
+					"ne_id": -1
+				},
+				{
+					"id": 21,
+					"text": "로마숫자",
+					"sent_id": 2,
+					"start_eid": 10,
+					"end_eid": 10,
+					"start_eid_short": 10,
+					"end_eid_short": 10,
+					"text_short": "로마숫자",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 17,
+					"text": "로마",
+					"sent_id": 2,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "로마",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 18,
+					"text": "기존",
+					"sent_id": 2,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "기존",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "QT_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 32,
+					"text": "50",
+					"sent_id": 2,
+					"start_eid": 32,
+					"end_eid": 32,
+					"start_eid_short": 32,
+					"end_eid_short": 32,
+					"text_short": "50",
+					"ne_id": 8
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 24,
+					"text": "이 경우",
+					"sent_id": 2,
+					"start_eid": 17,
+					"end_eid": 18,
+					"start_eid_short": 17,
+					"end_eid_short": 18,
+					"text_short": "이 경우",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 26,
+					"text": "영어 철자",
+					"sent_id": 2,
+					"start_eid": 19,
+					"end_eid": 20,
+					"start_eid_short": 19,
+					"end_eid_short": 20,
+					"text_short": "영어 철자",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "CV_LANGUAGE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 27,
+					"text": "영어",
+					"sent_id": 2,
+					"start_eid": 19,
+					"end_eid": 19,
+					"start_eid_short": 19,
+					"end_eid_short": 19,
+					"text_short": "영어",
+					"ne_id": 6
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 28,
+					"text": "연속적",
+					"sent_id": 2,
+					"start_eid": 22,
+					"end_eid": 22,
+					"start_eid_short": 22,
+					"end_eid_short": 22,
+					"text_short": "연속적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 29,
+					"text": "예외적",
+					"sent_id": 2,
+					"start_eid": 29,
+					"end_eid": 29,
+					"start_eid_short": 29,
+					"end_eid_short": 29,
+					"text_short": "예외적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 30,
+					"text": "아라비아 숫자",
+					"sent_id": 2,
+					"start_eid": 30,
+					"end_eid": 31,
+					"start_eid_short": 30,
+					"end_eid_short": 31,
+					"text_short": "아라비아 숫자",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 31,
+					"text": "아라비아",
+					"sent_id": 2,
+					"start_eid": 30,
+					"end_eid": 30,
+					"start_eid_short": 30,
+					"end_eid_short": 30,
+					"text_short": "아라비아",
+					"ne_id": 7
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 33,
+					"text": "공식적",
+					"sent_id": 2,
+					"start_eid": 33,
+					"end_eid": 33,
+					"start_eid_short": 33,
+					"end_eid_short": 33,
+					"text_short": "공식적",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "국가",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "국가",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "CV_OCCUPATION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "미국 여가수",
+					"sent_id": 3,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "미국 여가수",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 37,
+					"text": "미국",
+					"sent_id": 3,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "미국",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "PS_NAME",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "미국 여가수 레이디 가가",
+					"sent_id": 3,
+					"start_eid": 1,
+					"end_eid": 4,
+					"start_eid_short": 1,
+					"end_eid_short": 4,
+					"text_short": "미국 여가수 레이디 가가",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 38,
+					"text": "하프타임 쇼",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 7,
+					"start_eid_short": 6,
+					"end_eid_short": 7,
+					"text_short": "하프타임 쇼",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "TI_OTHERS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 39,
+					"text": "하프타임",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "하프타임",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 42,
+					"text": "락 밴드",
+					"sent_id": 3,
+					"start_eid": 9,
+					"end_eid": 10,
+					"start_eid_short": 9,
+					"end_eid_short": 10,
+					"text_short": "락 밴드",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 28,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 41,
+					"text": "영국",
+					"sent_id": 3,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "영국",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 29,
+			"type": "FD_ART",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 43,
+					"text": "락",
+					"sent_id": 3,
+					"start_eid": 9,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "락",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 30,
+			"type": "PS_NAME",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 40,
+					"text": "영국 락 밴드 콜드플레이",
+					"sent_id": 3,
+					"start_eid": 8,
+					"end_eid": 11,
+					"start_eid_short": 8,
+					"end_eid_short": 11,
+					"text_short": "영국 락 밴드 콜드플레이",
+					"ne_id": 6
+				}
+			]
+		},
+		{
+			"id": 31,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 44,
+					"text": "비욘세",
+					"sent_id": 3,
+					"start_eid": 12,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "비욘세",
+					"ne_id": -1
+				},
+				{
+					"id": 45,
+					"text": "브루노 마스",
+					"sent_id": 3,
+					"start_eid": 13,
+					"end_eid": 14,
+					"start_eid_short": 13,
+					"end_eid_short": 14,
+					"text_short": "브루노 마스",
+					"ne_id": 8
+				},
+				{
+					"id": 46,
+					"text": "마크 론슨",
+					"sent_id": 3,
+					"start_eid": 15,
+					"end_eid": 16,
+					"start_eid_short": 15,
+					"end_eid_short": 16,
+					"text_short": "마크 론슨",
+					"ne_id": 9
+				}
+			]
+		},
+		{
+			"id": 32,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 47,
+					"text": "많은 팬들의 주목",
+					"sent_id": 3,
+					"start_eid": 19,
+					"end_eid": 21,
+					"start_eid_short": 20,
+					"end_eid_short": 21,
+					"text_short": "팬들의 주목",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 33,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 49,
+					"text": "이날 경기",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "이날 경기",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 34,
+			"type": "QT_SPORTS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 53,
+					"text": "2410",
+					"sent_id": 4,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "2410",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 35,
+			"type": "CV_PRIZE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 54,
+					"text": "MVP",
+					"sent_id": 4,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "MVP",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 36,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 56,
+					"text": "브롱코스의 라인백커",
+					"sent_id": 4,
+					"start_eid": 9,
+					"end_eid": 10,
+					"start_eid_short": 9,
+					"end_eid_short": 10,
+					"text_short": "브롱코스의 라인백커",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 37,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 58,
+					"text": "이",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "이",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 38,
+			"type": "DT_DURATION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 60,
+					"text": "17년만",
+					"sent_id": 5,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "17년만",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 39,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 61,
+					"text": "트로피",
+					"sent_id": 5,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "트로피",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 40,
+			"type": "CV_PRIZE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 65,
+					"text": "이번 우승",
+					"sent_id": 5,
+					"start_eid": 13,
+					"end_eid": 14,
+					"start_eid_short": 13,
+					"end_eid_short": 14,
+					"text_short": "이번 우승",
+					"ne_id": 6
+				},
+				{
+					"id": 67,
+					"text": "개인 2번째 슈퍼볼 우승",
+					"sent_id": 5,
+					"start_eid": 15,
+					"end_eid": 18,
+					"start_eid_short": 15,
+					"end_eid_short": 18,
+					"text_short": "개인 2번째 슈퍼볼 우승",
+					"ne_id": 9
+				},
+				{
+					"id": 71,
+					"text": "팀의 통산 3번째 슈퍼볼 우승",
+					"sent_id": 5,
+					"start_eid": 20,
+					"end_eid": 24,
+					"start_eid_short": 20,
+					"end_eid_short": 24,
+					"text_short": "팀의 통산 3번째 슈퍼볼 우승",
+					"ne_id": 12
+				}
+			]
+		},
+		{
+			"id": 41,
+			"type": "QT_ORDER",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 68,
+					"text": "개인 2번째",
+					"sent_id": 5,
+					"start_eid": 15,
+					"end_eid": 16,
+					"start_eid_short": 15,
+					"end_eid_short": 16,
+					"text_short": "개인 2번째",
+					"ne_id": 7
+				}
+			]
+		},
+		{
+			"id": 42,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 69,
+					"text": "개인",
+					"sent_id": 5,
+					"start_eid": 15,
+					"end_eid": 15,
+					"start_eid_short": 15,
+					"end_eid_short": 15,
+					"text_short": "개인",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 43,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 72,
+					"text": "팀",
+					"sent_id": 5,
+					"start_eid": 20,
+					"end_eid": 20,
+					"start_eid_short": 20,
+					"end_eid_short": 20,
+					"text_short": "팀",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 44,
+			"type": "QT_ORDER",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 73,
+					"text": "통산 3번째",
+					"sent_id": 5,
+					"start_eid": 21,
+					"end_eid": 22,
+					"start_eid_short": 21,
+					"end_eid_short": 22,
+					"text_short": "통산 3번째",
+					"ne_id": 10
+				}
+			]
+		},
+		{
+			"id": 45,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 74,
+					"text": "통산",
+					"sent_id": 5,
+					"start_eid": 21,
+					"end_eid": 21,
+					"start_eid_short": 21,
+					"end_eid_short": 21,
+					"text_short": "통산",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 46,
+			"type": "EV_SPORTS",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 1,
+					"text": "슈퍼볼",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "슈퍼볼",
+					"ne_id": 0
+				},
+				{
+					"id": 12,
+					"text": "슈퍼볼",
+					"sent_id": 1,
+					"start_eid": 23,
+					"end_eid": 23,
+					"start_eid_short": 23,
+					"end_eid_short": 23,
+					"text_short": "슈퍼볼",
+					"ne_id": 8
+				},
+				{
+					"id": 15,
+					"text": "슈퍼볼",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "슈퍼볼",
+					"ne_id": 0
+				},
+				{
+					"id": 20,
+					"text": "슈퍼볼",
+					"sent_id": 2,
+					"start_eid": 8,
+					"end_eid": 8,
+					"start_eid_short": 8,
+					"end_eid_short": 8,
+					"text_short": "슈퍼볼",
+					"ne_id": 2
+				},
+				{
+					"id": 23,
+					"text": "SUPER BOWL",
+					"sent_id": 2,
+					"start_eid": 12,
+					"end_eid": 13,
+					"start_eid_short": 12,
+					"end_eid_short": 13,
+					"text_short": "SUPER BOWL",
+					"ne_id": 5
+				},
+				{
+					"id": 70,
+					"text": "슈퍼볼",
+					"sent_id": 5,
+					"start_eid": 17,
+					"end_eid": 17,
+					"start_eid_short": 17,
+					"end_eid_short": 17,
+					"text_short": "슈퍼볼",
+					"ne_id": 8
+				},
+				{
+					"id": 75,
+					"text": "슈퍼볼",
+					"sent_id": 5,
+					"start_eid": 23,
+					"end_eid": 23,
+					"start_eid_short": 23,
+					"end_eid_short": 23,
+					"text_short": "슈퍼볼",
+					"ne_id": 11
+				}
+			]
+		},
+		{
+			"id": 47,
+			"type": "CV_POSITION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 48,
+					"text": "많은 팬들",
+					"sent_id": 3,
+					"start_eid": 19,
+					"end_eid": 20,
+					"start_eid_short": 20,
+					"end_eid_short": 20,
+					"text_short": "팬들",
+					"ne_id": 10
+				}
+			]
+		},
+		{
+			"id": 48,
+			"type": "PS_NAME",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 62,
+					"text": "덴버 브롱코스의 스타 쿼터백 페이튼 매닝",
+					"sent_id": 5,
+					"start_eid": 7,
+					"end_eid": 12,
+					"start_eid_short": 7,
+					"end_eid_short": 12,
+					"text_short": "덴버 브롱코스의 스타 쿼터백 페이튼 매닝",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 49,
+			"type": "CV_POSITION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 64,
+					"text": "스타 쿼터백",
+					"sent_id": 5,
+					"start_eid": 9,
+					"end_eid": 10,
+					"start_eid_short": 9,
+					"end_eid_short": 10,
+					"text_short": "스타 쿼터백",
+					"ne_id": 3
+				}
+			]
+		},
+		{
+			"id": 50,
+			"type": "PS_NAME",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 55,
+					"text": "브롱코스의 라인백커 본 밀러",
+					"sent_id": 4,
+					"start_eid": 9,
+					"end_eid": 12,
+					"start_eid_short": 12,
+					"end_eid_short": 12,
+					"text_short": "밀러",
+					"ne_id": 5
+				}
+			]
+		},
+		{
+			"id": 51,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 25,
+					"text": "영어 철자 L",
+					"sent_id": 2,
+					"start_eid": 19,
+					"end_eid": 21,
+					"start_eid_short": 19,
+					"end_eid_short": 21,
+					"text_short": "영어 철자 L",
+					"ne_id": -1
+				}
+			]
+		}
+	]
+}

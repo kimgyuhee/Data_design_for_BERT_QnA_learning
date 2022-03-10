@@ -1,0 +1,4403 @@
+{
+	"title": {
+		"text": "프레즈노",
+		"NE": "LCP_CITY"
+	},
+	"metaInfo": {
+		"field": "백과사전1",
+		"num_sent": 10,
+		"num_word": 66
+	},
+	"sentence": [
+		{
+			"id": 0,
+			"text": "프레즈노",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "프레즈노",
+					"type": "NNP",
+					"position": 0,
+					"weight": 0.6
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "프레즈노",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "프레즈노",
+					"type": "LCP_CITY",
+					"begin": 0,
+					"end": 0,
+					"weight": 1,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "프레즈노",
+					"head": -1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.768972,
+					"mid": 0
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP",
+					"text": "프레즈노",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [],
+			"ZA": []
+		},
+		{
+			"id": 1,
+			"text": "프레즈노는 미국 캘리포니아 주 중남부에 있는 도시이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "프레즈노",
+					"type": "NNP",
+					"position": 12,
+					"weight": 0.6
+				},
+				{
+					"id": 1,
+					"lemma": "는",
+					"type": "JX",
+					"position": 24,
+					"weight": 0.0332677
+				},
+				{
+					"id": 2,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 28,
+					"weight": 0.0448659
+				},
+				{
+					"id": 3,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 35,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "주",
+					"type": "NNG",
+					"position": 51,
+					"weight": 0.0177845
+				},
+				{
+					"id": 5,
+					"lemma": "중",
+					"type": "NNG",
+					"position": 55,
+					"weight": 0.0226349
+				},
+				{
+					"id": 6,
+					"lemma": "남부",
+					"type": "NNG",
+					"position": 58,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 64,
+					"weight": 0.153364
+				},
+				{
+					"id": 8,
+					"lemma": "있",
+					"type": "VA",
+					"position": 68,
+					"weight": 0.037292
+				},
+				{
+					"id": 9,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 71,
+					"weight": 0.26168
+				},
+				{
+					"id": 10,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 75,
+					"weight": 0.656406
+				},
+				{
+					"id": 11,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 81,
+					"weight": 0.0177525
+				},
+				{
+					"id": 12,
+					"lemma": "다",
+					"type": "EF",
+					"position": 84,
+					"weight": 0.353579
+				},
+				{
+					"id": 13,
+					"lemma": ".",
+					"type": "SF",
+					"position": 87,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "프레즈노는",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "캘리포니아",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "주",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 4,
+					"text": "중남부에",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "있는",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "도시이다.",
+					"type": "",
+					"begin": 10,
+					"end": 13
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "프레즈노",
+					"type": "LCP_CITY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.190462,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.961999,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "캘리포니아 주",
+					"type": "LCP_PROVINCE",
+					"begin": 3,
+					"end": 4,
+					"weight": 0.750889,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "중남부",
+					"type": "TM_DIRECTION",
+					"begin": 5,
+					"end": 6,
+					"weight": 0.516276,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "프레즈노는",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.157449,
+					"mid": 2
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.512795,
+					"mid": 4
+				},
+				{
+					"id": 2,
+					"text": "캘리포니아",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.652078,
+					"mid": 6
+				},
+				{
+					"id": 3,
+					"text": "주",
+					"head": 4,
+					"label": "NP",
+					"mod": [
+						2
+					],
+					"weight": 0.743322,
+					"mid": 8
+				},
+				{
+					"id": 4,
+					"text": "중남부에",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						3
+					],
+					"weight": 0.816567,
+					"mid": 10
+				},
+				{
+					"id": 5,
+					"text": "있는",
+					"head": 6,
+					"label": "VP_MOD",
+					"mod": [
+						4
+					],
+					"weight": 0.741305,
+					"mid": 10
+				},
+				{
+					"id": 6,
+					"text": "도시이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						5,
+						0
+					],
+					"weight": 0.0186747,
+					"mid": 2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "프레즈노는",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "미국 캘리포니아 주 중남부에",
+					"begin": 1,
+					"end": 4,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#1@AJT에 있는",
+					"begin": 1,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 3,
+					"sub_phrase": [
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@SBJ는 P#2@MOD는 도시이다.",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						2
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "도시",
+							"label": "NP",
+							"begin": 10,
+							"end": 10,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 11,
+							"end": 13,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "있",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.454677,
+					"argument": [
+						{
+							"type": "ARG2",
+							"word_id": 4,
+							"text": "중남부에",
+							"weight": 0.454677
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 2,
+			"text": "비옥한 캘리포니아 중앙분지 중남부의 중심지이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "비옥",
+					"type": "NNG",
+					"position": 88,
+					"weight": 0.4
+				},
+				{
+					"id": 1,
+					"lemma": "하",
+					"type": "XSA",
+					"position": 94,
+					"weight": 0.0001
+				},
+				{
+					"id": 2,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 94,
+					"weight": 0.488779
+				},
+				{
+					"id": 3,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 98,
+					"weight": 0.9
+				},
+				{
+					"id": 4,
+					"lemma": "중앙",
+					"type": "NNG",
+					"position": 114,
+					"weight": 0.276434
+				},
+				{
+					"id": 5,
+					"lemma": "분지",
+					"type": "NNG",
+					"position": 120,
+					"weight": 0.171228
+				},
+				{
+					"id": 6,
+					"lemma": "중",
+					"type": "NNG",
+					"position": 127,
+					"weight": 0.0226349
+				},
+				{
+					"id": 7,
+					"lemma": "남부",
+					"type": "NNG",
+					"position": 130,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 136,
+					"weight": 0.0694213
+				},
+				{
+					"id": 9,
+					"lemma": "중심",
+					"type": "NNG",
+					"position": 140,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "지",
+					"type": "XSN",
+					"position": 146,
+					"weight": 0.000168337
+				},
+				{
+					"id": 11,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 149,
+					"weight": 0.0165001
+				},
+				{
+					"id": 12,
+					"lemma": "다",
+					"type": "EF",
+					"position": 152,
+					"weight": 0.353579
+				},
+				{
+					"id": 13,
+					"lemma": ".",
+					"type": "SF",
+					"position": 155,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "비옥한",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "중앙분지",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "중남부의",
+					"type": "",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 4,
+					"text": "중심지이다.",
+					"type": "",
+					"begin": 9,
+					"end": 13
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "캘리포니아",
+					"type": "LCP_PROVINCE",
+					"begin": 3,
+					"end": 3,
+					"weight": 0.660789,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "중앙",
+					"type": "TM_DIRECTION",
+					"begin": 4,
+					"end": 4,
+					"weight": 0.57298,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "중남부",
+					"type": "TM_DIRECTION",
+					"begin": 6,
+					"end": 7,
+					"weight": 0.453402,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "비옥한",
+					"head": 3,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.319395,
+					"mid": 12
+				},
+				{
+					"id": 1,
+					"text": "캘리포니아",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.607194,
+					"mid": 15
+				},
+				{
+					"id": 2,
+					"text": "중앙분지",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.614754,
+					"mid": 17
+				},
+				{
+					"id": 3,
+					"text": "중남부의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [
+						0,
+						2
+					],
+					"weight": 0.809062,
+					"mid": 19
+				},
+				{
+					"id": 4,
+					"text": "중심지이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						3
+					],
+					"weight": 0.0826056,
+					"mid": 19
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "VNP",
+					"text": "비옥한 캘리포니아 중앙분지 중남부의 중심지이다.",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "비옥한 캘리포니아 중앙분지 중남부의 중심지",
+							"label": "NP",
+							"begin": 0,
+							"end": 10,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 11,
+							"end": 13,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "비옥",
+					"sense": 1,
+					"word_id": 0,
+					"weight": 0,
+					"argument": []
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 4,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 3,
+			"text": "캘리포니아 주에서 5번째로 많은 인구가 거주하는 도시(505,479명)이며, 미국 전체에서는 35번째이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "캘리포니아",
+					"type": "NNP",
+					"position": 156,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "주",
+					"type": "NNG",
+					"position": 172,
+					"weight": 0.0177845
+				},
+				{
+					"id": 2,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 175,
+					"weight": 0.153407
+				},
+				{
+					"id": 3,
+					"lemma": "5",
+					"type": "SN",
+					"position": 182,
+					"weight": 1
+				},
+				{
+					"id": 4,
+					"lemma": "번째",
+					"type": "NNB",
+					"position": 183,
+					"weight": 0.415311
+				},
+				{
+					"id": 5,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 189,
+					"weight": 0.13544
+				},
+				{
+					"id": 6,
+					"lemma": "많",
+					"type": "VA",
+					"position": 193,
+					"weight": 0.0728426
+				},
+				{
+					"id": 7,
+					"lemma": "은",
+					"type": "ETM",
+					"position": 196,
+					"weight": 0.155123
+				},
+				{
+					"id": 8,
+					"lemma": "인구",
+					"type": "NNG",
+					"position": 200,
+					"weight": 0.656114
+				},
+				{
+					"id": 9,
+					"lemma": "가",
+					"type": "JKS",
+					"position": 206,
+					"weight": 0.066324
+				},
+				{
+					"id": 10,
+					"lemma": "거주",
+					"type": "NNG",
+					"position": 210,
+					"weight": 0.207676
+				},
+				{
+					"id": 11,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 216,
+					"weight": 0.0001
+				},
+				{
+					"id": 12,
+					"lemma": "는",
+					"type": "ETM",
+					"position": 219,
+					"weight": 0.238503
+				},
+				{
+					"id": 13,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 223,
+					"weight": 0.656406
+				},
+				{
+					"id": 14,
+					"lemma": "(",
+					"type": "SS",
+					"position": 229,
+					"weight": 1
+				},
+				{
+					"id": 15,
+					"lemma": "505,479",
+					"type": "SN",
+					"position": 230,
+					"weight": 1
+				},
+				{
+					"id": 16,
+					"lemma": "명",
+					"type": "NNB",
+					"position": 237,
+					"weight": 0.399746
+				},
+				{
+					"id": 17,
+					"lemma": ")",
+					"type": "SS",
+					"position": 240,
+					"weight": 1
+				},
+				{
+					"id": 18,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 241,
+					"weight": 0.00747344
+				},
+				{
+					"id": 19,
+					"lemma": "며",
+					"type": "EC",
+					"position": 244,
+					"weight": 0.250555
+				},
+				{
+					"id": 20,
+					"lemma": ",",
+					"type": "SP",
+					"position": 247,
+					"weight": 1
+				},
+				{
+					"id": 21,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 249,
+					"weight": 0.123794
+				},
+				{
+					"id": 22,
+					"lemma": "전체",
+					"type": "NNG",
+					"position": 256,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 262,
+					"weight": 0.153407
+				},
+				{
+					"id": 24,
+					"lemma": "는",
+					"type": "JX",
+					"position": 268,
+					"weight": 0.0387928
+				},
+				{
+					"id": 25,
+					"lemma": "35",
+					"type": "SN",
+					"position": 272,
+					"weight": 1
+				},
+				{
+					"id": 26,
+					"lemma": "번째",
+					"type": "NNB",
+					"position": 274,
+					"weight": 0.415311
+				},
+				{
+					"id": 27,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 280,
+					"weight": 0.0607843
+				},
+				{
+					"id": 28,
+					"lemma": "다",
+					"type": "EF",
+					"position": 283,
+					"weight": 0.353579
+				},
+				{
+					"id": 29,
+					"lemma": ".",
+					"type": "SF",
+					"position": 286,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "캘리포니아",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "주에서",
+					"type": "",
+					"begin": 1,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "5번째로",
+					"type": "",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "많은",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "인구가",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "거주하는",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "도시(505,479명)이며,",
+					"type": "",
+					"begin": 13,
+					"end": 20
+				},
+				{
+					"id": 7,
+					"text": "미국",
+					"type": "",
+					"begin": 21,
+					"end": 21
+				},
+				{
+					"id": 8,
+					"text": "전체에서는",
+					"type": "",
+					"begin": 22,
+					"end": 24
+				},
+				{
+					"id": 9,
+					"text": "35번째이다.",
+					"type": "",
+					"begin": 25,
+					"end": 29
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "캘리포니아 주",
+					"type": "LCP_PROVINCE",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.742344,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "5번째",
+					"type": "QT_ORDER",
+					"begin": 3,
+					"end": 4,
+					"weight": 0.709761,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "505,479명",
+					"type": "QT_MAN_COUNT",
+					"begin": 15,
+					"end": 16,
+					"weight": 0.779133,
+					"common_noun": 0
+				},
+				{
+					"id": 3,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 21,
+					"end": 21,
+					"weight": 0.868396,
+					"common_noun": 0
+				},
+				{
+					"id": 4,
+					"text": "35번째",
+					"type": "QT_ORDER",
+					"begin": 25,
+					"end": 26,
+					"weight": 0.626638,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "캘리포니아",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.648631,
+					"mid": 21
+				},
+				{
+					"id": 1,
+					"text": "주에서",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						0
+					],
+					"weight": 0.876871,
+					"mid": 23
+				},
+				{
+					"id": 2,
+					"text": "5번째로",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.856474,
+					"mid": 23
+				},
+				{
+					"id": 3,
+					"text": "많은",
+					"head": 4,
+					"label": "VP_MOD",
+					"mod": [],
+					"weight": 0.32988,
+					"mid": 25
+				},
+				{
+					"id": 4,
+					"text": "인구가",
+					"head": 5,
+					"label": "NP_SBJ",
+					"mod": [
+						3
+					],
+					"weight": 0.828326,
+					"mid": 23
+				},
+				{
+					"id": 5,
+					"text": "거주하는",
+					"head": 6,
+					"label": "VP_MOD",
+					"mod": [
+						1,
+						2,
+						4
+					],
+					"weight": 0.814701,
+					"mid": 23
+				},
+				{
+					"id": 6,
+					"text": "도시(505,479명)이며,",
+					"head": 9,
+					"label": "VNP",
+					"mod": [
+						5
+					],
+					"weight": 0.55381,
+					"mid": 29
+				},
+				{
+					"id": 7,
+					"text": "미국",
+					"head": 8,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.771436,
+					"mid": 31
+				},
+				{
+					"id": 8,
+					"text": "전체에서는",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [
+						7
+					],
+					"weight": 0.608038,
+					"mid": 29
+				},
+				{
+					"id": 9,
+					"text": "35번째이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						6,
+						8
+					],
+					"weight": 0.0242734,
+					"mid": 29
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "캘리포니아 주에서",
+					"begin": 0,
+					"end": 1,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "5번째로",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_SBJ",
+					"text": "많은 인구가",
+					"begin": 3,
+					"end": 4,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S_MOD",
+					"text": "P#0@AJT에서 P#1@AJT로 P#2@SBJ가 거주하는",
+					"begin": 0,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "S#3@MOD는 도시(505,479명)이며,",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": 6,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "도시(505,479명)",
+							"label": "NP",
+							"begin": 13,
+							"end": 17,
+							"ne_type": ""
+						},
+						{
+							"text": "이며,",
+							"label": "VP",
+							"begin": 18,
+							"end": 20,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "미국 전체에서는",
+					"begin": 7,
+					"end": 8,
+					"key_begin": 7,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "S#4@S며, P#5@AJT는 35번째이다.",
+					"begin": 0,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4,
+						5
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "35번째",
+							"label": "NP",
+							"begin": 25,
+							"end": 26,
+							"ne_type": "QT_ORDER"
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 27,
+							"end": 29,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [
+				{
+					"verb": "많",
+					"sense": 1,
+					"word_id": 3,
+					"weight": 0.527234,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "인구가",
+							"weight": 0.527234
+						}
+					]
+				},
+				{
+					"verb": "거주",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.466249,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 4,
+							"text": "인구가",
+							"weight": 0.466249
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 6,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 9,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 4,
+			"text": "프레즈노라는 이름은 스페인어로 물푸레나무를 뜻한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "프레즈노라",
+					"type": "NNP",
+					"position": 287,
+					"weight": 0.6
+				},
+				{
+					"id": 1,
+					"lemma": "는",
+					"type": "JX",
+					"position": 302,
+					"weight": 0.0332677
+				},
+				{
+					"id": 2,
+					"lemma": "이름",
+					"type": "NNG",
+					"position": 306,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "은",
+					"type": "JX",
+					"position": 312,
+					"weight": 0.0449928
+				},
+				{
+					"id": 4,
+					"lemma": "스페인",
+					"type": "NNP",
+					"position": 316,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "어",
+					"type": "XSN",
+					"position": 325,
+					"weight": 0.0001
+				},
+				{
+					"id": 6,
+					"lemma": "로",
+					"type": "JKB",
+					"position": 328,
+					"weight": 0.121577
+				},
+				{
+					"id": 7,
+					"lemma": "물푸레",
+					"type": "NNG",
+					"position": 332,
+					"weight": 0.156035
+				},
+				{
+					"id": 8,
+					"lemma": "나무",
+					"type": "NNG",
+					"position": 341,
+					"weight": 0.184816
+				},
+				{
+					"id": 9,
+					"lemma": "를",
+					"type": "JKO",
+					"position": 347,
+					"weight": 0.137686
+				},
+				{
+					"id": 10,
+					"lemma": "뜻",
+					"type": "NNG",
+					"position": 351,
+					"weight": 0.9
+				},
+				{
+					"id": 11,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 354,
+					"weight": 0.0001
+				},
+				{
+					"id": 12,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 354,
+					"weight": 0.0449045
+				},
+				{
+					"id": 13,
+					"lemma": ".",
+					"type": "SF",
+					"position": 360,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "프레즈노라는",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "이름은",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "스페인어로",
+					"type": "",
+					"begin": 4,
+					"end": 6
+				},
+				{
+					"id": 3,
+					"text": "물푸레나무를",
+					"type": "",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 4,
+					"text": "뜻한다.",
+					"type": "",
+					"begin": 10,
+					"end": 13
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "프레즈노라",
+					"type": "PS_NAME",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.192865,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "스페인어",
+					"type": "CV_LANGUAGE",
+					"begin": 4,
+					"end": 5,
+					"weight": 0.567682,
+					"common_noun": 0
+				},
+				{
+					"id": 2,
+					"text": "물푸레나무",
+					"type": "PT_TREE",
+					"begin": 7,
+					"end": 8,
+					"weight": 0.460877,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "프레즈노라는",
+					"head": 4,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.824905,
+					"mid": 33
+				},
+				{
+					"id": 1,
+					"text": "이름은",
+					"head": 4,
+					"label": "NP_SBJ",
+					"mod": [],
+					"weight": 0.636334,
+					"mid": 34
+				},
+				{
+					"id": 2,
+					"text": "스페인어로",
+					"head": 4,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.870834,
+					"mid": 35
+				},
+				{
+					"id": 3,
+					"text": "물푸레나무를",
+					"head": 4,
+					"label": "NP_OBJ",
+					"mod": [],
+					"weight": 0.785922,
+					"mid": 36
+				},
+				{
+					"id": 4,
+					"text": "뜻한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						0,
+						1,
+						2,
+						3
+					],
+					"weight": 0.319456,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "프레즈노라는",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "이름은",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_AJT",
+					"text": "스페인어로",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_OBJ",
+					"text": "물푸레나무를",
+					"begin": 3,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "S",
+					"text": "P#0@SBJ는 P#1@SBJ은 P#2@AJT로 P#3@OBJ를 뜻한다.",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1,
+						2,
+						3
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "뜻",
+					"sense": 1,
+					"word_id": 4,
+					"weight": 0.341193,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 0,
+							"text": "프레즈노라는",
+							"weight": 0.168697
+						},
+						{
+							"type": "ARG1",
+							"word_id": 1,
+							"text": "이름은",
+							"weight": 0.451221
+						},
+						{
+							"type": "ARGM-INS",
+							"word_id": 2,
+							"text": "스페인어로",
+							"weight": 0.166192
+						},
+						{
+							"type": "ARG2",
+							"word_id": 3,
+							"text": "물푸레나무를",
+							"weight": 0.578661
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 5,
+			"text": "원래는 요쿠트 족이 살던 곳이였으며, 센트럴 퍼시픽 철도의 부설과 함께 번창하기 시작했다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "원래",
+					"type": "NNG",
+					"position": 361,
+					"weight": 0.9
+				},
+				{
+					"id": 1,
+					"lemma": "는",
+					"type": "JX",
+					"position": 367,
+					"weight": 0.0287565
+				},
+				{
+					"id": 2,
+					"lemma": "요쿠트",
+					"type": "NNP",
+					"position": 371,
+					"weight": 0.6
+				},
+				{
+					"id": 3,
+					"lemma": "족",
+					"type": "XSN",
+					"position": 381,
+					"weight": 0.0110012
+				},
+				{
+					"id": 4,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 384,
+					"weight": 0.0731805
+				},
+				{
+					"id": 5,
+					"lemma": "살",
+					"type": "VV",
+					"position": 388,
+					"weight": 0.253021
+				},
+				{
+					"id": 6,
+					"lemma": "던",
+					"type": "ETM",
+					"position": 391,
+					"weight": 0.317449
+				},
+				{
+					"id": 7,
+					"lemma": "곳이",
+					"type": "NNP",
+					"position": 395,
+					"weight": 0.6
+				},
+				{
+					"id": 8,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 401,
+					"weight": 0.00359898
+				},
+				{
+					"id": 9,
+					"lemma": "었",
+					"type": "EP",
+					"position": 401,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "으며",
+					"type": "EC",
+					"position": 404,
+					"weight": 0.197482
+				},
+				{
+					"id": 11,
+					"lemma": ",",
+					"type": "SP",
+					"position": 410,
+					"weight": 1
+				},
+				{
+					"id": 12,
+					"lemma": "센트럴",
+					"type": "NNG",
+					"position": 412,
+					"weight": 0.515491
+				},
+				{
+					"id": 13,
+					"lemma": "퍼시픽",
+					"type": "NNG",
+					"position": 422,
+					"weight": 0.0513444
+				},
+				{
+					"id": 14,
+					"lemma": "철도",
+					"type": "NNG",
+					"position": 432,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 438,
+					"weight": 0.0694213
+				},
+				{
+					"id": 16,
+					"lemma": "부설",
+					"type": "NNG",
+					"position": 442,
+					"weight": 0.9
+				},
+				{
+					"id": 17,
+					"lemma": "과",
+					"type": "JKB",
+					"position": 448,
+					"weight": 0.0503087
+				},
+				{
+					"id": 18,
+					"lemma": "함께",
+					"type": "MAG",
+					"position": 452,
+					"weight": 0.9
+				},
+				{
+					"id": 19,
+					"lemma": "번창",
+					"type": "NNG",
+					"position": 459,
+					"weight": 0.9
+				},
+				{
+					"id": 20,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 465,
+					"weight": 0.0001
+				},
+				{
+					"id": 21,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 468,
+					"weight": 0.0556099
+				},
+				{
+					"id": 22,
+					"lemma": "시작",
+					"type": "NNG",
+					"position": 472,
+					"weight": 0.9
+				},
+				{
+					"id": 23,
+					"lemma": "하",
+					"type": "XSV",
+					"position": 478,
+					"weight": 0.0001
+				},
+				{
+					"id": 24,
+					"lemma": "었",
+					"type": "EP",
+					"position": 478,
+					"weight": 0.9
+				},
+				{
+					"id": 25,
+					"lemma": "다",
+					"type": "EF",
+					"position": 481,
+					"weight": 0.640954
+				},
+				{
+					"id": 26,
+					"lemma": ".",
+					"type": "SF",
+					"position": 484,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "원래는",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "요쿠트",
+					"type": "",
+					"begin": 2,
+					"end": 2
+				},
+				{
+					"id": 2,
+					"text": "족이",
+					"type": "",
+					"begin": 3,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "살던",
+					"type": "",
+					"begin": 5,
+					"end": 6
+				},
+				{
+					"id": 4,
+					"text": "곳이였으며,",
+					"type": "",
+					"begin": 7,
+					"end": 11
+				},
+				{
+					"id": 5,
+					"text": "센트럴",
+					"type": "",
+					"begin": 12,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "퍼시픽",
+					"type": "",
+					"begin": 13,
+					"end": 13
+				},
+				{
+					"id": 7,
+					"text": "철도의",
+					"type": "",
+					"begin": 14,
+					"end": 15
+				},
+				{
+					"id": 8,
+					"text": "부설과",
+					"type": "",
+					"begin": 16,
+					"end": 17
+				},
+				{
+					"id": 9,
+					"text": "함께",
+					"type": "",
+					"begin": 18,
+					"end": 18
+				},
+				{
+					"id": 10,
+					"text": "번창하기",
+					"type": "",
+					"begin": 19,
+					"end": 21
+				},
+				{
+					"id": 11,
+					"text": "시작했다.",
+					"type": "",
+					"begin": 22,
+					"end": 26
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "센트럴",
+					"type": "LCP_CITY",
+					"begin": 12,
+					"end": 12,
+					"weight": 0.208605,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "퍼시픽",
+					"type": "AF_ROAD",
+					"begin": 13,
+					"end": 13,
+					"weight": 0.200754,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "원래는",
+					"head": 3,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.548446,
+					"mid": 38
+				},
+				{
+					"id": 1,
+					"text": "요쿠트",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.800555,
+					"mid": 40
+				},
+				{
+					"id": 2,
+					"text": "족이",
+					"head": 3,
+					"label": "NP_SBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.828403,
+					"mid": 38
+				},
+				{
+					"id": 3,
+					"text": "살던",
+					"head": 4,
+					"label": "VP_MOD",
+					"mod": [
+						0,
+						2
+					],
+					"weight": 0.875921,
+					"mid": 38
+				},
+				{
+					"id": 4,
+					"text": "곳이였으며,",
+					"head": 10,
+					"label": "VNP",
+					"mod": [
+						3
+					],
+					"weight": 0.582378,
+					"mid": 43
+				},
+				{
+					"id": 5,
+					"text": "센트럴",
+					"head": 6,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.161891,
+					"mid": 45
+				},
+				{
+					"id": 6,
+					"text": "퍼시픽",
+					"head": 7,
+					"label": "NP",
+					"mod": [
+						5
+					],
+					"weight": 0.448792,
+					"mid": 47
+				},
+				{
+					"id": 7,
+					"text": "철도의",
+					"head": 8,
+					"label": "NP_MOD",
+					"mod": [
+						6
+					],
+					"weight": 0.563193,
+					"mid": 49
+				},
+				{
+					"id": 8,
+					"text": "부설과",
+					"head": 9,
+					"label": "NP_AJT",
+					"mod": [
+						7
+					],
+					"weight": 0.591617,
+					"mid": 51
+				},
+				{
+					"id": 9,
+					"text": "함께",
+					"head": 10,
+					"label": "AP",
+					"mod": [
+						8
+					],
+					"weight": 0.652433,
+					"mid": 43
+				},
+				{
+					"id": 10,
+					"text": "번창하기",
+					"head": 11,
+					"label": "VP_OBJ",
+					"mod": [
+						4,
+						9
+					],
+					"weight": 0.455226,
+					"mid": 43
+				},
+				{
+					"id": 11,
+					"text": "시작했다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						10
+					],
+					"weight": 0.00107384,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "원래는",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_SBJ",
+					"text": "요쿠트 족이",
+					"begin": 1,
+					"end": 2,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "S_MOD",
+					"text": "P#0@AJT는 P#1@SBJ이 살던",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "S#2@MOD던 곳이였으며,",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 6,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": [
+						{
+							"text": "곳이",
+							"label": "NP",
+							"begin": 7,
+							"end": 7,
+							"ne_type": ""
+						},
+						{
+							"text": "였으며,",
+							"label": "VP",
+							"begin": 8,
+							"end": 11,
+							"ne_type": ""
+						}
+					]
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "센트럴 퍼시픽 철도의 부설과",
+					"begin": 5,
+					"end": 8,
+					"key_begin": 5,
+					"head_phrase": 5,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "AP",
+					"text": "P#4@AJT과 함께",
+					"begin": 5,
+					"end": 9,
+					"key_begin": 9,
+					"head_phrase": 6,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S_OBJ",
+					"text": "S#3@S으며, P#5@AP함께 번창하기",
+					"begin": 0,
+					"end": 10,
+					"key_begin": 10,
+					"head_phrase": 7,
+					"sub_phrase": [
+						3,
+						5
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 7,
+					"label": "S",
+					"text": "S#6@OBJ기 시작했다.",
+					"begin": 0,
+					"end": 11,
+					"key_begin": 11,
+					"head_phrase": -1,
+					"sub_phrase": [
+						6
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "살",
+					"sense": 1,
+					"word_id": 3,
+					"weight": 0.311226,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 2,
+							"text": "족이",
+							"weight": 0.487788
+						},
+						{
+							"type": "ARG2",
+							"word_id": 4,
+							"text": "곳이였으며,",
+							"weight": 0.134663
+						}
+					]
+				},
+				{
+					"verb": "번창",
+					"sense": 1,
+					"word_id": 10,
+					"weight": 0.287669,
+					"argument": [
+						{
+							"type": "ARGM-ADV",
+							"word_id": 9,
+							"text": "함께",
+							"weight": 1
+						}
+					]
+				},
+				{
+					"verb": "시작",
+					"sense": 1,
+					"word_id": 11,
+					"weight": 0.239732,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 10,
+							"text": "번창하기",
+							"weight": 0.239732
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 4,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				},
+				{
+					"id": 1,
+					"type": "s",
+					"head_wid": 10,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 6,
+			"text": "팝핑이라고 잘 알려진 춤이 1970년대에 이곳에서 생겼다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "팝핑",
+					"type": "NNP",
+					"position": 485,
+					"weight": 0.6
+				},
+				{
+					"id": 1,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 491,
+					"weight": 0.00359898
+				},
+				{
+					"id": 2,
+					"lemma": "라고",
+					"type": "EC",
+					"position": 494,
+					"weight": 0.204147
+				},
+				{
+					"id": 3,
+					"lemma": "잘",
+					"type": "MAG",
+					"position": 501,
+					"weight": 0.0451267
+				},
+				{
+					"id": 4,
+					"lemma": "알려지",
+					"type": "VV",
+					"position": 505,
+					"weight": 0.9
+				},
+				{
+					"id": 5,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 511,
+					"weight": 0.304215
+				},
+				{
+					"id": 6,
+					"lemma": "춤",
+					"type": "NNG",
+					"position": 515,
+					"weight": 0.656192
+				},
+				{
+					"id": 7,
+					"lemma": "이",
+					"type": "JKS",
+					"position": 518,
+					"weight": 0.0360723
+				},
+				{
+					"id": 8,
+					"lemma": "1970",
+					"type": "SN",
+					"position": 522,
+					"weight": 1
+				},
+				{
+					"id": 9,
+					"lemma": "년대",
+					"type": "NNB",
+					"position": 526,
+					"weight": 0.9
+				},
+				{
+					"id": 10,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 532,
+					"weight": 0.135559
+				},
+				{
+					"id": 11,
+					"lemma": "이곳",
+					"type": "NP",
+					"position": 536,
+					"weight": 0.9
+				},
+				{
+					"id": 12,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 542,
+					"weight": 0.126188
+				},
+				{
+					"id": 13,
+					"lemma": "생기",
+					"type": "VV",
+					"position": 549,
+					"weight": 0.432426
+				},
+				{
+					"id": 14,
+					"lemma": "었",
+					"type": "EP",
+					"position": 552,
+					"weight": 0.9
+				},
+				{
+					"id": 15,
+					"lemma": "다",
+					"type": "EF",
+					"position": 555,
+					"weight": 0.640954
+				},
+				{
+					"id": 16,
+					"lemma": ".",
+					"type": "SF",
+					"position": 558,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "팝핑이라고",
+					"type": "",
+					"begin": 0,
+					"end": 2
+				},
+				{
+					"id": 1,
+					"text": "잘",
+					"type": "",
+					"begin": 3,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "알려진",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 3,
+					"text": "춤이",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "1970년대에",
+					"type": "",
+					"begin": 8,
+					"end": 10
+				},
+				{
+					"id": 5,
+					"text": "이곳에서",
+					"type": "",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 6,
+					"text": "생겼다.",
+					"type": "",
+					"begin": 13,
+					"end": 16
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "1970년대",
+					"type": "DT_YEAR",
+					"begin": 8,
+					"end": 9,
+					"weight": 0.874408,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "팝핑이라고",
+					"head": 2,
+					"label": "VNP_CMP",
+					"mod": [],
+					"weight": 0.225032,
+					"mid": 53
+				},
+				{
+					"id": 1,
+					"text": "잘",
+					"head": 2,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.818376,
+					"mid": 53
+				},
+				{
+					"id": 2,
+					"text": "알려진",
+					"head": 3,
+					"label": "VP_MOD",
+					"mod": [
+						0,
+						1
+					],
+					"weight": 0.729083,
+					"mid": 53
+				},
+				{
+					"id": 3,
+					"text": "춤이",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [
+						2
+					],
+					"weight": 0.854504,
+					"mid": 56
+				},
+				{
+					"id": 4,
+					"text": "1970년대에",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.796758,
+					"mid": 57
+				},
+				{
+					"id": 5,
+					"text": "이곳에서",
+					"head": 6,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.778068,
+					"mid": 58
+				},
+				{
+					"id": 6,
+					"text": "생겼다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						3,
+						4,
+						5
+					],
+					"weight": 0.0569856,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "VNP_CMP",
+					"text": "팝핑이라고",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "AP",
+					"text": "잘",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 2,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "VP_MOD",
+					"text": "P#0@CMP라고 P#1@AP잘 알려진",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [
+						0,
+						1
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "NP_SBJ",
+					"text": "P#2@MODㄴ 춤이",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 6,
+					"sub_phrase": [
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "1970년대에",
+					"begin": 4,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "NP_AJT",
+					"text": "이곳에서",
+					"begin": 5,
+					"end": 5,
+					"key_begin": 5,
+					"head_phrase": 6,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 6,
+					"label": "S",
+					"text": "P#3@SBJ이 P#4@AJT에 P#5@AJT에서 생겼다.",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						3,
+						4,
+						5
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "알려지",
+					"sense": 1,
+					"word_id": 2,
+					"weight": 0.317457,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 0,
+							"text": "팝핑이라고",
+							"weight": 0.128234
+						},
+						{
+							"type": "ARGM-ADV",
+							"word_id": 1,
+							"text": "잘",
+							"weight": 1
+						},
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "춤이",
+							"weight": 0.490369
+						}
+					]
+				},
+				{
+					"verb": "생기",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.356128,
+					"argument": [
+						{
+							"type": "ARG1",
+							"word_id": 3,
+							"text": "춤이",
+							"weight": 0.373565
+						},
+						{
+							"type": "ARGM-TMP",
+							"word_id": 4,
+							"text": "1970년대에",
+							"weight": 0.306498
+						},
+						{
+							"type": "ARG2",
+							"word_id": 5,
+							"text": "이곳에서",
+							"weight": 0.388321
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 7,
+			"text": "현재 프레즈노 자치주 경제의 중심지이다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "현재",
+					"type": "MAG",
+					"position": 559,
+					"weight": 0.0393399
+				},
+				{
+					"id": 1,
+					"lemma": "프레즈노",
+					"type": "NNP",
+					"position": 566,
+					"weight": 0.6
+				},
+				{
+					"id": 2,
+					"lemma": "자치",
+					"type": "NNG",
+					"position": 579,
+					"weight": 0.9
+				},
+				{
+					"id": 3,
+					"lemma": "주",
+					"type": "NNG",
+					"position": 585,
+					"weight": 0.0116574
+				},
+				{
+					"id": 4,
+					"lemma": "경제",
+					"type": "NNG",
+					"position": 589,
+					"weight": 0.184822
+				},
+				{
+					"id": 5,
+					"lemma": "의",
+					"type": "JKG",
+					"position": 595,
+					"weight": 0.0694213
+				},
+				{
+					"id": 6,
+					"lemma": "중심",
+					"type": "NNG",
+					"position": 599,
+					"weight": 0.9
+				},
+				{
+					"id": 7,
+					"lemma": "지",
+					"type": "XSN",
+					"position": 605,
+					"weight": 0.000168337
+				},
+				{
+					"id": 8,
+					"lemma": "이",
+					"type": "VCP",
+					"position": 608,
+					"weight": 0.0165001
+				},
+				{
+					"id": 9,
+					"lemma": "다",
+					"type": "EF",
+					"position": 611,
+					"weight": 0.353579
+				},
+				{
+					"id": 10,
+					"lemma": ".",
+					"type": "SF",
+					"position": 614,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "현재",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "프레즈노",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "자치주",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 3,
+					"text": "경제의",
+					"type": "",
+					"begin": 4,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "중심지이다.",
+					"type": "",
+					"begin": 6,
+					"end": 10
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "프레즈노 자치주",
+					"type": "LCP_PROVINCE",
+					"begin": 1,
+					"end": 3,
+					"weight": 0.210346,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "현재",
+					"head": 4,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.698731,
+					"mid": 60
+				},
+				{
+					"id": 1,
+					"text": "프레즈노",
+					"head": 2,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.549674,
+					"mid": 62
+				},
+				{
+					"id": 2,
+					"text": "자치주",
+					"head": 3,
+					"label": "NP",
+					"mod": [
+						1
+					],
+					"weight": 0.681677,
+					"mid": 64
+				},
+				{
+					"id": 3,
+					"text": "경제의",
+					"head": 4,
+					"label": "NP_MOD",
+					"mod": [
+						2
+					],
+					"weight": 0.762418,
+					"mid": 60
+				},
+				{
+					"id": 4,
+					"text": "중심지이다.",
+					"head": -1,
+					"label": "VNP",
+					"mod": [
+						0,
+						3
+					],
+					"weight": 0.174956,
+					"mid": 60
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "VNP",
+					"text": "현재 프레즈노 자치주 경제의 중심지이다.",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 0,
+					"head_phrase": -1,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": [
+						{
+							"text": "현재 프레즈노 자치주 경제의 중심지",
+							"label": "NP",
+							"begin": 0,
+							"end": 7,
+							"ne_type": ""
+						},
+						{
+							"text": "이다.",
+							"label": "VP",
+							"begin": 8,
+							"end": 10,
+							"ne_type": ""
+						}
+					]
+				}
+			],
+			"SRL": [],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 4,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		},
+		{
+			"id": 8,
+			"text": "프레즈노 주변 도시들은 대개 대규모 농업을 한다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "프레즈노",
+					"type": "NNP",
+					"position": 615,
+					"weight": 0.6
+				},
+				{
+					"id": 1,
+					"lemma": "주변",
+					"type": "NNG",
+					"position": 628,
+					"weight": 0.9
+				},
+				{
+					"id": 2,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 635,
+					"weight": 0.184157
+				},
+				{
+					"id": 3,
+					"lemma": "들",
+					"type": "XSN",
+					"position": 641,
+					"weight": 0.0299841
+				},
+				{
+					"id": 4,
+					"lemma": "은",
+					"type": "JX",
+					"position": 644,
+					"weight": 0.100393
+				},
+				{
+					"id": 5,
+					"lemma": "대개",
+					"type": "MAG",
+					"position": 648,
+					"weight": 0.0986294
+				},
+				{
+					"id": 6,
+					"lemma": "대",
+					"type": "XPN",
+					"position": 655,
+					"weight": 0.0001
+				},
+				{
+					"id": 7,
+					"lemma": "규모",
+					"type": "NNG",
+					"position": 658,
+					"weight": 0.9
+				},
+				{
+					"id": 8,
+					"lemma": "농업",
+					"type": "NNG",
+					"position": 665,
+					"weight": 0.9
+				},
+				{
+					"id": 9,
+					"lemma": "을",
+					"type": "JKO",
+					"position": 671,
+					"weight": 0.129611
+				},
+				{
+					"id": 10,
+					"lemma": "하",
+					"type": "VV",
+					"position": 675,
+					"weight": 0.48169
+				},
+				{
+					"id": 11,
+					"lemma": "ㄴ다",
+					"type": "EF",
+					"position": 675,
+					"weight": 0.0793196
+				},
+				{
+					"id": 12,
+					"lemma": ".",
+					"type": "SF",
+					"position": 681,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "프레즈노",
+					"type": "",
+					"begin": 0,
+					"end": 0
+				},
+				{
+					"id": 1,
+					"text": "주변",
+					"type": "",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"text": "도시들은",
+					"type": "",
+					"begin": 2,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "대개",
+					"type": "",
+					"begin": 5,
+					"end": 5
+				},
+				{
+					"id": 4,
+					"text": "대규모",
+					"type": "",
+					"begin": 6,
+					"end": 7
+				},
+				{
+					"id": 5,
+					"text": "농업을",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 6,
+					"text": "한다.",
+					"type": "",
+					"begin": 10,
+					"end": 12
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "프레즈노",
+					"type": "LCP_CITY",
+					"begin": 0,
+					"end": 0,
+					"weight": 0.289793,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "프레즈노",
+					"head": 1,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.188628,
+					"mid": 67
+				},
+				{
+					"id": 1,
+					"text": "주변",
+					"head": 2,
+					"label": "NP",
+					"mod": [
+						0
+					],
+					"weight": 0.738755,
+					"mid": 69
+				},
+				{
+					"id": 2,
+					"text": "도시들은",
+					"head": 6,
+					"label": "NP_SBJ",
+					"mod": [
+						1
+					],
+					"weight": 0.754473,
+					"mid": 70
+				},
+				{
+					"id": 3,
+					"text": "대개",
+					"head": 6,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.743598,
+					"mid": 71
+				},
+				{
+					"id": 4,
+					"text": "대규모",
+					"head": 5,
+					"label": "NP",
+					"mod": [],
+					"weight": 0.669348,
+					"mid": 73
+				},
+				{
+					"id": 5,
+					"text": "농업을",
+					"head": 6,
+					"label": "NP_OBJ",
+					"mod": [
+						4
+					],
+					"weight": 0.792365,
+					"mid": 74
+				},
+				{
+					"id": 6,
+					"text": "한다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						2,
+						3,
+						5
+					],
+					"weight": 0.0317629,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_SBJ",
+					"text": "프레즈노 주변 도시들은",
+					"begin": 0,
+					"end": 2,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "AP",
+					"text": "대개",
+					"begin": 3,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "NP_OBJ",
+					"text": "대규모 농업을",
+					"begin": 4,
+					"end": 5,
+					"key_begin": 4,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "S",
+					"text": "P#0@SBJ은 P#1@AP대개 P#2@OBJ을 한다.",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 6,
+					"head_phrase": -1,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "하",
+					"sense": 1,
+					"word_id": 6,
+					"weight": 0.322855,
+					"argument": [
+						{
+							"type": "ARG0",
+							"word_id": 2,
+							"text": "도시들은",
+							"weight": 0.140934
+						},
+						{
+							"type": "ARGM-TMP",
+							"word_id": 3,
+							"text": "대개",
+							"weight": 0.15784
+						},
+						{
+							"type": "ARG1",
+							"word_id": 5,
+							"text": "농업을",
+							"weight": 0.669792
+						}
+					]
+				}
+			],
+			"ZA": []
+		},
+		{
+			"id": 9,
+			"text": "2005년 미국에서 가장 가난한 도시에 선정되기도 했다.",
+			"morp": [
+				{
+					"id": 0,
+					"lemma": "2005",
+					"type": "SN",
+					"position": 682,
+					"weight": 1
+				},
+				{
+					"id": 1,
+					"lemma": "년",
+					"type": "NNB",
+					"position": 686,
+					"weight": 0.414343
+				},
+				{
+					"id": 2,
+					"lemma": "미국",
+					"type": "NNP",
+					"position": 690,
+					"weight": 0.0152661
+				},
+				{
+					"id": 3,
+					"lemma": "에서",
+					"type": "JKB",
+					"position": 696,
+					"weight": 0.0823859
+				},
+				{
+					"id": 4,
+					"lemma": "가장",
+					"type": "MAG",
+					"position": 703,
+					"weight": 0.0546356
+				},
+				{
+					"id": 5,
+					"lemma": "가난",
+					"type": "NNG",
+					"position": 710,
+					"weight": 0.9
+				},
+				{
+					"id": 6,
+					"lemma": "하",
+					"type": "XSA",
+					"position": 716,
+					"weight": 0.0001
+				},
+				{
+					"id": 7,
+					"lemma": "ㄴ",
+					"type": "ETM",
+					"position": 716,
+					"weight": 0.488779
+				},
+				{
+					"id": 8,
+					"lemma": "도시",
+					"type": "NNG",
+					"position": 720,
+					"weight": 0.656406
+				},
+				{
+					"id": 9,
+					"lemma": "에",
+					"type": "JKB",
+					"position": 726,
+					"weight": 0.153364
+				},
+				{
+					"id": 10,
+					"lemma": "선정",
+					"type": "NNG",
+					"position": 730,
+					"weight": 0.207767
+				},
+				{
+					"id": 11,
+					"lemma": "되",
+					"type": "XSV",
+					"position": 736,
+					"weight": 0.000224177
+				},
+				{
+					"id": 12,
+					"lemma": "기",
+					"type": "ETN",
+					"position": 739,
+					"weight": 0.0556099
+				},
+				{
+					"id": 13,
+					"lemma": "도",
+					"type": "JX",
+					"position": 742,
+					"weight": 0.147715
+				},
+				{
+					"id": 14,
+					"lemma": "하",
+					"type": "VX",
+					"position": 746,
+					"weight": 0.00978548
+				},
+				{
+					"id": 15,
+					"lemma": "었",
+					"type": "EP",
+					"position": 746,
+					"weight": 0.9
+				},
+				{
+					"id": 16,
+					"lemma": "다",
+					"type": "EF",
+					"position": 749,
+					"weight": 0.640954
+				},
+				{
+					"id": 17,
+					"lemma": ".",
+					"type": "SF",
+					"position": 752,
+					"weight": 1
+				}
+			],
+			"word": [
+				{
+					"id": 0,
+					"text": "2005년",
+					"type": "",
+					"begin": 0,
+					"end": 1
+				},
+				{
+					"id": 1,
+					"text": "미국에서",
+					"type": "",
+					"begin": 2,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"text": "가장",
+					"type": "",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 3,
+					"text": "가난한",
+					"type": "",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 4,
+					"text": "도시에",
+					"type": "",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 5,
+					"text": "선정되기도",
+					"type": "",
+					"begin": 10,
+					"end": 13
+				},
+				{
+					"id": 6,
+					"text": "했다.",
+					"type": "",
+					"begin": 14,
+					"end": 17
+				}
+			],
+			"NE": [
+				{
+					"id": 0,
+					"text": "2005년",
+					"type": "DT_YEAR",
+					"begin": 0,
+					"end": 1,
+					"weight": 0.834487,
+					"common_noun": 0
+				},
+				{
+					"id": 1,
+					"text": "미국",
+					"type": "LCP_COUNTRY",
+					"begin": 2,
+					"end": 2,
+					"weight": 0.804811,
+					"common_noun": 0
+				}
+			],
+			"dependency": [
+				{
+					"id": 0,
+					"text": "2005년",
+					"head": 3,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.0356773,
+					"mid": 76
+				},
+				{
+					"id": 1,
+					"text": "미국에서",
+					"head": 3,
+					"label": "NP_AJT",
+					"mod": [],
+					"weight": 0.351121,
+					"mid": 76
+				},
+				{
+					"id": 2,
+					"text": "가장",
+					"head": 3,
+					"label": "AP",
+					"mod": [],
+					"weight": 0.673025,
+					"mid": 76
+				},
+				{
+					"id": 3,
+					"text": "가난한",
+					"head": 4,
+					"label": "VP_MOD",
+					"mod": [
+						0,
+						1,
+						2
+					],
+					"weight": 0.82979,
+					"mid": 76
+				},
+				{
+					"id": 4,
+					"text": "도시에",
+					"head": 5,
+					"label": "NP_AJT",
+					"mod": [
+						3
+					],
+					"weight": 0.787966,
+					"mid": 81
+				},
+				{
+					"id": 5,
+					"text": "선정되기도",
+					"head": 6,
+					"label": "VP",
+					"mod": [
+						4
+					],
+					"weight": 0.515458,
+					"mid": 81
+				},
+				{
+					"id": 6,
+					"text": "했다.",
+					"head": -1,
+					"label": "VP",
+					"mod": [
+						5
+					],
+					"weight": 0.00239032,
+					"mid": -2
+				}
+			],
+			"phrase_dependency": [
+				{
+					"id": 0,
+					"label": "NP_AJT",
+					"text": "2005년",
+					"begin": 0,
+					"end": 0,
+					"key_begin": 0,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 1,
+					"label": "NP_AJT",
+					"text": "미국에서",
+					"begin": 1,
+					"end": 1,
+					"key_begin": 1,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 2,
+					"label": "AP",
+					"text": "가장",
+					"begin": 2,
+					"end": 2,
+					"key_begin": 2,
+					"head_phrase": 3,
+					"sub_phrase": [],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 3,
+					"label": "VP_MOD",
+					"text": "P#0@AJT년 P#1@AJT에서 P#2@AP가장 가난한",
+					"begin": 0,
+					"end": 3,
+					"key_begin": 3,
+					"head_phrase": 4,
+					"sub_phrase": [
+						0,
+						1,
+						2
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 4,
+					"label": "NP_AJT",
+					"text": "P#3@MODㄴ 도시에",
+					"begin": 0,
+					"end": 4,
+					"key_begin": 4,
+					"head_phrase": 5,
+					"sub_phrase": [
+						3
+					],
+					"weight": 0,
+					"element": []
+				},
+				{
+					"id": 5,
+					"label": "VP",
+					"text": "P#4@AJT에 선정되기도 했다.",
+					"begin": 0,
+					"end": 6,
+					"key_begin": 5,
+					"head_phrase": -1,
+					"sub_phrase": [
+						4
+					],
+					"weight": 0,
+					"element": []
+				}
+			],
+			"SRL": [
+				{
+					"verb": "가난",
+					"sense": 1,
+					"word_id": 3,
+					"weight": 0.420226,
+					"argument": [
+						{
+							"type": "ARGM-LOC",
+							"word_id": 1,
+							"text": "미국에서",
+							"weight": 0.370124
+						},
+						{
+							"type": "ARGM-EXT",
+							"word_id": 2,
+							"text": "가장",
+							"weight": 0.665598
+						},
+						{
+							"type": "ARG1",
+							"word_id": 4,
+							"text": "도시에",
+							"weight": 0.224954
+						}
+					]
+				},
+				{
+					"verb": "선정",
+					"sense": 1,
+					"word_id": 5,
+					"weight": 0.541462,
+					"argument": [
+						{
+							"type": "ARGM-TMP",
+							"word_id": 0,
+							"text": "2005년",
+							"weight": 0.487633
+						},
+						{
+							"type": "ARG2",
+							"word_id": 4,
+							"text": "도시에",
+							"weight": 0.469438
+						},
+						{
+							"type": "AUX",
+							"word_id": 6,
+							"text": "했다.",
+							"weight": 0.667315
+						}
+					]
+				}
+			],
+			"ZA": [
+				{
+					"id": 0,
+					"type": "s",
+					"head_wid": 5,
+					"ant_sid": 0,
+					"ant_wid": 0,
+					"ant_is_title": 0,
+					"weight": 1.01
+				}
+			]
+		}
+	],
+	"entity": [
+		{
+			"id": 0,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 0,
+					"text": "프레즈노",
+					"sent_id": 0,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "프레즈노",
+					"ne_id": 0
+				},
+				{
+					"id": 1,
+					"text": "프레즈노",
+					"sent_id": 1,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "프레즈노",
+					"ne_id": 0
+				},
+				{
+					"id": 2,
+					"text": "미국 캘리포니아 주 중남부에 있는 도시이다",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "도시이다",
+					"ne_id": -1
+				},
+				{
+					"id": 9,
+					"text": "캘리포니아 주에서 5번째로 많은 인구가 거주하는 도시505479명이며",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "도시505479명이며",
+					"ne_id": -1
+				},
+				{
+					"id": 18,
+					"text": "프레즈노라",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "프레즈노라",
+					"ne_id": -1
+				},
+				{
+					"id": 31,
+					"text": "이곳",
+					"sent_id": 6,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "이곳",
+					"ne_id": -1
+				},
+				{
+					"id": 32,
+					"text": "프레즈노 자치주 경제의 중심지이다",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 4,
+					"start_eid_short": 1,
+					"end_eid_short": 4,
+					"text_short": "프레즈노 자치주 경제의 중심지이다",
+					"ne_id": -1
+				},
+				{
+					"id": 37,
+					"text": "프레즈노",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "프레즈노",
+					"ne_id": 0
+				},
+				{
+					"id": 40,
+					"text": "2005년 미국에서 가장 가난한 도시",
+					"sent_id": 9,
+					"start_eid": 0,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "도시",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 4,
+					"text": "미국 캘리포니아 주",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 3,
+					"start_eid_short": 1,
+					"end_eid_short": 3,
+					"text_short": "미국 캘리포니아 주",
+					"ne_id": 2
+				},
+				{
+					"id": 8,
+					"text": "캘리포니아",
+					"sent_id": 2,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "캘리포니아",
+					"ne_id": 0
+				},
+				{
+					"id": 10,
+					"text": "캘리포니아 주",
+					"sent_id": 3,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "캘리포니아 주",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 2,
+			"type": "LCP_COUNTRY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 5,
+					"text": "미국",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "미국",
+					"ne_id": 1
+				},
+				{
+					"id": 16,
+					"text": "미국",
+					"sent_id": 3,
+					"start_eid": 7,
+					"end_eid": 7,
+					"start_eid_short": 7,
+					"end_eid_short": 7,
+					"text_short": "미국",
+					"ne_id": 3
+				},
+				{
+					"id": 42,
+					"text": "미국",
+					"sent_id": 9,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "미국",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "TM_DIRECTION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 3,
+					"text": "미국 캘리포니아 주 중남부",
+					"sent_id": 1,
+					"start_eid": 1,
+					"end_eid": 4,
+					"start_eid_short": 1,
+					"end_eid_short": 4,
+					"text_short": "미국 캘리포니아 주 중남부",
+					"ne_id": 3
+				},
+				{
+					"id": 6,
+					"text": "비옥한 캘리포니아 중앙분지 중남부",
+					"sent_id": 2,
+					"start_eid": 0,
+					"end_eid": 3,
+					"start_eid_short": 1,
+					"end_eid_short": 3,
+					"text_short": "캘리포니아 중앙분지 중남부",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "TM_DIRECTION",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 7,
+					"text": "캘리포니아 중앙분지",
+					"sent_id": 2,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "캘리포니아 중앙분지",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "QT_ORDER",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 11,
+					"text": "5번째",
+					"sent_id": 3,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "5번째",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 12,
+					"text": "많은 인구",
+					"sent_id": 3,
+					"start_eid": 3,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "인구",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 7,
+			"type": "QT_MAN_COUNT",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 13,
+					"text": "도시505479명이며",
+					"sent_id": 3,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "도시505479명이며",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 8,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 15,
+					"text": "미국 전체",
+					"sent_id": 3,
+					"start_eid": 7,
+					"end_eid": 8,
+					"start_eid_short": 7,
+					"end_eid_short": 8,
+					"text_short": "미국 전체",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"type": "QT_ORDER",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 14,
+					"text": "미국 전체에서는 35번째이다",
+					"sent_id": 3,
+					"start_eid": 7,
+					"end_eid": 9,
+					"start_eid_short": 9,
+					"end_eid_short": 9,
+					"text_short": "35번째이다",
+					"ne_id": 4
+				}
+			]
+		},
+		{
+			"id": 10,
+			"type": "CV_LANGUAGE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 19,
+					"text": "스페인어",
+					"sent_id": 4,
+					"start_eid": 2,
+					"end_eid": 2,
+					"start_eid_short": 2,
+					"end_eid_short": 2,
+					"text_short": "스페인어",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 17,
+					"text": "프레즈노라는 이름",
+					"sent_id": 4,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "이름",
+					"ne_id": -1
+				},
+				{
+					"id": 20,
+					"text": "물푸레나무",
+					"sent_id": 4,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "물푸레나무",
+					"ne_id": 2
+				}
+			]
+		},
+		{
+			"id": 12,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 21,
+					"text": "원래",
+					"sent_id": 5,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "원래",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 22,
+					"text": "요쿠트 족",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "요쿠트 족",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 14,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 23,
+					"text": "요쿠트",
+					"sent_id": 5,
+					"start_eid": 1,
+					"end_eid": 1,
+					"start_eid_short": 1,
+					"end_eid_short": 1,
+					"text_short": "요쿠트",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"type": "AF_ROAD",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 27,
+					"text": "퍼시픽",
+					"sent_id": 5,
+					"start_eid": 6,
+					"end_eid": 6,
+					"start_eid_short": 6,
+					"end_eid_short": 6,
+					"text_short": "퍼시픽",
+					"ne_id": 1
+				}
+			]
+		},
+		{
+			"id": 16,
+			"type": "LCP_CITY",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 26,
+					"text": "센트럴",
+					"sent_id": 5,
+					"start_eid": 5,
+					"end_eid": 5,
+					"start_eid_short": 5,
+					"end_eid_short": 5,
+					"text_short": "센트럴",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 17,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 25,
+					"text": "센트럴 퍼시픽 철도",
+					"sent_id": 5,
+					"start_eid": 5,
+					"end_eid": 7,
+					"start_eid_short": 5,
+					"end_eid_short": 7,
+					"text_short": "센트럴 퍼시픽 철도",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 18,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 24,
+					"text": "센트럴 퍼시픽 철도의 부설",
+					"sent_id": 5,
+					"start_eid": 5,
+					"end_eid": 8,
+					"start_eid_short": 5,
+					"end_eid_short": 8,
+					"text_short": "센트럴 퍼시픽 철도의 부설",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 19,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 28,
+					"text": "팝핑이라고 잘 알려진 춤",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "춤",
+					"ne_id": -1
+				},
+				{
+					"id": 29,
+					"text": "팝핑이라고",
+					"sent_id": 6,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "팝핑이라고",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 20,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 30,
+					"text": "1970년대",
+					"sent_id": 6,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "1970년대",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 21,
+			"type": "undefined",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 34,
+					"text": "경제",
+					"sent_id": 7,
+					"start_eid": 3,
+					"end_eid": 3,
+					"start_eid_short": 3,
+					"end_eid_short": 3,
+					"text_short": "경제",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 22,
+			"type": "LCP_PROVINCE",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 33,
+					"text": "프레즈노 자치주",
+					"sent_id": 7,
+					"start_eid": 1,
+					"end_eid": 2,
+					"start_eid_short": 1,
+					"end_eid_short": 2,
+					"text_short": "프레즈노 자치주",
+					"ne_id": 0
+				}
+			]
+		},
+		{
+			"id": 23,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 36,
+					"text": "프레즈노 주변",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 1,
+					"start_eid_short": 0,
+					"end_eid_short": 1,
+					"text_short": "프레즈노 주변",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 24,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 35,
+					"text": "프레즈노 주변 도시들",
+					"sent_id": 8,
+					"start_eid": 0,
+					"end_eid": 2,
+					"start_eid_short": 0,
+					"end_eid_short": 2,
+					"text_short": "프레즈노 주변 도시들",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 25,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 38,
+					"text": "대규모 농업",
+					"sent_id": 8,
+					"start_eid": 4,
+					"end_eid": 5,
+					"start_eid_short": 4,
+					"end_eid_short": 5,
+					"text_short": "대규모 농업",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 26,
+			"type": "",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 39,
+					"text": "대규모",
+					"sent_id": 8,
+					"start_eid": 4,
+					"end_eid": 4,
+					"start_eid_short": 4,
+					"end_eid_short": 4,
+					"text_short": "대규모",
+					"ne_id": -1
+				}
+			]
+		},
+		{
+			"id": 27,
+			"type": "DT_YEAR",
+			"number": "undefined",
+			"gender": "undefined",
+			"person": "undefined",
+			"animacy": "undefined",
+			"mention": [
+				{
+					"id": 41,
+					"text": "2005년",
+					"sent_id": 9,
+					"start_eid": 0,
+					"end_eid": 0,
+					"start_eid_short": 0,
+					"end_eid_short": 0,
+					"text_short": "2005년",
+					"ne_id": 0
+				}
+			]
+		}
+	]
+}
