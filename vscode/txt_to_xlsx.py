@@ -37,7 +37,7 @@ class Converter:
             else :
                 break # 올바르게 입력 받았을 경우 반복문을 빠져나간다.
         
-        print('{} 파일을 읽어오겠습니다.\n')
+        print('{} 파일을 읽어오겠습니다.\n'.format(file_path)) # 입력받은 파일 읽겠다는 안내문 출력
         return lines
 
     """
@@ -78,18 +78,19 @@ class Converter:
 
         return file_directory
     """
+
     # 각 요소의 줄바꿈을 제거해주는 함수
     def line_check(self, lines) :
-        sentence_tokenised_text = []
-        for i in range(len(lines)):
+        sentence_tokenised_text = [] # 수정된 요소를 저장할 변수
+        for i in range(len(lines)): # txt 에서 읽어온 각각의 요소 검사
             try:
-                if ( lines[i] == '\n') :
+                if ( lines[i] == '\n') : # 요소가 줄바꿈으로 이루어져 있다면 리스트에 넣지 않기
                     continue
                 else :
-                    sentence_tokenised_text.append(lines[i].strip())
-            except IndexError:
+                    sentence_tokenised_text.append(lines[i].strip()) # 요소의 마지막 줄바꿈 문자를 제거해준 후 리스트에 추가
+            except IndexError: # 에러처리 중
                 break
-        return sentence_tokenised_text
+        return sentence_tokenised_text # 수정한 요소 리스트 반환
 
     # 특수문자를 제거하기 쉽게 각 요소 변환하는 함수 - 2
     def clean_punc(self, text, punct, mapping):
@@ -140,15 +141,18 @@ class Converter:
     # 띄어쓰기와 맞춤법 확인하는 함수
     def spacing_spell_checker(self, basic_preprocessed_corpus) :
         spacing = Spacing()
-        sents = []
-        num = []
+        sents = [] # 원하는 문장들을 저장할 리스트 선언
+        num = [] # 문장들의 순서를 저장할 변수 선언
         count = 1
         for i in range(len(basic_preprocessed_corpus)) :
             try:
                 sent = basic_preprocessed_corpus[i]
-                if(i==1) :
+                if(i==1) : 
                     xls_name = sent
-                if(i%2==1 and i!=1) :
+                # if(i%2==1 and i!=1) :
+                if ('번째 문장' in sent) :
+                    continue 
+                else :
                     spelled_sent = spell_checker.check(sent)
                     checked_sent = spelled_sent.checked
                     num.append(count)
@@ -162,15 +166,18 @@ class Converter:
     # 시스템의 진행여부를 묻는 함수 생성
     def continue_system(self):
         question = False
-        ask = input('계속 진행할까요?: [Y/N] ')
-        if(ask in ['Y', 'y']):
-            print('계속 진행합니다.')
-            question = True
-        elif(ask in ['N', 'n']) :
-            print('시스템을 종료합니다.')
-        else :
-            print('Y 또는 N으로만 응답해주세요.')
-
+        while True :
+            ask = input('계속 진행할까요?: [Y/N] ')
+            if(ask in ['Y', 'y']):
+                print('계속 진행합니다.\n')
+                question = True
+                break
+            elif(ask in ['N', 'n']) :
+                print('시스템을 종료합니다.\n')
+                break
+            else :
+                print('Y 또는 N으로만 응답해주세요.\n')
+                continue
         return question
 
     def write_xls(self, xls_name, num, sents) :
