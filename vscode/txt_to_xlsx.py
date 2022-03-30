@@ -5,8 +5,9 @@ import pandas as pd
 import kss
 import re
 import os
+import openpyxl
 
-# TXT 파일을 XLS 파일로 변환해주는 클래스 
+# TXT 파일을 XLSX 파일로 변환해주는 클래스 
 class Converter:
     """
     * 클래스 내부에 정의된 함수인 메서드의 첫번째 인자는 반드시 self여야 한다.
@@ -33,6 +34,9 @@ class Converter:
                     lines = data.readlines() # 모든 줄을 읽고 각 요소를 리스트형태로 돌려준다.
             except FileNotFoundError :
                 print('입력 경로에 txt 파일이 존재하지 않습니다.\n')
+                continue
+            except OSError :
+                print('입출력 오류가 발생했습니다. 다시입력해주세요\n')
                 continue
             else :
                 break # 올바르게 입력 받았을 경우 반복문을 빠져나간다.
@@ -184,23 +188,23 @@ class Converter:
         path = 'C:\\Data_design_for_BERT_QnA_learning\\check\\xlsx\\'
         if not os.path.exists(path) :
             os.makedirs(path)
-        xls_path = path+xls_name+'.xls'
+        xls_path = path+xls_name+'.xlsx'
         sentences = pd.DataFrame()
         sentences['id'] = num
         sentences['sentence'] = sents
         
         # 엑셀 형태로 저장하기
         sentences.to_excel(xls_path , index=False)
-        print('xls 파일 저장 경로 : %s' %xls_path)
+        print('xlsx 파일 저장 경로 : %s' %xls_path)
 
         print("요청하신 데이터 수집 작업이 정상적으로 완료되었습니다.")
 
 
 # 프로그램 실행
 print('-------------------------------------------')
-print('txt 내용을 전처리 후 xls로 저장하는 프로그램')
-print('xls 파일 저장 경로 : C:\\Data_design_for_BERT_QnA_learning\\check\\xlsx\\')
-print('xls 파일 이름은 txt의 주제로 자동으로 정해집니다.')
+print('txt 내용을 전처리 후 xlsx로 저장하는 프로그램')
+print('xlsx 파일 저장 경로 : C:\\Data_design_for_BERT_QnA_learning\\check\\xlsx\\')
+print('xlsx 파일 이름은 txt의 주제로 자동으로 정해집니다.')
 print('-------------------------------------------')
 while True :
     converter = Converter() # 인스턴스 생성
