@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body>
+    <h1>{{ id }}</h1>
+
+    {% for text in contexts %}
+        <div class="contexts"><a>{{ text }}</a></div>
+    {% endfor %}
+</body>
+</html>
