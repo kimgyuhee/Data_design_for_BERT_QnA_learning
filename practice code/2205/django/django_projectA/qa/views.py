@@ -3,6 +3,10 @@ from django.db import connection
 
 
 def index(request):
+    return render(request, 'qa/index.html')
+
+
+def main(request):
     i = []
     context = []
     try:
@@ -22,7 +26,7 @@ def index(request):
     # index 가 호출될 때 전달할 contexts
     data = {
         'id': i[0],
-        'contexts': context[:],
+        'contexts': context[0],
     }
 
-    return render(request, 'qa/index.html', data)
+    return render(request, 'qa/success.html', data)
