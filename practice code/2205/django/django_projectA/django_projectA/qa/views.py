@@ -29,20 +29,4 @@ def main(request):
         'contexts': context[0],
     }
 
-    return render(request, 'qa/main.html', data)
-
-
-def quiz(request):
-    data = {
-        'title': "여기는 퀴즈를 푸는 곳 입니다.",
-        'id': '신난다.',
-    }
-    return render(request, 'qa/quiz.html', data)
-
-
-def country(request):
-    return render(request, 'qa/country.html')
-
-
-def profile(request):
-    return render(request, 'qa/profile.html')
+    return render(request, 'qa/success.html', data)
