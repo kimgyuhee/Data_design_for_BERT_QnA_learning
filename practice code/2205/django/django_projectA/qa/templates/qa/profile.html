@@ -1,0 +1,190 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Title</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <h1>{{ id }}</h1>-->
+<!--    <h2>{{ contexts }}</h2>-->
+
+<!--    <textarea>result의 정보</textarea>-->
+<!--    <br><br>-->
+<!--    <br><br>-->
+<!--    -->
+<!--    <h3>{{ result }}</h3>-->
+<!--</body>-->
+<!--</html>-->
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href='/static/images/tbai-ci.ico'>
+    <title>HANBERT MACHINE READING & CONPREHENSION DEMO</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.8/socket.io.min.js"></script>
+    <script>
+      var host_url = 'http://localhost:9999/';
+    </script>
+    <style>
+      .col-md-h {
+        flex: 0 0 12.666667%; max-width: 12.666667%;
+      }
+      .col-md-d {
+        flex: 0 0 87.333333%; max-width: 87.333333%;
+      }
+      th {
+        width: 12%;
+        color: #fff;
+        background-color: #69748a;
+        border: 1px solid #36445e;
+        height: 40px;
+      }
+      td {
+        background-color: #fff;
+        border: 1px solid #ddd;
+      }
+      button.disabled:hover {
+        cursor: not-allowed;
+      }
+    </style>
+  </head>
+  <body>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var sock = io.connect(host_url);
+        sock.on('message', function(msg){
+          console.log(msg);
+          $('#sendbutton').text('답변 찾기');
+          $('#sendbutton').attr("disabled", false);
+          $('#mrc_answer').text(msg.answer);
+          $('#mrc_score').text(msg.score);
+          $('#result-table').show();
+          window.scrollTo(0,document.body.scrollHeight);
+        });
+
+        $('#sendbutton').on('click', function(){
+          var context_text = $('#myMessage_context').val().replace(/"/g,"'").substr(0, 5000)
+          var question_text = $('#myMessage_question').val()
+          sock.send(JSON.stringify({"type":"mrc","context":[escape(context_text)],"question":[escape($('#myMessage_question').val())]}));
+          $('#sendbutton').text('찾는 중...');
+          $('#sendbutton').attr("disabled", true);
+        });
+        $('#sendbutton2').on('click', function(){
+          var context_text = $('#myMessage_context').val().replace(/"/g,"'").substr(0, 5000)
+          var question_text = $('#myMessage_question2').val()
+          sock.send(JSON.stringify({"type":"mrc","context":[escape(context_text)],"question":[escape($('#myMessage_question2').val())]}));
+          $('#sendbutton').text('찾는 중...');
+          $('#sendbutton').attr("disabled", true);
+        });
+
+      });
+
+    </script>
+    <main role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <br> <br>
+      <div style="padding: 1rem 2rem 1rem;">
+        <div class="container">
+          <h1 class="display-3">
+	    <a href="{% url 'index' %}">HanBERT_MRC DEMO</a>
+	  </h1>
+        </div>
+      </div>
+
+      <div class="container">
+        <br>
+        <div class="row" style="font-size: 24px; font-weight: bold; margin-top: 30px; margin-bottom: 20px;">
+          기계 독해 (MRC)
+        </div>
+
+        <div class="row">
+          <div  class="col-md-h text-center" style="height: 50px; background-color: #36445e; border: #36445e solid 1px; color:#fff; padding-top: 10px;">
+              {{ country }}
+          </div>
+          {% for num in domain_num %}
+            <div class="col-md-h text-center" style="height: 50px; background-color: #36448e; border: #36445e solid 1px; color:#fff; padding-top: 10px;"
+            onclick="btnClick()" >
+              {{ num }}
+            </div>
+          {% endfor %}
+        </div>
+        <div class="row">
+          <div style="width:100%; background-color: #fafafa; border: #ddd solid 1px; padding: 10px;">
+            <textarea id="myMessage_context" rows="10" style="width: 100%;">{% for c in contexts %}{{ c }}{% endfor %}</textarea>
+          </div>
+        </div>
+
+        <div id="result-table" class="row text-center" style="background-color: #fafafa; margin-top: 50px; padding: 10px; display: none">
+          <table style="width: 100%;">
+            <tbody>
+              <tr>
+                <th>정답</th>
+                <td id="mrc_answer"></td>
+              </tr>
+              <tr>
+                <th>신뢰도</th>
+                <td id="mrc_score"></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="row text-center" style="background-color: #fafafa; margin-top: 40px; padding: 10px;">
+          <table style="width: 100%;">
+            <tbody>
+              <tr>
+                <th>질문 선택</th>
+                <td>
+                <select id="myMessage_question2" style="height: 40px; padding-top: 5px;width : 100%;" >
+                  {% for q in questions %}
+                   <option value={{ q }}>{{ q }}</option>
+                  {% endfor %}
+                </select>
+                </td>
+                <td>
+          <button type="button" id="sendbutton2" style="background-color: #4270e0; color: #fff; width: 100%; border: 1px solid #4270e0; height: 40px;"> 답변 찾기 </button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="row" style="margin-top: 40px;">
+          <div  class="col-md-h text-center" style="background-color: #36445e; border: #36445e solid 1px; color:#fff; margin-top: 20px; height: 50px; padding-top: 10px;">
+            질문 입력
+          </div>
+          <div style="width:100%; background-color: #fafafa; border: #ddd solid 1px; padding: 10px;">
+            <textarea id="myMessage_question" rows="2" style="width: 100%;">언제 쓴 기사지?</textarea>
+          </div>
+        </div>
+        <div class="row text-center" style="width: 100%; margin-top: 40px; display: inline-block;">
+          <button type="button" id="sendbutton" style="background-color: #4270e0; color: #fff; width: 120px; border: 1px solid #4270e0; height: 40px;"> 답변 찾기 </button>
+        </div>
+
+        <hr>
+
+      </div> <!-- /container -->
+
+    </main>
+
+    <footer class="container">
+	    <p>&copy;TwoBlock Ai. All rights reserved.</p>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
