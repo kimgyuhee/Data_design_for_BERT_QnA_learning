@@ -1,27 +1,93 @@
-<!DOCTYPE html>
-{% load static %}
-<html lang="ko">
-    <head>
-        <meta charset="UTF-8">
-        <title>Title</title>
-        <link rel="stylesheet" href="{% static 'quiz.css' %}">
-    </head>
-    <body>
-        <nav>
-            <div class="container">
-                <div class="main-nav-left">
-                    <a href="{% url 'main' %}">Asia Q&amp;A</a>
-                </div>
-                <div class="main-nav-right">
-                    <ul>
-                        <li class="main-nav-right"><a href="{% url 'country' %}">Country</a></li>
-                        <li class="main-nav-right"><a>Quiz</a></li>
-                        <li class="main-nav-right"><a href="{% url 'profile' %}">Profile</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+<!doctype html>
+<html lang="en">
 
+<head>
+    <meta charset="utf-8">
+    <!-- 부트스트랩 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    </body>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+
+    <title>팬명록</title>
+    <!-- 폰트 -->
+    <link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
+    <style>
+        * {
+            font-family: 'Jua', sans-serif;
+        }
+
+        .wrap {
+            margin: auto;
+            width: 900px;
+        }
+
+        .title {
+            background-color: gainsboro;
+            padding: 20px 30px;
+        }
+
+        .form-group {
+            margin: 10px 0;
+        }
+
+        .posting-box {
+            margin: 10px auto 30px auto;
+            width: 500px;
+            border: 3px solid black;
+            border-radius: 5px;
+            padding: 25px;
+        }
+    </style>
+    <!-- display 속성을 이용해서 버튼 클릭시 요소가 보이거나 안보이게-->
+    <script>
+
+    </script>
+</head>
+<body>
+<div class="wrap">
+    <div class="title">
+        <h1 class="display-4">나홀로 링크 메모장!</h1>
+        <p class="lead">중요한 링크를 저장해두고, 나중에 볼 수 있는 공간입니다</p>
+        <hr class="my-4">
+        <!-- -->
+        <button onclick="openclose()" type="button" class="btn btn-primary btn-lg" id="btn">포스팅박스 열기</button>
+    </div>
+    <div class="posting-box" id="post-box">
+        <div class="form-group">
+            <label>아티클 URL</label>
+            <input type="email" class="form-control" aria-describedby="emailHelp"
+                   placeholder="">
+        </div>
+        <div class="form-group">
+            <label>간단 코멘트</label>
+            <input type="password" class="form-control" placeholder="">
+        </div>
+        <button type="submit" class="btn btn-primary">기사 저장</button>
+    </div>
+</div>
+<!-- display 속성을 이용해서 버튼 클릭시 요소가 보이거나 안보이게-->
+<script>
+    function openclose() {
+        let a = $('#post-box');
+        let b = $('#btn')
+
+		# 요소가 화면에 보일 시에 원래 display 값을 가지므로 클릭시 숨김
+        if (a.css('display') === 'block'){
+            a.hide();
+            b.text('포스팅박스 열기')
+
+        # 요소가 화면에 보이지 않을 시에 display 값이 none 이므로 클릭시 화면에 나타나게 하기
+        }else if(a.css('display') === 'none'){
+            a.show()
+            b.text('포스팅박스 닫기')
+        }
+    }
+</script>
+</body>
 </html>
+

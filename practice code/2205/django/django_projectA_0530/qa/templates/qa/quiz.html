@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+        <link rel="stylesheet" href="{% static 'quiz.css' %}">
+    </head>
+    <body>
+        <nav>
+            <div class="container">
+                <div class="main-nav-left">
+                    <a href="{% url 'main' %}">Asia Q&amp;A</a>
+                </div>
+                <div class="main-nav-right">
+                    <ul>
+                        <li class="main-nav-right"><a href="{% url 'country' %}">Country</a></li>
+                        <li class="main-nav-right"><a>Quiz</a></li>
+                        <li class="main-nav-right"><a href="{% url 'profile' %}">Profile</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+    </body>
+</html>

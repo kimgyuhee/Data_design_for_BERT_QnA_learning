@@ -18,3 +18,8 @@ class questions(models.Model):
     question = models.CharField(max_length=100)
     answer = models.CharField(max_length=100)
 
+
+class mrcdata(models.Model):
+    content = models.TextField()
+    question = models.TextField()
+    answer = models.TextField()
