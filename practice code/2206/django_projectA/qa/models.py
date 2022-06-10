@@ -12,7 +12,11 @@ class context(models.Model):
 
 
 class questions(models.Model):
-    question_id = models.IntegerField()
+    ID = models.CharField(max_length=40)
     context_id = models.IntegerField()
     question = models.CharField(max_length=100)
     answer = models.CharField(max_length=100)
+
+    class Meta:
+        managed = False
+        db_table = 'questions'

@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.8/socket.io.min.js"></script>
+
     <style>
         .col-md-h {
             flex: 0 0 12.666667%; max-width: 12.666667%;
@@ -166,41 +167,33 @@
                 </div>
             <!-- /본문 -->
 
-            <!-- 질문 입력 -->
-            <!--질문 선택-->
-<!--            <form method="post">-->
-<!--                {% csrf_token %}-->
-<!--                <div style="display : none">-->
-<!--                    <input type="text" name="text" value="{{ text }}">-->
-<!--                </div>-->
+            <!--질문 예시-->
                 <div class="text-center context_cover mt-4">
                     <table class="w-100">
                         <tbody>
                             <tr>
-                                <th>질문 선택</th>
+                                <th>질문 예시</th>
                                 <td>
-                                    <select name="question" id="myMessage_question2" class="qa_select">
+                                    <select onchange="handleOnChange(this)" id="myMessage_question2" class="qa_select" name="question">
+                                            <option value="">질문을 선택해주세요.</option>
                                         {% for q in questions %}
                                             <option value="{{ q }}"> {{ q }} </option>
                                         {% endfor %}
                                     </select>
-                                </td>
-                                <td>
-                                    <input type="submit" id="sendbutton2" value="답변찾기" class="btn btn-primary w-100">
-    <!--                                <button type="button" id="sendbutton2" class="btn btn-primary w-100"> 답변 찾기 </button>-->
                                 </td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
 
+                <!-- 질문 입력 -->
                 <div class="text-center context_cover mt-4">
                     <table class="w-100">
                         <tbody>
                             <tr>
                                 <th>질문 입력</th>
                                 <td>
-                                    <textarea name="question" id="myMessage_question"  class="form-control w-100" rows="2" placeholder="질문을 입력해주세요. "></textarea>
+                                    <textarea name="question" id="myMessage_question"  class="form-control w-100" rows="2" placeholder="질문을 입력해주세요. ">{{ question }}</textarea>
                                 </td>
                             </tr>
                         </tbody>
@@ -250,7 +243,15 @@
     </footer>
     <!-- /footer-->
 
+<!--   id = myMessage_question2 name=question-->
     <!-- Bootstrap core JS-->
+    <script>
+        function handleOnChange(e) {
+            const text = e.options[e.selectedIndex].text;
+            console.log(e.options);
+            document.getElementById('myMessage_question').innerText = text;
+    }
+    </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
     <!-- Third party plugin JS-->
@@ -262,5 +263,10 @@
     <script src="{% static 'js/scripts.js' %}" ></script>
     <script src="{% static 'bootstrap-3.3.2-dist/js/bootstrap.min.js' %}" ></script>
 
+    <script type="text/javascript">
+      $("#myMessage_question2 option:selected").val();
+      $("select[name=question]").val();
+    }
+    </script>
 </body>
 </html>

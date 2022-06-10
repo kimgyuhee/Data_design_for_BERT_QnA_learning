@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+        <link rel="stylesheet" href="{% static 'css/style.css' %}">
+        <link rel="stylesheet" href="{% static 'css/body.css' %}">
+        <link rel="stylesheet" href="{% static 'css/heading.css' %}">
+        <link rel="stylesheet" href="{% static 'css/style_jh.css' %}">
+        <script src="https://kit.fontawesome.com/3efec71081.js" crossorigin="anonymous"></script>
+    </head>
+    <body id="page-top">
+        <!-- header-->
+        <header class="text-white text-center main_slider">
+            <!-- nav-->
+            <nav class="navbar navbar-expand-lg position-absolute w-100" id="mainNav">
+                <div class="container">
+                    <a class="navbar-brand js-scroll-trigger z-10" href="#page-top">Asia Q&amp;A</a>
+                </div>
+            </nav>
+            <!-- /nav-->
+
+            <!-- main slider-->
+            <div id="main_slider_container">
+                <div class="slider__item showing">
+                    <div class="slider_img slider_img0"></div>
+                </div>
+                <div class="slider__item">
+                    <div class="slider_img slider_img1"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img2"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img3"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img4"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img5"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img6"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img7"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img8"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img9"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img10"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img11"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img12"></div>
+                </div>
+                 <div class="slider__item">
+                     <div class="slider_img slider_img13"></div>
+                </div>
+                <div class="slider__item">
+                    <div class="slider_img slider_img14"></div>
+                </div>
+            </div>
+            <!-- /main slider-->
+
+            <!-- main slider text-->
+            <div class="main_slider_text">
+                <div class="container">
+                    <div class="text_box">
+                        <h1 class="mb-5">Asia Q&amp;A</h1>
+                        <p class="pre-wrap font-weight-blod mb-0">아시아 국가에 대한 QnA 사이트입니다.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- /main slider text-->
+        </header>
+        <!-- /header-->
+
+        <!-- main section -->
+        <section class="mt-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal0">
+                            <div class="area_card_text">대한민국</div>
+                            <img src="{% static 'assets/img/card/Korea.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal1">
+                             <div class="area_card_text">대만</div>
+                            <img src="{% static 'assets/img/card/Taiwan.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal2">
+                            <div class="area_card_text">러시아</div>
+                            <img src="{% static 'assets/img/card/Russia.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal3">
+                            <div class="area_card_text">말레이시아</div>
+                            <img src="{% static 'assets/img/card/Malaysia.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal4">
+                            <div class="area_card_text">베트남</div>
+                            <img src="{% static 'assets/img/card/Vietnam.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal5">
+                            <div class="area_card_text">북한</div>
+                            <img src="{% static 'assets/img/card/DPRK.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal6">
+                            <div class="area_card_text">싱가포르</div>
+                            <img src="{% static 'assets/img/card/Singapore.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal7">
+                            <div class="area_card_text">이란</div>
+                            <img src="{% static 'assets/img/card/Iran.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal8">
+                            <div class="area_card_text">이스라엘</div>
+                            <img src="{% static 'assets/img/card/Israel.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal9">
+                            <div class="area_card_text">인도</div>
+                            <img src="{% static 'assets/img/card/India.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal10">
+                            <div class="area_card_text">인도네시아</div>
+                            <img src="{% static 'assets/img/card/Indonesia.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal11">
+                            <div class="area_card_text">중국</div>
+                            <img src="{% static 'assets/img/card/China.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal12">
+                            <div class="area_card_text">태국</div>
+                            <img src="{% static 'assets/img/card/Thailand.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal13">
+                            <div class="area_card_text">터키</div>
+                            <img src="{% static 'assets/img/card/Turkey.jpg' %}" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="area_card" data-toggle="modal" data-target="#portfolioModal14">
+                            <div class="area_card_text">필리핀</div>
+                            <img src="{% static 'assets/img/card/Philippines.jpg' %}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- /main section -->
+
+        <!-- 국가 Modal-->
+        <div class="portfolio-modal modal fade" id="portfolioModal0" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal0Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">대한민국</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Republic_of_Korea.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="대한민국">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  대한민국 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal1Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">대만</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Taiwan.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="대만">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  대만 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal2Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">러시아</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Russia.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="러시아">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  러시아 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal3Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">말레이시아</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Malaysia.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="말레이시아">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  말레이시아 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal4Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">베트남</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Vietnam.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="베트남">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  베트남 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal5Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">북한</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/DPRK.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="북한">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  북한 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal6Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">싱가포르</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Singapore.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="싱가포르">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  싱가포르 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal7Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">이란</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Iran.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="이란">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  이란 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal8Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">이스라엘</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Israel.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="이스라엘">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  이스라엘 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal9Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">인도</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/India.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="인도">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  인도 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal10Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                               <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">인도네시아</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Indonesia.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="인도네시아">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  인도네시아 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal11Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">중국</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/China.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="중국">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  중국 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal12Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">태국</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Tai.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="태국">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  태국 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal13" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal13Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100">터키</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Turkey.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="터키">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  터키 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal14" tabindex="-1" role="dialog" aria-labelledby="#portfolioModal14Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close text-primary" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <i class="fa-regular fa-circle-xmark"></i>
+                        </span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                              <!-- Portfolio Modal - Title-->
+                                <h2 class="portfolio-modal-title text-center mb-5 text-primary w-100 ">필리핀</h2>
+                                <!-- Portfolio Modal - Image-->
+                                <div class="wordcloud_img mb-5">
+                                    <img class="img-fluid" src="{% static 'assets/img/wordcloud/Philippines.png' %}" alt="Log Cabin"/>
+                                </div>
+                                <form method="GET" action="{% url 'mrc1' %}">
+                                    <div style="display : none">
+                                        <input type="text" name="country" value="필리핀">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <i class="fa-solid fa-play mr-1"></i>  필리핀 질의응답 시작
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        </div>
+        <!-- /국가 Modal-->
+
+        <!-- footer-->
+        <footer class="footer text-center footer_bottom copyright py-4 text-center text-white">
+            <div class="container">
+                 <p class="pre-wrap lead mb-0">Made by 개발의 민족</p>
+                <small class="pre-wrap">Copyright © All rights reserved.</small>
+            </div>
+        </footer>
+        <!-- /footer-->
+
+        <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
+<!--        <div class="scroll-to-top d-lg-none position-fixed">-->
+<!--            <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">-->
+<!--                <i class="fa-solid fa-angles-up"></i>-->
+<!--            </a>-->
+<!--        </div>-->
+
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Contact form JS-->
+<!--        <script src="{% static 'assets/mail/jqBootstrapValidation.js' %}"></script>-->
+<!--        <script src="{% static 'assets/mail/contact_me.js' %}"></script>-->
+        <!-- Core theme JS-->
+        <script src="{% static 'js/scripts.js' %}" ></script>
+        <!--  img slider      -->
+        <script>
+            const SHOWING_CLASS = "showing";
+            const firstSlide = document.querySelector(".slider__item:first-child");
+            function slide(){
+                  const currentSlide = document.querySelector(`.${SHOWING_CLASS}`);
+                  if (currentSlide) {
+                    currentSlide.classList.remove(SHOWING_CLASS);
+                    const nextSlide = currentSlide.nextElementSibling;
+
+                    if (nextSlide) {
+                      nextSlide.classList.add(SHOWING_CLASS);
+                    } else {
+                      firstSlide.classList.add(SHOWING_CLASS);
+                    }
+                  } else {
+                    firstSlide.classList.add(SHOWING_CLASS);
+                  }
+            }
+            slide();
+            setInterval(slide, 4000);
+        </script>
+    </body>
+</html>
