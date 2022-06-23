@@ -1,0 +1,39 @@
+Django 실행 - Anaconda Prompt(관리자모드로 실행)
+
+# 가상 환경 리스트 확인
+conda env list
+
+# 가상 환경 만들기(python 3.9버전 사용 - mysql과 연동하기 위해서 사용)
+conda create -n {사용할 환경 이름} python=3.9
+
+# 가상 환경 실행
+conda activate {만든 환경 이름} 
+
+**(base)에서 (만든 환경 이름)으로 변경한거 확인할 것
+
+# 가상 환경에 필요한 모듈 설치
+- django 설치
+pip install django
+
+- mysqlclient 설치
+pip install mysqlclient
+
+- bootstrap4 설치
+pip install bootstrap4
+
+- requests 설치
+pip install requests
+
+# 설치한 모듈 확인
+pip list
+
+# 프로젝트 디렉토리로 이동
+cd {프로젝트 manage.py파일이 있는 디렉토리 경로}
+
+# 프로그램 실행
+python manage.py runserver
+
+# 국가 질의응답 사이트 주소
+http://127.0.0.1:8000/qa
+
+ 
